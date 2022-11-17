@@ -36,4 +36,5 @@ const downloadCollection = async () => {
     });
 };
 
+downloadCollection();
 export { downloadCollection };
