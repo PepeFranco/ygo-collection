@@ -1,7 +1,8 @@
-const { downloadCollection } = require("./downloadCollection");
+import { getCollection } from "./getCollection";
 
 const main = async function () {
-  const collection = await downloadCollection();
+  const collection = getCollection();
+  console.log(collection);
 };
 
 main();
