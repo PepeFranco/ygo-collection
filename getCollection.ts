@@ -31,7 +31,7 @@ interface FileCard {
 
 type CollectionCard = FileCard & { ID: Number };
 
-const getCollection = () =>
+const getCollection: () => CollectionCard[] = () =>
   JSON.parse(fs.readFileSync("./data/collection.json")).map(
     (fileCard: FileCard) => ({ ...fileCard, ID: Number(fileCard.ID) })
   );
