@@ -1,0 +1,30 @@
+{
+   "headers": [
+      "Name",
+      "Code",
+      "Set",
+      "Rarity",
+      "Edition",
+      "In Box",
+      "In Sleeve",
+      "In Deck",
+      "Out of place",
+      "ID",
+      "Type",
+      "ATK",
+      "DEF",
+      "Level",
+      "Card Type",
+      "Attribute",
+      "Archetype",
+      "Scale",
+      "Link Scale",
+      "Description",
+      "Description Length",
+      "Earliest Set",
+      "Earliest Date",
+      "Is Speed Duel",
+      "Is Speed Duel Legal",
+      "Image"
+   ]
+}
