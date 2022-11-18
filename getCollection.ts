@@ -29,7 +29,7 @@ interface FileCard {
   Image: String;
 }
 
-type CollectionCard = FileCard & { ID: Number };
+export type CollectionCard = FileCard & { ID: Number };
 
 const getCollection: () => CollectionCard[] = () =>
   JSON.parse(fs.readFileSync("./data/collection.json")).map(

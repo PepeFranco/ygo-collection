@@ -1,11 +1,13 @@
 import { getCollection } from "./getCollection";
 import { getYdkDeck } from "./getYdkDeck";
+import { findYdkDeckInCollection } from "./findYdkDeckInCollection";
 
 const main = async function () {
-  //   const collection = getCollection();
-  //   console.log(collction);
+  const collection = getCollection();
   const frogDeck = getYdkDeck("edison-frogs");
-  console.log(frogDeck);
+  const { cardsInDeckInCollection, cardsInDeckNotInCollection } =
+    findYdkDeckInCollection(collection, frogDeck);
+  console.log({ cardsInDeckInCollection, cardsInDeckNotInCollection });
 };
 
 main();
