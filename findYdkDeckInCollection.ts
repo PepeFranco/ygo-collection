@@ -20,19 +20,21 @@ const findYdkDeckInCollection = (
     side: [],
   };
 
-  ydkDeck.main.map((mainCardId) => {
-    const indexInCollection = cardIdsInCollection.findIndex(
-      (collectionCardId) => collectionCardId === mainCardId
-    );
+  ["main", "extra", "side"].map((deckSection) => {
+    ydkDeck[deckSection].map((cardId) => {
+      const indexInCollection = cardIdsInCollection.findIndex(
+        (collectionCardId) => collectionCardId === cardId
+      );
 
-    const cardInCollection = indexInCollection >= 0;
-    if (cardInCollection) {
-      cardsInDeckInCollection.main.push(mainCardId);
-      cardIdsInCollection.splice(indexInCollection, 1);
-      return;
-    }
+      const cardInCollection = indexInCollection >= 0;
+      if (cardInCollection) {
+        cardsInDeckInCollection[deckSection].push(cardId);
+        cardIdsInCollection.splice(indexInCollection, 1);
+        return;
+      }
 
-    cardsInDeckNotInCollection.main.push(mainCardId);
+      cardsInDeckNotInCollection[deckSection].push(cardId);
+    });
   });
 
   return { cardsInDeckInCollection, cardsInDeckNotInCollection };
