@@ -8,6 +8,7 @@ const main = async function () {
   const collection = getCollection();
   const frogDeck = getYdkDeck("edison-frogs");
   const decksInCollection = findYdkDeckInCollection(collection, frogDeck);
+
   const cardsInDeckInCollection = await fillDeckWithNames(
     decksInCollection.cardsInDeckInCollection
   );
@@ -15,7 +16,12 @@ const main = async function () {
     decksInCollection.cardsInDeckNotInCollection
   );
 
-  console.log({ cardsInDeckInCollection, cardsInDeckNotInCollection });
+  const decksWithNumbers = getNumbersAboutDeckInCollection(
+    cardsInDeckInCollection,
+    cardsInDeckNotInCollection
+  );
+
+  console.log(decksWithNumbers);
 };
 
 main();

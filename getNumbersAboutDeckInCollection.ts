@@ -1,6 +1,6 @@
-import { YdkDeck } from "./getYdkDeck";
+import { YdkDeckWithNames } from "./fillDeckWithNames";
 
-type YdkDeckWithNumbers = YdkDeck & {
+type YdkDeckWithNumbers = YdkDeckWithNames & {
   cardsInMain: Number;
   cardsInExtra: Number;
   cardsInSide: Number;
@@ -10,16 +10,16 @@ type YdkDeckWithNumbers = YdkDeck & {
 };
 
 const getSectionPercentage = (
-  deckToCalculate: YdkDeck,
-  otherDeck: YdkDeck,
+  deckToCalculate: YdkDeckWithNames,
+  otherDeck: YdkDeckWithNames,
   section: "main" | "extra" | "side"
 ) =>
   (deckToCalculate[section].length * 100) /
   (deckToCalculate[section].length + otherDeck[section].length);
 
 const getNumbersForDeck = (
-  deckToCalculate: YdkDeck,
-  otherDeck: YdkDeck
+  deckToCalculate: YdkDeckWithNames,
+  otherDeck: YdkDeckWithNames
 ): YdkDeckWithNumbers => ({
   ...deckToCalculate,
   cardsInMain: deckToCalculate.main.length,
@@ -42,13 +42,10 @@ const getNumbersForDeck = (
   ),
 });
 
-const getNumbersAboutDeckInCollection = ({
-  cardsInDeckInCollection,
-  cardsInDeckNotInCollection,
-}: {
-  cardsInDeckInCollection: YdkDeck;
-  cardsInDeckNotInCollection: YdkDeck;
-}): {
+const getNumbersAboutDeckInCollection = (
+  cardsInDeckInCollection: YdkDeckWithNames,
+  cardsInDeckNotInCollection: YdkDeckWithNames
+): {
   cardsInDeckInCollection: YdkDeckWithNumbers;
   cardsInDeckNotInCollection: YdkDeckWithNumbers;
 } => {

@@ -3,7 +3,7 @@ import { YdkDeck } from "./getYdkDeck";
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
-interface YdkDeckWithNames {
+export interface YdkDeckWithNames {
   main: string[];
   extra: string[];
   side: string[];
