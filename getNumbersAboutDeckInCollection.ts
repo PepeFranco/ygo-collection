@@ -42,12 +42,18 @@ const getNumbersForDeck = (
   ),
 });
 
-const getNumbersAboutDeckInCollection = (
-  cardsInDeckInCollection: YdkDeckWithNames,
-  cardsInDeckNotInCollection: YdkDeckWithNames
-): {
+const getNumbersAboutDeckInCollection = ({
+  cardsInDeckInCollection,
+  cardsInDeckNotInCollection,
+  ydkDeck,
+}: {
+  cardsInDeckInCollection: YdkDeckWithNames;
+  cardsInDeckNotInCollection: YdkDeckWithNames;
+  ydkDeck: YdkDeckWithNames;
+}): {
   cardsInDeckInCollection: YdkDeckWithNumbers;
   cardsInDeckNotInCollection: YdkDeckWithNumbers;
+  ydkDeck: YdkDeckWithNames;
 } => {
   return {
     cardsInDeckInCollection: getNumbersForDeck(
@@ -58,6 +64,7 @@ const getNumbersAboutDeckInCollection = (
       cardsInDeckNotInCollection,
       cardsInDeckInCollection
     ),
+    ydkDeck,
   };
 };
 

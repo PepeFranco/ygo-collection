@@ -1,6 +1,7 @@
 const fs = require("fs");
 
 export interface YdkDeck {
+  deckName: string;
   main: Number[];
   extra: Number[];
   side: Number[];
@@ -17,7 +18,7 @@ const getSideStartIndex = (lines: string[]) =>
 
 const getYdkDeck = (deckName: string): YdkDeck => {
   const ydkString: string = fs
-    .readFileSync(`./data/ydkFiles/${deckName}.ydk`)
+    .readFileSync(`./data/ydkFiles/${deckName}`)
     .toString();
 
   const lines = ydkString.split("\n");
@@ -37,6 +38,7 @@ const getYdkDeck = (deckName: string): YdkDeck => {
     .filter((cardId) => cardId > 0);
 
   const ydkDeck = {
+    deckName,
     main,
     extra,
     side,
