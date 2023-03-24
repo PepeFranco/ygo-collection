@@ -7,12 +7,9 @@
   "dependencies": {
     "axios": "^0.21.1",
     "csvtojson": "^2.0.10",
+    "google-spreadsheet": "^3.1.15",
     "lodash": "^4.17.21",
     "prettier": "^2.3.1",
     "sleep": "^6.3.0"
-  },
-  "devDependencies": {
-    "@babel/plugin-transform-modules-commonjs": "^7.10.4",
-    "google-spreadsheet": "^3.1.15",
   }
 }

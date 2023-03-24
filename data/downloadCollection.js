@@ -1,7 +1,7 @@
 const axios = require("axios");
 const fs = require("fs");
 const csv = require("csvtojson");
-const collectionSecret = require("../../secret/collectionread.json");
+const collectionSecret = require("../secret/collectionread.json");
 
 const mainFunction = async () => {
   const result = await axios.get(collectionSecret.url).catch(() => {});
@@ -13,7 +13,7 @@ const mainFunction = async () => {
         .split(",")
         .map((h) => h.replace(/"/g, ""));
       fs.writeFile(
-        "./collectionScripts/data/headers.json",
+        "./data/headers.json",
         JSON.stringify({ headers }, null, 3),
         (err) => {
           if (err) {
@@ -24,7 +24,7 @@ const mainFunction = async () => {
       );
       console.log(collection);
       fs.writeFile(
-        "./collectionScripts/data/collection.json",
+        "./data/collection.json",
         JSON.stringify(collection, null, 3),
         (err) => {
           if (err) {
@@ -34,19 +34,5 @@ const mainFunction = async () => {
         }
       );
     });
-
-  // const cardSets = await axios
-  //   .get("https://db.ygoprodeck.com/api/v7/cardsets.php")
-  //   .catch(() => {});
-  // fs.writeFile(
-  //   "./collectionScripts/data/sets.json",
-  //   JSON.stringify(cardSets, null, 3),
-  //   (err) => {
-  //     if (err) {
-  //       console.error(err);
-  //       return;
-  //     }
-  //   }
-  // );
 };
 mainFunction();
