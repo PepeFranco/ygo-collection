@@ -1,0 +1,382 @@
+{
+   "deck1": {
+      "name": "[E] Glads Mattern.json",
+      "cardsFound": [
+         {
+            "card": "Elemental HERO Stratos",
+            "code": "BLHR-EN061"
+         },
+         {
+            "card": "Gladiator Beast Retiari",
+            "code": "TU03-SP006"
+         },
+         {
+            "card": "Morphing Jar",
+            "code": "BP01-EN173"
+         },
+         {
+            "card": "Test Tiger",
+            "code": "RYMP-EN098"
+         },
+         {
+            "card": "Test Tiger",
+            "code": "RYMP-EN098"
+         },
+         {
+            "card": "Book of Moon",
+            "code": "BP01-EN072"
+         },
+         {
+            "card": "Book of Moon",
+            "code": "SBCB-EN013"
+         },
+         {
+            "card": "Book of Moon",
+            "code": "SGX1-ENI15"
+         },
+         {
+            "card": "Cold Wave",
+            "code": "SDZW-EN019"
+         },
+         {
+            "card": "Enemy Controller",
+            "code": "DPBC-EN019"
+         },
+         {
+            "card": "Enemy Controller",
+            "code": "DPBC-EN019"
+         },
+         {
+            "card": "Mystical Space Typhoon",
+            "code": "HSRD-EN053"
+         },
+         {
+            "card": "Reinforcement of the Army",
+            "code": "LEHD-ENC18"
+         },
+         {
+            "card": "Bottomless Trap Hole",
+            "code": "LCYW-SP181"
+         },
+         {
+            "card": "Bottomless Trap Hole",
+            "code": "DB2-EN201"
+         },
+         {
+            "card": "Call of the Haunted",
+            "code": "GLD5-EN046"
+         },
+         {
+            "card": "Compulsory Evacuation Device",
+            "code": "BP01-EN099"
+         },
+         {
+            "card": "Compulsory Evacuation Device",
+            "code": "BP01-EN099"
+         },
+         {
+            "card": "Dimensional Prison",
+            "code": "NKRT-EN034"
+         },
+         {
+            "card": "Dimensional Prison",
+            "code": "RYMP-EN084"
+         },
+         {
+            "card": "Dimensional Prison",
+            "code": "RYMP-SP084"
+         },
+         {
+            "card": "Dust Tornado",
+            "code": "SBAD-EN043"
+         },
+         {
+            "card": "Dust Tornado",
+            "code": "YS11-EN033"
+         },
+         {
+            "card": "Dust Tornado",
+            "code": "YS11-EN033"
+         },
+         {
+            "card": "Solemn Judgment",
+            "code": "SDLS-EN038"
+         },
+         {
+            "card": "Starlight Road",
+            "code": "DPCT-EN004"
+         },
+         {
+            "card": "Starlight Road",
+            "code": "TOCH-EN060"
+         },
+         {
+            "card": "Trap Dustshoot",
+            "code": "PGD-049"
+         },
+         {
+            "card": "Black Rose Dragon",
+            "code": "DUDE-EN010"
+         },
+         {
+            "card": "Colossal Fighter",
+            "code": "5DS1-EN043"
+         },
+         {
+            "card": "Goyo Guardian",
+            "code": "TDGS-EN042"
+         },
+         {
+            "card": "Stardust Dragon",
+            "code": "DUPO-EN103"
+         },
+         {
+            "card": "Stardust Dragon",
+            "code": "CT07-EN021"
+         }
+      ],
+      "cardsNotFound": [
+         "Elemental HERO Prisma",
+         "Elemental HERO Prisma",
+         "Gladiator Beast Bestiari",
+         "Gladiator Beast Darius",
+         "Gladiator Beast Darius",
+         "Gladiator Beast Equeste",
+         "Gladiator Beast Hoplomus",
+         "Gladiator Beast Laquari",
+         "Gladiator Beast Laquari",
+         "Gladiator Beast Murmillo",
+         "Gladiator Beast Secutor",
+         "Test Tiger",
+         "Gladiator Beast War Chariot",
+         "Gladiator Beast War Chariot",
+         "Chimeratech Fortress Dragon",
+         "Chimeratech Fortress Dragon",
+         "Chimeratech Fortress Dragon",
+         "Gladiator Beast Gyzarus",
+         "Gladiator Beast Gyzarus",
+         "Gladiator Beast Gyzarus",
+         "Gladiator Beast Heraklinos",
+         "Gladiator Beast Heraklinos",
+         "Gladiator Beast Heraklinos",
+         "Magical Android"
+      ],
+      "completed": 57.89473684210527
+   },
+   "deck2": {
+      "name": "[E] Crystal Beasts.json",
+      "cardsFound": [
+         {
+            "card": "Crystal Beast Amber Mammoth",
+            "code": "DP07-EN005"
+         },
+         {
+            "card": "Crystal Beast Amber Mammoth",
+            "code": "DP07-EN005"
+         },
+         {
+            "card": "Crystal Beast Amber Mammoth",
+            "code": "DP07-EN005"
+         },
+         {
+            "card": "Crystal Beast Amethyst Cat",
+            "code": "DP07-EN002"
+         },
+         {
+            "card": "Crystal Beast Amethyst Cat",
+            "code": "DP07-EN002"
+         },
+         {
+            "card": "Crystal Beast Amethyst Cat",
+            "code": "DP07-EN002"
+         },
+         {
+            "card": "Crystal Beast Ruby Carbuncle",
+            "code": "DP07-EN001"
+         },
+         {
+            "card": "Crystal Beast Ruby Carbuncle",
+            "code": "DP07-EN001"
+         },
+         {
+            "card": "Crystal Beast Ruby Carbuncle",
+            "code": "DP07-EN001"
+         },
+         {
+            "card": "Crystal Beast Sapphire Pegasus",
+            "code": "RYMP-EN046"
+         },
+         {
+            "card": "Crystal Beast Sapphire Pegasus",
+            "code": "SDCB-EN007"
+         },
+         {
+            "card": "Crystal Beast Sapphire Pegasus",
+            "code": "SDCB-EN007"
+         },
+         {
+            "card": "Crystal Beast Topaz Tiger",
+            "code": "SDCB-EN004"
+         },
+         {
+            "card": "Crystal Beast Topaz Tiger",
+            "code": "SDCB-EN004"
+         },
+         {
+            "card": "Crystal Beast Topaz Tiger",
+            "code": "SGX1-ENF06"
+         },
+         {
+            "card": "Dragon Queen of Tragic Endings",
+            "code": "ABPF-EN014"
+         },
+         {
+            "card": "Dragon Queen of Tragic Endings",
+            "code": "ABPF-EN014"
+         },
+         {
+            "card": "Summoner Monk",
+            "code": "FUEN-EN039"
+         },
+         {
+            "card": "X-Saber Airbellum",
+            "code": "SDMP-EN022"
+         },
+         {
+            "card": "Ancient City - Rainbow Ruins",
+            "code": "SDCB-EN018"
+         },
+         {
+            "card": "Ancient City - Rainbow Ruins",
+            "code": "SDCB-EN018"
+         },
+         {
+            "card": "Ancient City - Rainbow Ruins",
+            "code": "SDCB-EN018"
+         },
+         {
+            "card": "Crystal Abundance",
+            "code": "DP07-EN015"
+         },
+         {
+            "card": "Crystal Abundance",
+            "code": "DP07-EN015"
+         },
+         {
+            "card": "Crystal Beacon",
+            "code": "DP07-EN013"
+         },
+         {
+            "card": "Crystal Beacon",
+            "code": "DP07-EN013"
+         },
+         {
+            "card": "Crystal Blessing",
+            "code": "FOTB-EN034"
+         },
+         {
+            "card": "Crystal Blessing",
+            "code": "DP07-EN014"
+         },
+         {
+            "card": "Crystal Blessing",
+            "code": "DP07-EN014"
+         },
+         {
+            "card": "Crystal Promise",
+            "code": "DP07-EN016"
+         },
+         {
+            "card": "Crystal Release",
+            "code": "RYMP-SP054"
+         },
+         {
+            "card": "Crystal Release",
+            "code": "RYMP-SP054"
+         },
+         {
+            "card": "Crystal Tree",
+            "code": "DP07-EN020"
+         },
+         {
+            "card": "Crystal Tree",
+            "code": "DP07-EN020"
+         },
+         {
+            "card": "Mystical Space Typhoon",
+            "code": "LEHD-ENB23"
+         },
+         {
+            "card": "Rare Value",
+            "code": "FOTB-EN033"
+         },
+         {
+            "card": "Rare Value",
+            "code": "LCGX-EN164"
+         },
+         {
+            "card": "Rare Value",
+            "code": "SDCB-EN026"
+         },
+         {
+            "card": "Needlebug Nest",
+            "code": "SR07-EN037"
+         },
+         {
+            "card": "Needlebug Nest",
+            "code": "TDGS-EN079"
+         },
+         {
+            "card": "Ally of Justice Catastor",
+            "code": "CT10-EN006"
+         },
+         {
+            "card": "Brionac, Dragon of the Ice Barrier",
+            "code": "DUDE-EN008"
+         },
+         {
+            "card": "Arcanite Magician",
+            "code": "INCH-EN049"
+         },
+         {
+            "card": "Arcanite Magician",
+            "code": "INCH-EN049"
+         },
+         {
+            "card": "Black Rose Dragon",
+            "code": "DUDE-EN010"
+         },
+         {
+            "card": "X-Saber Urbellum",
+            "code": "HA01-EN025"
+         },
+         {
+            "card": "Red Dragon Archfiend",
+            "code": "CT05-EN002"
+         },
+         {
+            "card": "Stardust Dragon",
+            "code": "TDGS-EN040"
+         },
+         {
+            "card": "Thought Ruler Archfiend",
+            "code": "BROL-EN070"
+         },
+         {
+            "card": "Mist Wurm",
+            "code": "HA01-EN023"
+         }
+      ],
+      "cardsNotFound": [
+         "Rescue Cat",
+         "X-Saber Airbellum",
+         "X-Saber Airbellum",
+         "Magical Android",
+         "Goyo Guardian",
+         "Tempest Magician",
+         "Stardust Dragon",
+         "XX-Saber Gottoms"
+      ],
+      "completed": 86.20689655172413
+   }
+}

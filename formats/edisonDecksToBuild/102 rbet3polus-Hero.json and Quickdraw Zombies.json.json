@@ -1,0 +1,392 @@
+{
+   "deck1": {
+      "name": "rbet3polus-Hero.json",
+      "cardsFound": [
+         {
+            "card": "Crusader of Endymion",
+            "code": "BLLR-EN048"
+         },
+         {
+            "card": "Cyber Dragon",
+            "code": "BLRR-EN048"
+         },
+         {
+            "card": "Cyber Dragon",
+            "code": "BLRR-EN048"
+         },
+         {
+            "card": "Elemental HERO Captain Gold",
+            "code": "LCGX-EN026"
+         },
+         {
+            "card": "Elemental HERO Neos Alius",
+            "code": "SDHS-EN008"
+         },
+         {
+            "card": "Elemental HERO Neos Alius",
+            "code": "SDHS-EN008"
+         },
+         {
+            "card": "Elemental HERO Neos Alius",
+            "code": "SDHS-EN008"
+         },
+         {
+            "card": "Elemental HERO Stratos",
+            "code": "BLHR-EN061"
+         },
+         {
+            "card": "Honest",
+            "code": "SDBE-EN017"
+         },
+         {
+            "card": "Honest",
+            "code": "SDBE-EN017"
+         },
+         {
+            "card": "Neo-Spacian Grand Mole",
+            "code": "LCGX-EN022"
+         },
+         {
+            "card": "E - Emergency Call",
+            "code": "LCGX-EN089"
+         },
+         {
+            "card": "E - Emergency Call",
+            "code": "SDHS-EN029"
+         },
+         {
+            "card": "E - Emergency Call",
+            "code": "SDHS-EN029"
+         },
+         {
+            "card": "Reinforcement of the Army",
+            "code": "LEHD-ENC18"
+         },
+         {
+            "card": "Skyscraper",
+            "code": "SGX1-ENA15"
+         },
+         {
+            "card": "Bottomless Trap Hole",
+            "code": "LCYW-SP181"
+         },
+         {
+            "card": "Bottomless Trap Hole",
+            "code": "DB2-EN201"
+         },
+         {
+            "card": "Dark Bribe",
+            "code": "SDGU-EN039"
+         },
+         {
+            "card": "Dimensional Prison",
+            "code": "NKRT-EN034"
+         },
+         {
+            "card": "Dimensional Prison",
+            "code": "RYMP-EN084"
+         },
+         {
+            "card": "Dimensional Prison",
+            "code": "RYMP-SP084"
+         },
+         {
+            "card": "Hero Blast",
+            "code": "SDHS-EN036"
+         },
+         {
+            "card": "Hero Blast",
+            "code": "SDHS-EN036"
+         },
+         {
+            "card": "Hero Blast",
+            "code": "SDHS-EN036"
+         },
+         {
+            "card": "Mirror Force",
+            "code": "YGLD-ENB33"
+         },
+         {
+            "card": "Skill Drain",
+            "code": "SR13-EN040"
+         },
+         {
+            "card": "Skill Drain",
+            "code": "SR13-EN040"
+         },
+         {
+            "card": "Solemn Judgment",
+            "code": "SDLS-EN038"
+         },
+         {
+            "card": "Starlight Road",
+            "code": "DPCT-EN004"
+         },
+         {
+            "card": "Torrential Tribute",
+            "code": "DL18-SP016"
+         },
+         {
+            "card": "Trap Dustshoot",
+            "code": "PGD-049"
+         },
+         {
+            "card": "Elemental HERO Absolute Zero",
+            "code": "BLHR-EN065"
+         },
+         {
+            "card": "Ally of Justice Catastor",
+            "code": "CT10-EN006"
+         },
+         {
+            "card": "Armory Arm",
+            "code": "HAC1-EN176"
+         },
+         {
+            "card": "Black Rose Dragon",
+            "code": "DUDE-EN010"
+         },
+         {
+            "card": "Brionac, Dragon of the Ice Barrier",
+            "code": "DUDE-EN008"
+         },
+         {
+            "card": "Goyo Guardian",
+            "code": "TDGS-EN042"
+         },
+         {
+            "card": "Stardust Dragon",
+            "code": "DUPO-EN103"
+         },
+         {
+            "card": "Stardust Dragon",
+            "code": "CT07-EN021"
+         },
+         {
+            "card": "Stardust Dragon",
+            "code": "TDGS-EN040"
+         }
+      ],
+      "cardsNotFound": [
+         "Gemini Spark",
+         "Gemini Spark",
+         "Gemini Spark",
+         "Upstart Goblin",
+         "Upstart Goblin",
+         "Upstart Goblin",
+         "Royal Oppression",
+         "Royal Oppression",
+         "Chimeratech Fortress Dragon",
+         "Chimeratech Fortress Dragon",
+         "Chimeratech Fortress Dragon",
+         "Elemental HERO Absolute Zero",
+         "Elemental HERO Absolute Zero",
+         "Elemental HERO Gaia"
+      ],
+      "completed": 74.54545454545455
+   },
+   "deck2": {
+      "name": "Quickdraw Zombies.json",
+      "cardsFound": [
+         {
+            "card": "Chaos Sorcerer",
+            "code": "DR2-EN023"
+         },
+         {
+            "card": "Dandylion",
+            "code": "ABPF-ENSE1"
+         },
+         {
+            "card": "Dandylion",
+            "code": "SR01-SP018"
+         },
+         {
+            "card": "Debris Dragon",
+            "code": "CRMs-SP002"
+         },
+         {
+            "card": "Debris Dragon",
+            "code": "DP09-EN004"
+         },
+         {
+            "card": "Goblin Zombie",
+            "code": "SBAD-EN018"
+         },
+         {
+            "card": "Goblin Zombie",
+            "code": "SBAD-EN018"
+         },
+         {
+            "card": "Lonefire Blossom",
+            "code": "PTDN-EN088"
+         },
+         {
+            "card": "Lonefire Blossom",
+            "code": "PTDN-EN088"
+         },
+         {
+            "card": "Mezuki",
+            "code": "SR07-EN012"
+         },
+         {
+            "card": "Plaguespreader Zombie",
+            "code": "SDSE-EN021"
+         },
+         {
+            "card": "Pyramid Turtle",
+            "code": "GLD5-EN003"
+         },
+         {
+            "card": "Quickdraw Synchron",
+            "code": "5DS3-EN018"
+         },
+         {
+            "card": "Quickdraw Synchron",
+            "code": "DP09-EN010"
+         },
+         {
+            "card": "Ryko, Lightsworn Hunter",
+            "code": "LODT-EN022"
+         },
+         {
+            "card": "Ryko, Lightsworn Hunter",
+            "code": "LODT-EN022"
+         },
+         {
+            "card": "Ryko, Lightsworn Hunter",
+            "code": "SDLI-EN015"
+         },
+         {
+            "card": "Sangan",
+            "code": "YS12-EN016"
+         },
+         {
+            "card": "Zombie Master",
+            "code": "SDZW-EN016"
+         },
+         {
+            "card": "Zombie Master",
+            "code": "SDZW-EN016"
+         },
+         {
+            "card": "Book of Moon",
+            "code": "BP01-EN072"
+         },
+         {
+            "card": "Book of Moon",
+            "code": "SBCB-EN013"
+         },
+         {
+            "card": "Brain Control",
+            "code": "DPYG-SP024"
+         },
+         {
+            "card": "Foolish Burial",
+            "code": "BLHR-EN057"
+         },
+         {
+            "card": "Heavy Storm",
+            "code": "BP01-EN038"
+         },
+         {
+            "card": "Mystical Space Typhoon",
+            "code": "HSRD-EN053"
+         },
+         {
+            "card": "Pot of Avarice",
+            "code": "AP02-SP019"
+         },
+         {
+            "card": "Pot of Avarice",
+            "code": "SR10-EN031"
+         },
+         {
+            "card": "Pot of Avarice",
+            "code": "EGO1-EN026"
+         },
+         {
+            "card": "Bottomless Trap Hole",
+            "code": "SDHS-EN038"
+         },
+         {
+            "card": "Bottomless Trap Hole",
+            "code": "SDHS-EN038"
+         },
+         {
+            "card": "Call of the Haunted",
+            "code": "GLD5-EN046"
+         },
+         {
+            "card": "Dimensional Prison",
+            "code": "NKRT-EN034"
+         },
+         {
+            "card": "Dimensional Prison",
+            "code": "SDCR-EN033"
+         },
+         {
+            "card": "Dust Tornado",
+            "code": "SBAD-EN043"
+         },
+         {
+            "card": "Dust Tornado",
+            "code": "YS11-EN033"
+         },
+         {
+            "card": "Mirror Force",
+            "code": "YGLD-ENA37"
+         },
+         {
+            "card": "Starlight Road",
+            "code": "TOCH-EN060"
+         },
+         {
+            "card": "Torrential Tribute",
+            "code": "DL18-SP016"
+         },
+         {
+            "card": "Ally of Justice Catastor",
+            "code": "DUDE-EN007"
+         },
+         {
+            "card": "Brionac, Dragon of the Ice Barrier",
+            "code": "DUDE-EN008"
+         },
+         {
+            "card": "Drill Warrior",
+            "code": "DP10-EN018"
+         },
+         {
+            "card": "Drill Warrior",
+            "code": "DP10-EN018"
+         },
+         {
+            "card": "Turbo Warrior",
+            "code": "CSOC-EN038"
+         },
+         {
+            "card": "Black Rose Dragon",
+            "code": "DUDE-EN010"
+         },
+         {
+            "card": "Nitro Warrior",
+            "code": "TDGS-EN039"
+         },
+         {
+            "card": "Red Dragon Archfiend",
+            "code": "CT05-EN002"
+         }
+      ],
+      "cardsNotFound": [
+         "Solemn Judgment",
+         "Iron Chain Dragon",
+         "Iron Chain Dragon",
+         "Ancient Fairy Dragon",
+         "Junk Archer",
+         "Stardust Dragon",
+         "Stardust Dragon",
+         "Stardust Dragon"
+      ],
+      "completed": 85.45454545454545
+   }
+}

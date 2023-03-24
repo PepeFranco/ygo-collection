@@ -1,0 +1,1382 @@
+[
+   {
+      "deck": "Structure Deck: Dragon's Roar",
+      "cards": [
+         "Red-Eyes Darkness Dragon",
+         "The Dragon's Bead",
+         "The Graveyard in the Fourth Dimension"
+      ],
+      "limitedCards": [
+         "Call of the Haunted",
+         "Ceasefire",
+         "Heavy Storm",
+         "Mystical Space Typhoon",
+         "Pot of Greed",
+         "Premature Burial",
+         "Reckless Greed",
+         "Snatch Steal",
+         "Swords of Revealing Light",
+         "Twin-Headed Behemoth"
+      ],
+      "cardsMissing": 3,
+      "releaseDate": "2005-01-01"
+   },
+   {
+      "deck": "Structure Deck: Zombie Madness",
+      "cards": [
+         "Dark Dust Spirit",
+         "Vampire Genesis"
+      ],
+      "limitedCards": [
+         "Heavy Storm",
+         "Mystical Space Typhoon",
+         "Pot of Greed",
+         "Reckless Greed",
+         "Snatch Steal",
+         "Torrential Tribute",
+         "Vampire Lord"
+      ],
+      "cardsMissing": 2,
+      "releaseDate": "2005-01-01"
+   },
+   {
+      "deck": "Structure Deck: Blaze of Destruction",
+      "cards": [
+         "Dark Room of Nightmare",
+         "Infernal Flame Emperor",
+         "Necklace of Command",
+         "Reload"
+      ],
+      "limitedCards": [
+         "Call of the Haunted",
+         "Heavy Storm",
+         "Mystical Space Typhoon",
+         "Pot of Greed",
+         "Premature Burial",
+         "Snatch Steal"
+      ],
+      "cardsMissing": 4,
+      "releaseDate": "2005-05-09"
+   },
+   {
+      "deck": "Structure Deck: Fury from the Deep",
+      "cards": [
+         "Creeping Doom Manta"
+      ],
+      "limitedCards": [
+         "Call of the Haunted",
+         "Heavy Storm",
+         "Mystical Space Typhoon",
+         "Pot of Greed",
+         "Premature Burial",
+         "Snatch Steal",
+         "Torrential Tribute",
+         "Tribe-Infecting Virus"
+      ],
+      "cardsMissing": 1,
+      "releaseDate": "2005-05-09"
+   },
+   {
+      "deck": "Structure Deck: Warrior's Triumph",
+      "cards": [
+         "Command Knight",
+         "Fairy of the Spring",
+         "Gearfried the Swordmaster",
+         "Gilford the Legend",
+         "Goblin Attack Force",
+         "Mystic Swordsman LV4",
+         "Ninja Grandmaster Sasuke",
+         "Obnoxious Celtic Guard"
+      ],
+      "limitedCards": [
+         "Call of the Haunted",
+         "D.D. Warrior Lady",
+         "Exiled Force",
+         "Heavy Storm",
+         "Lightning Vortex",
+         "Mystical Space Typhoon",
+         "Snatch Steal"
+      ],
+      "cardsMissing": 8,
+      "releaseDate": "2005-10-28"
+   },
+   {
+      "deck": "Structure Deck: Spellcaster's Judgment",
+      "cards": [
+         "Blast Magician",
+         "Dark Eradicator Warlock",
+         "Divine Wrath",
+         "Ebon Magician Curran",
+         "Mythical Beast Cerberus",
+         "Pitch-Black Power Stone",
+         "Rapid-Fire Magician",
+         "Reload"
+      ],
+      "limitedCards": [
+         "Breaker the Magical Warrior",
+         "Call of the Haunted",
+         "Heavy Storm",
+         "Lightning Vortex",
+         "Mage Power",
+         "Magic Cylinder",
+         "Magician of Faith",
+         "Mystical Space Typhoon",
+         "Nobleman of Crossout",
+         "Premature Burial",
+         "Swords of Revealing Light",
+         "Tsukuyomi"
+      ],
+      "cardsMissing": 8,
+      "releaseDate": "2006-01-18"
+   },
+   {
+      "deck": "Structure Deck: Invincible Fortress",
+      "cards": [
+         "Canyon",
+         "Criosphinx",
+         "Exxod, Master of the Guard",
+         "Golem Sentry",
+         "Great Spirit",
+         "Guardian Sphinx",
+         "Hieracosphinx",
+         "Maharaghi",
+         "Megarock Dragon",
+         "Robbin' Goblin",
+         "Shifting Shadows"
+      ],
+      "limitedCards": [
+         "Mystical Space Typhoon",
+         "Premature Burial",
+         "Reckless Greed",
+         "Swords of Revealing Light"
+      ],
+      "cardsMissing": 11,
+      "releaseDate": "2006-05-15"
+   },
+   {
+      "deck": "Structure Deck: Lord of the Storm",
+      "cards": [
+         "Aqua Chorus",
+         "BirdFace",
+         "Bladefly",
+         "Dark Coffin",
+         "Harpie's Pet Baby Dragon",
+         "Hysteric Party",
+         "Icarus Attack",
+         "Lady Ninja Yae",
+         "Ninjitsu Art of Transformation",
+         "Reload",
+         "Silpheed",
+         "Simorgh, Bird of Divinity",
+         "Slate Warrior",
+         "Swift Birdman Joe"
+      ],
+      "limitedCards": [
+         "Call of the Haunted",
+         "Card Destruction",
+         "Heavy Storm",
+         "Lightning Vortex",
+         "Mystical Space Typhoon",
+         "Reckless Greed"
+      ],
+      "cardsMissing": 14,
+      "releaseDate": "2006-07-12"
+   },
+   {
+      "deck": "Structure Deck: Dinosaur's Rage",
+      "cards": [
+         "Magical Arm Shield"
+      ],
+      "limitedCards": [
+         "Heavy Storm",
+         "Mystical Space Typhoon"
+      ],
+      "cardsMissing": 1,
+      "releaseDate": "2006-10-20"
+   },
+   {
+      "deck": "Structure Deck: Machine Re-Volt",
+      "cards": [
+         "Ancient Gear Cannon",
+         "Ancient Gear Drill",
+         "Ancient Gear Explosive",
+         "Ancient Gear Fist",
+         "Ancient Gear Gadjiltron Chimera",
+         "Ancient Gear Gadjiltron Dragon",
+         "Ancient Gear Tank",
+         "Ancient Gear Workshop",
+         "Boot-up Soldier - Dread Dynamo",
+         "Cannon Soldier",
+         "Gear Golem the Moving Fortress",
+         "Micro Ray"
+      ],
+      "limitedCards": [
+         "Heavy Storm",
+         "Limiter Removal",
+         "Mystical Space Typhoon",
+         "Pot of Avarice",
+         "Ultimate Offering"
+      ],
+      "cardsMissing": 12,
+      "releaseDate": "2007-01-17"
+   },
+   {
+      "deck": "Rise of the Dragon Lords Structure Deck",
+      "cards": [
+         "Darkblaze Dragon",
+         "Decoy Dragon",
+         "Flame Ruler",
+         "Gilford the Lightning",
+         "Lightning Vortex",
+         "Majestic Mech - Goryu"
+      ],
+      "limitedCards": [
+         "Brain Control",
+         "Call of the Haunted",
+         "Giant Trunade",
+         "Morphing Jar",
+         "Premature Burial",
+         "Twin-Headed Behemoth"
+      ],
+      "cardsMissing": 6,
+      "releaseDate": "2007-10-24"
+   },
+   {
+      "deck": "The Dark Emperor Structure Deck",
+      "cards": [
+         "Big Bang Shot",
+         "By Order of the Emperor",
+         "Caius the Shadow Monarch",
+         "Chaosrider Gustaph",
+         "D.D. Warrior",
+         "D.D.M. - Different Dimension Master",
+         "Dark Core",
+         "Golden Homunculus",
+         "Helios - The Primordial Sun",
+         "Lightning Vortex",
+         "Macro Cosmos",
+         "Return from the Different Dimension",
+         "Sakuretsu Armor",
+         "Samsara Kaiser"
+      ],
+      "limitedCards": [
+         "Brain Control",
+         "D.D. Warrior Lady",
+         "Mystical Space Typhoon",
+         "Nobleman of Crossout",
+         "Torrential Tribute"
+      ],
+      "cardsMissing": 14,
+      "releaseDate": "2008-04-02"
+   },
+   {
+      "deck": "Zombie World Structure Deck",
+      "cards": [
+         "Cold Wave",
+         "Dust Tornado",
+         "Field Barrier",
+         "Gernia",
+         "Getsu Fuhma",
+         "Magical Arm Shield",
+         "Master Kyonshee",
+         "Patrician of Darkness",
+         "Plague Wolf",
+         "Ribbon of Rebirth",
+         "Royal Keeper",
+         "Tutan Mask"
+      ],
+      "limitedCards": [
+         "Card Destruction",
+         "Spirit Reaper"
+      ],
+      "cardsMissing": 12,
+      "releaseDate": "2008-10-21"
+   },
+   {
+      "deck": "Spellcaster's Command Structure Deck",
+      "cards": [
+         "Blast Magician",
+         "Dark Red Enchanter",
+         "Defender, the Magical Knight",
+         "Disenchanter",
+         "Endymion, The Master Magician",
+         "Field Barrier",
+         "Magical Citadel of Endymion",
+         "Magical Marionette",
+         "Magical Plant Mandragola",
+         "Malevolent Nuzzler",
+         "Mei-Kou, Master of Barriers",
+         "Mist Body",
+         "Mythical Beast Cerberus",
+         "Royal Magical Library",
+         "Tower of Babel"
+      ],
+      "limitedCards": [
+         "Breaker the Magical Warrior",
+         "Fissure",
+         "Giant Trunade",
+         "Magic Cylinder",
+         "Swords of Revealing Light"
+      ],
+      "cardsMissing": 15,
+      "releaseDate": "2009-03-31"
+   },
+   {
+      "deck": "Warriors' Strike Structure Deck",
+      "cards": [
+         "Big Bang Shot",
+         "D.D. Warrior",
+         "Dark Valkyria",
+         "Divine Sword - Phoenix Blade",
+         "Ekibyo Drakmord",
+         "Featherizer",
+         "Gemini Soldier",
+         "Gemini Summoner",
+         "Gemini Trap Hole",
+         "Marauding Captain",
+         "Phoenix Gearfried",
+         "Sakuretsu Armor",
+         "Soul Resurrection",
+         "Unleash Your Power!"
+      ],
+      "limitedCards": [
+         "Card Trooper",
+         "Mind Control",
+         "Mystical Space Typhoon",
+         "Reinforcement of the Army"
+      ],
+      "cardsMissing": 14,
+      "releaseDate": "2009-10-23"
+   },
+   {
+      "deck": "Machina Mayhem Structure Deck",
+      "cards": [
+         "Solidarity",
+         "The Big Saturn"
+      ],
+      "limitedCards": [
+         "Ceasefire",
+         "Cyber Dragon",
+         "Swords of Revealing Light"
+      ],
+      "cardsMissing": 2,
+      "releaseDate": "2010-02-19"
+   },
+   {
+      "deck": "Structure Deck: Marik (TCG)",
+      "cards": [
+         "Dark Room of Nightmare"
+      ],
+      "limitedCards": [
+         "Allure of Darkness",
+         "Foolish Burial",
+         "Mirror Force"
+      ],
+      "cardsMissing": 1,
+      "releaseDate": "2010-10-15"
+   },
+   {
+      "deck": "Dragunity Legion Structure Deck",
+      "cards": [
+         "Dragon Mastery",
+         "Dragon Ravine",
+         "Dragon's Gunfire",
+         "Dragunity Arma Leyvaten",
+         "Dragunity Arma Mystletainn",
+         "Dragunity Brandistock",
+         "Dragunity Darkspear",
+         "Dragunity Javelin",
+         "Dragunity Legionnaire",
+         "Dragunity Primus Pilus",
+         "Dragunity Tribus",
+         "Garuda the Wind Spirit",
+         "Hunter Owl",
+         "Icarus Attack",
+         "Legacy of Yata-Garasu",
+         "Mist Valley Falcon",
+         "Relieve Monster",
+         "Spiritual Wind Art - Miyabi"
+      ],
+      "limitedCards": [
+         "Card Destruction",
+         "Foolish Burial",
+         "Mirror Force"
+      ],
+      "cardsMissing": 18,
+      "releaseDate": "2011-03-04"
+   },
+   {
+      "deck": "Lost Sanctuary Structure Deck",
+      "cards": [
+         "Athena",
+         "Consecrated Light",
+         "Divine Punishment",
+         "Hanewata",
+         "Nova Summoner",
+         "Solidarity",
+         "Soul of Purity and Light",
+         "Splendid Venus",
+         "Tethys, Goddess of Light",
+         "The Agent of Force - Mars",
+         "The Agent of Judgment - Saturn",
+         "The Agent of Miracles - Jupiter",
+         "The Agent of Mystery - Earth",
+         "The Agent of Wisdom - Mercury",
+         "The Fountain in the Sky",
+         "Victoria",
+         "Zeradias, Herald of Heaven"
+      ],
+      "limitedCards": [
+         "Burial from a Different Dimension",
+         "Honest",
+         "Marshmallon",
+         "Return from the Different Dimension",
+         "Solemn Judgment",
+         "Torrential Tribute"
+      ],
+      "cardsMissing": 17,
+      "releaseDate": "2011-06-10"
+   },
+   {
+      "deck": "Gates of the Underworld Structure Deck",
+      "cards": [
+         "Belial - Marquis of Darkness",
+         "Dark Scheme",
+         "Eradicator Epidemic Virus",
+         "Escape from the Dark Dimension",
+         "Newdoria"
+      ],
+      "limitedCards": [
+         "Allure of Darkness",
+         "Card Destruction",
+         "Sangan",
+         "The Transmigration Prophecy"
+      ],
+      "cardsMissing": 5,
+      "releaseDate": "2011-10-13"
+   },
+   {
+      "deck": "Dragons Collide Structure Deck",
+      "cards": [
+         "Burst Breath",
+         "Card Trader",
+         "Chaos Zone",
+         "Darkflare Dragon",
+         "Eclipse Wyvern",
+         "Escape from the Dark Dimension",
+         "Gragonith, Lightsworn Dragon",
+         "Inferno Fire Blast",
+         "Jain, Lightsworn Paladin",
+         "Magical Stone Excavation",
+         "Prime Material Dragon",
+         "Red-Eyes B. Dragon",
+         "Red-Eyes Darkness Metal Dragon",
+         "Snipe Hunter",
+         "Vice Dragon"
+      ],
+      "limitedCards": [
+         "Book of Moon",
+         "Charge of the Light Brigade",
+         "Dark Armed Dragon",
+         "Monster Gate",
+         "Reasoning"
+      ],
+      "cardsMissing": 15,
+      "releaseDate": "2012-02-03"
+   },
+   {
+      "deck": "Samurai Warlords Structure Deck",
+      "cards": [
+         "Future Samurai"
+      ],
+      "limitedCards": [
+         "Dark Hole",
+         "Gateway of the Six",
+         "Reinforcement of the Army"
+      ],
+      "cardsMissing": 1,
+      "releaseDate": "2012-06-21"
+   },
+   {
+      "deck": "Realm of the Sea Emperor Structure Deck",
+      "cards": [],
+      "limitedCards": [
+         "Dark Hole"
+      ],
+      "cardsMissing": 0,
+      "releaseDate": "2012-10-11"
+   },
+   {
+      "deck": "Onslaught of the Fire Kings Structure Deck",
+      "cards": [],
+      "cardsMissing": 0,
+      "releaseDate": "2013-02-08"
+   },
+   {
+      "deck": "Saga of Blue-Eyes White Dragon Structure Deck",
+      "cards": [],
+      "limitedCards": [
+         "Compulsory Evacuation Device",
+         "Honest",
+         "One for One"
+      ],
+      "cardsMissing": 0,
+      "releaseDate": "2013-09-12"
+   },
+   {
+      "deck": "Cyber Dragon Revolution Structure Deck",
+      "cards": [],
+      "limitedCards": [
+         "Limiter Removal"
+      ],
+      "cardsMissing": 0,
+      "releaseDate": "2014-02-06"
+   },
+   {
+      "deck": "Realm of Light Structure Deck",
+      "cards": [
+         "Aurkus, Lightsworn Druid",
+         "Beckoning Light",
+         "Breakthrough Skill",
+         "Ehren, Lightsworn Monk",
+         "Glorious Illusion",
+         "Gragonith, Lightsworn Dragon",
+         "Judgment Dragon",
+         "Lightsworn Sanctuary",
+         "Michael, the Arch-Lightsworn",
+         "Minerva, Lightsworn Maiden",
+         "Monster Reincarnation",
+         "Necro Gardna",
+         "Raiden, Hand of the Lightsworn",
+         "Solar Recharge",
+         "The Fabled Cerburrel",
+         "Vanquishing Light",
+         "Vylon Prism",
+         "Wulf, Lightsworn Beast"
+      ],
+      "limitedCards": [
+         "Charge of the Light Brigade",
+         "Foolish Burial",
+         "Honest"
+      ],
+      "cardsMissing": 18,
+      "releaseDate": "2014-06-27"
+   },
+   {
+      "deck": "Geargia Rampage Structure Deck",
+      "cards": [
+         "Ancient Gear Gadjiltron Chimera",
+         "Ancient Gear Gadjiltron Dragon",
+         "Creature Swap",
+         "Geargiagear Gigant XG",
+         "Geargiano Mk-III",
+         "Geargiarmor",
+         "Geargiattacker",
+         "Geargiauger",
+         "Jumbo Drill",
+         "Minefieldriller",
+         "Oilman",
+         "Rare Metalmorph",
+         "Smashing Ground"
+      ],
+      "limitedCards": [
+         "Geargiagear",
+         "Limiter Removal"
+      ],
+      "cardsMissing": 13,
+      "releaseDate": "2014-10-16"
+   },
+   {
+      "deck": "HERO Strike Structure Deck",
+      "cards": [],
+      "limitedCards": [
+         "Bottomless Trap Hole",
+         "Compulsory Evacuation Device",
+         "Neo-Spacian Grand Mole"
+      ],
+      "cardsMissing": 0,
+      "releaseDate": "2015-01-29"
+   },
+   {
+      "deck": "Synchron Extreme Structure Deck",
+      "cards": [
+         "Drill Synchron",
+         "Fleur Synchron",
+         "Imperial Iron Wall",
+         "Jet Synchron",
+         "Limit Overdrive",
+         "Limiter Overload",
+         "Plaguespreader Zombie",
+         "Rush Warrior",
+         "Scrap Fist",
+         "Scrap-Iron Statue",
+         "Stardust Warrior",
+         "Starlight Junktion",
+         "Synchron Carrier"
+      ],
+      "limitedCards": [
+         "Genex Ally Birdman",
+         "One for One",
+         "Solemn Warning"
+      ],
+      "cardsMissing": 13,
+      "releaseDate": "2015-08-27"
+   },
+   {
+      "deck": "Master of Pendulum Structure Deck",
+      "cards": [
+         "Chaos Hunter",
+         "Dragonpit Magician",
+         "Dragonpulse Magician",
+         "Fusilier Dragon, the Dual-Mode Beast",
+         "Jigabyte",
+         "Lyla, Lightsworn Sorceress",
+         "Metaphys Armed Dragon",
+         "Nefarious Archfiend Eater of Nefariousness",
+         "Oafdragon Magician",
+         "Odd-Eyes Absolute Dragon",
+         "Pendulum Back",
+         "Pendulum Call",
+         "Pendulum Rising",
+         "Pendulum Shift",
+         "Performapal Salutiger",
+         "Performapal Silver Claw",
+         "Performapal Skullcrobat Joker",
+         "Powerful Rebirth",
+         "Re-Cover",
+         "Rune-Eyes Pendulum Dragon",
+         "Sacred Sword of Seven Stars",
+         "Traptrix Trap Hole Nightmare",
+         "Wisdom-Eye Magician",
+         "X-Saber Airbellum"
+      ],
+      "limitedCards": [
+         "Eradicator Epidemic Virus",
+         "Torrential Tribute"
+      ],
+      "cardsMissing": 24,
+      "releaseDate": "2015-12-03"
+   },
+   {
+      "deck": "Emperor of Darkness Structure Deck",
+      "cards": [
+         "Berlineth the Firestorm Vassal",
+         "By Order of the Emperor",
+         "Caius the Shadow Monarch",
+         "Domain of the True Monarchs",
+         "Ehther the Heavenly Monarch",
+         "Erebus the Underworld Monarch",
+         "Escher the Frost Vassal",
+         "Garum the Storm Vassal",
+         "Illusory Snatcher",
+         "Landrobe the Rock Vassal",
+         "Lucius the Shadow Vassal",
+         "Mithra the Thunder Vassal",
+         "Pantheism of the Monarchs",
+         "Pinpoint Guard",
+         "Rainbow Kuriboh",
+         "Raiza the Storm Monarch",
+         "Return of the Monarchs",
+         "Strike of the Monarchs",
+         "Tenacity of the Monarchs",
+         "The First Monarch",
+         "The Monarchs Awaken",
+         "The Monarchs Erupt",
+         "The Prime Monarch",
+         "Thestalos the Firestorm Monarch"
+      ],
+      "limitedCards": [
+         "Dandylion",
+         "Mathematician",
+         "Soul Charge"
+      ],
+      "cardsMissing": 24,
+      "releaseDate": "2016-01-28"
+   },
+   {
+      "deck": "Rise of the True Dragons Structure Deck",
+      "cards": [
+         "A Wingbeat of Giant Dragon",
+         "Arkbrave Dragon",
+         "Breakthrough Skill",
+         "Burst Breath",
+         "Charge of the Light Brigade",
+         "Darkblaze Dragon",
+         "Decoy Dragon",
+         "Divine Dragon Lord Felgrand",
+         "Dragon Knight of Creation",
+         "Dragon Ravine",
+         "Eclipse Wyvern",
+         "Ehren, Lightsworn Monk",
+         "Evilswarm Zahak",
+         "Felgrand Dragon",
+         "Guardian of Felgrand",
+         "Jain, Lightsworn Paladin",
+         "Keeper of the Shrine",
+         "Kidmodo Dragon",
+         "Oasis of Dragon Souls",
+         "Paladin of Felgrand",
+         "Raiden, Hand of the Lightsworn",
+         "Red-Eyes Wyvern",
+         "Return of the Dragon Lords",
+         "Ruins of the Divine Dragon Lords"
+      ],
+      "limitedCards": [
+         "Foolish Burial",
+         "Red-Eyes Darkness Metal Dragon",
+         "Reinforcement of the Army"
+      ],
+      "cardsMissing": 24,
+      "releaseDate": "2016-07-07"
+   },
+   {
+      "deck": "Structure Deck: Seto Kaiba",
+      "cards": [
+         "A-Assault Core",
+         "A-to-Z-Dragon Buster Cannon",
+         "ABC-Dragon Buster",
+         "B-Buster Drake",
+         "C-Crush Wyvern",
+         "Heavy Mech Support Armor",
+         "Keeper of the Shrine",
+         "Majesty with Eyes of Blue",
+         "Roll Out!",
+         "Vampire Lord"
+      ],
+      "limitedCards": [
+         "Limiter Removal",
+         "Ring of Destruction"
+      ],
+      "cardsMissing": 10,
+      "releaseDate": "2016-10-20"
+   },
+   {
+      "deck": "Structure Deck: Yugi Muto",
+      "cards": [
+         "Alpha The Electromagnet Warrior",
+         "Arcana Knight Joker",
+         "Berserkion the Electromagna Warrior",
+         "Beta The Electromagnet Warrior",
+         "Dark Magic Inheritance",
+         "Gamma The Electromagnet Warrior",
+         "Gamma The Magnet Warrior",
+         "Imperion Magnum the Superconductive Battlebot",
+         "Kuribohrn",
+         "Mystic Box",
+         "Obnoxious Celtic Guard"
+      ],
+      "cardsMissing": 11,
+      "releaseDate": "2016-10-20"
+   },
+   {
+      "deck": "Pendulum Domination Structure Deck",
+      "cards": [
+         "Contract Laundering",
+         "D/D Cerberus",
+         "D/D Lilith",
+         "D/D Nighthowl",
+         "D/D Orthros",
+         "D/D Proud Chevalier",
+         "D/D Proud Ogre",
+         "D/D Recruits",
+         "D/D Reroll",
+         "D/D Savant Copernicus",
+         "D/D Savant Galilei",
+         "D/D Savant Kepler",
+         "D/D Savant Newton",
+         "D/D/D Chaos King Apocalypse",
+         "D/D/D Cursed King Siegfried",
+         "D/D/D Doom King Armageddon",
+         "D/D/D Dragonbane King Beowulf",
+         "D/D/D Human Resources",
+         "D/D/D Supreme King Kaiser",
+         "D/D/D Wave King Caesar",
+         "Dark Contract with Errors",
+         "Dark Contract with the Gate",
+         "Dark Contract with the Swamp King",
+         "Dark Contract with the Witch",
+         "Dark Contract with the Yamimakai",
+         "Escape from the Dark Dimension",
+         "Forbidden Dark Contract with the Swamp King",
+         "Kuribandit",
+         "Sinister Yorishiro",
+         "Stygian Security",
+         "Trance Archfiend"
+      ],
+      "limitedCards": [
+         "Dark Armed Dragon",
+         "Foolish Burial",
+         "One for One"
+      ],
+      "cardsMissing": 31,
+      "releaseDate": "2017-01-19"
+   },
+   {
+      "deck": "Dinosmasher's Fury Structure Deck",
+      "cards": [
+         "Extinction on Schedule",
+         "Grand Horn of Heaven",
+         "Jurraegg Token",
+         "Lost World",
+         "Nightmare Archfiends",
+         "Painful Decision",
+         "Petiteranodon",
+         "Quaking Mirror Force",
+         "Secret Blast",
+         "Skelesaurus",
+         "Souleating Oviraptor",
+         "Stegocyber",
+         "Super Conductor Tyranno",
+         "Survival's End",
+         "Swords of Concealing Light",
+         "Trifortressops",
+         "Ultimate Conductor Tyranno",
+         "Unexpected Dai"
+      ],
+      "limitedCards": [
+         "Burial from a Different Dimension",
+         "Rescue Rabbit"
+      ],
+      "cardsMissing": 18,
+      "releaseDate": "2017-04-13"
+   },
+   {
+      "deck": "Machine Reactor Structure Deck",
+      "cards": [
+         "Ancient Gear Catapult",
+         "Ancient Gear Fortress",
+         "Ancient Gear Gadjiltron Chimera",
+         "Ancient Gear Gadjiltron Dragon",
+         "Ancient Gear Hydra",
+         "Ancient Gear Reactor Dragon",
+         "Ancient Gear Workshop",
+         "Ancient Gear Wyvern",
+         "BOXer",
+         "Galaxy Cyclone",
+         "Geargiauger",
+         "Maxx C",
+         "Minefieldriller",
+         "Mischief of the Gnomes",
+         "Pseudo Space",
+         "Spell Striker"
+      ],
+      "limitedCards": [
+         "Limiter Removal"
+      ],
+      "cardsMissing": 16,
+      "releaseDate": "2017-04-13"
+   },
+   {
+      "deck": "Structure Deck: Cyberse Link",
+      "cards": [
+         "Backlinker",
+         "Balancer Lord",
+         "Binary Sorceress",
+         "Boot Staggered",
+         "Crane Crane",
+         "Cyberse Wizard",
+         "Cynet Backdoor",
+         "Digitron",
+         "Dotscaper",
+         "Dual Assembwurm",
+         "Encode Talker",
+         "Ghosts From the Past",
+         "Jester Confit",
+         "Kinka-byo",
+         "Moon Mirror Shield",
+         "Powerful Rebirth",
+         "ROM Cloudia",
+         "Recoded Alive",
+         "Shuffle Reborn",
+         "Stack Reviver",
+         "Storming Mirror Force",
+         "Tri-Gate Wizard"
+      ],
+      "limitedCards": [
+         "Glow-Up Bulb",
+         "Mathematician",
+         "Mind Control",
+         "Soul Charge"
+      ],
+      "cardsMissing": 22,
+      "releaseDate": "2017-11-02"
+   },
+   {
+      "deck": "Structure Deck: Wave of Light",
+      "cards": [
+         "Archlord Kristya",
+         "Athena",
+         "Bountiful Artemis",
+         "Celestial Transformation",
+         "Divine Punishment",
+         "Drastic Drop Off",
+         "Gellenduo",
+         "Guiding Ariadne",
+         "Guiding Light",
+         "Hanewata",
+         "Harvest Angel of Wisdom",
+         "Hecatrice",
+         "Herald of Green Light",
+         "Herald of Orange Light",
+         "Herald of Purple Light",
+         "Layard the Liberator",
+         "Light of Judgment",
+         "Minerva, Scholar of the Sky",
+         "Miraculous Descent",
+         "Neo-Parshath, the Sky Paladin",
+         "Nova Summoner",
+         "Power Angel Valkyria",
+         "Rebirth of Parshath",
+         "Recall",
+         "Splendid Venus",
+         "Tethys, Goddess of Light",
+         "The Sanctuary in the Sky",
+         "The Sanctum of Parshath",
+         "Ultimate Providence"
+      ],
+      "limitedCards": [
+         "Solemn Warning"
+      ],
+      "cardsMissing": 29,
+      "releaseDate": "2018-01-18"
+   },
+   {
+      "deck": "Structure Deck: Lair of Darkness",
+      "cards": [
+         "Allure of Darkness",
+         "Archfiend Cavalry",
+         "Boogie Trap",
+         "Caius the Mega Monarch",
+         "Crush Card Virus",
+         "Curse of Darkness",
+         "Darkest Diabolos, Lord of the Lair",
+         "Fiendish Rhino Warrior",
+         "Fires of Doomsday",
+         "Full Force Virus",
+         "Grinning Grave Virus",
+         "Infernal Dragon",
+         "Kuribandit",
+         "Legendary Maju Garzett",
+         "Lich Lord, King of the Underworld",
+         "Mist Archfiend",
+         "Plague Wolf",
+         "Recurring Nightmare",
+         "Relinkuriboh",
+         "Rise to Full Height",
+         "Sinister Yorishiro",
+         "Stygian Street Patrol"
+      ],
+      "limitedCards": [
+         "Eradicator Epidemic Virus",
+         "Tour Guide From the Underworld"
+      ],
+      "cardsMissing": 22,
+      "releaseDate": "2018-04-19"
+   },
+   {
+      "deck": "Structure Deck: Powercode Link",
+      "cards": [
+         "Antialian",
+         "Blazing Mirror Force",
+         "Cyberse Gadget",
+         "Cynet Storm",
+         "Datacorn",
+         "Debunk",
+         "Fires of Doomsday",
+         "Flame Bufferlo",
+         "Garbage Collector",
+         "Lady Debug",
+         "Launcher Commander",
+         "Packet Link",
+         "Powercode Talker",
+         "Safe Zone",
+         "Sea Archiver",
+         "Segmental Dragon",
+         "Skull Meister",
+         "Storm Cipher",
+         "Traffic Ghost",
+         "Traptrix Trap Hole Nightmare"
+      ],
+      "limitedCards": [
+         "Genex Ally Birdman",
+         "One for One",
+         "Reasoning"
+      ],
+      "cardsMissing": 20,
+      "releaseDate": "2018-08-09"
+   },
+   {
+      "deck": "Structure Deck: Zombie Horde",
+      "cards": [
+         "Call of the Mummy",
+         "Malevolent Mech - Goku En",
+         "Marionette Mite",
+         "Paladin of the Cursed Dragon",
+         "Red-Eyes Zombie Dragon",
+         "Zombie World"
+      ],
+      "limitedCards": [
+         "Foolish Burial",
+         "Monster Gate"
+      ],
+      "cardsMissing": 6,
+      "releaseDate": "2018-11-01"
+   },
+   {
+      "deck": "Structure Deck: Soulburner",
+      "cards": [
+         "Break Off Trap Hole",
+         "Flame Administrator",
+         "Formud Skipper",
+         "Link Bound",
+         "Magic Planter",
+         "Monster Reincarnation",
+         "Red Resonator",
+         "Salamangreat Balelynx",
+         "Salamangreat Beat Bison",
+         "Salamangreat Circle",
+         "Salamangreat Claw",
+         "Salamangreat Fowl",
+         "Salamangreat Foxer",
+         "Salamangreat Foxy",
+         "Salamangreat Gift",
+         "Salamangreat Jack Jaguar",
+         "Salamangreat Meer",
+         "Salamangreat Mole",
+         "Salamangreat Parro",
+         "Salamangreat Raccoon",
+         "Salamangreat Rage",
+         "Salamangreat Roar",
+         "Salamangreat Sanctuary",
+         "Salamangreat Spinny",
+         "Salamangreat Wolvie",
+         "The Transmigration Prophecy",
+         "Transmodify",
+         "True King Agnimazud, the Vanisher",
+         "Will of the Salamangreat"
+      ],
+      "cardsMissing": 29,
+      "releaseDate": "2019-02-14"
+   },
+   {
+      "deck": "Structure Deck: Order of the Spellcasters",
+      "cards": [
+         "Day-Breaker the Shining Magical Warrior",
+         "Defender, the Magical Knight",
+         "Disenchanter",
+         "Droll & Lock Bird",
+         "Dwimmered Path",
+         "Endymion's Lab",
+         "Endymion, the Master Magician",
+         "Endymion, the Mighty Master of Magic",
+         "Extra Buck",
+         "Fairy Tail - Luna",
+         "Left Arm Offering",
+         "Magical Abductor",
+         "Magical Blast",
+         "Magical Citadel of Endymion",
+         "Magical Exemplar",
+         "Magical Something",
+         "Magister of Endymion",
+         "Mythical Beast Cerberus",
+         "Mythical Beast Medusa",
+         "Mythical Bestiamorph",
+         "Pitch-Black Power Stone",
+         "Pot of Desires",
+         "Servant of Endymion",
+         "Spell Power Mastery"
+      ],
+      "cardsMissing": 24,
+      "releaseDate": "2019-04-19"
+   },
+   {
+      "deck": "Structure Deck: Rokket Revolt",
+      "cards": [
+         "Absorouter Dragon",
+         "Anesthrokket Dragon",
+         "Autorokket Dragon",
+         "Boot Sector Launch",
+         "Borrel Regenerator",
+         "Borrel Supplier",
+         "Borreload Dragon",
+         "Borreload Furious Dragon",
+         "Checksum Dragon",
+         "Dragon Knight of Creation",
+         "Execute Protocols",
+         "Exploderokket Dragon",
+         "Gateway Dragon",
+         "Keeper of the Shrine",
+         "Labradorite Dragon",
+         "Link Turret",
+         "Magnarokket Dragon",
+         "Metalrokket Dragon",
+         "Mirror Force Launcher",
+         "Paladin of Felgrand",
+         "Quadborrel Dragon",
+         "Quick Launch",
+         "Raiden, Hand of the Lightsworn",
+         "Rapid Trigger",
+         "Return of the Dragon Lords",
+         "Rokket Recharger",
+         "Rokket Synchron",
+         "Rokket Tracer",
+         "Ruins of the Divine Dragon Lords",
+         "Shelrokket Dragon",
+         "Silverrokket Dragon",
+         "Squib Draw",
+         "Topologic Zeroboros",
+         "Triple Burst Dragon",
+         "World Chalice Guardragon",
+         "Zero-Day Blaster"
+      ],
+      "limitedCards": [
+         "Imperial Order"
+      ],
+      "cardsMissing": 36,
+      "releaseDate": "2019-08-15"
+   },
+   {
+      "deck": "Structure Deck: Shaddoll Showdown",
+      "cards": [
+         "Allure of Darkness",
+         "Curse of the Shadow Prison",
+         "El Shaddoll Anoyatyllis",
+         "El Shaddoll Apkallone",
+         "El Shaddoll Construct",
+         "El Shaddoll Fusion",
+         "El Shaddoll Shekhinaga",
+         "El Shaddoll Winda",
+         "Fairy Tail - Sleeper",
+         "Felis, Lightsworn Archer",
+         "Kuribandit",
+         "Lava Golem",
+         "Naelshaddoll Ariel",
+         "Necro Fusion",
+         "Performage Trick Clown",
+         "Purushaddoll Aeon",
+         "Qadshaddoll Keios",
+         "Shaddoll Beast",
+         "Shaddoll Construct",
+         "Shaddoll Core",
+         "Shaddoll Fusion",
+         "Shaddoll Hedgehog",
+         "Shaddoll Hound",
+         "Shaddoll Squamata",
+         "Shaddoll Zefracore",
+         "Shaddoll Zefranaga",
+         "Sinister Shadow Games",
+         "Subterror Succession",
+         "Unending Nightmare"
+      ],
+      "limitedCards": [
+         "Armageddon Knight",
+         "Foolish Burial",
+         "Pot of Avarice"
+      ],
+      "cardsMissing": 29,
+      "releaseDate": "2020-02-13"
+   },
+   {
+      "deck": "Structure Deck: Mechanized Madness",
+      "cards": [],
+      "limitedCards": [
+         "Genex Ally Birdman"
+      ],
+      "cardsMissing": 0,
+      "releaseDate": "2020-04-16"
+   },
+   {
+      "deck": "Structure Deck: Sacred Beasts",
+      "cards": [
+         "Armityle the Chaos Phantasm",
+         "Awakening of the Sacred Beasts",
+         "Cerulean Skyfire",
+         "Chaos Core",
+         "Chaos Hunter",
+         "Chaos Summoning Beast",
+         "Danger! Chupacabra!",
+         "Dark Beckoning Beast",
+         "Dark Factory of More Production",
+         "Dark Summoning Beast",
+         "Dimension Fusion Destruction",
+         "Escape from the Dark Dimension",
+         "Fallen Paradise",
+         "Field Barrier",
+         "Hyper Blaze",
+         "Imperial Custom",
+         "Mistake",
+         "Mound of the Bound Creator",
+         "Opening of the Spirit Gates",
+         "Owner's Seal",
+         "Phantasm Emperor Trilojig",
+         "Phantasm Token",
+         "Phantasmal Martyr Token",
+         "Phantasmal Martyrs",
+         "Pot of Desires",
+         "Radian, the Multidimensional Kaiju",
+         "Raviel, Lord of Phantasms - Shimmering Scraper",
+         "Shapesister",
+         "Spell Chronicle",
+         "Stygian Street Patrol",
+         "Swords of Concealing Light",
+         "The Beginning of the End",
+         "The Fabled Cerburrel"
+      ],
+      "limitedCards": [
+         "One for One",
+         "Phantom Skyblaster",
+         "Set Rotation",
+         "Terraforming"
+      ],
+      "cardsMissing": 33,
+      "releaseDate": "2020-07-09"
+   },
+   {
+      "deck": "Structure Deck: Spirit Charmers",
+      "cards": [
+         "Aussa the Earth Charmer",
+         "Awakening of the Possessed",
+         "Awakening of the Possessed - Greater Inari Fire",
+         "Dark Doriado",
+         "Fairy Tail - Luna",
+         "Fairy Tail - Rella",
+         "Fairy Tail - Sleeper",
+         "Familiar-Possessed - Hiita",
+         "Grand Spiritual Art - Ichirin",
+         "Hiita the Fire Charmer",
+         "Inari Fire",
+         "Jigabyte",
+         "Nefarious Archfiend Eater of Nefariousness",
+         "Possessed Partnerships",
+         "Ranryu",
+         "Secret Village of the Spellcasters",
+         "Spellbook of Knowledge",
+         "Spiritual Wind Art - Miyabi",
+         "Twin Twisters",
+         "Unpossessed",
+         "Witchcrafter Golem Aruru",
+         "Wynn the Wind Charmer"
+      ],
+      "limitedCards": [
+         "Metaverse",
+         "Raigeki",
+         "Terraforming"
+      ],
+      "cardsMissing": 22,
+      "releaseDate": "2020-10-22"
+   },
+   {
+      "deck": "Structure Deck: Freezing Chains",
+      "cards": [
+         "Appointer of the Red Lotus",
+         "Blizzed, Defender of the Ice Barrier",
+         "Cryomancer of the Ice Barrier",
+         "Dai-sojo of the Ice Barrier",
+         "Dance Princess of the Ice Barrier",
+         "Defender of the Ice Barrier",
+         "Dupe Frog",
+         "Freezing Chains of the Ice Barrier",
+         "General Gantala of the Ice Barrier",
+         "General Grunard of the Ice Barrier",
+         "General Raiho of the Ice Barrier",
+         "General Wayne of the Ice Barrier",
+         "Genex Controller",
+         "Gungnir, Dragon of the Ice Barrier",
+         "Hexa Spirit of the Ice Barrier",
+         "Medallion of the Ice Barrier",
+         "Medium of the Ice Barrier",
+         "Mind Drain",
+         "Mirror of the Ice Barrier",
+         "Revealer of the Ice Barrier",
+         "Ronintoadin",
+         "Silent Angler",
+         "Speaker for the Ice Barriers",
+         "Spellbreaker of the Ice Barrier",
+         "Strategist of the Ice Barrier",
+         "Surface",
+         "Terror of Trishula",
+         "Trishula, Zero Dragon of the Ice Barrier",
+         "Warlock of the Ice Barrier",
+         "Winds Over the Ice Barrier",
+         "Zuijin of the Ice Barrier"
+      ],
+      "limitedCards": [
+         "Dewloren, Tiger King of the Ice Barrier",
+         "Trishula, Dragon of the Ice Barrier"
+      ],
+      "cardsMissing": 31,
+      "releaseDate": "2021-02-18"
+   },
+   {
+      "deck": "Structure Deck: Cyber Strike",
+      "cards": [],
+      "cardsMissing": 0,
+      "releaseDate": "2021-10-14"
+   },
+   {
+      "deck": "Structure Deck: Albaz Strike",
+      "cards": [
+         "Albion the Branded Dragon",
+         "Albion the Shrouded Dragon",
+         "Artifact Scythe",
+         "Branded Bond",
+         "Branded Fusion",
+         "Branded Lost",
+         "Branded Retribution",
+         "Branded Sword",
+         "Branded in White",
+         "Brigrand the Glory Dragon",
+         "Chaos Dragon Levianeer",
+         "Dark Ruler No More",
+         "Dogmatika Fleurdelis, the Knighted",
+         "Fallen of Albaz",
+         "Fusion Substitute",
+         "Judgment of the Branded",
+         "Keeper of Dragon Magic",
+         "Lubellion the Searing Dragon",
+         "Mirrorjade the Iceblade Dragon",
+         "Necro Fusion",
+         "Omni Dragon Brotaur",
+         "Pot of Extravagance",
+         "Radian, the Multidimensional Kaiju",
+         "Red-Eyes Darkness Metal Dragon",
+         "Screams of the Branded",
+         "Sprind the Irondash Dragon",
+         "Springans Kitt",
+         "Starliege Seyfert",
+         "The Golden Swordsoul",
+         "Thunder King, the Lightningstrike Kaiju",
+         "Titaniklad the Ash Dragon",
+         "Tri-Brigade Mercourier",
+         "Waking the Dragon",
+         "Warning Point"
+      ],
+      "limitedCards": [
+         "Black Dragon Collapserpent",
+         "Called by the Grave",
+         "Gold Sarcophagus",
+         "White Dragon Wyverburster"
+      ],
+      "cardsMissing": 34,
+      "releaseDate": "2022-04-14"
+   },
+   {
+      "deck": "Structure Deck: Legend of the Crystal Beasts",
+      "cards": [],
+      "limitedCards": [
+         "Metaverse"
+      ],
+      "cardsMissing": 0,
+      "releaseDate": "2022-09-29"
+   },
+   {
+      "deck": "Structure Deck: Dark World",
+      "cards": [],
+      "limitedCards": [
+         "Card Destruction",
+         "Danger!? Tsuchinoko?"
+      ],
+      "cardsMissing": 0,
+      "releaseDate": "2022-12-01"
+   }
+]

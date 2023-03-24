@@ -1,0 +1,344 @@
+{
+   "deck1": {
+      "name": "[E] Brainwashing Beatdown.json",
+      "cardsFound": [
+         {
+            "card": "Battle Fader",
+            "code": "BP01-EN211"
+         },
+         {
+            "card": "Battle Fader",
+            "code": "BP01-EN211"
+         },
+         {
+            "card": "Cyber Valley",
+            "code": "BP01-EN197"
+         },
+         {
+            "card": "Cyber Valley",
+            "code": "BP01-EN197"
+         },
+         {
+            "card": "Dandylion",
+            "code": "ABPF-ENSE1"
+         },
+         {
+            "card": "Grinder Golem",
+            "code": "DP07-EN009"
+         },
+         {
+            "card": "Lava Golem",
+            "code": "SDMA-EN014"
+         },
+         {
+            "card": "Lava Golem",
+            "code": "SDSH-EN013"
+         },
+         {
+            "card": "Lava Golem",
+            "code": "SS05-ENB01"
+         },
+         {
+            "card": "Heavy Storm",
+            "code": "BP01-EN038"
+         },
+         {
+            "card": "Magic Planter",
+            "code": "SDSB-EN031"
+         },
+         {
+            "card": "Mystical Space Typhoon",
+            "code": "HSRD-EN053"
+         },
+         {
+            "card": "Owner's Seal",
+            "code": "SDSA-EN030"
+         },
+         {
+            "card": "Compulsory Evacuation Device",
+            "code": "BP01-EN099"
+         },
+         {
+            "card": "Compulsory Evacuation Device",
+            "code": "BP01-EN099"
+         },
+         {
+            "card": "Fiendish Chain",
+            "code": "SDBE-EN034"
+         },
+         {
+            "card": "Fiendish Chain",
+            "code": "SDBE-EN034"
+         },
+         {
+            "card": "Fiendish Chain",
+            "code": "BP01-SP105"
+         },
+         {
+            "card": "Mirror Force",
+            "code": "YGLD-ENB33"
+         },
+         {
+            "card": "Nightmare Archfiends",
+            "code": "SR04-EN035"
+         },
+         {
+            "card": "Scrap-Iron Scarecrow",
+            "code": "SDSE-EN035"
+         },
+         {
+            "card": "Scrap-Iron Scarecrow",
+            "code": "5DS1-EN032"
+         },
+         {
+            "card": "Solemn Judgment",
+            "code": "SDLS-EN038"
+         },
+         {
+            "card": "Starlight Road",
+            "code": "DPCT-EN004"
+         },
+         {
+            "card": "Stardust Dragon",
+            "code": "DUPO-EN103"
+         },
+         {
+            "card": "Stardust Dragon",
+            "code": "CT07-EN021"
+         },
+         {
+            "card": "Stardust Dragon",
+            "code": "TDGS-EN040"
+         }
+      ],
+      "cardsNotFound": [
+         "Grinder Golem",
+         "Grinder Golem",
+         "Reptilianne Vaskii",
+         "Volcanic Queen",
+         "Volcanic Queen",
+         "Volcanic Queen",
+         "Magic Planter",
+         "Owner's Seal",
+         "Owner's Seal",
+         "Upstart Goblin",
+         "Upstart Goblin",
+         "Upstart Goblin",
+         "Nightmare Archfiends",
+         "Remove Brainwashing",
+         "Remove Brainwashing",
+         "Remove Brainwashing",
+         "Chimeratech Fortress Dragon",
+         "Chimeratech Fortress Dragon",
+         "Chimeratech Fortress Dragon"
+      ],
+      "completed": 58.69565217391305
+   },
+   "deck2": {
+      "name": "rbet3Jay4-Diva Zom.json",
+      "cardsFound": [
+         {
+            "card": "Armageddon Knight",
+            "code": "LEHD-ENC06"
+         },
+         {
+            "card": "Card Trooper",
+            "code": "RYMP-EN006"
+         },
+         {
+            "card": "Dark Armed Dragon",
+            "code": "SDDC-EN012"
+         },
+         {
+            "card": "Dark Grepher",
+            "code": "DASA-EN042"
+         },
+         {
+            "card": "Deep Sea Diva",
+            "code": "RGBT-EN035"
+         },
+         {
+            "card": "Deep Sea Diva",
+            "code": "RGBT-EN035"
+         },
+         {
+            "card": "Deep Sea Diva",
+            "code": "SDRE-EN010"
+         },
+         {
+            "card": "Destiny HERO - Malicious",
+            "code": "LEHD-ENA04"
+         },
+         {
+            "card": "Destiny HERO - Malicious",
+            "code": "LEHD-ENA04"
+         },
+         {
+            "card": "Goblin Zombie",
+            "code": "SBAD-EN018"
+         },
+         {
+            "card": "Goblin Zombie",
+            "code": "SBAD-EN018"
+         },
+         {
+            "card": "Gorz the Emissary of Darkness",
+            "code": "GLD5-EN024"
+         },
+         {
+            "card": "Mezuki",
+            "code": "SR07-EN012"
+         },
+         {
+            "card": "Plaguespreader Zombie",
+            "code": "SDSE-EN021"
+         },
+         {
+            "card": "Pyramid Turtle",
+            "code": "GLD5-EN003"
+         },
+         {
+            "card": "Pyramid Turtle",
+            "code": "SD2-EN005"
+         },
+         {
+            "card": "Sangan",
+            "code": "YS12-EN016"
+         },
+         {
+            "card": "Spirit Reaper",
+            "code": "SD2-EN006"
+         },
+         {
+            "card": "Zombie Master",
+            "code": "SDZW-EN016"
+         },
+         {
+            "card": "Allure of Darkness",
+            "code": "RGBT-ENSE2"
+         },
+         {
+            "card": "Book of Life",
+            "code": "SR07-EN027"
+         },
+         {
+            "card": "Book of Life",
+            "code": "DL17-SP014"
+         },
+         {
+            "card": "Book of Life",
+            "code": "PGD-033"
+         },
+         {
+            "card": "Brain Control",
+            "code": "DPYG-SP024"
+         },
+         {
+            "card": "Foolish Burial",
+            "code": "BLHR-EN057"
+         },
+         {
+            "card": "Future Fusion",
+            "code": "SDCS-EN029"
+         },
+         {
+            "card": "Heavy Storm",
+            "code": "BP01-EN038"
+         },
+         {
+            "card": "Mind Control",
+            "code": "DUDE-EN038"
+         },
+         {
+            "card": "Mystical Space Typhoon",
+            "code": "LEHD-ENB23"
+         },
+         {
+            "card": "Reinforcement of the Army",
+            "code": "LEHD-ENC18"
+         },
+         {
+            "card": "Bottomless Trap Hole",
+            "code": "LCYW-SP181"
+         },
+         {
+            "card": "Call of the Haunted",
+            "code": "GLD5-EN046"
+         },
+         {
+            "card": "Mirror Force",
+            "code": "YGLD-ENA37"
+         },
+         {
+            "card": "Phoenix Wing Wind Blast",
+            "code": "SDOK-EN033"
+         },
+         {
+            "card": "Phoenix Wing Wind Blast",
+            "code": "SDOK-EN033"
+         },
+         {
+            "card": "Phoenix Wing Wind Blast",
+            "code": "SDOK-EN033"
+         },
+         {
+            "card": "Return from the Different Dimension",
+            "code": "EP1-EN008"
+         },
+         {
+            "card": "Torrential Tribute",
+            "code": "DL18-SP016"
+         },
+         {
+            "card": "Trap Dustshoot",
+            "code": "PGD-049"
+         },
+         {
+            "card": "Elemental HERO Absolute Zero",
+            "code": "BLHR-EN065"
+         },
+         {
+            "card": "Ally of Justice Catastor",
+            "code": "CT10-EN006"
+         },
+         {
+            "card": "Armory Arm",
+            "code": "HAC1-EN176"
+         },
+         {
+            "card": "Black Rose Dragon",
+            "code": "DUDE-EN010"
+         },
+         {
+            "card": "Brionac, Dragon of the Ice Barrier",
+            "code": "DUDE-EN008"
+         },
+         {
+            "card": "Colossal Fighter",
+            "code": "5DS1-EN043"
+         },
+         {
+            "card": "Goyo Guardian",
+            "code": "TDGS-EN042"
+         },
+         {
+            "card": "Mist Wurm",
+            "code": "HA01-EN023"
+         },
+         {
+            "card": "Thought Ruler Archfiend",
+            "code": "BROL-EN070"
+         }
+      ],
+      "cardsNotFound": [
+         "Solemn Judgment",
+         "Chimeratech Fortress Dragon",
+         "Dark End Dragon",
+         "Doomkaiser Dragon",
+         "Flamvell Uruquizas",
+         "Revived King Ha Des",
+         "Stardust Dragon"
+      ],
+      "completed": 87.27272727272727
+   }
+}

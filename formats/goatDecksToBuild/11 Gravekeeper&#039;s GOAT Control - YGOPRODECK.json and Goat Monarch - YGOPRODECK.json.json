@@ -1,0 +1,382 @@
+{
+   "deck1": {
+      "name": "Gravekeeper&#039;s GOAT Control - YGOPRODECK.json",
+      "cardsFound": [
+         {
+            "card": "Book of Moon",
+            "location": "Battle pack cube (Battle City Box)",
+            "code": "YS16-EN027"
+         },
+         {
+            "card": "Graceful Charity",
+            "location": "Battle pack cube (Battle City Box)",
+            "code": "BP01-EN036"
+         },
+         {
+            "card": "Pot of Greed",
+            "location": "Battle pack cube (Battle City Box)",
+            "code": "YGLD-ENB26"
+         },
+         {
+            "card": "Compulsory Evacuation Device",
+            "location": "Battle pack cube (Battle City Box)",
+            "code": "YS18-EN040"
+         },
+         {
+            "card": "Dust Tornado",
+            "location": "Battle pack cube (Battle City Box)",
+            "code": "SBAD-EN043"
+         },
+         {
+            "card": "Mystical Space Typhoon",
+            "location": "Goat & Edison (Duel Devastator Blue)",
+            "code": "YS16-EN025"
+         },
+         {
+            "card": "Compulsory Evacuation Device",
+            "location": "Goat & Edison (Duel Devastator Blue)",
+            "code": "BP01-EN099"
+         },
+         {
+            "card": "Mirror Force",
+            "location": "Goat & Edison (Duel Devastator Blue)",
+            "code": "YGLD-ENB33"
+         },
+         {
+            "card": "Ring of Destruction",
+            "location": "Goat & Edison (Duel Devastator Blue)",
+            "code": "LCKC-EN050"
+         },
+         {
+            "card": "Gravekeeper's Assailant",
+            "location": "Speed duel (Duel Devastator Green)",
+            "code": "SS01-ENB06"
+         },
+         {
+            "card": "Gravekeeper's Assailant",
+            "location": "Speed duel (Duel Devastator Green)",
+            "code": "SS01-ENB06"
+         },
+         {
+            "card": "Gravekeeper's Assailant",
+            "location": "Speed duel (Duel Devastator Green)",
+            "code": "SS01-ENB06"
+         },
+         {
+            "card": "Gravekeeper's Spear Soldier",
+            "location": "Speed duel (Duel Devastator Green)",
+            "code": "SS01-ENB02"
+         },
+         {
+            "card": "Gravekeeper's Spear Soldier",
+            "location": "Speed duel (Duel Devastator Green)",
+            "code": "SS01-ENB02"
+         },
+         {
+            "card": "Gravekeeper's Spear Soldier",
+            "location": "Speed duel (Duel Devastator Green)",
+            "code": "SS01-ENB02"
+         },
+         {
+            "card": "Book of Moon",
+            "location": "Speed duel (Duel Devastator Green)",
+            "code": "SBCB-EN013"
+         },
+         {
+            "card": "Book of Moon",
+            "location": "Speed duel (Duel Devastator Green)",
+            "code": "SBCB-EN013"
+         },
+         {
+            "card": "Nobleman of Crossout",
+            "location": "Speed duel (Duel Devastator Green)",
+            "code": "SBCB-EN138"
+         },
+         {
+            "card": "Nobleman of Crossout",
+            "location": "Speed duel (Duel Devastator Green)",
+            "code": "SBCB-EN138"
+         },
+         {
+            "card": "Gravekeeper's Guard",
+            "location": "Structure decks (Sticker)",
+            "code": "SDMA-EN009"
+         },
+         {
+            "card": "Gravekeeper's Spy",
+            "location": "Structure decks (Sticker)",
+            "code": "SDMA-EN007"
+         },
+         {
+            "card": "Gravekeeper's Spy",
+            "location": "Structure decks (Sticker)",
+            "code": "SDMA-EN007"
+         },
+         {
+            "card": "Tsukuyomi",
+            "location": "Structure decks (Sticker)",
+            "code": "SD6-EN011"
+         },
+         {
+            "card": "Necrovalley",
+            "location": "Structure decks (Sticker)",
+            "code": "SDMA-EN025"
+         },
+         {
+            "card": "Necrovalley",
+            "location": "Structure decks (Sticker)",
+            "code": "SDMA-EN025"
+         },
+         {
+            "card": "Terraforming",
+            "location": "Structure decks (Sticker)",
+            "code": "LEHD-ENA25"
+         },
+         {
+            "card": "Terraforming",
+            "location": "Structure decks (Sticker)",
+            "code": "LEHD-ENA25"
+         },
+         {
+            "card": "Solemn Judgment",
+            "location": "Structure decks (Sticker)",
+            "code": "SDLS-EN038"
+         },
+         {
+            "card": "Gravekeeper's Guard",
+            "location": "Structure decks backup (Duel Devastator Yellow)",
+            "code": "LCYW-SP184"
+         },
+         {
+            "card": "Gravekeeper's Spy",
+            "location": "Structure decks backup (Duel Devastator Yellow)",
+            "code": "SDMA-EN007"
+         },
+         {
+            "card": "Necrovalley",
+            "location": "Structure decks backup (Duel Devastator Yellow)",
+            "code": "SDMA-EN025"
+         },
+         {
+            "card": "Terraforming",
+            "location": "Structure decks backup (Duel Devastator Yellow)",
+            "code": "LEHD-ENA25"
+         },
+         {
+            "card": "Compulsory Evacuation Device",
+            "location": "Structure decks backup (Duel Devastator Yellow)",
+            "code": "YSD-EN038"
+         }
+      ],
+      "cardsNotFound": [
+         "Gravekeeper's Guard",
+         "Tsukuyomi",
+         "Delinquent Duo",
+         "My Body as a Shield",
+         "My Body as a Shield",
+         "Solemn Judgment",
+         "Solemn Judgment"
+      ],
+      "completed": 82.5
+   },
+   "deck2": {
+      "name": "Goat Monarch - YGOPRODECK.json",
+      "cardsFound": [
+         {
+            "card": "Mobius the Frost Monarch",
+            "location": "Battle pack cube (Battle City Box)",
+            "code": "BP01-EN009"
+         },
+         {
+            "card": "Airknight Parshath",
+            "location": "Battle pack cube (Battle City Box)",
+            "code": "SBCB-EN132"
+         },
+         {
+            "card": "Breaker the Magical Warrior",
+            "location": "Battle pack cube (Battle City Box)",
+            "code": "YSYR-EN015"
+         },
+         {
+            "card": "Cyber Jar",
+            "location": "Battle pack cube (Battle City Box)",
+            "code": ""
+         },
+         {
+            "card": "Sinister Serpent",
+            "location": "Battle pack cube (Battle City Box)",
+            "code": "SBAD-EN037"
+         },
+         {
+            "card": "Soul Exchange",
+            "location": "Battle pack cube (Battle City Box)",
+            "code": "SBCB-EN098"
+         },
+         {
+            "card": "Ring of Destruction",
+            "location": "Battle pack cube (Battle City Box)",
+            "code": "BP01-EN050"
+         },
+         {
+            "card": "Call of the Haunted",
+            "location": "Battle pack cube (Battle City Box)",
+            "code": "YS18-EN035"
+         },
+         {
+            "card": "Swords of Revealing Light",
+            "location": "Goat & Edison (Duel Devastator Blue)",
+            "code": "EGS1-EN021"
+         },
+         {
+            "card": "Graceful Charity",
+            "location": "Goat & Edison (Duel Devastator Blue)",
+            "code": "SDP-040"
+         },
+         {
+            "card": "Brain Control",
+            "location": "Goat & Edison (Duel Devastator Blue)",
+            "code": "EGO1-EN023"
+         },
+         {
+            "card": "Raigeki Break",
+            "location": "Goat & Edison (Duel Devastator Blue)",
+            "code": "LCYW-SP286"
+         },
+         {
+            "card": "Raigeki Break",
+            "location": "Goat & Edison (Duel Devastator Blue)",
+            "code": "YS16-EN035"
+         },
+         {
+            "card": "Mirror Force",
+            "location": "Goat & Edison (Duel Devastator Blue)",
+            "code": "DASA-EN059"
+         },
+         {
+            "card": "Torrential Tribute",
+            "location": "Goat & Edison (Duel Devastator Blue)",
+            "code": "TU05-SP009"
+         },
+         {
+            "card": "Airknight Parshath",
+            "location": "Speed duel (Duel Devastator Green)",
+            "code": "SBCB-EN132"
+         },
+         {
+            "card": "Soul Exchange",
+            "location": "Speed duel (Duel Devastator Green)",
+            "code": "SBCB-EN098"
+         },
+         {
+            "card": "Nobleman of Crossout",
+            "location": "Speed duel (Duel Devastator Green)",
+            "code": "SBCB-EN138"
+         },
+         {
+            "card": "Nobleman of Crossout",
+            "location": "Speed duel (Duel Devastator Green)",
+            "code": "SBCB-EN138"
+         },
+         {
+            "card": "Thestalos the Firestorm Monarch",
+            "location": "Structure decks (Sticker)",
+            "code": "SR01-EN008"
+         },
+         {
+            "card": "Thestalos the Firestorm Monarch",
+            "location": "Structure decks (Sticker)",
+            "code": "SR01-SP008"
+         },
+         {
+            "card": "Mystic Tomato",
+            "location": "Structure decks (Sticker)",
+            "code": "LCYW-EN239"
+         },
+         {
+            "card": "Mystic Tomato",
+            "location": "Structure decks (Sticker)",
+            "code": "DLG1-EN077"
+         },
+         {
+            "card": "Sangan",
+            "location": "Structure decks (Sticker)",
+            "code": "YS12-EN016"
+         },
+         {
+            "card": "Heavy Storm",
+            "location": "Structure decks (Sticker)",
+            "code": "SD8-EN022"
+         },
+         {
+            "card": "Pot of Greed",
+            "location": "Structure decks (Sticker)",
+            "code": "SD2-EN017"
+         },
+         {
+            "card": "Snatch Steal",
+            "location": "Structure decks (Sticker)",
+            "code": "SD2-EN013"
+         },
+         {
+            "card": "Premature Burial",
+            "location": "Structure decks (Sticker)",
+            "code": "SD3-EN018"
+         },
+         {
+            "card": "Mobius the Frost Monarch",
+            "location": "Structure decks backup (Duel Devastator Yellow)",
+            "code": "SD4-EN012"
+         },
+         {
+            "card": "Mobius the Frost Monarch",
+            "location": "Structure decks backup (Duel Devastator Yellow)",
+            "code": "GLD2-EN007"
+         },
+         {
+            "card": "Mystic Tomato",
+            "location": "Structure decks backup (Duel Devastator Yellow)",
+            "code": "5DS1-EN017"
+         },
+         {
+            "card": "Soul Exchange",
+            "location": "Structure decks backup (Duel Devastator Yellow)",
+            "code": "YSKR-EN029"
+         },
+         {
+            "card": "Brain Control",
+            "location": "Structure decks backup (Duel Devastator Yellow)",
+            "code": "SDDE-EN027"
+         },
+         {
+            "card": "Brain Control",
+            "location": "Structure decks backup (Duel Devastator Yellow)",
+            "code": "SDDE-EN027"
+         },
+         {
+            "card": "Phoenix Wing Wind Blast",
+            "location": "Structure decks backup (Duel Devastator Yellow)",
+            "code": "SDOK-EN033"
+         },
+         {
+            "card": "Phoenix Wing Wind Blast",
+            "location": "Structure decks backup (Duel Devastator Yellow)",
+            "code": "SDOK-EN033"
+         },
+         {
+            "card": "Compulsory Evacuation Device",
+            "location": "Structure decks backup (Duel Devastator Yellow)",
+            "code": "IOC-103"
+         },
+         {
+            "card": "Compulsory Evacuation Device",
+            "location": "Structure decks backup (Duel Devastator Yellow)",
+            "code": "SDHS-EN039"
+         }
+      ],
+      "cardsNotFound": [
+         "Thestalos the Firestorm Monarch",
+         "Delinquent Duo"
+      ],
+      "completed": 95
+   }
+}

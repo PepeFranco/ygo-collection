@@ -1,0 +1,344 @@
+{
+   "deck1": {
+      "name": "[E] - Aliens.json",
+      "cardsFound": [
+         {
+            "card": "Thunder King Rai-Oh",
+            "code": "RYMP-SP074"
+         },
+         {
+            "card": "Thunder King Rai-Oh",
+            "code": "RYMP-SP074"
+         },
+         {
+            "card": "Book of Moon",
+            "code": "BP01-EN072"
+         },
+         {
+            "card": "Prohibition",
+            "code": "PSV-039"
+         },
+         {
+            "card": "Prohibition",
+            "code": "SDMM-EN022"
+         },
+         {
+            "card": "Swords of Revealing Light",
+            "code": "SYE-039"
+         },
+         {
+            "card": "Call of the Haunted",
+            "code": "GLD5-EN046"
+         },
+         {
+            "card": "Fiendish Chain",
+            "code": "SDBE-EN034"
+         },
+         {
+            "card": "Fiendish Chain",
+            "code": "SDBE-EN034"
+         },
+         {
+            "card": "Fiendish Chain",
+            "code": "BP01-SP105"
+         },
+         {
+            "card": "Gravity Bind",
+            "code": "PSV-073"
+         },
+         {
+            "card": "Mirror Force",
+            "code": "YGLD-ENB33"
+         },
+         {
+            "card": "Solemn Judgment",
+            "code": "SDLS-EN038"
+         },
+         {
+            "card": "Starlight Road",
+            "code": "DPCT-EN004"
+         },
+         {
+            "card": "Trap Dustshoot",
+            "code": "PGD-049"
+         },
+         {
+            "card": "Ally of Justice Catastor",
+            "code": "CT10-EN006"
+         },
+         {
+            "card": "Ally of Justice Catastor",
+            "code": "DUDE-EN007"
+         },
+         {
+            "card": "Black Rose Dragon",
+            "code": "DUDE-EN010"
+         },
+         {
+            "card": "Brionac, Dragon of the Ice Barrier",
+            "code": "DUDE-EN008"
+         },
+         {
+            "card": "Colossal Fighter",
+            "code": "5DS1-EN043"
+         },
+         {
+            "card": "Goyo Guardian",
+            "code": "TDGS-EN042"
+         },
+         {
+            "card": "Stardust Dragon",
+            "code": "DUPO-EN103"
+         },
+         {
+            "card": "Stardust Dragon",
+            "code": "CT07-EN021"
+         },
+         {
+            "card": "Mist Wurm",
+            "code": "HA01-EN023"
+         }
+      ],
+      "cardsNotFound": [
+         "Alien Ammonite",
+         "Alien Ammonite",
+         "Alien Ammonite",
+         "Alien Kid",
+         "Alien Kid",
+         "Alien Kid",
+         "Alien Overlord",
+         "Alien Telepath",
+         "Alien Warrior",
+         "Alien Warrior",
+         "Alien Warrior",
+         "Oshaleon",
+         "Alien Shocktrooper",
+         "Alien Shocktrooper",
+         "Alien Shocktrooper",
+         "Ancient Forest",
+         "Ancient Forest",
+         "Code A Ancient Ruins",
+         "Code A Ancient Ruins",
+         "Messenger of Peace",
+         "Messenger of Peace",
+         "Offering to the Snake Deity",
+         "Offering to the Snake Deity",
+         "Planet Pollutant Virus",
+         "Planet Pollutant Virus",
+         "Chimeratech Fortress Dragon",
+         "Chimeratech Fortress Dragon",
+         "Ancient Fairy Dragon",
+         "Cosmic Fortress Gol'gar",
+         "Cosmic Fortress Gol'gar",
+         "Cosmic Fortress Gol'gar"
+      ],
+      "completed": 43.63636363636363
+   },
+   "deck2": {
+      "name": "Quickdraw Zombies.json",
+      "cardsFound": [
+         {
+            "card": "Chaos Sorcerer",
+            "code": "DR2-EN023"
+         },
+         {
+            "card": "Dandylion",
+            "code": "ABPF-ENSE1"
+         },
+         {
+            "card": "Dandylion",
+            "code": "SR01-SP018"
+         },
+         {
+            "card": "Debris Dragon",
+            "code": "CRMs-SP002"
+         },
+         {
+            "card": "Debris Dragon",
+            "code": "DP09-EN004"
+         },
+         {
+            "card": "Goblin Zombie",
+            "code": "SBAD-EN018"
+         },
+         {
+            "card": "Goblin Zombie",
+            "code": "SBAD-EN018"
+         },
+         {
+            "card": "Lonefire Blossom",
+            "code": "PTDN-EN088"
+         },
+         {
+            "card": "Lonefire Blossom",
+            "code": "PTDN-EN088"
+         },
+         {
+            "card": "Mezuki",
+            "code": "SR07-EN012"
+         },
+         {
+            "card": "Plaguespreader Zombie",
+            "code": "SDSE-EN021"
+         },
+         {
+            "card": "Pyramid Turtle",
+            "code": "GLD5-EN003"
+         },
+         {
+            "card": "Quickdraw Synchron",
+            "code": "5DS3-EN018"
+         },
+         {
+            "card": "Quickdraw Synchron",
+            "code": "DP09-EN010"
+         },
+         {
+            "card": "Ryko, Lightsworn Hunter",
+            "code": "LODT-EN022"
+         },
+         {
+            "card": "Ryko, Lightsworn Hunter",
+            "code": "LODT-EN022"
+         },
+         {
+            "card": "Ryko, Lightsworn Hunter",
+            "code": "SDLI-EN015"
+         },
+         {
+            "card": "Sangan",
+            "code": "YS12-EN016"
+         },
+         {
+            "card": "Zombie Master",
+            "code": "SDZW-EN016"
+         },
+         {
+            "card": "Zombie Master",
+            "code": "SDZW-EN016"
+         },
+         {
+            "card": "Book of Moon",
+            "code": "SBCB-EN013"
+         },
+         {
+            "card": "Book of Moon",
+            "code": "SGX1-ENI15"
+         },
+         {
+            "card": "Brain Control",
+            "code": "DPYG-SP024"
+         },
+         {
+            "card": "Foolish Burial",
+            "code": "BLHR-EN057"
+         },
+         {
+            "card": "Heavy Storm",
+            "code": "BP01-EN038"
+         },
+         {
+            "card": "Mystical Space Typhoon",
+            "code": "HSRD-EN053"
+         },
+         {
+            "card": "Pot of Avarice",
+            "code": "AP02-SP019"
+         },
+         {
+            "card": "Pot of Avarice",
+            "code": "SR10-EN031"
+         },
+         {
+            "card": "Pot of Avarice",
+            "code": "EGO1-EN026"
+         },
+         {
+            "card": "Bottomless Trap Hole",
+            "code": "LCYW-SP181"
+         },
+         {
+            "card": "Bottomless Trap Hole",
+            "code": "DB2-EN201"
+         },
+         {
+            "card": "Call of the Haunted",
+            "code": "SBLS-ENS03"
+         },
+         {
+            "card": "Dimensional Prison",
+            "code": "NKRT-EN034"
+         },
+         {
+            "card": "Dimensional Prison",
+            "code": "RYMP-EN084"
+         },
+         {
+            "card": "Dust Tornado",
+            "code": "SBAD-EN043"
+         },
+         {
+            "card": "Dust Tornado",
+            "code": "YS11-EN033"
+         },
+         {
+            "card": "Mirror Force",
+            "code": "YGLD-ENA37"
+         },
+         {
+            "card": "Starlight Road",
+            "code": "TOCH-EN060"
+         },
+         {
+            "card": "Torrential Tribute",
+            "code": "DL18-SP016"
+         },
+         {
+            "card": "Ally of Justice Catastor",
+            "code": "DUDE-EN007"
+         },
+         {
+            "card": "Brionac, Dragon of the Ice Barrier",
+            "code": "DUDE-EN008"
+         },
+         {
+            "card": "Drill Warrior",
+            "code": "DP10-EN018"
+         },
+         {
+            "card": "Drill Warrior",
+            "code": "DP10-EN018"
+         },
+         {
+            "card": "Turbo Warrior",
+            "code": "CSOC-EN038"
+         },
+         {
+            "card": "Black Rose Dragon",
+            "code": "DUDE-EN010"
+         },
+         {
+            "card": "Nitro Warrior",
+            "code": "TDGS-EN039"
+         },
+         {
+            "card": "Red Dragon Archfiend",
+            "code": "CT05-EN002"
+         },
+         {
+            "card": "Stardust Dragon",
+            "code": "TDGS-EN040"
+         }
+      ],
+      "cardsNotFound": [
+         "Solemn Judgment",
+         "Iron Chain Dragon",
+         "Iron Chain Dragon",
+         "Ancient Fairy Dragon",
+         "Junk Archer",
+         "Stardust Dragon",
+         "Stardust Dragon"
+      ],
+      "completed": 87.27272727272727
+   }
+}

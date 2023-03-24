@@ -1,0 +1,362 @@
+{
+   "deck1": {
+      "name": "EL - 3rd, DeepDrawDragon.json",
+      "cardsFound": [
+         {
+            "card": "Card Trooper",
+            "code": "RYMP-EN006"
+         },
+         {
+            "card": "Debris Dragon",
+            "code": "CRMs-SP002"
+         },
+         {
+            "card": "Debris Dragon",
+            "code": "DP09-EN004"
+         },
+         {
+            "card": "Debris Dragon",
+            "code": "SDCL-EN016"
+         },
+         {
+            "card": "Gorz the Emissary of Darkness",
+            "code": "GLD5-EN024"
+         },
+         {
+            "card": "Red-Eyes Darkness Metal Dragon",
+            "code": "SDAZ-EN007"
+         },
+         {
+            "card": "Red-Eyes Darkness Metal Dragon",
+            "code": "SR02-EN009"
+         },
+         {
+            "card": "Red-Eyes Darkness Metal Dragon",
+            "code": "SR02-EN009"
+         },
+         {
+            "card": "Red-Eyes Wyvern",
+            "code": "SR02-EN010"
+         },
+         {
+            "card": "The White Stone of Legend",
+            "code": "SDDC-EN006"
+         },
+         {
+            "card": "The White Stone of Legend",
+            "code": "SDBE-EN013"
+         },
+         {
+            "card": "The White Stone of Legend",
+            "code": "SDBE-EN013"
+         },
+         {
+            "card": "Tragoedia",
+            "code": "BP01-EN020"
+         },
+         {
+            "card": "White Night Dragon",
+            "code": "BP01-EN016"
+         },
+         {
+            "card": "Blue-Eyes White Dragon",
+            "code": "CT13-EN008"
+         },
+         {
+            "card": "Blue-Eyes White Dragon",
+            "code": "KACB-EN001"
+         },
+         {
+            "card": "Blue-Eyes White Dragon",
+            "code": "MVP1-ENGV4"
+         },
+         {
+            "card": "Flamvell Guard",
+            "code": "YS18-EN012"
+         },
+         {
+            "card": "Card Destruction",
+            "code": "YGLD-ENB27"
+         },
+         {
+            "card": "Cards of Consonance",
+            "code": "SDBE-EN025"
+         },
+         {
+            "card": "Cards of Consonance",
+            "code": "SDBE-EN025"
+         },
+         {
+            "card": "Cards of Consonance",
+            "code": "DP10-EN019"
+         },
+         {
+            "card": "Future Fusion",
+            "code": "SDCS-EN029"
+         },
+         {
+            "card": "Giant Trunade",
+            "code": "5DS2-EN023"
+         },
+         {
+            "card": "Heavy Storm",
+            "code": "BP01-EN038"
+         },
+         {
+            "card": "Instant Fusion",
+            "code": "LCGX-EN095"
+         },
+         {
+            "card": "Magical Stone Excavation",
+            "code": "LEHD-ENA24"
+         },
+         {
+            "card": "Magical Stone Excavation",
+            "code": "LEHD-ENA24"
+         },
+         {
+            "card": "Pot of Avarice",
+            "code": "AP02-SP019"
+         },
+         {
+            "card": "Pot of Avarice",
+            "code": "SR10-EN031"
+         },
+         {
+            "card": "Trade-In",
+            "code": "GLD4-EN043"
+         },
+         {
+            "card": "Trade-In",
+            "code": "SDRL-EN019"
+         },
+         {
+            "card": "Trade-In",
+            "code": "SR02-EN028"
+         },
+         {
+            "card": "Five-Headed Dragon",
+            "code": "LC03-SP004"
+         },
+         {
+            "card": "Ally of Justice Catastor",
+            "code": "CT10-EN006"
+         },
+         {
+            "card": "Armory Arm",
+            "code": "HAC1-EN176"
+         },
+         {
+            "card": "Black Rose Dragon",
+            "code": "DUDE-EN010"
+         },
+         {
+            "card": "Brionac, Dragon of the Ice Barrier",
+            "code": "DUDE-EN008"
+         },
+         {
+            "card": "Colossal Fighter",
+            "code": "5DS1-EN043"
+         },
+         {
+            "card": "Goyo Guardian",
+            "code": "TDGS-EN042"
+         },
+         {
+            "card": "Red Dragon Archfiend",
+            "code": "CT05-EN002"
+         },
+         {
+            "card": "Stardust Dragon",
+            "code": "DUPO-EN103"
+         }
+      ],
+      "cardsNotFound": [
+         "Koa'ki Meiru Drago",
+         "Super Rejuvenation",
+         "Super Rejuvenation",
+         "Super Rejuvenation",
+         "Upstart Goblin",
+         "Upstart Goblin",
+         "Upstart Goblin",
+         "Darkfire Dragon",
+         "Musician King",
+         "Ancient Fairy Dragon",
+         "Dark End Dragon",
+         "Magical Android",
+         "Tempest Magician"
+      ],
+      "completed": 76.36363636363637
+   },
+   "deck2": {
+      "name": "Gravekeepers.json",
+      "cardsFound": [
+         {
+            "card": "Gravekeeper's Assailant",
+            "code": "SDMA-EN013"
+         },
+         {
+            "card": "Gravekeeper's Assailant",
+            "code": "SDMA-EN013"
+         },
+         {
+            "card": "Gravekeeper's Commandant",
+            "code": "SDMA-EN017"
+         },
+         {
+            "card": "Gravekeeper's Commandant",
+            "code": "SDMA-EN017"
+         },
+         {
+            "card": "Gravekeeper's Commandant",
+            "code": "TU02-EN019"
+         },
+         {
+            "card": "Gravekeeper's Descendant",
+            "code": "LCYW-SP192"
+         },
+         {
+            "card": "Gravekeeper's Descendant",
+            "code": "ABPF-EN028"
+         },
+         {
+            "card": "Gravekeeper's Descendant",
+            "code": "SDMA-EN019"
+         },
+         {
+            "card": "Gravekeeper's Guard",
+            "code": "LCYW-SP184"
+         },
+         {
+            "card": "Gravekeeper's Guard",
+            "code": "SDMA-EN009"
+         },
+         {
+            "card": "Gravekeeper's Spy",
+            "code": "GLD4-EN010"
+         },
+         {
+            "card": "Gravekeeper's Spy",
+            "code": "SDMA-EN007"
+         },
+         {
+            "card": "Gravekeeper's Spy",
+            "code": "SDMA-EN007"
+         },
+         {
+            "card": "Morphing Jar",
+            "code": "BP01-EN173"
+         },
+         {
+            "card": "Sangan",
+            "code": "YS12-EN016"
+         },
+         {
+            "card": "Book of Moon",
+            "code": "BP01-EN072"
+         },
+         {
+            "card": "Book of Moon",
+            "code": "SBCB-EN013"
+         },
+         {
+            "card": "Gravekeeper's Stele",
+            "code": "ABPF-EN056"
+         },
+         {
+            "card": "Gravekeeper's Stele",
+            "code": "ABPF-EN056"
+         },
+         {
+            "card": "Mystical Space Typhoon",
+            "code": "HSRD-EN053"
+         },
+         {
+            "card": "Necrovalley",
+            "code": "PGD-084"
+         },
+         {
+            "card": "Necrovalley",
+            "code": "SDMA-EN025"
+         },
+         {
+            "card": "Necrovalley",
+            "code": "SDMA-EN025"
+         },
+         {
+            "card": "Royal Tribute",
+            "code": "DL11-EN017"
+         },
+         {
+            "card": "Royal Tribute",
+            "code": "PGD-091"
+         },
+         {
+            "card": "Royal Tribute",
+            "code": "PGD-091"
+         },
+         {
+            "card": "Smashing Ground",
+            "code": "SDGR-EN025"
+         },
+         {
+            "card": "Bottomless Trap Hole",
+            "code": "LCYW-SP181"
+         },
+         {
+            "card": "Bottomless Trap Hole",
+            "code": "DB2-EN201"
+         },
+         {
+            "card": "Dimensional Prison",
+            "code": "NKRT-EN034"
+         },
+         {
+            "card": "Dimensional Prison",
+            "code": "RYMP-EN084"
+         },
+         {
+            "card": "Mirror Force",
+            "code": "YGLD-ENB33"
+         },
+         {
+            "card": "Skill Drain",
+            "code": "SR13-EN040"
+         },
+         {
+            "card": "Skill Drain",
+            "code": "SR13-EN040"
+         },
+         {
+            "card": "Solemn Judgment",
+            "code": "SDLS-EN038"
+         },
+         {
+            "card": "Starlight Road",
+            "code": "DPCT-EN004"
+         },
+         {
+            "card": "Starlight Road",
+            "code": "TOCH-EN060"
+         },
+         {
+            "card": "Torrential Tribute",
+            "code": "DL18-SP016"
+         },
+         {
+            "card": "Stardust Dragon",
+            "code": "CT07-EN021"
+         },
+         {
+            "card": "Stardust Dragon",
+            "code": "TDGS-EN040"
+         }
+      ],
+      "cardsNotFound": [
+         "Royal Oppression",
+         "Royal Oppression",
+         "Stardust Dragon"
+      ],
+      "completed": 93.02325581395348
+   }
+}

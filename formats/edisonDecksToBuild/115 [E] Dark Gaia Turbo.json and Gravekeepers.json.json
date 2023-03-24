@@ -1,0 +1,341 @@
+{
+   "deck1": {
+      "name": "[E] Dark Gaia Turbo.json",
+      "cardsFound": [
+         {
+            "card": "Dark Armed Dragon",
+            "code": "SDDC-EN012"
+         },
+         {
+            "card": "Dark Mimic LV1",
+            "code": "SS05-ENA18"
+         },
+         {
+            "card": "Doomcaliber Knight",
+            "code": "GLD4-EN023"
+         },
+         {
+            "card": "Doomcaliber Knight",
+            "code": "BP01-EN141"
+         },
+         {
+            "card": "Gorz the Emissary of Darkness",
+            "code": "GLD5-EN024"
+         },
+         {
+            "card": "Manju of the Ten Thousand Hands",
+            "code": "LCYW-SP250"
+         },
+         {
+            "card": "Manju of the Ten Thousand Hands",
+            "code": "TU05-SP012"
+         },
+         {
+            "card": "Morphing Jar",
+            "code": "BP01-EN173"
+         },
+         {
+            "card": "Phantom of Chaos",
+            "code": "BP01-EN196"
+         },
+         {
+            "card": "Valkyrion the Magna Warrior",
+            "code": "YGLD-ENB01"
+         },
+         {
+            "card": "Valkyrion the Magna Warrior",
+            "code": "SBCB-EN022"
+         },
+         {
+            "card": "Valkyrion the Magna Warrior",
+            "code": "SDMY-EN006"
+         },
+         {
+            "card": "The Masked Beast",
+            "code": "SBCB-EN116"
+         },
+         {
+            "card": "The Masked Beast",
+            "code": "SBCB-EN116"
+         },
+         {
+            "card": "Allure of Darkness",
+            "code": "RGBT-ENSE2"
+         },
+         {
+            "card": "Card Destruction",
+            "code": "YGLD-ENB27"
+         },
+         {
+            "card": "Giant Trunade",
+            "code": "5DS2-EN023"
+         },
+         {
+            "card": "Hand Destruction",
+            "code": "DP07-EN018"
+         },
+         {
+            "card": "Hand Destruction",
+            "code": "DP07-EN018"
+         },
+         {
+            "card": "Heavy Storm",
+            "code": "BP01-EN038"
+         },
+         {
+            "card": "Megamorph",
+            "code": "SKE-037"
+         },
+         {
+            "card": "Trade-In",
+            "code": "GLD4-EN043"
+         },
+         {
+            "card": "Trade-In",
+            "code": "SDRL-EN019"
+         },
+         {
+            "card": "Trade-In",
+            "code": "SR02-EN028"
+         },
+         {
+            "card": "Royal Decree",
+            "code": "DUDE-EN051"
+         },
+         {
+            "card": "Royal Decree",
+            "code": "DUDE-EN051"
+         },
+         {
+            "card": "Ally of Justice Catastor",
+            "code": "CT10-EN006"
+         },
+         {
+            "card": "Black Rose Dragon",
+            "code": "DUDE-EN010"
+         },
+         {
+            "card": "Brionac, Dragon of the Ice Barrier",
+            "code": "DUDE-EN008"
+         },
+         {
+            "card": "Colossal Fighter",
+            "code": "5DS1-EN043"
+         },
+         {
+            "card": "Goyo Guardian",
+            "code": "TDGS-EN042"
+         },
+         {
+            "card": "Mist Wurm",
+            "code": "HA01-EN023"
+         },
+         {
+            "card": "Red Dragon Archfiend",
+            "code": "CT05-EN002"
+         },
+         {
+            "card": "Stardust Dragon",
+            "code": "DUPO-EN103"
+         },
+         {
+            "card": "Thought Ruler Archfiend",
+            "code": "BROL-EN070"
+         }
+      ],
+      "cardsNotFound": [
+         "Gaia Plate the Earth Giant",
+         "Gaia Plate the Earth Giant",
+         "Gaia Plate the Earth Giant",
+         "Manju of the Ten Thousand Hands",
+         "Demise, King of Armageddon",
+         "Demise, King of Armageddon",
+         "Contract with the Abyss",
+         "Dark Calling",
+         "Dark Calling",
+         "Dark Calling",
+         "Dark Fusion",
+         "Upstart Goblin",
+         "Upstart Goblin",
+         "Upstart Goblin",
+         "Chimeratech Fortress Dragon",
+         "Chimeratech Fortress Dragon",
+         "Evil HERO Dark Gaia",
+         "Evil HERO Dark Gaia",
+         "Evil HERO Dark Gaia",
+         "Dark End Dragon"
+      ],
+      "completed": 63.63636363636363
+   },
+   "deck2": {
+      "name": "Gravekeepers.json",
+      "cardsFound": [
+         {
+            "card": "Gravekeeper's Assailant",
+            "code": "SDMA-EN013"
+         },
+         {
+            "card": "Gravekeeper's Assailant",
+            "code": "SDMA-EN013"
+         },
+         {
+            "card": "Gravekeeper's Commandant",
+            "code": "SDMA-EN017"
+         },
+         {
+            "card": "Gravekeeper's Commandant",
+            "code": "SDMA-EN017"
+         },
+         {
+            "card": "Gravekeeper's Commandant",
+            "code": "TU02-EN019"
+         },
+         {
+            "card": "Gravekeeper's Descendant",
+            "code": "LCYW-SP192"
+         },
+         {
+            "card": "Gravekeeper's Descendant",
+            "code": "ABPF-EN028"
+         },
+         {
+            "card": "Gravekeeper's Descendant",
+            "code": "SDMA-EN019"
+         },
+         {
+            "card": "Gravekeeper's Guard",
+            "code": "LCYW-SP184"
+         },
+         {
+            "card": "Gravekeeper's Guard",
+            "code": "SDMA-EN009"
+         },
+         {
+            "card": "Gravekeeper's Spy",
+            "code": "GLD4-EN010"
+         },
+         {
+            "card": "Gravekeeper's Spy",
+            "code": "SDMA-EN007"
+         },
+         {
+            "card": "Gravekeeper's Spy",
+            "code": "SDMA-EN007"
+         },
+         {
+            "card": "Morphing Jar",
+            "code": "BP01-EN173"
+         },
+         {
+            "card": "Sangan",
+            "code": "YS12-EN016"
+         },
+         {
+            "card": "Book of Moon",
+            "code": "BP01-EN072"
+         },
+         {
+            "card": "Book of Moon",
+            "code": "SBCB-EN013"
+         },
+         {
+            "card": "Gravekeeper's Stele",
+            "code": "ABPF-EN056"
+         },
+         {
+            "card": "Gravekeeper's Stele",
+            "code": "ABPF-EN056"
+         },
+         {
+            "card": "Mystical Space Typhoon",
+            "code": "HSRD-EN053"
+         },
+         {
+            "card": "Necrovalley",
+            "code": "PGD-084"
+         },
+         {
+            "card": "Necrovalley",
+            "code": "SDMA-EN025"
+         },
+         {
+            "card": "Necrovalley",
+            "code": "SDMA-EN025"
+         },
+         {
+            "card": "Royal Tribute",
+            "code": "DL11-EN017"
+         },
+         {
+            "card": "Royal Tribute",
+            "code": "PGD-091"
+         },
+         {
+            "card": "Royal Tribute",
+            "code": "PGD-091"
+         },
+         {
+            "card": "Smashing Ground",
+            "code": "SDGR-EN025"
+         },
+         {
+            "card": "Bottomless Trap Hole",
+            "code": "LCYW-SP181"
+         },
+         {
+            "card": "Bottomless Trap Hole",
+            "code": "DB2-EN201"
+         },
+         {
+            "card": "Dimensional Prison",
+            "code": "NKRT-EN034"
+         },
+         {
+            "card": "Dimensional Prison",
+            "code": "RYMP-EN084"
+         },
+         {
+            "card": "Mirror Force",
+            "code": "YGLD-ENB33"
+         },
+         {
+            "card": "Skill Drain",
+            "code": "SR13-EN040"
+         },
+         {
+            "card": "Skill Drain",
+            "code": "SR13-EN040"
+         },
+         {
+            "card": "Solemn Judgment",
+            "code": "SDLS-EN038"
+         },
+         {
+            "card": "Starlight Road",
+            "code": "DPCT-EN004"
+         },
+         {
+            "card": "Starlight Road",
+            "code": "TOCH-EN060"
+         },
+         {
+            "card": "Torrential Tribute",
+            "code": "DL18-SP016"
+         },
+         {
+            "card": "Stardust Dragon",
+            "code": "CT07-EN021"
+         },
+         {
+            "card": "Stardust Dragon",
+            "code": "TDGS-EN040"
+         }
+      ],
+      "cardsNotFound": [
+         "Royal Oppression",
+         "Royal Oppression",
+         "Stardust Dragon"
+      ],
+      "completed": 93.02325581395348
+   }
+}

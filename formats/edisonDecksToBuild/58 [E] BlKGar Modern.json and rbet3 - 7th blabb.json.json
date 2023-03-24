@@ -1,0 +1,414 @@
+{
+   "deck1": {
+      "name": "[E] BlKGar Modern.json",
+      "cardsFound": [
+         {
+            "card": "Don Zaloog",
+            "code": "GLD1-EN012"
+         },
+         {
+            "card": "Don Zaloog",
+            "code": "GLD5-EN005"
+         },
+         {
+            "card": "Don Zaloog",
+            "code": "GLD5-EN005"
+         },
+         {
+            "card": "Fossil Dyna Pachycephalo",
+            "code": "CT08-SP012"
+         },
+         {
+            "card": "Fossil Dyna Pachycephalo",
+            "code": "CT08-SP012"
+         },
+         {
+            "card": "Gravekeeper's Spy",
+            "code": "GLD4-EN010"
+         },
+         {
+            "card": "Gravekeeper's Spy",
+            "code": "SDMA-EN007"
+         },
+         {
+            "card": "Gravekeeper's Spy",
+            "code": "SDMA-EN007"
+         },
+         {
+            "card": "Morphing Jar",
+            "code": "BP01-EN173"
+         },
+         {
+            "card": "Sangan",
+            "code": "YS12-EN016"
+         },
+         {
+            "card": "Volcanic Rocket",
+            "code": "SDOK-EN013"
+         },
+         {
+            "card": "Volcanic Rocket",
+            "code": "SGX1-ENH10"
+         },
+         {
+            "card": "Volcanic Rocket",
+            "code": "SDOK-EN013"
+         },
+         {
+            "card": "Volcanic Shell",
+            "code": "SDSB-EN021"
+         },
+         {
+            "card": "Volcanic Shell",
+            "code": "SDSB-EN021"
+         },
+         {
+            "card": "Volcanic Shell",
+            "code": "SGX1-ENH07"
+         },
+         {
+            "card": "Black Garden",
+            "code": "CSOC-EN048"
+         },
+         {
+            "card": "Blaze Accelerator",
+            "code": "FOTB-EN040"
+         },
+         {
+            "card": "Blaze Accelerator",
+            "code": "SDOK-EN025"
+         },
+         {
+            "card": "Book of Moon",
+            "code": "BP01-EN072"
+         },
+         {
+            "card": "Book of Moon",
+            "code": "SBCB-EN013"
+         },
+         {
+            "card": "Book of Moon",
+            "code": "SGX1-ENI15"
+         },
+         {
+            "card": "Pot of Avarice",
+            "code": "AP02-SP019"
+         },
+         {
+            "card": "Pot of Avarice",
+            "code": "SR10-EN031"
+         },
+         {
+            "card": "Terraforming",
+            "code": "LEHD-ENA25"
+         },
+         {
+            "card": "Terraforming",
+            "code": "LEHD-ENA25"
+         },
+         {
+            "card": "Terraforming",
+            "code": "SDCH-EN024"
+         },
+         {
+            "card": "Dimensional Prison",
+            "code": "NKRT-EN034"
+         },
+         {
+            "card": "Dimensional Prison",
+            "code": "RYMP-EN084"
+         },
+         {
+            "card": "Divine Wrath",
+            "code": "YS14-ENA15"
+         },
+         {
+            "card": "Fiendish Chain",
+            "code": "SDBE-EN034"
+         },
+         {
+            "card": "Fiendish Chain",
+            "code": "SDBE-EN034"
+         },
+         {
+            "card": "Fiendish Chain",
+            "code": "BP01-SP105"
+         },
+         {
+            "card": "Solemn Judgment",
+            "code": "SDLS-EN038"
+         },
+         {
+            "card": "Starlight Road",
+            "code": "DPCT-EN004"
+         },
+         {
+            "card": "Starlight Road",
+            "code": "TOCH-EN060"
+         },
+         {
+            "card": "Ally of Justice Catastor",
+            "code": "CT10-EN006"
+         },
+         {
+            "card": "Arcanite Magician",
+            "code": "INCH-EN049"
+         },
+         {
+            "card": "Armory Arm",
+            "code": "HAC1-EN176"
+         },
+         {
+            "card": "Black Rose Dragon",
+            "code": "DUDE-EN010"
+         },
+         {
+            "card": "Brionac, Dragon of the Ice Barrier",
+            "code": "DUDE-EN008"
+         },
+         {
+            "card": "Colossal Fighter",
+            "code": "5DS1-EN043"
+         },
+         {
+            "card": "Goyo Guardian",
+            "code": "TDGS-EN042"
+         },
+         {
+            "card": "Mist Wurm",
+            "code": "HA01-EN023"
+         },
+         {
+            "card": "Red Dragon Archfiend",
+            "code": "CT05-EN002"
+         },
+         {
+            "card": "Stardust Dragon",
+            "code": "DUPO-EN103"
+         },
+         {
+            "card": "Stardust Dragon",
+            "code": "CT07-EN021"
+         },
+         {
+            "card": "Stardust Dragon",
+            "code": "TDGS-EN040"
+         },
+         {
+            "card": "Thought Ruler Archfiend",
+            "code": "BROL-EN070"
+         }
+      ],
+      "cardsNotFound": [
+         "Fossil Dyna Pachycephalo",
+         "Black Garden",
+         "Black Garden",
+         "Divine Wrath",
+         "Chimeratech Fortress Dragon",
+         "Magical Android"
+      ],
+      "completed": 89.0909090909091
+   },
+   "deck2": {
+      "name": "rbet3 - 7th blabb.json",
+      "cardsFound": [
+         {
+            "card": "Caius the Shadow Monarch",
+            "code": "SDDE-EN001"
+         },
+         {
+            "card": "Caius the Shadow Monarch",
+            "code": "SR01-SP004"
+         },
+         {
+            "card": "Card Trooper",
+            "code": "RYMP-EN006"
+         },
+         {
+            "card": "Dandylion",
+            "code": "ABPF-ENSE1"
+         },
+         {
+            "card": "Dandylion",
+            "code": "SR01-SP018"
+         },
+         {
+            "card": "Debris Dragon",
+            "code": "CRMs-SP002"
+         },
+         {
+            "card": "Debris Dragon",
+            "code": "DP09-EN004"
+         },
+         {
+            "card": "Gorz the Emissary of Darkness",
+            "code": "GLD5-EN024"
+         },
+         {
+            "card": "Lonefire Blossom",
+            "code": "PTDN-EN088"
+         },
+         {
+            "card": "Lonefire Blossom",
+            "code": "PTDN-EN088"
+         },
+         {
+            "card": "Quickdraw Synchron",
+            "code": "5DS3-EN018"
+         },
+         {
+            "card": "Quickdraw Synchron",
+            "code": "DP09-EN010"
+         },
+         {
+            "card": "Quickdraw Synchron",
+            "code": "SDSE-EN005"
+         },
+         {
+            "card": "Ryko, Lightsworn Hunter",
+            "code": "LODT-EN022"
+         },
+         {
+            "card": "Ryko, Lightsworn Hunter",
+            "code": "LODT-EN022"
+         },
+         {
+            "card": "Ryko, Lightsworn Hunter",
+            "code": "SDLI-EN015"
+         },
+         {
+            "card": "Sangan",
+            "code": "SDJ-019"
+         },
+         {
+            "card": "Super-Nimble Mega Hamster",
+            "code": "EGO1-EN011"
+         },
+         {
+            "card": "Tragoedia",
+            "code": "BP01-EN020"
+         },
+         {
+            "card": "Tytannial, Princess of Camellias",
+            "code": "CSOC-EN029"
+         },
+         {
+            "card": "Volcanic Shell",
+            "code": "SGX1-ENH07"
+         },
+         {
+            "card": "Volcanic Shell",
+            "code": "SGX1-ENH07"
+         },
+         {
+            "card": "Volcanic Shell",
+            "code": "SGX1-ENH07"
+         },
+         {
+            "card": "Charge of the Light Brigade",
+            "code": "SDLI-EN027"
+         },
+         {
+            "card": "Foolish Burial",
+            "code": "BLHR-EN057"
+         },
+         {
+            "card": "Heavy Storm",
+            "code": "BP01-EN038"
+         },
+         {
+            "card": "Mystical Space Typhoon",
+            "code": "HSRD-EN053"
+         },
+         {
+            "card": "Pot of Avarice",
+            "code": "EGO1-EN026"
+         },
+         {
+            "card": "Pot of Avarice",
+            "code": "EGS1-EN026"
+         },
+         {
+            "card": "Pot of Avarice",
+            "code": "GLD4-EN040"
+         },
+         {
+            "card": "Bottomless Trap Hole",
+            "code": "LCYW-SP181"
+         },
+         {
+            "card": "Bottomless Trap Hole",
+            "code": "DB2-EN201"
+         },
+         {
+            "card": "Call of the Haunted",
+            "code": "GLD5-EN046"
+         },
+         {
+            "card": "Dimensional Prison",
+            "code": "RYMP-SP084"
+         },
+         {
+            "card": "Dimensional Prison",
+            "code": "NKRT-EN034"
+         },
+         {
+            "card": "Mirror Force",
+            "code": "YGLD-ENB33"
+         },
+         {
+            "card": "Phoenix Wing Wind Blast",
+            "code": "SDOK-EN033"
+         },
+         {
+            "card": "Phoenix Wing Wind Blast",
+            "code": "SDOK-EN033"
+         },
+         {
+            "card": "Torrential Tribute",
+            "code": "DL18-SP016"
+         },
+         {
+            "card": "Trap Dustshoot",
+            "code": "PGD-049"
+         },
+         {
+            "card": "Black Rose Dragon",
+            "code": "DUDE-EN010"
+         },
+         {
+            "card": "Drill Warrior",
+            "code": "DP10-EN018"
+         },
+         {
+            "card": "Drill Warrior",
+            "code": "DP10-EN018"
+         },
+         {
+            "card": "Nitro Warrior",
+            "code": "TDGS-EN039"
+         },
+         {
+            "card": "Road Warrior",
+            "code": "5DS2-EN041"
+         },
+         {
+            "card": "Turbo Warrior",
+            "code": "CSOC-EN038"
+         }
+      ],
+      "cardsNotFound": [
+         "Caius the Shadow Monarch",
+         "Chimeratech Fortress Dragon",
+         "Chimeratech Fortress Dragon",
+         "Ancient Fairy Dragon",
+         "Iron Chain Dragon",
+         "Iron Chain Dragon",
+         "Junk Archer",
+         "Red Dragon Archfiend",
+         "Stardust Dragon",
+         "Stardust Dragon"
+      ],
+      "completed": 82.14285714285714
+   }
+}

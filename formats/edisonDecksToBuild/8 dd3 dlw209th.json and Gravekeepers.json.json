@@ -1,0 +1,380 @@
+{
+   "deck1": {
+      "name": "dd3 dlw209th.json",
+      "cardsFound": [
+         {
+            "card": "Machina Gearframe",
+            "code": "SBCB-EN071"
+         },
+         {
+            "card": "Machina Gearframe",
+            "code": "SR10-EN005"
+         },
+         {
+            "card": "Machina Gearframe",
+            "code": "SR10-EN005"
+         },
+         {
+            "card": "Machina Fortress",
+            "code": "SR10-EN004"
+         },
+         {
+            "card": "Machina Fortress",
+            "code": "SR10-EN004"
+         },
+         {
+            "card": "Machina Fortress",
+            "code": "AP06-SP020"
+         },
+         {
+            "card": "Machina Peacekeeper",
+            "code": "SBCB-EN072"
+         },
+         {
+            "card": "Machina Peacekeeper",
+            "code": "SR10-EN006"
+         },
+         {
+            "card": "Machina Peacekeeper",
+            "code": "SR10-EN006"
+         },
+         {
+            "card": "Machina Force",
+            "code": "SR10-EN007"
+         },
+         {
+            "card": "Ryko, Lightsworn Hunter",
+            "code": "LODT-EN022"
+         },
+         {
+            "card": "Ryko, Lightsworn Hunter",
+            "code": "LODT-EN022"
+         },
+         {
+            "card": "Ryko, Lightsworn Hunter",
+            "code": "SDLI-EN015"
+         },
+         {
+            "card": "Ancient Gear Gadjiltron Dragon",
+            "code": "SD10-EN001"
+         },
+         {
+            "card": "Ancient Gear Gadjiltron Dragon",
+            "code": "SDGR-EN013"
+         },
+         {
+            "card": "Ancient Gear Gadjiltron Dragon",
+            "code": "SR03-EN004"
+         },
+         {
+            "card": "Ancient Gear Beast",
+            "code": "SGX1-END06"
+         },
+         {
+            "card": "Neo-Spacian Grand Mole",
+            "code": "LCGX-EN022"
+         },
+         {
+            "card": "Super-Nimble Mega Hamster",
+            "code": "EGO1-EN011"
+         },
+         {
+            "card": "Terraforming",
+            "code": "LEHD-ENA25"
+         },
+         {
+            "card": "Geartown",
+            "code": "SGX1-END14"
+         },
+         {
+            "card": "Geartown",
+            "code": "TDGS-EN057"
+         },
+         {
+            "card": "Geartown",
+            "code": "TDGS-EN057"
+         },
+         {
+            "card": "Zombie World",
+            "code": "DL13-SP017"
+         },
+         {
+            "card": "Brain Control",
+            "code": "DPYG-SP024"
+         },
+         {
+            "card": "Mystical Space Typhoon",
+            "code": "HSRD-EN053"
+         },
+         {
+            "card": "Heavy Storm",
+            "code": "BP01-EN038"
+         },
+         {
+            "card": "Limiter Removal",
+            "code": "DP04-EN016"
+         },
+         {
+            "card": "Raigeki Break",
+            "code": "5DS2-EN036"
+         },
+         {
+            "card": "Raigeki Break",
+            "code": "5DS3-EN032"
+         },
+         {
+            "card": "Raigeki Break",
+            "code": "LCYW-SP286"
+         },
+         {
+            "card": "Compulsory Evacuation Device",
+            "code": "BP01-EN099"
+         },
+         {
+            "card": "Compulsory Evacuation Device",
+            "code": "BP01-EN099"
+         },
+         {
+            "card": "Compulsory Evacuation Device",
+            "code": "HSRD-EN058"
+         },
+         {
+            "card": "Legacy of Yata-Garasu",
+            "code": "SDDL-EN033"
+         },
+         {
+            "card": "Torrential Tribute",
+            "code": "DL18-SP016"
+         },
+         {
+            "card": "Call of the Haunted",
+            "code": "GLD5-EN046"
+         },
+         {
+            "card": "Trap Dustshoot",
+            "code": "PGD-049"
+         },
+         {
+            "card": "Solemn Judgment",
+            "code": "SDLS-EN038"
+         },
+         {
+            "card": "Armory Arm",
+            "code": "HAC1-EN176"
+         },
+         {
+            "card": "Ally of Justice Catastor",
+            "code": "CT10-EN006"
+         },
+         {
+            "card": "Brionac, Dragon of the Ice Barrier",
+            "code": "DUDE-EN008"
+         },
+         {
+            "card": "Goyo Guardian",
+            "code": "TDGS-EN042"
+         },
+         {
+            "card": "Black Rose Dragon",
+            "code": "DUDE-EN010"
+         },
+         {
+            "card": "Stardust Dragon",
+            "code": "DUPO-EN103"
+         },
+         {
+            "card": "Red Dragon Archfiend",
+            "code": "CT05-EN002"
+         },
+         {
+            "card": "Thought Ruler Archfiend",
+            "code": "BROL-EN070"
+         },
+         {
+            "card": "Colossal Fighter",
+            "code": "5DS1-EN043"
+         },
+         {
+            "card": "Mist Wurm",
+            "code": "HA01-EN023"
+         }
+      ],
+      "cardsNotFound": [
+         "Legacy of Yata-Garasu",
+         "Chimeratech Fortress Dragon",
+         "Chimeratech Fortress Dragon",
+         "Magical Android",
+         "Flamvell Uruquizas",
+         "XX-Saber Gottoms"
+      ],
+      "completed": 89.0909090909091
+   },
+   "deck2": {
+      "name": "Gravekeepers.json",
+      "cardsFound": [
+         {
+            "card": "Gravekeeper's Assailant",
+            "code": "SDMA-EN013"
+         },
+         {
+            "card": "Gravekeeper's Assailant",
+            "code": "SDMA-EN013"
+         },
+         {
+            "card": "Gravekeeper's Commandant",
+            "code": "SDMA-EN017"
+         },
+         {
+            "card": "Gravekeeper's Commandant",
+            "code": "SDMA-EN017"
+         },
+         {
+            "card": "Gravekeeper's Commandant",
+            "code": "TU02-EN019"
+         },
+         {
+            "card": "Gravekeeper's Descendant",
+            "code": "LCYW-SP192"
+         },
+         {
+            "card": "Gravekeeper's Descendant",
+            "code": "ABPF-EN028"
+         },
+         {
+            "card": "Gravekeeper's Descendant",
+            "code": "SDMA-EN019"
+         },
+         {
+            "card": "Gravekeeper's Guard",
+            "code": "LCYW-SP184"
+         },
+         {
+            "card": "Gravekeeper's Guard",
+            "code": "SDMA-EN009"
+         },
+         {
+            "card": "Gravekeeper's Spy",
+            "code": "GLD4-EN010"
+         },
+         {
+            "card": "Gravekeeper's Spy",
+            "code": "SDMA-EN007"
+         },
+         {
+            "card": "Gravekeeper's Spy",
+            "code": "SDMA-EN007"
+         },
+         {
+            "card": "Morphing Jar",
+            "code": "BP01-EN173"
+         },
+         {
+            "card": "Sangan",
+            "code": "YS12-EN016"
+         },
+         {
+            "card": "Book of Moon",
+            "code": "BP01-EN072"
+         },
+         {
+            "card": "Book of Moon",
+            "code": "SBCB-EN013"
+         },
+         {
+            "card": "Gravekeeper's Stele",
+            "code": "ABPF-EN056"
+         },
+         {
+            "card": "Gravekeeper's Stele",
+            "code": "ABPF-EN056"
+         },
+         {
+            "card": "Mystical Space Typhoon",
+            "code": "LEHD-ENB23"
+         },
+         {
+            "card": "Necrovalley",
+            "code": "PGD-084"
+         },
+         {
+            "card": "Necrovalley",
+            "code": "SDMA-EN025"
+         },
+         {
+            "card": "Necrovalley",
+            "code": "SDMA-EN025"
+         },
+         {
+            "card": "Royal Tribute",
+            "code": "DL11-EN017"
+         },
+         {
+            "card": "Royal Tribute",
+            "code": "PGD-091"
+         },
+         {
+            "card": "Royal Tribute",
+            "code": "PGD-091"
+         },
+         {
+            "card": "Smashing Ground",
+            "code": "SDGR-EN025"
+         },
+         {
+            "card": "Bottomless Trap Hole",
+            "code": "LCYW-SP181"
+         },
+         {
+            "card": "Bottomless Trap Hole",
+            "code": "DB2-EN201"
+         },
+         {
+            "card": "Dimensional Prison",
+            "code": "NKRT-EN034"
+         },
+         {
+            "card": "Dimensional Prison",
+            "code": "RYMP-EN084"
+         },
+         {
+            "card": "Mirror Force",
+            "code": "YGLD-ENB33"
+         },
+         {
+            "card": "Skill Drain",
+            "code": "SR13-EN040"
+         },
+         {
+            "card": "Skill Drain",
+            "code": "SR13-EN040"
+         },
+         {
+            "card": "Starlight Road",
+            "code": "DPCT-EN004"
+         },
+         {
+            "card": "Starlight Road",
+            "code": "TOCH-EN060"
+         },
+         {
+            "card": "Torrential Tribute",
+            "code": "DL18-SP016"
+         },
+         {
+            "card": "Stardust Dragon",
+            "code": "CT07-EN021"
+         },
+         {
+            "card": "Stardust Dragon",
+            "code": "TDGS-EN040"
+         }
+      ],
+      "cardsNotFound": [
+         "Royal Oppression",
+         "Royal Oppression",
+         "Solemn Judgment",
+         "Stardust Dragon"
+      ],
+      "completed": 90.69767441860465
+   }
+}
