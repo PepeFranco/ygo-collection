@@ -59,10 +59,7 @@ _.reverse(_.sortBy(cardsThatCanBeMoved, (c) => `${c["In Deck"]}`)).map((c) => {
   // console.log(str);
 });
 
-fs.writeFileSync(
-  "./collectionScripts/structureDecks/optimisedSDMoves.txt",
-  str
-);
+fs.writeFileSync("./structureDecks/optimisedSDMoves.txt", str);
 
 const correctLength = correctCards.length + cardsThatCanBeMoved.length;
 const incorrectLength = incorrectCards.length - cardsThatCanBeMoved.length;

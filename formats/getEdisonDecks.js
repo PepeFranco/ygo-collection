@@ -53,7 +53,7 @@ const writeCardList = async (deckId) => {
       extra: result.data.extra.map((c) => c.name),
     };
     fs.writeFileSync(
-      `./collectionScripts/formats/edisonDeckLists/${deckName}.json`,
+      `./formats/edisonDeckLists/${deckName}.json`,
       JSON.stringify(deckData, 2, null),
       (e) => {
         throw e;

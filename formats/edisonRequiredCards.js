@@ -55,7 +55,7 @@ for (const [key, value] of Object.entries(sortedOwnedCards)) {
 }
 
 fs.writeFile(
-  "./collectionScripts/formats/edisonOwnedCards.json",
+  "./formats/edisonOwnedCards.json",
   JSON.stringify(cards, null, 3),
   function (err) {
     console.error(err);

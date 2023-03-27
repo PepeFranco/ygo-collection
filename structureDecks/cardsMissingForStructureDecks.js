@@ -233,7 +233,7 @@ const mainFunction = async () => {
   }));
 
   fs.writeFile(
-    "./collectionScripts/structureDecks/cardsFor2Sets.json",
+    "./structureDecks/cardsFor2Sets.json",
     JSON.stringify(
       _.sortBy(setOfTwo, (deckEntry) => deckEntry.releaseDate),
       null,
@@ -249,7 +249,7 @@ const mainFunction = async () => {
     cardsMissing: deckEntry.cards.length,
   }));
   fs.writeFile(
-    "./collectionScripts/structureDecks/cardsFor3Sets.json",
+    "./structureDecks/cardsFor3Sets.json",
     JSON.stringify(
       _.sortBy(setOfThree, (deckEntry) => deckEntry.cardsMissing),
       null,

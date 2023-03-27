@@ -105,7 +105,7 @@ console.log(
 );
 
 fs.writeFile(
-  "./collectionScripts/battlePack/cardsIAlreadyOwnForBattlePacks.json",
+  "./battlePack/cardsIAlreadyOwnForBattlePacks.json",
   JSON.stringify(
     _.sortBy(cardsToBuildCube, (c) => `${c.type}`),
     null,
@@ -117,7 +117,7 @@ fs.writeFile(
 );
 
 fs.writeFile(
-  "./collectionScripts/battlePack/cardsINeedForBattlePacks.json",
+  "./battlePack/cardsINeedForBattlePacks.json",
   JSON.stringify(
     _.sortBy([...combinedBattlePackCards], (c) => c.card),
     null,

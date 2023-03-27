@@ -47,7 +47,7 @@ const mainFunction = async () => {
   });
 
   fs.writeFile(
-    "./collectionScripts/structureDecks/cardsFor2Sets.json",
+    "./structureDecks/cardsFor2Sets.json",
     JSON.stringify(sortedDecks, null, 3),
     function (err) {
       console.error(err);

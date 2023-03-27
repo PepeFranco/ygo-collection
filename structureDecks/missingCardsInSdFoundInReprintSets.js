@@ -77,7 +77,7 @@ const mainFunction = async () => {
     `Cards NOT found: ${cardsNotFound.length}/${missingCards.length}`
   );
   fs.writeFile(
-    "./collectionScripts/structureDecks/sdCardsInReprintSets.json",
+    "./structureDecks/sdCardsInReprintSets.json",
     JSON.stringify(cardsFound, null, 3),
     function (err) {
       if (err) console.error(err);

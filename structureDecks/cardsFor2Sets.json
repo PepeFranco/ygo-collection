@@ -2,7 +2,6 @@
    {
       "deck": "Structure Deck: Dragon's Roar",
       "cards": [
-         "Red-Eyes Darkness Dragon",
          "The Dragon's Bead",
          "The Graveyard in the Fourth Dimension"
       ],
@@ -18,14 +17,13 @@
          "Swords of Revealing Light",
          "Twin-Headed Behemoth"
       ],
-      "cardsMissing": 3,
+      "cardsMissing": 2,
       "releaseDate": "2005-01-01"
    },
    {
       "deck": "Structure Deck: Zombie Madness",
       "cards": [
-         "Dark Dust Spirit",
-         "Vampire Genesis"
+         "Dark Dust Spirit"
       ],
       "limitedCards": [
          "Heavy Storm",
@@ -36,7 +34,7 @@
          "Torrential Tribute",
          "Vampire Lord"
       ],
-      "cardsMissing": 2,
+      "cardsMissing": 1,
       "releaseDate": "2005-01-01"
    },
    {
@@ -156,7 +154,6 @@
    {
       "deck": "Structure Deck: Lord of the Storm",
       "cards": [
-         "Aqua Chorus",
          "BirdFace",
          "Bladefly",
          "Dark Coffin",
@@ -179,7 +176,7 @@
          "Mystical Space Typhoon",
          "Reckless Greed"
       ],
-      "cardsMissing": 14,
+      "cardsMissing": 13,
       "releaseDate": "2006-07-12"
    },
    {
@@ -247,14 +244,9 @@
          "Big Bang Shot",
          "By Order of the Emperor",
          "Caius the Shadow Monarch",
-         "Chaosrider Gustaph",
          "D.D. Warrior",
-         "D.D.M. - Different Dimension Master",
          "Dark Core",
-         "Golden Homunculus",
-         "Helios - The Primordial Sun",
          "Lightning Vortex",
-         "Macro Cosmos",
          "Return from the Different Dimension",
          "Sakuretsu Armor",
          "Samsara Kaiser"
@@ -266,7 +258,7 @@
          "Nobleman of Crossout",
          "Torrential Tribute"
       ],
-      "cardsMissing": 14,
+      "cardsMissing": 9,
       "releaseDate": "2008-04-02"
    },
    {
@@ -280,7 +272,6 @@
          "Magical Arm Shield",
          "Master Kyonshee",
          "Patrician of Darkness",
-         "Plague Wolf",
          "Ribbon of Rebirth",
          "Royal Keeper",
          "Tutan Mask"
@@ -289,7 +280,7 @@
          "Card Destruction",
          "Spirit Reaper"
       ],
-      "cardsMissing": 12,
+      "cardsMissing": 11,
       "releaseDate": "2008-10-21"
    },
    {
@@ -380,7 +371,6 @@
       "cards": [
          "Dragon Mastery",
          "Dragon Ravine",
-         "Dragon's Gunfire",
          "Dragunity Arma Leyvaten",
          "Dragunity Arma Mystletainn",
          "Dragunity Brandistock",
@@ -389,7 +379,6 @@
          "Dragunity Legionnaire",
          "Dragunity Primus Pilus",
          "Dragunity Tribus",
-         "Garuda the Wind Spirit",
          "Hunter Owl",
          "Icarus Attack",
          "Legacy of Yata-Garasu",
@@ -402,7 +391,7 @@
          "Foolish Burial",
          "Mirror Force"
       ],
-      "cardsMissing": 18,
+      "cardsMissing": 16,
       "releaseDate": "2011-03-04"
    },
    {
@@ -646,7 +635,6 @@
          "Re-Cover",
          "Rune-Eyes Pendulum Dragon",
          "Sacred Sword of Seven Stars",
-         "Traptrix Trap Hole Nightmare",
          "Wisdom-Eye Magician",
          "X-Saber Airbellum"
       ],
@@ -654,7 +642,7 @@
          "Eradicator Epidemic Virus",
          "Torrential Tribute"
       ],
-      "cardsMissing": 24,
+      "cardsMissing": 23,
       "releaseDate": "2015-12-03"
    },
    {
@@ -717,7 +705,6 @@
          "Oasis of Dragon Souls",
          "Paladin of Felgrand",
          "Raiden, Hand of the Lightsworn",
-         "Red-Eyes Wyvern",
          "Return of the Dragon Lords",
          "Ruins of the Divine Dragon Lords"
       ],
@@ -726,7 +713,7 @@
          "Red-Eyes Darkness Metal Dragon",
          "Reinforcement of the Army"
       ],
-      "cardsMissing": 24,
+      "cardsMissing": 23,
       "releaseDate": "2016-07-07"
    },
    {
@@ -740,14 +727,13 @@
          "Heavy Mech Support Armor",
          "Keeper of the Shrine",
          "Majesty with Eyes of Blue",
-         "Roll Out!",
-         "Vampire Lord"
+         "Roll Out!"
       ],
       "limitedCards": [
          "Limiter Removal",
          "Ring of Destruction"
       ],
-      "cardsMissing": 10,
+      "cardsMissing": 9,
       "releaseDate": "2016-10-20"
    },
    {
@@ -852,7 +838,6 @@
          "Ancient Gear Workshop",
          "Ancient Gear Wyvern",
          "BOXer",
-         "Galaxy Cyclone",
          "Geargiauger",
          "Maxx C",
          "Minefieldriller",
@@ -863,7 +848,7 @@
       "limitedCards": [
          "Limiter Removal"
       ],
-      "cardsMissing": 16,
+      "cardsMissing": 15,
       "releaseDate": "2017-04-13"
    },
    {
@@ -943,7 +928,6 @@
    {
       "deck": "Structure Deck: Lair of Darkness",
       "cards": [
-         "Allure of Darkness",
          "Archfiend Cavalry",
          "Boogie Trap",
          "Caius the Mega Monarch",
@@ -958,8 +942,6 @@
          "Kuribandit",
          "Legendary Maju Garzett",
          "Lich Lord, King of the Underworld",
-         "Mist Archfiend",
-         "Plague Wolf",
          "Recurring Nightmare",
          "Relinkuriboh",
          "Rise to Full Height",
@@ -970,7 +952,7 @@
          "Eradicator Epidemic Virus",
          "Tour Guide From the Underworld"
       ],
-      "cardsMissing": 22,
+      "cardsMissing": 19,
       "releaseDate": "2018-04-19"
    },
    {
@@ -994,21 +976,19 @@
          "Segmental Dragon",
          "Skull Meister",
          "Storm Cipher",
-         "Traffic Ghost",
-         "Traptrix Trap Hole Nightmare"
+         "Traffic Ghost"
       ],
       "limitedCards": [
          "Genex Ally Birdman",
          "One for One",
          "Reasoning"
       ],
-      "cardsMissing": 20,
+      "cardsMissing": 19,
       "releaseDate": "2018-08-09"
    },
    {
       "deck": "Structure Deck: Zombie Horde",
       "cards": [
-         "Call of the Mummy",
          "Malevolent Mech - Goku En",
          "Marionette Mite",
          "Paladin of the Cursed Dragon",
@@ -1019,7 +999,7 @@
          "Foolish Burial",
          "Monster Gate"
       ],
-      "cardsMissing": 6,
+      "cardsMissing": 5,
       "releaseDate": "2018-11-01"
    },
    {
@@ -1138,7 +1118,6 @@
    {
       "deck": "Structure Deck: Shaddoll Showdown",
       "cards": [
-         "Allure of Darkness",
          "Curse of the Shadow Prison",
          "El Shaddoll Anoyatyllis",
          "El Shaddoll Apkallone",
@@ -1165,15 +1144,14 @@
          "Shaddoll Zefracore",
          "Shaddoll Zefranaga",
          "Sinister Shadow Games",
-         "Subterror Succession",
-         "Unending Nightmare"
+         "Subterror Succession"
       ],
       "limitedCards": [
          "Armageddon Knight",
          "Foolish Burial",
          "Pot of Avarice"
       ],
-      "cardsMissing": 29,
+      "cardsMissing": 27,
       "releaseDate": "2020-02-13"
    },
    {
@@ -1189,18 +1167,14 @@
       "deck": "Structure Deck: Sacred Beasts",
       "cards": [
          "Armityle the Chaos Phantasm",
-         "Awakening of the Sacred Beasts",
-         "Cerulean Skyfire",
          "Chaos Core",
          "Chaos Hunter",
          "Chaos Summoning Beast",
          "Danger! Chupacabra!",
          "Dark Beckoning Beast",
          "Dark Factory of More Production",
-         "Dark Summoning Beast",
          "Dimension Fusion Destruction",
          "Escape from the Dark Dimension",
-         "Fallen Paradise",
          "Field Barrier",
          "Hyper Blaze",
          "Imperial Custom",
@@ -1228,7 +1202,7 @@
          "Set Rotation",
          "Terraforming"
       ],
-      "cardsMissing": 33,
+      "cardsMissing": 29,
       "releaseDate": "2020-07-09"
    },
    {
@@ -1378,5 +1352,11 @@
       ],
       "cardsMissing": 0,
       "releaseDate": "2022-12-01"
+   },
+   {
+      "deck": "Structure Deck: Beware of Traptrix",
+      "cards": [],
+      "cardsMissing": 0,
+      "releaseDate": "2023-02-23"
    }
 ]

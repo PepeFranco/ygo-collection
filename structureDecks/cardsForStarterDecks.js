@@ -68,7 +68,7 @@ const mainFunction = async () => {
   }
 
   fs.writeFile(
-    "./collectionScripts/structureDecks/cardsForStarterSets.json",
+    "./structureDecks/cardsForStarterSets.json",
     JSON.stringify(cardsInStarterDecks, null, 3),
     function (err) {
       // console.error(err);
@@ -80,7 +80,7 @@ const mainFunction = async () => {
   //   cardsMissing: deckEntry.cards.length,
   // }));
   // fs.writeFile(
-  //   "./collectionScripts/structureDecks/cardsFor3Sets.json",
+  //   "./structureDecks/cardsFor3Sets.json",
   //   JSON.stringify(
   //     _.sortBy(setOfThree, (deckEntry) => deckEntry.cardsMissing),
   //     null,

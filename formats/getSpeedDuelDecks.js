@@ -68,7 +68,7 @@ const writeCardList = async (deckUrl) => {
     });
     if (cards.length) {
       fs.writeFileSync(
-        `./collectionScripts/formats/goatDeckLists/${deckName}.json`,
+        `./formats/goatDeckLists/${deckName}.json`,
         JSON.stringify(cards, 2, null),
         (e) => {
           throw e;

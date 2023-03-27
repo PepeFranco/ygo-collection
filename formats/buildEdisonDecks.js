@@ -94,7 +94,7 @@ _.reverse(
 ).map((dp, index) => {
   console.log(dp.deck1.completed + dp.deck2.completed);
   fs.writeFileSync(
-    `./collectionScripts/formats/edisonDecksToBuild/${index} ${dp.deck1.name} and ${dp.deck2.name}.json`,
+    `./formats/edisonDecksToBuild/${index} ${dp.deck1.name} and ${dp.deck2.name}.json`,
     JSON.stringify(dp, null, 3),
     () => {}
   );

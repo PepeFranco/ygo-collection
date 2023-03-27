@@ -263,7 +263,7 @@ const mainFunction = async () => {
   const sortedUniqueCardsTimes2 = _.orderBy(sorted2, (d) => d.cards.length);
 
   fs.writeFile(
-    "./collectionScripts/structureDecks/cardsNeededToComplete2Sets.json",
+    "./structureDecks/cardsNeededToComplete2Sets.json",
     JSON.stringify(sortedUniqueCardsTimes2, null, 3),
     function (err) {
       console.error(err);
@@ -283,7 +283,7 @@ const mainFunction = async () => {
   const sortedUniqueCardsTimes3 = _.orderBy(sorted3, (d) => d.cards.length);
 
   fs.writeFile(
-    "./collectionScripts/structureDecks/cardsNeededToComplete3Sets.json",
+    "./structureDecks/cardsNeededToComplete3Sets.json",
     JSON.stringify(sortedUniqueCardsTimes3, null, 3),
     function (err) {
       console.error(err);
@@ -296,7 +296,7 @@ const mainFunction = async () => {
   }
 
   fs.writeFile(
-    "./collectionScripts/structureDecks/cardsIAlreadyOwnToComplete2Sets.json",
+    "./structureDecks/cardsIAlreadyOwnToComplete2Sets.json",
     JSON.stringify(owned2, null, 3),
     function (err) {
       console.error(err);
@@ -313,7 +313,7 @@ const mainFunction = async () => {
   }
 
   fs.writeFile(
-    "./collectionScripts/structureDecks/cardsIAlreadyOwnToComplete3Sets.json",
+    "./structureDecks/cardsIAlreadyOwnToComplete3Sets.json",
     JSON.stringify(owned3, null, 3),
     function (err) {
       console.error(err);
@@ -321,7 +321,7 @@ const mainFunction = async () => {
   );
 
   fs.writeFile(
-    "./collectionScripts/structureDecks/limitedCardsPerDeck.json",
+    "./structureDecks/limitedCardsPerDeck.json",
     JSON.stringify(limitedCardsPerDeck, null, 3),
     function (err) {
       console.error(err);

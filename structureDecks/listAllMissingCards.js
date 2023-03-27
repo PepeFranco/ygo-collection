@@ -79,7 +79,7 @@ const mainFunction = async () => {
   }
 
   fs.writeFile(
-    "./collectionScripts/structureDecks/missingCards.csv",
+    "./structureDecks/missingCards.csv",
     lines.join("\n"),
     function (err) {
       console.error(err);

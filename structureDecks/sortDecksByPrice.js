@@ -11,7 +11,7 @@ const mainFunction = async () => {
   });
 
   fs.writeFile(
-    "./collectionScripts/structureDecks/cardsNeededToComplete3Sets.json",
+    "./structureDecks/cardsNeededToComplete3Sets.json",
     JSON.stringify(sortedUniqueCardsTimes3, null, 3),
     function (err) {
       console.error(err);

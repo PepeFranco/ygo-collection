@@ -94,7 +94,7 @@ _.reverse(
   })
 ).map((dp, index) => {
   fs.writeFileSync(
-    `./collectionScripts/formats/goatDecksToBuild/${index} ${dp.deck1.name} and ${dp.deck2.name}.json`,
+    `./formats/goatDecksToBuild/${index} ${dp.deck1.name} and ${dp.deck2.name}.json`,
     JSON.stringify(dp, null, 3),
     () => {}
   );

@@ -44,9 +44,6 @@ const mainFunction = async () => {
       banLists.push(thisBanlist);
     }
   }
-  fs.writeFileSync(
-    "./collectionScripts/data/banlists.json",
-    JSON.stringify(banLists, null, 3)
-  );
+  fs.writeFileSync("./data/banlists.json", JSON.stringify(banLists, null, 3));
 };
 mainFunction();

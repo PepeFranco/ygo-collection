@@ -23,7 +23,7 @@ const mainFunction = async () => {
     console.error(e);
   } finally {
     fs.writeFile(
-      "./collectionScripts/data/collection.json",
+      "./data/collection.json",
       JSON.stringify(collectionCopy, null, 3),
       function (err) {
         if (err) console.error(err);

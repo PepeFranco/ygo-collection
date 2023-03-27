@@ -53,7 +53,7 @@ for (const [key, value] of Object.entries(sortedOwnedCards)) {
 }
 
 fs.writeFile(
-  "./collectionScripts/formats/goatOwnedCards.json",
+  "./formats/goatOwnedCards.json",
   JSON.stringify(cards, null, 3),
   function (err) {
     console.error(err);
