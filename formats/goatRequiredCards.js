@@ -21,7 +21,6 @@ const allCollectionCards = collection.map((card) => ({
   code: card["Code"],
   set: card["Set"],
   deck: card["In DecK"],
-  sleeve: card["In Sleeve"],
   attribute: card["Attribute"],
   type: card["Type"].toLowerCase().includes("monster")
     ? "Monster"

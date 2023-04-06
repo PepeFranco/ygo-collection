@@ -47,7 +47,6 @@ const cardsNotInStructureDecks = collection.filter(
 const allCardsNotInSd = cardsNotInStructureDecks.map((card) => ({
   card: card["Name"],
   code: card["Code"],
-  sleeve: card["In Sleeve"],
   deck: card["In Deck"],
   type: card["Type"],
   attribute: card["Attribute"],
