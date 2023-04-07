@@ -1,5 +1,6 @@
 const {
   getStructureDeckSetNames,
+  getClosestMatchingBanList,
 } = require("./getCardsMissingForStructureDecks");
 
 describe("Cards Missing for Structure Decks", () => {
@@ -34,6 +35,13 @@ describe("Cards Missing for Structure Decks", () => {
         "Cyber Dragon Revolution Structure Deck",
         "Spellcaster's Command Structure Deck",
       ]);
+    });
+  });
+
+  describe("getClosestMatchingBanlist", () => {
+    it("returns the earliest banlist", () => {
+      const result = getClosestMatchingBanList(new Date(1999, 0, 1));
+      expect(result.date).toEqual("2002-5");
     });
   });
 });

@@ -38,6 +38,23 @@ const getStructureDeckSetNames = (cardSets) => {
   ).map((cardSet) => cardSet["set_name"]);
 };
 
+const getClosestMatchingBanList = (date) => {
+  for (let i = 0; i < banLists.length; i++) {
+    const thisBl = banLists[i];
+    if (i === banLists.length - 1) {
+      return thisBl;
+    }
+    const nextBl = banLists[i + 1];
+    const nextBlDate = new Date(nextBl.date);
+    if (
+      nextBlDate.getFullYear() === date.getFullYear() &&
+      nextBlDate.getMonth() === date.getMonth()
+    )
+      return nextBl;
+    if (nextBlDate > date) return thisBl;
+  }
+};
+
 const getCardsMissingForStructureDecks = async () => {
   console.log(`📚 There are ${collection.length} cards in the collection`);
 
@@ -46,15 +63,6 @@ const getCardsMissingForStructureDecks = async () => {
   console.log(`🔢 There are ${structureDeckSetNames.length} structure decks`);
 
   const structureDeckSetOfOne = cardsInStructureDecks;
-  console.log(
-    `🎴 There are ${structureDeckSetOfOne.reduce(
-      (acc, sd) => acc + sd.cards.length,
-      0
-    )} cards in the collection currently in structure decks`
-  );
-  console.log(
-    `📦 There are ${collection.length} cards in the collection not currently in structure decks`
-  );
 
   const structureDeckSetOfTwoMissing = [];
   const structureDeckSetOfThreeMissing = [];
@@ -62,23 +70,6 @@ const getCardsMissingForStructureDecks = async () => {
     structureDeckSetOfTwoMissing.push({ deck: structureDeck, cards: [] });
     structureDeckSetOfThreeMissing.push({ deck: structureDeck, cards: [] });
   });
-
-  const getClosestMatchingBanList = (d) => {
-    for (let i = 0; i < banLists.length; i++) {
-      const thisBl = banLists[i];
-      if (i === banLists.length - 1) {
-        return thisBl;
-      }
-      const nextBl = banLists[i + 1];
-      const nextBlDate = new Date(nextBl.date);
-      if (
-        nextBlDate.getFullYear() === d.getFullYear() &&
-        nextBlDate.getMonth() === d.getMonth()
-      )
-        return nextBl;
-      if (nextBlDate > d) return thisBl;
-    }
-  };
 
   structureDeckSetNames.map((structureDeck) => {
     const deckInCollection = structureDeckSetOfOne.find(
@@ -260,4 +251,5 @@ module.exports = {
   getCardsMissingForStructureDecks,
   getStructureDeckSetNames,
   getCardSets,
+  getClosestMatchingBanList,
 };
