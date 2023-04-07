@@ -32,17 +32,15 @@ const getStructureDeckSetNames = (cardSets) => {
 };
 
 const getCardsMissingForStructureDecks = async () => {
+  console.log(`📚 There are ${collection.length} cards in the collection`);
   const banLists = _.sortBy(
     require("../data/banlists.json"),
     (l) => new Date(l.date)
   );
 
   const cardSets = await getCardSets();
-
   const structureDeckSetNames = getStructureDeckSetNames(cardSets);
-
   console.log(`🔢 There are ${structureDeckSetNames.length} structure decks`);
-  console.log(`📚 There are ${collection.length} cards in the collection`);
 
   const structureDeckSetOfOne = structureDeckSetNames.map((structureDeck) => {
     const cards = collection
@@ -269,4 +267,5 @@ const getCardsMissingForStructureDecks = async () => {
 module.exports = {
   getCardsMissingForStructureDecks,
   getStructureDeckSetNames,
+  getCardSets,
 };
