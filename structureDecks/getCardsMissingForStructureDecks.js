@@ -17,7 +17,7 @@ const collection = _.sortBy(
   (collectionCard) => collectionCard["In Deck"]
 );
 
-const getStructureDeckSets = (cardSets) => {
+const getStructureDeckSetNames = (cardSets) => {
   return _.sortBy(
     cardSets.filter((cardSet) => {
       const setName = cardSet["set_name"].toLowerCase();
@@ -39,12 +39,12 @@ const getCardsMissingForStructureDecks = async () => {
 
   const cardSets = await getCardSets();
 
-  const structureDecks = getStructureDeckSets(cardSets);
+  const structureDeckSetNames = getStructureDeckSetNames(cardSets);
 
-  console.log(`🔢 There are ${structureDecks.length} structure decks`);
+  console.log(`🔢 There are ${structureDeckSetNames.length} structure decks`);
   console.log(`📚 There are ${collection.length} cards in the collection`);
 
-  const structureDeckSetOfOne = structureDecks.map((structureDeck) => {
+  const structureDeckSetOfOne = structureDeckSetNames.map((structureDeck) => {
     const cards = collection
       .filter((card) => card["In Deck"] === structureDeck)
       .map((card) => card["Name"]);
@@ -68,7 +68,7 @@ const getCardsMissingForStructureDecks = async () => {
 
   const structureDeckSetOfTwoMissing = [];
   const structureDeckSetOfThreeMissing = [];
-  structureDecks.map((structureDeck) => {
+  structureDeckSetNames.map((structureDeck) => {
     structureDeckSetOfTwoMissing.push({ deck: structureDeck, cards: [] });
     structureDeckSetOfThreeMissing.push({ deck: structureDeck, cards: [] });
   });
@@ -90,7 +90,7 @@ const getCardsMissingForStructureDecks = async () => {
     }
   };
 
-  structureDecks.map((structureDeck) => {
+  structureDeckSetNames.map((structureDeck) => {
     const deckInCollection = structureDeckSetOfOne.find(
       (sd) => sd.deck === structureDeck
     );
@@ -268,5 +268,5 @@ const getCardsMissingForStructureDecks = async () => {
 
 module.exports = {
   getCardsMissingForStructureDecks,
-  getStructureDeckSets,
+  getStructureDeckSetNames,
 };
