@@ -17,6 +17,11 @@ const collection = _.sortBy(
   (collectionCard) => collectionCard["In Deck"]
 );
 
+const banLists = _.sortBy(
+  require("../data/banlists.json"),
+  (l) => new Date(l.date)
+);
+
 const getStructureDeckSetNames = (cardSets) => {
   return _.sortBy(
     cardSets.filter((cardSet) => {
@@ -33,10 +38,6 @@ const getStructureDeckSetNames = (cardSets) => {
 
 const getCardsMissingForStructureDecks = async () => {
   console.log(`📚 There are ${collection.length} cards in the collection`);
-  const banLists = _.sortBy(
-    require("../data/banlists.json"),
-    (l) => new Date(l.date)
-  );
 
   const cardSets = await getCardSets();
   const structureDeckSetNames = getStructureDeckSetNames(cardSets);

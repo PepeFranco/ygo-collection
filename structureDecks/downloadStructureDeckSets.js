@@ -27,13 +27,13 @@ const mainFunction = async () => {
   const structureDeckNames = getStructureDeckSetNames(cardSets);
   console.log(`There are ${structureDeckNames.length} structure decks`);
 
-  const cardsInStructureDeckSet = {};
+  const cardsInStructureDeckSet = [];
   await Promise.each(structureDeckNames, async (structureDeckName) => {
     const cardsInStructureDeck = await getCardsInStructureDeck(
       structureDeckName
     );
     const cardNames = cardsInStructureDeck.map((card) => card["name"]);
-    cardsInStructureDeckSet[structureDeckName] = cardNames;
+    cardsInStructureDeckSet.push({ deck: structureDeckName, cards: cardNames });
     console.log(cardsInStructureDeck);
     await sleep(1000);
   });
