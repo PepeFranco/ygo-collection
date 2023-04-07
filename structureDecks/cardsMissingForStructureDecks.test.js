@@ -11,9 +11,11 @@ describe("Cards Missing for Structure Decks", () => {
         },
         {
           set_name: "Spellcaster's Command Structure Deck",
+          tcg_date: "2010-02-02",
         },
         {
           set_name: "Cyber Dragon Revolution Structure Deck",
+          tcg_date: "2010-02-01",
         },
         {
           set_name: "Cyber Dragon Revolution Structure Deck Deluxe Edition",
@@ -23,13 +25,14 @@ describe("Cards Missing for Structure Decks", () => {
         },
         {
           set_name: "Legendary Hero Decks",
+          tcg_date: "2010-01-01",
         },
       ];
       const result = getStructureDeckSetNames(mockSets);
       expect(result).toEqual([
-        "Spellcaster's Command Structure Deck",
-        "Cyber Dragon Revolution Structure Deck",
         "Legendary Hero Decks",
+        "Cyber Dragon Revolution Structure Deck",
+        "Spellcaster's Command Structure Deck",
       ]);
     });
   });
