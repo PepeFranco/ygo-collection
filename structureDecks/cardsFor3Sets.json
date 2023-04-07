@@ -17,6 +17,9 @@
    {
       "deck": "Structure Deck: Beware of Traptrix",
       "cards": [],
+      "limitedCards": [
+         "Harpie's Feather Duster"
+      ],
       "cardsMissing": 0
    },
    {
@@ -112,7 +115,6 @@
       "limitedCards": [
          "Call of the Haunted",
          "Ceasefire",
-         "Heavy Storm",
          "Mystical Space Typhoon",
          "Pot of Greed",
          "Premature Burial",
@@ -209,8 +211,7 @@
          "Necklace of Command",
          "Necklace of Command",
          "Reload",
-         "Reload",
-         "Thestalos the Firestorm Monarch"
+         "Reload"
       ],
       "limitedCards": [
          "Call of the Haunted",
@@ -224,7 +225,7 @@
          "Level Limit - Area B",
          "Nobleman of Crossout"
       ],
-      "cardsMissing": 11
+      "cardsMissing": 10
    },
    {
       "deck": "Gates of the Underworld Structure Deck",
@@ -392,8 +393,6 @@
          "Big Bang Shot",
          "By Order of the Emperor",
          "By Order of the Emperor",
-         "Caius the Shadow Monarch",
-         "Caius the Shadow Monarch",
          "D.D. Warrior",
          "D.D. Warrior",
          "Dark Core",
@@ -418,7 +417,7 @@
       "semiLimitedCards": [
          "Reinforcement of the Army"
       ],
-      "cardsMissing": 19
+      "cardsMissing": 17
    },
    {
       "deck": "Structure Deck: Warrior's Triumph",
@@ -956,7 +955,6 @@
          "Red-Eyes B. Dragon",
          "Red-Eyes Darkness Metal Dragon",
          "Red-Eyes Darkness Metal Dragon",
-         "Ryko, Lightsworn Hunter",
          "Snipe Hunter",
          "Snipe Hunter",
          "Vice Dragon",
@@ -974,7 +972,7 @@
          "Magical Stone Excavation",
          "Summoner Monk"
       ],
-      "cardsMissing": 35
+      "cardsMissing": 34
    },
    {
       "deck": "Structure Deck: Seto Kaiba",
@@ -1265,7 +1263,6 @@
          "Wulf, Lightsworn Beast"
       ],
       "limitedCards": [
-         "Charge of the Light Brigade",
          "Foolish Burial",
          "Honest"
       ],
@@ -1715,6 +1712,75 @@
       "cardsMissing": 54
    },
    {
+      "deck": "Emperor of Darkness Structure Deck",
+      "cards": [
+         "Berlineth the Firestorm Vassal",
+         "Berlineth the Firestorm Vassal",
+         "By Order of the Emperor",
+         "By Order of the Emperor",
+         "Domain of the True Monarchs",
+         "Domain of the True Monarchs",
+         "Edea the Heavenly Squire",
+         "Ehther the Heavenly Monarch",
+         "Ehther the Heavenly Monarch",
+         "Eidos the Underworld Squire",
+         "Enemy Controller",
+         "Enemy Controller",
+         "Erebus the Underworld Monarch",
+         "Erebus the Underworld Monarch",
+         "Escalation of the Monarchs",
+         "Escher the Frost Vassal",
+         "Escher the Frost Vassal",
+         "Garum the Storm Vassal",
+         "Garum the Storm Vassal",
+         "Illusory Snatcher",
+         "Illusory Snatcher",
+         "Landrobe the Rock Vassal",
+         "Landrobe the Rock Vassal",
+         "Level Eater",
+         "Lucius the Shadow Vassal",
+         "Lucius the Shadow Vassal",
+         "March of the Monarchs",
+         "Mithra the Thunder Vassal",
+         "Mithra the Thunder Vassal",
+         "Mobius the Frost Monarch",
+         "Pantheism of the Monarchs",
+         "Pantheism of the Monarchs",
+         "Pinpoint Guard",
+         "Pinpoint Guard",
+         "Rainbow Kuriboh",
+         "Rainbow Kuriboh",
+         "Raiza the Storm Monarch",
+         "Raiza the Storm Monarch",
+         "Return of the Monarchs",
+         "Return of the Monarchs",
+         "Strike of the Monarchs",
+         "Strike of the Monarchs",
+         "Tenacity of the Monarchs",
+         "Tenacity of the Monarchs",
+         "The First Monarch",
+         "The First Monarch",
+         "The Monarchs Awaken",
+         "The Monarchs Awaken",
+         "The Monarchs Erupt",
+         "The Monarchs Erupt",
+         "The Monarchs Stormforth",
+         "The Prime Monarch",
+         "The Prime Monarch",
+         "Token",
+         "Zaborg the Thunder Monarch"
+      ],
+      "limitedCards": [
+         "Dandylion",
+         "Mathematician",
+         "Soul Charge"
+      ],
+      "semiLimitedCards": [
+         "Tragoedia"
+      ],
+      "cardsMissing": 55
+   },
+   {
       "deck": "Rise of the True Dragons Structure Deck",
       "cards": [
          "A Wingbeat of Giant Dragon",
@@ -1786,79 +1852,6 @@
          "Dragon Ravine"
       ],
       "cardsMissing": 57
-   },
-   {
-      "deck": "Emperor of Darkness Structure Deck",
-      "cards": [
-         "Berlineth the Firestorm Vassal",
-         "Berlineth the Firestorm Vassal",
-         "By Order of the Emperor",
-         "By Order of the Emperor",
-         "Caius the Shadow Monarch",
-         "Caius the Shadow Monarch",
-         "Domain of the True Monarchs",
-         "Domain of the True Monarchs",
-         "Edea the Heavenly Squire",
-         "Ehther the Heavenly Monarch",
-         "Ehther the Heavenly Monarch",
-         "Eidos the Underworld Squire",
-         "Enemy Controller",
-         "Enemy Controller",
-         "Erebus the Underworld Monarch",
-         "Erebus the Underworld Monarch",
-         "Escalation of the Monarchs",
-         "Escher the Frost Vassal",
-         "Escher the Frost Vassal",
-         "Garum the Storm Vassal",
-         "Garum the Storm Vassal",
-         "Illusory Snatcher",
-         "Illusory Snatcher",
-         "Landrobe the Rock Vassal",
-         "Landrobe the Rock Vassal",
-         "Level Eater",
-         "Lucius the Shadow Vassal",
-         "Lucius the Shadow Vassal",
-         "March of the Monarchs",
-         "Mithra the Thunder Vassal",
-         "Mithra the Thunder Vassal",
-         "Mobius the Frost Monarch",
-         "Pantheism of the Monarchs",
-         "Pantheism of the Monarchs",
-         "Pinpoint Guard",
-         "Pinpoint Guard",
-         "Rainbow Kuriboh",
-         "Rainbow Kuriboh",
-         "Raiza the Storm Monarch",
-         "Raiza the Storm Monarch",
-         "Return of the Monarchs",
-         "Return of the Monarchs",
-         "Strike of the Monarchs",
-         "Strike of the Monarchs",
-         "Tenacity of the Monarchs",
-         "Tenacity of the Monarchs",
-         "The First Monarch",
-         "The First Monarch",
-         "The Monarchs Awaken",
-         "The Monarchs Awaken",
-         "The Monarchs Erupt",
-         "The Monarchs Erupt",
-         "The Monarchs Stormforth",
-         "The Prime Monarch",
-         "The Prime Monarch",
-         "Thestalos the Firestorm Monarch",
-         "Thestalos the Firestorm Monarch",
-         "Token",
-         "Zaborg the Thunder Monarch"
-      ],
-      "limitedCards": [
-         "Dandylion",
-         "Mathematician",
-         "Soul Charge"
-      ],
-      "semiLimitedCards": [
-         "Tragoedia"
-      ],
-      "cardsMissing": 59
    },
    {
       "deck": "Structure Deck: Order of the Spellcasters",

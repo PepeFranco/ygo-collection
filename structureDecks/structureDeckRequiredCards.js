@@ -42,7 +42,7 @@ const mainFunction = async () => {
   const uniqueCardsTimes3 = [];
 
   const sets = await getCardSets();
-  const sds = _.sortBy(
+  const structureDeckSets = _.sortBy(
     sets.filter((s) => s["set_name"].toLowerCase().includes("structure deck")),
     (sd) => sd["tcg_date"]
   );
@@ -66,7 +66,7 @@ const mainFunction = async () => {
 
   const limitedCardsPerDeck = {};
 
-  sds.map((sd) => {
+  structureDeckSets.map((sd) => {
     const sdname = sd["set_name"];
     const cardsInThisSD = uniqueCardsInSD.filter(
       (c) =>

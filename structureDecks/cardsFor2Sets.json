@@ -8,7 +8,6 @@
       "limitedCards": [
          "Call of the Haunted",
          "Ceasefire",
-         "Heavy Storm",
          "Mystical Space Typhoon",
          "Pot of Greed",
          "Premature Burial",
@@ -243,7 +242,6 @@
       "cards": [
          "Big Bang Shot",
          "By Order of the Emperor",
-         "Caius the Shadow Monarch",
          "D.D. Warrior",
          "Dark Core",
          "Lightning Vortex",
@@ -258,7 +256,7 @@
          "Nobleman of Crossout",
          "Torrential Tribute"
       ],
-      "cardsMissing": 9,
+      "cardsMissing": 8,
       "releaseDate": "2008-04-02"
    },
    {
@@ -544,7 +542,6 @@
          "Wulf, Lightsworn Beast"
       ],
       "limitedCards": [
-         "Charge of the Light Brigade",
          "Foolish Burial",
          "Honest"
       ],
@@ -650,7 +647,6 @@
       "cards": [
          "Berlineth the Firestorm Vassal",
          "By Order of the Emperor",
-         "Caius the Shadow Monarch",
          "Domain of the True Monarchs",
          "Ehther the Heavenly Monarch",
          "Erebus the Underworld Monarch",
@@ -670,15 +666,14 @@
          "The First Monarch",
          "The Monarchs Awaken",
          "The Monarchs Erupt",
-         "The Prime Monarch",
-         "Thestalos the Firestorm Monarch"
+         "The Prime Monarch"
       ],
       "limitedCards": [
          "Dandylion",
          "Mathematician",
          "Soul Charge"
       ],
-      "cardsMissing": 24,
+      "cardsMissing": 22,
       "releaseDate": "2016-01-28"
    },
    {
@@ -688,7 +683,6 @@
          "Arkbrave Dragon",
          "Breakthrough Skill",
          "Burst Breath",
-         "Charge of the Light Brigade",
          "Darkblaze Dragon",
          "Decoy Dragon",
          "Divine Dragon Lord Felgrand",
@@ -713,7 +707,7 @@
          "Red-Eyes Darkness Metal Dragon",
          "Reinforcement of the Army"
       ],
-      "cardsMissing": 23,
+      "cardsMissing": 22,
       "releaseDate": "2016-07-07"
    },
    {
@@ -1356,6 +1350,9 @@
    {
       "deck": "Structure Deck: Beware of Traptrix",
       "cards": [],
+      "limitedCards": [
+         "Harpie's Feather Duster"
+      ],
       "cardsMissing": 0,
       "releaseDate": "2023-02-23"
    }
