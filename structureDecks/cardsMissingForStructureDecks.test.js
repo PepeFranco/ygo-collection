@@ -43,5 +43,25 @@ describe("Cards Missing for Structure Decks", () => {
       const result = getClosestMatchingBanList(new Date(1999, 0, 1));
       expect(result.date).toEqual("2002-5");
     });
+
+    it("returns the earliest banlist", () => {
+      const result = getClosestMatchingBanList(new Date(1999, 0, 1));
+      expect(result.date).toEqual("2002-5");
+    });
+
+    it("returns the banlist that matches the date", () => {
+      const result = getClosestMatchingBanList(new Date(2002, 6, 1));
+      expect(result.date).toEqual("2002-7");
+    });
+
+    it("returns an earlier banlist", () => {
+      const result = getClosestMatchingBanList(new Date(2002, 5, 30));
+      expect(result.date).toEqual("2002-5");
+    });
+
+    it("returns the latest banlist", () => {
+      const result = getClosestMatchingBanList(new Date(3000, 0, 1));
+      expect(result.date).toEqual("2022-12");
+    });
   });
 });
