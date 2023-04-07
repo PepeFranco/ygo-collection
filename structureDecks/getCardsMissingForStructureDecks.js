@@ -22,7 +22,7 @@ const getStructureDeckSetNames = (cardSets) => {
     cardSets.filter((cardSet) => {
       const setName = cardSet["set_name"].toLowerCase();
       return (
-        setName.includes("structure") &&
+        (setName.includes("structure") || setName === "legendary hero decks") &&
         !setName.includes("special") &&
         !setName.includes("deluxe")
       );
