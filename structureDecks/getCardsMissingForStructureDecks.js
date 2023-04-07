@@ -22,6 +22,8 @@ const banLists = _.sortBy(
   (l) => new Date(l.date)
 );
 
+const cardsInStructureDecks = require("./cardsInStructureDecks.json");
+
 const getStructureDeckSetNames = (cardSets) => {
   return _.sortBy(
     cardSets.filter((cardSet) => {
@@ -43,18 +45,7 @@ const getCardsMissingForStructureDecks = async () => {
   const structureDeckSetNames = getStructureDeckSetNames(cardSets);
   console.log(`🔢 There are ${structureDeckSetNames.length} structure decks`);
 
-  const structureDeckSetOfOne = structureDeckSetNames.map((structureDeck) => {
-    const cards = collection
-      .filter((card) => card["In Deck"] === structureDeck)
-      .map((card) => card["Name"]);
-
-    _.remove(collection, (card) => card["In Deck"] === structureDeck);
-
-    return {
-      deck: structureDeck,
-      cards,
-    };
-  });
+  const structureDeckSetOfOne = cardsInStructureDecks;
   console.log(
     `🎴 There are ${structureDeckSetOfOne.reduce(
       (acc, sd) => acc + sd.cards.length,
