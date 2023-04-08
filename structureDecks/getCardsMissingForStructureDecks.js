@@ -72,7 +72,20 @@ const getSetsOfCardsInStructureDeck = (deck, numberOfSets) => {
   return deckWithCardsMultiplied;
 };
 
-const getDeckFilteredByBanlist = (deck, banlist) => deck;
+const getDeckFilteredByBanlist = (deck, banlist) => {
+  const forbiddenCards = banlist.cards
+    .filter(({ number }) => number === 0)
+    .map(({ card }) => card);
+  const cardsWithoutForbidden = _.difference(deck.cards, forbiddenCards);
+
+  const limitedCards = banlist.cards
+    .filter(({ number }) => number === 1)
+    .map(({ card }) => card);
+  const limitedCardsInDeck = _.intersection(deck.cards, limitedCards);
+  const cardsWithoutLimited = _.difference(cardsWithoutForbidden, limitedCards);
+
+  return { ...deck, cards: [...cardsWithoutLimited, ...limitedCardsInDeck] };
+};
 
 const getCardsMissingForStructureDecks = async () => {
   console.log(`📚 There are ${collection.length} cards in the collection`);

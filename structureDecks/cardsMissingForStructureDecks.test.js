@@ -89,7 +89,6 @@ describe("Cards Missing for Structure Decks", () => {
 
   describe("getDeckFilteredByBanlist", () => {
     const mockBanlist = {
-      date: "2002-5",
       cards: [
         {
           card: "Card Destruction",
@@ -98,6 +97,10 @@ describe("Cards Missing for Structure Decks", () => {
         {
           card: "Change of Heart",
           number: 1,
+        },
+        {
+          card: "Raigeki",
+          number: 0,
         },
       ],
     };
@@ -109,6 +112,35 @@ describe("Cards Missing for Structure Decks", () => {
       };
       const result = getDeckFilteredByBanlist(mockDeck, mockBanlist);
       expect(result).toEqual(mockDeck);
+    });
+
+    it("filters banned cards", () => {
+      const mockDeck = {
+        deck: "Structure Deck: Dragon's Roar",
+        cards: ["Armed Dragon LV3", "Armed Dragon LV5", "Raigeki"],
+      };
+      const result = getDeckFilteredByBanlist(mockDeck, mockBanlist);
+      expect(result).toEqual({
+        deck: "Structure Deck: Dragon's Roar",
+        cards: ["Armed Dragon LV3", "Armed Dragon LV5"],
+      });
+    });
+
+    it("filters limited cards", () => {
+      const mockDeck = {
+        deck: "Structure Deck: Dragon's Roar",
+        cards: [
+          "Change of Heart",
+          "Change of Heart",
+          "Change of Heart",
+          "Raigeki",
+        ],
+      };
+      const result = getDeckFilteredByBanlist(mockDeck, mockBanlist);
+      expect(result).toEqual({
+        deck: "Structure Deck: Dragon's Roar",
+        cards: ["Change of Heart"],
+      });
     });
   });
 });
