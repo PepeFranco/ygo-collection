@@ -147,7 +147,8 @@ const getCardsMissingForStructureDecks = async () => {
       .filter((card) => !card["In Deck"].toLowerCase().includes("edison"))
       .map(({ Name }) => Name);
     const structureDeckSet = cardsInStructureDecks.map((deck) => {
-      const banlist = getClosestMatchingBanList(deck.date);
+      const banlist = getClosestMatchingBanList(new Date(deck.date));
+      console.log(deck.date, banlist.date);
       const deckWithCardsMultiplied = getSetsOfCardsInStructureDeck(deck, set);
       return getDeckFilteredByBanlist(deckWithCardsMultiplied, banlist);
     });

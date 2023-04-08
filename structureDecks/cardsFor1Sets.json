@@ -3,83 +3,123 @@
       "deck": "Structure Deck: Dragon's Roar",
       "cards": [],
       "date": "2005-01-01",
-      "forbiddenCards": [
+      "forbiddenCards": [],
+      "limitedCards": [
+         "Call of the Haunted",
+         "Ceasefire",
          "Heavy Storm",
+         "Mystical Space Typhoon",
          "Pot of Greed",
          "Premature Burial",
-         "Snatch Steal"
+         "Reckless Greed",
+         "Snatch Steal",
+         "Swords of Revealing Light",
+         "Twin-Headed Behemoth"
       ],
-      "limitedCards": [],
-      "semiLimitedCards": [],
+      "semiLimitedCards": [
+         "Creature Swap",
+         "Nobleman of Crossout"
+      ],
       "cardsMissing": 0
    },
    {
       "deck": "Structure Deck: Zombie Madness",
       "cards": [],
       "date": "2005-01-01",
-      "forbiddenCards": [
-         "Card of Safe Return",
-         "Giant Trunade",
+      "forbiddenCards": [],
+      "limitedCards": [
          "Heavy Storm",
+         "Mystical Space Typhoon",
          "Pot of Greed",
-         "Snatch Steal"
+         "Reckless Greed",
+         "Snatch Steal",
+         "Torrential Tribute",
+         "Vampire Lord"
       ],
-      "limitedCards": [],
-      "semiLimitedCards": [],
+      "semiLimitedCards": [
+         "Creature Swap",
+         "Nobleman of Crossout"
+      ],
       "cardsMissing": 0
    },
    {
       "deck": "Structure Deck: Blaze of Destruction",
       "cards": [],
       "date": "2005-05-09",
-      "forbiddenCards": [
+      "forbiddenCards": [],
+      "limitedCards": [
+         "Call of the Haunted",
          "Heavy Storm",
+         "Mystical Space Typhoon",
          "Pot of Greed",
          "Premature Burial",
          "Snatch Steal"
       ],
-      "limitedCards": [],
-      "semiLimitedCards": [],
+      "semiLimitedCards": [
+         "Level Limit - Area B",
+         "Nobleman of Crossout"
+      ],
       "cardsMissing": 0
    },
    {
       "deck": "Structure Deck: Fury from the Deep",
       "cards": [],
       "date": "2005-05-09",
-      "forbiddenCards": [
+      "forbiddenCards": [],
+      "limitedCards": [
+         "Call of the Haunted",
          "Heavy Storm",
+         "Mystical Space Typhoon",
          "Pot of Greed",
          "Premature Burial",
-         "Snatch Steal"
+         "Snatch Steal",
+         "Torrential Tribute",
+         "Tribe-Infecting Virus"
       ],
-      "limitedCards": [],
-      "semiLimitedCards": [],
+      "semiLimitedCards": [
+         "Creature Swap",
+         "Gravity Bind"
+      ],
       "cardsMissing": 0
    },
    {
       "deck": "Structure Deck: Warrior's Triumph",
       "cards": [],
       "date": "2005-10-28",
-      "forbiddenCards": [
-         "Giant Trunade",
+      "forbiddenCards": [],
+      "limitedCards": [
+         "Call of the Haunted",
+         "D.D. Warrior Lady",
+         "Exiled Force",
          "Heavy Storm",
+         "Lightning Vortex",
+         "Mystical Space Typhoon",
          "Snatch Steal"
       ],
-      "limitedCards": [
+      "semiLimitedCards": [
          "Reinforcement of the Army"
       ],
-      "semiLimitedCards": [],
       "cardsMissing": 0
    },
    {
       "deck": "Structure Deck: Spellcaster's Judgment",
       "cards": [],
       "date": "2006-01-18",
-      "forbiddenCards": [
+      "forbiddenCards": [],
+      "limitedCards": [
+         "Breaker the Magical Warrior",
+         "Call of the Haunted",
          "Heavy Storm",
-         "Premature Burial"
+         "Lightning Vortex",
+         "Mage Power",
+         "Magic Cylinder",
+         "Magician of Faith",
+         "Mystical Space Typhoon",
+         "Nobleman of Crossout",
+         "Premature Burial",
+         "Swords of Revealing Light",
+         "Tsukuyomi"
       ],
-      "limitedCards": [],
       "semiLimitedCards": [],
       "cardsMissing": 0
    },
@@ -87,11 +127,13 @@
       "deck": "Structure Deck: Invincible Fortress",
       "cards": [],
       "date": "2006-05-15",
-      "forbiddenCards": [
+      "forbiddenCards": [],
+      "limitedCards": [
+         "Mystical Space Typhoon",
          "Premature Burial",
-         "Ultimate Offering"
+         "Reckless Greed",
+         "Swords of Revealing Light"
       ],
-      "limitedCards": [],
       "semiLimitedCards": [],
       "cardsMissing": 0
    },
@@ -99,23 +141,29 @@
       "deck": "Structure Deck: Lord of the Storm",
       "cards": [],
       "date": "2006-07-12",
-      "forbiddenCards": [
-         "Heavy Storm"
-      ],
+      "forbiddenCards": [],
       "limitedCards": [
-         "Card Destruction"
+         "Call of the Haunted",
+         "Card Destruction",
+         "Heavy Storm",
+         "Lightning Vortex",
+         "Mystical Space Typhoon",
+         "Reckless Greed"
       ],
-      "semiLimitedCards": [],
+      "semiLimitedCards": [
+         "Nobleman of Crossout"
+      ],
       "cardsMissing": 0
    },
    {
       "deck": "Structure Deck: Dinosaur's Rage",
       "cards": [],
       "date": "2006-10-20",
-      "forbiddenCards": [
-         "Heavy Storm"
+      "forbiddenCards": [],
+      "limitedCards": [
+         "Heavy Storm",
+         "Mystical Space Typhoon"
       ],
-      "limitedCards": [],
       "semiLimitedCards": [],
       "cardsMissing": 0
    },
@@ -123,11 +171,14 @@
       "deck": "Structure Deck: Machine Re-Volt",
       "cards": [],
       "date": "2007-01-17",
-      "forbiddenCards": [
+      "forbiddenCards": [],
+      "limitedCards": [
          "Heavy Storm",
+         "Limiter Removal",
+         "Mystical Space Typhoon",
+         "Pot of Avarice",
          "Ultimate Offering"
       ],
-      "limitedCards": [],
       "semiLimitedCards": [],
       "cardsMissing": 0
    },
@@ -135,14 +186,15 @@
       "deck": "Rise of the Dragon Lords Structure Deck",
       "cards": [],
       "date": "2007-10-24",
-      "forbiddenCards": [
-         "Giant Trunade",
-         "Premature Burial"
-      ],
+      "forbiddenCards": [],
       "limitedCards": [
-         "Foolish Burial",
+         "Brain Control",
+         "Call of the Haunted",
+         "Giant Trunade",
          "Morphing Jar",
-         "Terraforming"
+         "Premature Burial",
+         "Snipe Hunter",
+         "Twin-Headed Behemoth"
       ],
       "semiLimitedCards": [],
       "cardsMissing": 0
@@ -151,41 +203,49 @@
       "deck": "The Dark Emperor Structure Deck",
       "cards": [],
       "date": "2008-04-02",
-      "forbiddenCards": [
-         "Return from the Different Dimension"
-      ],
+      "forbiddenCards": [],
       "limitedCards": [
+         "Brain Control",
+         "D.D. Warrior Lady",
+         "Mystical Space Typhoon",
+         "Nobleman of Crossout",
+         "Torrential Tribute"
+      ],
+      "semiLimitedCards": [
          "Reinforcement of the Army"
       ],
-      "semiLimitedCards": [],
       "cardsMissing": 0
    },
    {
       "deck": "Zombie World Structure Deck",
       "cards": [],
       "date": "2008-10-21",
-      "forbiddenCards": [
-         "Card of Safe Return",
-         "Cold Wave"
-      ],
+      "forbiddenCards": [],
       "limitedCards": [
          "Card Destruction",
-         "Terraforming"
+         "Spirit Reaper"
       ],
-      "semiLimitedCards": [],
+      "semiLimitedCards": [
+         "Card of Safe Return",
+         "Magical Stone Excavation"
+      ],
       "cardsMissing": 0
    },
    {
       "deck": "Spellcaster's Command Structure Deck",
       "cards": [],
       "date": "2009-03-31",
-      "forbiddenCards": [
-         "Giant Trunade"
-      ],
+      "forbiddenCards": [],
       "limitedCards": [
-         "Terraforming"
+         "Breaker the Magical Warrior",
+         "Fissure",
+         "Giant Trunade",
+         "Magic Cylinder",
+         "Swords of Revealing Light"
       ],
-      "semiLimitedCards": [],
+      "semiLimitedCards": [
+         "Summoner Monk"
+      ],
       "cardsMissing": 0
    },
    {
@@ -194,7 +254,9 @@
       "date": "2009-10-23",
       "forbiddenCards": [],
       "limitedCards": [
+         "Card Trooper",
          "Mind Control",
+         "Mystical Space Typhoon",
          "Reinforcement of the Army"
       ],
       "semiLimitedCards": [],
@@ -205,19 +267,32 @@
       "cards": [],
       "date": "2010-02-19",
       "forbiddenCards": [],
-      "limitedCards": [],
-      "semiLimitedCards": [],
+      "limitedCards": [
+         "Ceasefire",
+         "Cyber Dragon",
+         "Swords of Revealing Light"
+      ],
+      "semiLimitedCards": [
+         "Green Gadget"
+      ],
       "cardsMissing": 0
    },
    {
       "deck": "Structure Deck: Marik (TCG)",
       "cards": [],
       "date": "2010-10-15",
-      "forbiddenCards": [],
-      "limitedCards": [
-         "Foolish Burial"
+      "forbiddenCards": [
+         "Temple of the Kings"
       ],
-      "semiLimitedCards": [],
+      "limitedCards": [
+         "Allure of Darkness",
+         "Foolish Burial",
+         "Mirror Force"
+      ],
+      "semiLimitedCards": [
+         "Magical Stone Excavation",
+         "Mystical Space Typhoon"
+      ],
       "cardsMissing": 0
    },
    {
@@ -227,20 +302,27 @@
       "forbiddenCards": [],
       "limitedCards": [
          "Card Destruction",
-         "Foolish Burial"
+         "Foolish Burial",
+         "Mirror Force"
       ],
-      "semiLimitedCards": [],
+      "semiLimitedCards": [
+         "Bottomless Trap Hole",
+         "Icarus Attack"
+      ],
       "cardsMissing": 0
    },
    {
       "deck": "Lost Sanctuary Structure Deck",
       "cards": [],
       "date": "2011-06-10",
-      "forbiddenCards": [
-         "Return from the Different Dimension"
-      ],
+      "forbiddenCards": [],
       "limitedCards": [
-         "Terraforming"
+         "Burial from a Different Dimension",
+         "Honest",
+         "Marshmallon",
+         "Return from the Different Dimension",
+         "Solemn Judgment",
+         "Torrential Tribute"
       ],
       "semiLimitedCards": [],
       "cardsMissing": 0
@@ -251,24 +333,34 @@
       "date": "2011-10-13",
       "forbiddenCards": [],
       "limitedCards": [
+         "Allure of Darkness",
          "Card Destruction",
-         "Terraforming"
+         "Sangan",
+         "The Transmigration Prophecy"
       ],
-      "semiLimitedCards": [],
+      "semiLimitedCards": [
+         "Mind Crush",
+         "Tragoedia"
+      ],
       "cardsMissing": 0
    },
    {
       "deck": "Dragons Collide Structure Deck",
       "cards": [],
       "date": "2012-02-03",
-      "forbiddenCards": [
-         "Eclipse Wyvern"
-      ],
+      "forbiddenCards": [],
       "limitedCards": [
+         "Book of Moon",
+         "Charge of the Light Brigade",
+         "Dark Armed Dragon",
          "Monster Gate",
          "Reasoning"
       ],
-      "semiLimitedCards": [],
+      "semiLimitedCards": [
+         "Call of the Haunted",
+         "Magical Stone Excavation",
+         "Summoner Monk"
+      ],
       "cardsMissing": 0
    },
    {
@@ -277,10 +369,13 @@
       "date": "2012-06-21",
       "forbiddenCards": [],
       "limitedCards": [
+         "Dark Hole",
          "Gateway of the Six",
          "Reinforcement of the Army"
       ],
-      "semiLimitedCards": [],
+      "semiLimitedCards": [
+         "Shien's Smoke Signal"
+      ],
       "cardsMissing": 0
    },
    {
@@ -289,9 +384,11 @@
       "date": "2012-10-11",
       "forbiddenCards": [],
       "limitedCards": [
-         "Terraforming"
+         "Dark Hole"
       ],
-      "semiLimitedCards": [],
+      "semiLimitedCards": [
+         "Torrential Tribute"
+      ],
       "cardsMissing": 0
    },
    {
@@ -300,16 +397,21 @@
       "date": "2013-02-08",
       "forbiddenCards": [],
       "limitedCards": [],
-      "semiLimitedCards": [],
+      "semiLimitedCards": [
+         "Pot of Duality"
+      ],
       "cardsMissing": 0
    },
    {
       "deck": "Saga of Blue-Eyes White Dragon Structure Deck",
       "cards": [],
       "date": "2013-09-12",
-      "forbiddenCards": [],
+      "forbiddenCards": [
+         "Monster Reborn"
+      ],
       "limitedCards": [
-         "Monster Reborn",
+         "Compulsory Evacuation Device",
+         "Honest",
          "One for One"
       ],
       "semiLimitedCards": [],
@@ -320,8 +422,12 @@
       "cards": [],
       "date": "2014-02-06",
       "forbiddenCards": [],
-      "limitedCards": [],
-      "semiLimitedCards": [],
+      "limitedCards": [
+         "Limiter Removal"
+      ],
+      "semiLimitedCards": [
+         "Dimensional Prison"
+      ],
       "cardsMissing": 0
    },
    {
@@ -330,7 +436,9 @@
       "date": "2014-06-27",
       "forbiddenCards": [],
       "limitedCards": [
-         "Foolish Burial"
+         "Charge of the Light Brigade",
+         "Foolish Burial",
+         "Honest"
       ],
       "semiLimitedCards": [],
       "cardsMissing": 0
@@ -341,9 +449,12 @@
       "date": "2014-10-16",
       "forbiddenCards": [],
       "limitedCards": [
-         "Terraforming"
+         "Geargiagear",
+         "Limiter Removal"
       ],
-      "semiLimitedCards": [],
+      "semiLimitedCards": [
+         "Card Trooper"
+      ],
       "cardsMissing": 0
    },
    {
@@ -352,25 +463,26 @@
       "date": "2015-01-29",
       "forbiddenCards": [],
       "limitedCards": [
-         "Reinforcement of the Army"
+         "Bottomless Trap Hole",
+         "Compulsory Evacuation Device",
+         "Neo-Spacian Grand Mole"
       ],
-      "semiLimitedCards": [],
+      "semiLimitedCards": [
+         "Card Trooper",
+         "Honest",
+         "Summoner Monk"
+      ],
       "cardsMissing": 0
    },
    {
       "deck": "Synchron Extreme Structure Deck",
       "cards": [],
       "date": "2015-08-27",
-      "forbiddenCards": [
-         "Level Eater"
-      ],
+      "forbiddenCards": [],
       "limitedCards": [
-         "Black Dragon Collapserpent",
          "Genex Ally Birdman",
-         "Jet Synchron",
          "One for One",
-         "Reinforcement of the Army",
-         "White Dragon Wyverburster"
+         "Solemn Warning"
       ],
       "semiLimitedCards": [],
       "cardsMissing": 0
@@ -381,7 +493,8 @@
       "date": "2015-12-03",
       "forbiddenCards": [],
       "limitedCards": [
-         "Terraforming"
+         "Eradicator Epidemic Virus",
+         "Torrential Tribute"
       ],
       "semiLimitedCards": [],
       "cardsMissing": 0
@@ -390,30 +503,32 @@
       "deck": "Emperor of Darkness Structure Deck",
       "cards": [],
       "date": "2016-01-28",
-      "forbiddenCards": [
+      "forbiddenCards": [],
+      "limitedCards": [
          "Dandylion",
-         "Level Eater",
+         "Mathematician",
          "Soul Charge"
       ],
-      "limitedCards": [],
-      "semiLimitedCards": [],
+      "semiLimitedCards": [
+         "Tragoedia"
+      ],
       "cardsMissing": 0
    },
    {
       "deck": "Rise of the True Dragons Structure Deck",
       "cards": [],
       "date": "2016-07-07",
-      "forbiddenCards": [
-         "Eclipse Wyvern"
-      ],
+      "forbiddenCards": [],
       "limitedCards": [
-         "Black Dragon Collapserpent",
          "Foolish Burial",
-         "Reinforcement of the Army",
-         "Terraforming",
-         "White Dragon Wyverburster"
+         "Red-Eyes Darkness Metal Dragon",
+         "Reinforcement of the Army"
       ],
-      "semiLimitedCards": [],
+      "semiLimitedCards": [
+         "Card Trooper",
+         "Charge of the Light Brigade",
+         "Dragon Ravine"
+      ],
       "cardsMissing": 0
    },
    {
@@ -421,7 +536,10 @@
       "cards": [],
       "date": "2016-10-20",
       "forbiddenCards": [],
-      "limitedCards": [],
+      "limitedCards": [
+         "Limiter Removal",
+         "Ring of Destruction"
+      ],
       "semiLimitedCards": [],
       "cardsMissing": 0
    },
@@ -440,8 +558,7 @@
       "date": "2017-01-19",
       "forbiddenCards": [],
       "limitedCards": [
-         "Armageddon Knight",
-         "Dark Grepher",
+         "Dark Armed Dragon",
          "Foolish Burial",
          "One for One"
       ],
@@ -454,49 +571,51 @@
       "date": "2017-04-13",
       "forbiddenCards": [],
       "limitedCards": [
-         "Miscellaneousaurus",
-         "Terraforming"
+         "Burial from a Different Dimension",
+         "Rescue Rabbit"
       ],
-      "semiLimitedCards": [],
+      "semiLimitedCards": [
+         "Ojama Trio"
+      ],
       "cardsMissing": 0
    },
    {
       "deck": "Machine Reactor Structure Deck",
       "cards": [],
       "date": "2017-04-13",
-      "forbiddenCards": [
+      "forbiddenCards": [],
+      "limitedCards": [
+         "Limiter Removal",
          "Maxx \"C\""
       ],
-      "limitedCards": [
-         "Terraforming"
+      "semiLimitedCards": [
+         "Card Trooper"
       ],
-      "semiLimitedCards": [],
       "cardsMissing": 0
    },
    {
       "deck": "Structure Deck: Cyberse Link",
       "cards": [],
       "date": "2017-11-02",
-      "forbiddenCards": [
+      "forbiddenCards": [],
+      "limitedCards": [
          "Glow-Up Bulb",
+         "Mathematician",
+         "Mind Control",
          "Soul Charge"
       ],
-      "limitedCards": [
-         "Gold Sarcophagus",
-         "Mind Control"
+      "semiLimitedCards": [
+         "Card Trooper"
       ],
-      "semiLimitedCards": [],
       "cardsMissing": 0
    },
    {
       "deck": "Structure Deck: Wave of Light",
       "cards": [],
       "date": "2018-01-18",
-      "forbiddenCards": [
-         "Eva"
-      ],
+      "forbiddenCards": [],
       "limitedCards": [
-         "Herald of Orange Light"
+         "Solemn Warning"
       ],
       "semiLimitedCards": [],
       "cardsMissing": 0
@@ -506,7 +625,10 @@
       "cards": [],
       "date": "2018-04-19",
       "forbiddenCards": [],
-      "limitedCards": [],
+      "limitedCards": [
+         "Eradicator Epidemic Virus",
+         "Tour Guide From the Underworld"
+      ],
       "semiLimitedCards": [],
       "cardsMissing": 0
    },
@@ -518,9 +640,7 @@
       "limitedCards": [
          "Genex Ally Birdman",
          "One for One",
-         "Phantom Skyblaster",
-         "Reasoning",
-         "Terraforming"
+         "Reasoning"
       ],
       "semiLimitedCards": [],
       "cardsMissing": 0
@@ -529,19 +649,16 @@
       "deck": "Legendary Hero Decks",
       "cards": [],
       "date": "2018-10-04",
-      "forbiddenCards": [
-         "Number 86: Heroic Champion - Rhongomyniad",
-         "Soul Charge"
-      ],
+      "forbiddenCards": [],
       "limitedCards": [
-         "Armageddon Knight",
+         "Dark Hole",
          "Foolish Burial",
          "Monster Reborn",
          "Reinforcement of the Army",
-         "Terraforming"
+         "Soul Charge"
       ],
       "semiLimitedCards": [
-         "Destiny HERO - Malicious"
+         "Terraforming"
       ],
       "cardsMissing": 0
    },
@@ -562,9 +679,7 @@
       "cards": [],
       "date": "2019-02-14",
       "forbiddenCards": [],
-      "limitedCards": [
-         "Salamangreat Gazelle"
-      ],
+      "limitedCards": [],
       "semiLimitedCards": [],
       "cardsMissing": 0
    },
@@ -573,12 +688,9 @@
       "cards": [],
       "date": "2019-04-19",
       "forbiddenCards": [],
-      "limitedCards": [
-         "Servant of Endymion",
-         "Terraforming"
-      ],
+      "limitedCards": [],
       "semiLimitedCards": [
-         "Pot of Desires"
+         "Terraforming"
       ],
       "cardsMissing": 0
    },
@@ -586,11 +698,10 @@
       "deck": "Structure Deck: Rokket Revolt",
       "cards": [],
       "date": "2019-08-15",
-      "forbiddenCards": [
-         "Imperial Order",
-         "Red Reboot"
+      "forbiddenCards": [],
+      "limitedCards": [
+         "Imperial Order"
       ],
-      "limitedCards": [],
       "semiLimitedCards": [],
       "cardsMissing": 0
    },
@@ -602,7 +713,7 @@
       "limitedCards": [
          "Armageddon Knight",
          "Foolish Burial",
-         "Instant Fusion"
+         "Pot of Avarice"
       ],
       "semiLimitedCards": [],
       "cardsMissing": 0
@@ -629,9 +740,7 @@
          "Set Rotation",
          "Terraforming"
       ],
-      "semiLimitedCards": [
-         "Pot of Desires"
-      ],
+      "semiLimitedCards": [],
       "cardsMissing": 0
    },
    {
@@ -640,6 +749,8 @@
       "date": "2020-10-22",
       "forbiddenCards": [],
       "limitedCards": [
+         "Metaverse",
+         "Raigeki",
          "Terraforming"
       ],
       "semiLimitedCards": [],
@@ -649,11 +760,10 @@
       "deck": "Structure Deck: Freezing Chains",
       "cards": [],
       "date": "2021-02-18",
-      "forbiddenCards": [
-         "Ronintoadin"
-      ],
+      "forbiddenCards": [],
       "limitedCards": [
-         "Appointer of the Red Lotus"
+         "Dewloren, Tiger King of the Ice Barrier",
+         "Trishula, Dragon of the Ice Barrier"
       ],
       "semiLimitedCards": [],
       "cardsMissing": 0
@@ -688,7 +798,9 @@
       ],
       "date": "2022-09-29",
       "forbiddenCards": [],
-      "limitedCards": [],
+      "limitedCards": [
+         "Metaverse"
+      ],
       "semiLimitedCards": [],
       "cardsMissing": 1
    },
