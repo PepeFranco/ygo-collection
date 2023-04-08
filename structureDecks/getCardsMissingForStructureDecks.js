@@ -72,6 +72,8 @@ const getSetsOfCardsInStructureDeck = (deck, numberOfSets) => {
   return deckWithCardsMultiplied;
 };
 
+const getDeckFilteredByBanlist = () => {};
+
 const getCardsMissingForStructureDecks = async () => {
   console.log(`📚 There are ${collection.length} cards in the collection`);
 
@@ -80,6 +82,14 @@ const getCardsMissingForStructureDecks = async () => {
   console.log(`🔢 There are ${structureDeckSetNames.length} structure decks`);
 
   const structureDeckSetOfOne = cardsInStructureDecks;
+  const structureDeckSetOfTwo = getSetsOfCardsInStructureDeck(
+    cardsInStructureDecks,
+    2
+  );
+  const structureDeckSetOfThree = getSetsOfCardsInStructureDeck(
+    cardsInStructureDecks,
+    3
+  );
 
   const structureDeckSetOfTwoMissing = [];
   const structureDeckSetOfThreeMissing = [];
@@ -270,4 +280,5 @@ module.exports = {
   getCardSets,
   getClosestMatchingBanList,
   getSetsOfCardsInStructureDeck,
+  getDeckFilteredByBanlist,
 };

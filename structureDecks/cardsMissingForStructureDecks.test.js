@@ -2,6 +2,7 @@ const {
   getStructureDeckSetNames,
   getClosestMatchingBanList,
   getSetsOfCardsInStructureDeck,
+  getDeckFilteredByBanlist,
 } = require("./getCardsMissingForStructureDecks");
 
 describe("Cards Missing for Structure Decks", () => {
@@ -83,6 +84,12 @@ describe("Cards Missing for Structure Decks", () => {
           "Armed Dragon LV5",
         ],
       });
+    });
+  });
+
+  describe("getDeckFilteredByBanlist", () => {
+    it("can call", () => {
+      getDeckFilteredByBanlist();
     });
   });
 });
