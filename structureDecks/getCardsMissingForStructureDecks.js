@@ -84,7 +84,24 @@ const getDeckFilteredByBanlist = (deck, banlist) => {
   const limitedCardsInDeck = _.intersection(deck.cards, limitedCards);
   const cardsWithoutLimited = _.difference(cardsWithoutForbidden, limitedCards);
 
-  return { ...deck, cards: [...cardsWithoutLimited, ...limitedCardsInDeck] };
+  const semiLimitedCards = banlist.cards
+    .filter(({ number }) => number === 2)
+    .map(({ card }) => card);
+  const semiLimitedCardsInDeck = _.intersection(deck.cards, semiLimitedCards);
+  const cardsWithoutSemiLimited = _.difference(
+    cardsWithoutLimited,
+    semiLimitedCardsInDeck
+  );
+
+  return {
+    ...deck,
+    cards: [
+      ...cardsWithoutSemiLimited,
+      ...limitedCardsInDeck,
+      ...semiLimitedCardsInDeck,
+      ...semiLimitedCardsInDeck,
+    ],
+  };
 };
 
 const getCardsMissingForStructureDecks = async () => {

@@ -142,5 +142,26 @@ describe("Cards Missing for Structure Decks", () => {
         cards: ["Change of Heart"],
       });
     });
+
+    it("filters semi limited cards", () => {
+      const mockDeck = {
+        deck: "Structure Deck: Dragon's Roar",
+        cards: [
+          "Card Destruction",
+          "Card Destruction",
+          "Card Destruction",
+          "Card Destruction",
+          "Change of Heart",
+          "Change of Heart",
+          "Change of Heart",
+          "Raigeki",
+        ],
+      };
+      const result = getDeckFilteredByBanlist(mockDeck, mockBanlist);
+      expect(result).toEqual({
+        deck: "Structure Deck: Dragon's Roar",
+        cards: ["Change of Heart", "Card Destruction", "Card Destruction"],
+      });
+    });
   });
 });
