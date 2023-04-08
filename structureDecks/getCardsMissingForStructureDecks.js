@@ -56,7 +56,21 @@ const getClosestMatchingBanList = (date) => {
   });
 };
 
-const getSetsOfCardsInStructureDeck = (deck) => deck;
+const getSetsOfCardsInStructureDeck = (deck, numberOfSets) => {
+  const deckWithCardsMultiplied = new Array(numberOfSets - 1)
+    .fill(0)
+    .reduce((accumulator) => {
+      return {
+        ...accumulator,
+        cards: [...accumulator.cards, ...deck.cards],
+      };
+    }, deck);
+  deckWithCardsMultiplied.cards = _.sortBy(
+    deckWithCardsMultiplied.cards,
+    (card) => card
+  );
+  return deckWithCardsMultiplied;
+};
 
 const getCardsMissingForStructureDecks = async () => {
   console.log(`📚 There are ${collection.length} cards in the collection`);

@@ -66,9 +66,23 @@ describe("Cards Missing for Structure Decks", () => {
       deck: "Structure Deck: Dragon's Roar",
       cards: ["Armed Dragon LV3", "Armed Dragon LV5"],
     };
+
     it("returns given if set is one", () => {
       const result = getSetsOfCardsInStructureDeck(mockDeck, 1);
       expect(result).toEqual(mockDeck);
+    });
+
+    it("returns set of two", () => {
+      const result = getSetsOfCardsInStructureDeck(mockDeck, 2);
+      expect(result).toEqual({
+        deck: "Structure Deck: Dragon's Roar",
+        cards: [
+          "Armed Dragon LV3",
+          "Armed Dragon LV3",
+          "Armed Dragon LV5",
+          "Armed Dragon LV5",
+        ],
+      });
     });
   });
 });
