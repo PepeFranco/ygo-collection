@@ -143,7 +143,7 @@ const getCardsMissingForStructureDecks = async () => {
   const structureDeckSets = getStructureDeckSets(cardSets);
   console.log(`🔢 There are ${structureDeckSets.length} structure decks`);
 
-  const sets = [3];
+  const sets = [1, 2, 3];
   sets.map((set) => {
     const collectionCopy = [...collection]
       .filter((card) => !card["In Deck"].toLowerCase().includes("edison"))
@@ -163,12 +163,13 @@ const getCardsMissingForStructureDecks = async () => {
         console.log("deck ", structureDeck.deck);
         const { collection, deck } = removeCardsFromCollection(
           structureDeck,
-          collectionCopy
+          accumulator.collection
         );
         accumulator.collection = collection;
+        deck.cards = undefined;
         structureDeckSetResult.push({
           ...deck,
-          cardsMissing: deck.cards.length,
+          numberOfCardsMissing: deck.cardsMissing.length,
         });
         return accumulator;
       },
