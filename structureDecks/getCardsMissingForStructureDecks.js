@@ -118,12 +118,12 @@ const removeCardsFromCollection = (deck, collection) => {
   const missingCardsInStructureDeck = [...deck.cards];
   deck.cards.map((card) => {
     const collectionIndex = filteredCollection.findIndex(
-      (collectionCard) => collectionCard === card
+      (collectionCard) => collectionCard.toLowerCase() === card.toLowerCase()
     );
     if (collectionIndex >= 0) {
       filteredCollection.splice(collectionIndex, 1);
       const deckIndex = missingCardsInStructureDeck.findIndex(
-        (deckCard) => deckCard === card
+        (deckCard) => deckCard.toLowerCase() === card.toLowerCase()
       );
       missingCardsInStructureDeck.splice(deckIndex, 1);
     }
@@ -136,203 +136,48 @@ const removeCardsFromCollection = (deck, collection) => {
 
 const getCardsMissingForStructureDecks = async () => {
   console.log(`📚 There are ${collection.length} cards in the collection`);
+  const collectionCopy = [...collection]
+    .filter((card) => !card["In Deck"].toLowerCase().includes("edison"))
+    .map(({ Name }) => Name);
 
   const cardSets = await getCardSets();
   const structureDeckSets = getStructureDeckSets(cardSets);
   console.log(`🔢 There are ${structureDeckSets.length} structure decks`);
 
-  const structureDeckSetOfOne = cardsInStructureDecks;
-  const structureDeckSetOfTwo = cardsInStructureDecks.map((deck) => {
+  const structureDeckSetOfOne = cardsInStructureDecks.map((deck) => {
     const banlist = getClosestMatchingBanList(deck.date);
-    const deckWithCardsMultiplied = getSetsOfCardsInStructureDeck(deck, 2);
+    const deckWithCardsMultiplied = getSetsOfCardsInStructureDeck(deck, 1);
     return getDeckFilteredByBanlist(deckWithCardsMultiplied, banlist);
   });
+  //   const structureDeckSetOfTwo = cardsInStructureDecks.map((deck) => {
+  //     const banlist = getClosestMatchingBanList(deck.date);
+  //     const deckWithCardsMultiplied = getSetsOfCardsInStructureDeck(deck, 2);
+  //     return getDeckFilteredByBanlist(deckWithCardsMultiplied, banlist);
+  //   });
 
-  const structureDeckSetOfThree = cardsInStructureDecks.map((deck) => {
-    const banlist = getClosestMatchingBanList(deck.date);
-    const deckWithCardsMultiplied = getSetsOfCardsInStructureDeck(deck, 3);
-    return getDeckFilteredByBanlist(deckWithCardsMultiplied, banlist);
-  });
+  //   const structureDeckSetOfThree = cardsInStructureDecks.map((deck) => {
+  //     const banlist = getClosestMatchingBanList(deck.date);
+  //     const deckWithCardsMultiplied = getSetsOfCardsInStructureDeck(deck, 3);
+  //     return getDeckFilteredByBanlist(deckWithCardsMultiplied, banlist);
+  //   });
 
-  console.log(structureDeckSetOfThree);
-
-  const structureDeckSetOfTwoMissing = [];
-  const structureDeckSetOfThreeMissing = [];
-  structureDeckSetNames.map((structureDeck) => {
-    structureDeckSetOfTwoMissing.push({ deck: structureDeck, cards: [] });
-    structureDeckSetOfThreeMissing.push({ deck: structureDeck, cards: [] });
-  });
-
-  structureDeckSetNames.map((structureDeck) => {
-    const deckInCollection = structureDeckSetOfOne.find(
-      (sd) => sd.deck === structureDeck
-    );
-
-    const uniqueCardsInDeck = _.uniq(deckInCollection.cards);
-    const repeatedCards = _.filter(deckInCollection.cards, (val, i, iteratee) =>
-      _.includes(iteratee, val, i + 1)
-    );
-    const repeatedCardsTwice = _.filter(repeatedCards, (val, i, iteratee) =>
-      _.includes(iteratee, val, i + 1)
-    );
-    const cardsNotRepeated = _.difference(
-      deckInCollection.cards,
-      repeatedCards
-    );
-
-    const cardsNotRepeatedTwice = _.difference(
-      deckInCollection.cards,
-      repeatedCardsTwice
-    );
-    console.log("-------------------------");
-    console.log(
-      `${deckInCollection.deck} has ${deckInCollection.cards.length} cards`
-    );
-
-    const thisReleaseDate = new Date(
-      cardSets.find((set) => set["set_name"] === structureDeck)["tcg_date"]
-    );
-    const thisBanlist = getClosestMatchingBanList(thisReleaseDate);
-    // console.log(`Closest matching banlist date: ${thisBanlist.date}`);
-    const limitedCardsInThisDeck = thisBanlist.cards
-      .filter(
-        (banlistCard) =>
-          uniqueCardsInDeck.includes(banlistCard.card) &&
-          banlistCard.number === 1
-      )
-      .map((banlistCard) => banlistCard.card);
-
-    const semiLimitedCardsInThisDeck = thisBanlist.cards
-      .filter(
-        (banlistCard) =>
-          uniqueCardsInDeck.includes(banlistCard.card) &&
-          banlistCard.number === 2
-      )
-      .map((banlistCard) => banlistCard.card);
-
-    console.log(`${uniqueCardsInDeck.length} unique cards`);
-    if (repeatedCards.length) {
-      console.log(`${cardsNotRepeated.length} cards not repeated`);
-      console.log(`${repeatedCards.length} repeated cards once`);
-      console.log(`Cards repeated: ${repeatedCards}`);
-    }
-    if (repeatedCardsTwice.length) {
-      console.log(`${cardsNotRepeatedTwice.length} cards not repeated twice`);
-      console.log(`${repeatedCardsTwice.length} repeated cards twice`);
-      console.log(`Cards repeated twice: ${repeatedCardsTwice}`);
-    }
-
-    if (limitedCardsInThisDeck.length > 0) {
-      console.log(`Limited cards in deck: ${limitedCardsInThisDeck}`);
-    }
-
-    if (semiLimitedCardsInThisDeck.length > 0) {
-      console.log(`Semi limited cards in deck: ${semiLimitedCardsInThisDeck}`);
-    }
-
-    const cardsNeededToCompleteTwoSets = _.difference(
-      cardsNotRepeated,
-      limitedCardsInThisDeck
-    );
-    console.log(
-      `Cards needed to complete two sets: ${cardsNeededToCompleteTwoSets.length}`
-    );
-    const deckToUpdate = structureDeckSetOfTwoMissing.find(
-      (sd) => sd.deck === structureDeck
-    );
-    deckToUpdate.cards = _.sortBy(cardsNeededToCompleteTwoSets);
-    if (limitedCardsInThisDeck.length > 0) {
-      deckToUpdate.limitedCards = limitedCardsInThisDeck;
-    }
-
-    const cardsNeededToCompleteThreeSets = [
-      ..._.difference(cardsNeededToCompleteTwoSets, semiLimitedCardsInThisDeck),
-      ..._.difference(cardsNeededToCompleteTwoSets, semiLimitedCardsInThisDeck),
-    ];
-    console.log(
-      `Cards needed to complete three sets: ${cardsNeededToCompleteThreeSets.length}`
-    );
-    const deckToUpdate3 = structureDeckSetOfThreeMissing.find(
-      (sd) => sd.deck === structureDeck
-    );
-    deckToUpdate3.cards = _.sortBy(cardsNeededToCompleteThreeSets);
-    if (limitedCardsInThisDeck.length > 0) {
-      deckToUpdate3.limitedCards = limitedCardsInThisDeck;
-    }
-    if (semiLimitedCardsInThisDeck.length > 0) {
-      deckToUpdate3.semiLimitedCards = semiLimitedCardsInThisDeck;
-    }
-  });
-
-  const collectionForSetOfTwo = [...collection];
-  for (let i = 0; i < collectionForSetOfTwo.length; i++) {
-    const collectionCard = collectionForSetOfTwo[i];
-    for (let j = 0; j < structureDeckSetOfTwoMissing.length; j++) {
-      const { cards, deck } = structureDeckSetOfTwoMissing[j];
-      for (let k = 0; k < cards.length; k++) {
-        const card = cards[k];
-        const missingCardIndex = k;
-        if (card === collectionCard["Name"]) {
-          cards.splice(missingCardIndex, 1);
-          j = structureDeckSetOfTwoMissing.length;
-          if (deck === "Structure Deck: Blaze of Destruction") {
-            console.log(
-              `${deck}: has is in ${collectionCard["Name"]}, (${collectionCard["Rarity"]}) ${collectionCard["In Deck"]}`
-            );
-          }
-          break;
-        }
-      }
-    }
-  }
-
-  const collectionForSetOfThree = [...collection];
-  for (let i = 0; i < collectionForSetOfThree.length; i++) {
-    const collectionCard = collectionForSetOfThree[i];
-    for (let j = 0; j < structureDeckSetOfThreeMissing.length; j++) {
-      const { cards, deck } = structureDeckSetOfThreeMissing[j];
-      for (let k = 0; k < cards.length; k++) {
-        const card = cards[k];
-        const missingCardIndex = k;
-        if (card === collectionCard["Name"]) {
-          cards.splice(missingCardIndex, 1);
-          j = structureDeckSetOfThreeMissing.length;
-          break;
-        }
-      }
-    }
-  }
-
-  const setOfTwo = structureDeckSetOfTwoMissing.map((deckEntry) => ({
-    ...deckEntry,
-    cardsMissing: deckEntry.cards.length,
-    releaseDate: cardSets.find((cardSet) => cardSet.set_name === deckEntry.deck)
-      .tcg_date,
-  }));
-
-  fs.writeFile(
-    "./structureDecks/cardsFor2Sets.json",
-    JSON.stringify(
-      _.sortBy(setOfTwo, (deckEntry) => deckEntry.releaseDate),
-      null,
-      3
-    ),
-    function (err) {
-      // console.error(err);
-    }
+  const structureDeckSetOfOneResult = [];
+  structureDeckSetOfOne.reduce(
+    (accumulator, structureDeck) => {
+      const { collection, deck } = removeCardsFromCollection(
+        structureDeck,
+        collectionCopy
+      );
+      accumulator.collection = collection;
+      structureDeckSetOfOneResult.push(deck);
+      return accumulator;
+    },
+    { collection: collectionCopy }
   );
 
-  const setOfThree = structureDeckSetOfThreeMissing.map((deckEntry) => ({
-    ...deckEntry,
-    cardsMissing: deckEntry.cards.length,
-  }));
   fs.writeFile(
-    "./structureDecks/cardsFor3Sets.json",
-    JSON.stringify(
-      _.sortBy(setOfThree, (deckEntry) => deckEntry.cardsMissing),
-      null,
-      3
-    ),
+    "./structureDecks/cardsFor1Sets.json",
+    JSON.stringify(structureDeckSetOfOneResult, null, 3),
     function (err) {
       // console.error(err);
     }

@@ -190,7 +190,7 @@ describe("Cards Missing for Structure Decks", () => {
   describe("removeCardsFromCollection", () => {
     it("removes cards from collection", () => {
       const mockCollection = [
-        "Armed Dragon LV3",
+        "Armed Dragon Lv3",
         "Armed Dragon LV3",
         "Call of the Haunted",
         "Zombie Master",
