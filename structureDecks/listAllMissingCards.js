@@ -1,7 +1,6 @@
 const axios = require("axios");
 const fs = require("fs");
 const _ = require("lodash");
-const csv = require("csvtojson");
 
 const decksFor2 = require("./cardsFor2Sets.json");
 const decksFor3 = require("./cardsFor3Sets.json");

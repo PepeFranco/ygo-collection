@@ -1,6 +1,7 @@
 const _ = require("lodash");
 const fs = require("fs");
 const axios = require("axios");
+const csv = require("csvtojson");
 
 const getCardSets = async () => {
   const result = await axios
@@ -142,15 +143,16 @@ const getCardsMissingForStructureDecks = async () => {
   const cardSets = await getCardSets();
   const structureDeckSets = getStructureDeckSets(cardSets);
   console.log(`🔢 There are ${structureDeckSets.length} structure decks`);
+  const dataForCSV = [];
 
   const sets = [1, 2, 3];
   sets.map((set) => {
+    console.log(`=== Set of ${set} ===`);
     const collectionCopy = [...collection]
       .filter((card) => !card["In Deck"].toLowerCase().includes("edison"))
       .map(({ Name }) => Name);
     const structureDeckSet = cardsInStructureDecks.map((deck) => {
       const banlist = getClosestMatchingBanList(new Date(deck.date));
-      console.log(deck.date, banlist.date);
       const deckWithCardsMultiplied = getSetsOfCardsInStructureDeck(deck, set);
       return getDeckFilteredByBanlist(deckWithCardsMultiplied, banlist);
     });
@@ -158,14 +160,25 @@ const getCardsMissingForStructureDecks = async () => {
     const structureDeckSetResult = [];
     structureDeckSet.reduce(
       (accumulator, structureDeck) => {
-        console.log("................");
-        console.log("collection ", accumulator.collection.length);
-        console.log("deck ", structureDeck.deck);
+        console.log(` 🎴 Getting cards for: ${structureDeck.deck}`);
         const { collection, deck } = removeCardsFromCollection(
           structureDeck,
           accumulator.collection
         );
         accumulator.collection = collection;
+        console.log(
+          `  #️⃣ There are ${deck.cards.length} cards in a set of ${set}`
+        );
+        console.log(
+          `  ✅ ${deck.cardsInCollection.length} are in the collection`
+        );
+        console.log(`  ❌ ${deck.cardsMissing.length} are missing`);
+        dataForCSV.push({
+          set,
+          deck: deck.deck,
+          cardsMissing: deck.cardsMissing.length,
+          cardsInCollection: deck.cardsInCollection.length,
+        });
         deck.cards = undefined;
         structureDeckSetResult.push({
           ...deck,
@@ -179,6 +192,14 @@ const getCardsMissingForStructureDecks = async () => {
     fs.writeFile(
       `./structureDecks/cardsFor${set}Sets.json`,
       JSON.stringify(structureDeckSetResult, null, 3),
+      function (err) {
+        // console.error(err);
+      }
+    );
+
+    fs.writeFile(
+      `./structureDecks/missingCardsDataSet.json`,
+      JSON.stringify(dataForCSV, null, 3),
       function (err) {
         // console.error(err);
       }
