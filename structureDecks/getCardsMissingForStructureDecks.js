@@ -24,7 +24,7 @@ const banLists = _.sortBy(
 
 const cardsInStructureDecks = require("./cardsInStructureDecks.json");
 
-const getStructureDeckSetNames = (cardSets) => {
+const getStructureDeckSets = (cardSets) => {
   return _.sortBy(
     cardSets.filter((cardSet) => {
       const setName = cardSet["set_name"].toLowerCase();
@@ -35,7 +35,10 @@ const getStructureDeckSetNames = (cardSets) => {
       );
     }),
     (sd) => sd["tcg_date"]
-  ).map((cardSet) => cardSet["set_name"]);
+  ).map((cardSet) => ({
+    deck: cardSet["set_name"],
+    date: cardSet["tcg_date"],
+  }));
 };
 
 const getClosestMatchingBanList = (date) => {
@@ -112,14 +115,6 @@ const getCardsMissingForStructureDecks = async () => {
   console.log(`🔢 There are ${structureDeckSetNames.length} structure decks`);
 
   const structureDeckSetOfOne = cardsInStructureDecks;
-  const structureDeckSetOfTwo = getSetsOfCardsInStructureDeck(
-    cardsInStructureDecks,
-    2
-  );
-  const structureDeckSetOfThree = getSetsOfCardsInStructureDeck(
-    cardsInStructureDecks,
-    3
-  );
 
   const structureDeckSetOfTwoMissing = [];
   const structureDeckSetOfThreeMissing = [];
@@ -306,9 +301,10 @@ const getCardsMissingForStructureDecks = async () => {
 
 module.exports = {
   getCardsMissingForStructureDecks,
-  getStructureDeckSetNames,
+  getStructureDeckSets,
   getCardSets,
   getClosestMatchingBanList,
   getSetsOfCardsInStructureDeck,
   getDeckFilteredByBanlist,
+  getCardSets,
 };

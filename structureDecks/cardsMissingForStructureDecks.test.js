@@ -1,5 +1,5 @@
 const {
-  getStructureDeckSetNames,
+  getStructureDeckSets,
   getClosestMatchingBanList,
   getSetsOfCardsInStructureDeck,
   getDeckFilteredByBanlist,
@@ -31,11 +31,20 @@ describe("Cards Missing for Structure Decks", () => {
           tcg_date: "2010-01-01",
         },
       ];
-      const result = getStructureDeckSetNames(mockSets);
+      const result = getStructureDeckSets(mockSets);
       expect(result).toEqual([
-        "Legendary Hero Decks",
-        "Cyber Dragon Revolution Structure Deck",
-        "Spellcaster's Command Structure Deck",
+        {
+          date: "2010-01-01",
+          deck: "Legendary Hero Decks",
+        },
+        {
+          date: "2010-02-01",
+          deck: "Cyber Dragon Revolution Structure Deck",
+        },
+        {
+          date: "2010-02-02",
+          deck: "Spellcaster's Command Structure Deck",
+        },
       ]);
     });
   });

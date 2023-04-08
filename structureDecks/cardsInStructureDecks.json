@@ -30,7 +30,8 @@
          "The Graveyard in the Fourth Dimension",
          "Trap Jammer",
          "Twin-Headed Behemoth"
-      ]
+      ],
+      "date": "2005-01-01"
    },
    {
       "deck": "Structure Deck: Zombie Madness",
@@ -63,7 +64,8 @@
          "Vampire Genesis",
          "Vampire Lady",
          "Vampire Lord"
-      ]
+      ],
+      "date": "2005-01-01"
    },
    {
       "deck": "Structure Deck: Blaze of Destruction",
@@ -99,7 +101,8 @@
          "Tribute to the Doomed",
          "UFO Turtle",
          "Ultimate Baseball Kid"
-      ]
+      ],
+      "date": "2005-05-09"
    },
    {
       "deck": "Structure Deck: Fury from the Deep",
@@ -136,7 +139,8 @@
          "Tribe-Infecting Virus",
          "Unshaven Angler",
          "Xing Zhen Hu"
-      ]
+      ],
+      "date": "2005-05-09"
    },
    {
       "deck": "Structure Deck: Warrior's Triumph",
@@ -177,7 +181,8 @@
          "The Warrior Returning Alive",
          "Warrior Lady of the Wasteland",
          "Wicked-Breaking Flamberge - Baou"
-      ]
+      ],
+      "date": "2005-10-28"
    },
    {
       "deck": "Structure Deck: Spellcaster's Judgment",
@@ -218,7 +223,8 @@
          "Swords of Revealing Light",
          "Tsukuyomi",
          "White Magician Pikeru"
-      ]
+      ],
+      "date": "2006-01-18"
    },
    {
       "deck": "Structure Deck: Invincible Fortress",
@@ -255,7 +261,8 @@
          "Swords of Revealing Light",
          "Ultimate Offering",
          "Waboku"
-      ]
+      ],
+      "date": "2006-05-15"
    },
    {
       "deck": "Structure Deck: Lord of the Storm",
@@ -296,7 +303,8 @@
          "Sonic Shooter",
          "Swift Birdman Joe",
          "Triangle Ecstasy Spark"
-      ]
+      ],
+      "date": "2006-07-12"
    },
    {
       "deck": "Structure Deck: Dinosaur's Rage",
@@ -337,7 +345,8 @@
          "Tyranno Infinity",
          "Ultimate Tyranno",
          "Volcanic Eruption"
-      ]
+      ],
+      "date": "2006-10-20"
    },
    {
       "deck": "Structure Deck: Machine Re-Volt",
@@ -379,7 +388,8 @@
          "Ultimate Offering",
          "Weapon Change",
          "Yellow Gadget"
-      ]
+      ],
+      "date": "2007-01-17"
    },
    {
       "deck": "Rise of the Dragon Lords Structure Deck",
@@ -421,7 +431,8 @@
          "Trade-In",
          "Twin-Headed Behemoth",
          "Tyrant Dragon"
-      ]
+      ],
+      "date": "2007-10-24"
    },
    {
       "deck": "The Dark Emperor Structure Deck",
@@ -462,7 +473,8 @@
          "Samsara Kaiser",
          "Soul Release",
          "Torrential Tribute"
-      ]
+      ],
+      "date": "2008-04-02"
    },
    {
       "deck": "Zombie World Structure Deck",
@@ -504,7 +516,8 @@
          "Waboku",
          "Zombie Master",
          "Zombie World"
-      ]
+      ],
+      "date": "2008-10-21"
    },
    {
       "deck": "Spellcaster's Command Structure Deck",
@@ -547,7 +560,8 @@
          "Terraforming",
          "Tower of Babel",
          "Twister"
-      ]
+      ],
+      "date": "2009-03-31"
    },
    {
       "deck": "Warriors' Strike Structure Deck",
@@ -590,7 +604,8 @@
          "Swing of Memories",
          "Symbols of Duty",
          "Unleash Your Power!"
-      ]
+      ],
+      "date": "2009-10-23"
    },
    {
       "deck": "Machina Mayhem Structure Deck",
@@ -632,7 +647,8 @@
          "The Big Saturn",
          "Time Machine",
          "Yellow Gadget"
-      ]
+      ],
+      "date": "2010-02-19"
    },
    {
       "deck": "Structure Deck: Marik (TCG)",
@@ -675,7 +691,8 @@
          "Skull Invitation",
          "Temple of the Kings",
          "Viser Des"
-      ]
+      ],
+      "date": "2010-10-15"
    },
    {
       "deck": "Dragunity Legion Structure Deck",
@@ -719,7 +736,8 @@
          "Twin-Headed Behemoth",
          "United We Stand",
          "Windstorm of Etaqua"
-      ]
+      ],
+      "date": "2011-03-04"
    },
    {
       "deck": "Lost Sanctuary Structure Deck",
@@ -762,7 +780,8 @@
          "Valhalla, Hall of the Fallen",
          "Victoria",
          "Zeradias, Herald of Heaven"
-      ]
+      ],
+      "date": "2011-06-10"
    },
    {
       "deck": "Gates of the Underworld Structure Deck",
@@ -806,7 +825,8 @@
          "The Transmigration Prophecy",
          "Tragoedia",
          "Zure, Knight of Dark World"
-      ]
+      ],
+      "date": "2011-10-13"
    },
    {
       "deck": "Dragons Collide Structure Deck",
@@ -851,7 +871,8 @@
          "The Flute of Summoning Dragon",
          "The White Stone of Legend",
          "Vice Dragon"
-      ]
+      ],
+      "date": "2012-02-03"
    },
    {
       "deck": "Samurai Warlords Structure Deck",
@@ -897,7 +918,8 @@
          "The Six Samurai - Yariza",
          "The Six Samurai - Zanji",
          "The Warrior Returning Alive"
-      ]
+      ],
+      "date": "2012-06-21"
    },
    {
       "deck": "Realm of the Sea Emperor Structure Deck",
@@ -941,7 +963,8 @@
          "Torrential Tribute",
          "Warrior of Atlantis",
          "Water Hazard"
-      ]
+      ],
+      "date": "2012-10-11"
    },
    {
       "deck": "Onslaught of the Fire Kings Structure Deck",
@@ -985,7 +1008,8 @@
          "Volcanic Counter",
          "Volcanic Rocket",
          "Wild Nature's Release"
-      ]
+      ],
+      "date": "2013-02-08"
    },
    {
       "deck": "Saga of Blue-Eyes White Dragon Structure Deck",
@@ -1030,7 +1054,8 @@
          "The White Stone of Legend",
          "Trade-In",
          "White Elephant's Gift"
-      ]
+      ],
+      "date": "2013-09-12"
    },
    {
       "deck": "Cyber Dragon Revolution Structure Deck",
@@ -1073,7 +1098,8 @@
          "Three of a Kind",
          "Trap Stun",
          "Waboku"
-      ]
+      ],
+      "date": "2014-02-06"
    },
    {
       "deck": "Realm of Light Structure Deck",
@@ -1114,7 +1140,8 @@
          "Vanquishing Light",
          "Vylon Prism",
          "Wulf, Lightsworn Beast"
-      ]
+      ],
+      "date": "2014-06-27"
    },
    {
       "deck": "Geargia Rampage Structure Deck",
@@ -1154,7 +1181,8 @@
          "Swift Scarecrow",
          "Terraforming",
          "Yellow Gadget"
-      ]
+      ],
+      "date": "2014-10-16"
    },
    {
       "deck": "HERO Strike Structure Deck",
@@ -1204,7 +1232,8 @@
          "Summoner Monk",
          "The Warrior Returning Alive",
          "Winged Kuriboh"
-      ]
+      ],
+      "date": "2015-01-29"
    },
    {
       "deck": "Synchron Extreme Structure Deck",
@@ -1252,7 +1281,8 @@
          "Turbo Synchron",
          "Unknown Synchron",
          "White Dragon Wyverburster"
-      ]
+      ],
+      "date": "2015-08-27"
    },
    {
       "deck": "Master of Pendulum Structure Deck",
@@ -1300,7 +1330,8 @@
          "Traptrix Trap Hole Nightmare",
          "Wisdom-Eye Magician",
          "X-Saber Airbellum"
-      ]
+      ],
+      "date": "2015-12-03"
    },
    {
       "deck": "Emperor of Darkness Structure Deck",
@@ -1346,7 +1377,8 @@
          "Thestalos the Firestorm Monarch",
          "Tragoedia",
          "Zaborg the Thunder Monarch"
-      ]
+      ],
+      "date": "2016-01-28"
    },
    {
       "deck": "Rise of the True Dragons Structure Deck",
@@ -1392,7 +1424,8 @@
          "Trade-In",
          "White Dragon Wyverburster",
          "White Night Dragon"
-      ]
+      ],
+      "date": "2016-07-07"
    },
    {
       "deck": "Structure Deck: Seto Kaiba",
@@ -1441,7 +1474,8 @@
          "XZ-Tank Cannon",
          "Y-Dragon Head",
          "Z-Metal Tank"
-      ]
+      ],
+      "date": "2016-10-20"
    },
    {
       "deck": "Structure Deck: Yugi Muto",
@@ -1491,7 +1525,8 @@
          "Swords of Revealing Light",
          "Twin-Headed Behemoth",
          "Valkyrion the Magna Warrior"
-      ]
+      ],
+      "date": "2016-10-20"
    },
    {
       "deck": "Pendulum Domination Structure Deck",
@@ -1539,7 +1574,8 @@
          "Stygian Security",
          "Stygian Street Patrol",
          "Trance Archfiend"
-      ]
+      ],
+      "date": "2017-01-19"
    },
    {
       "deck": "Dinosmasher's Fury Structure Deck",
@@ -1583,7 +1619,8 @@
          "Ultimate Conductor Tyranno",
          "Ultimate Tyranno",
          "Unexpected Dai"
-      ]
+      ],
+      "date": "2017-04-13"
    },
    {
       "deck": "Machine Reactor Structure Deck",
@@ -1628,7 +1665,8 @@
          "Spell Striker",
          "Terraforming",
          "The Huge Revolution is Over"
-      ]
+      ],
+      "date": "2017-04-13"
    },
    {
       "deck": "Structure Deck: Cyberse Link",
@@ -1676,7 +1714,8 @@
          "Tragoedia",
          "Tri-gate Wizard",
          "Where Arf Thou?"
-      ]
+      ],
+      "date": "2017-11-02"
    },
    {
       "deck": "Structure Deck: Wave of Light",
@@ -1723,7 +1762,8 @@
          "Ties of the Brethren",
          "Ultimate Providence",
          "Valhalla, Hall of the Fallen"
-      ]
+      ],
+      "date": "2018-01-18"
    },
    {
       "deck": "Structure Deck: Lair of Darkness",
@@ -1770,7 +1810,8 @@
          "Trap of Darkness",
          "Vanity's Fiend",
          "Veil of Darkness"
-      ]
+      ],
+      "date": "2018-04-19"
    },
    {
       "deck": "Structure Deck: Powercode Link",
@@ -1817,7 +1858,8 @@
          "Trap Stun",
          "Traptrix Trap Hole Nightmare",
          "Wild Tornado"
-      ]
+      ],
+      "date": "2018-08-09"
    },
    {
       "deck": "Legendary Hero Decks",
@@ -1936,7 +1978,8 @@
          "Vanadis of the Nordic Ascendant",
          "Xtra HERO Dread Decimator",
          "Xtra HERO Wonder Driver"
-      ]
+      ],
+      "date": "2018-10-04"
    },
    {
       "deck": "Structure Deck: Zombie Horde",
@@ -1983,7 +2026,8 @@
          "Zombie Necronize",
          "Zombie Power Struggle",
          "Zombie World"
-      ]
+      ],
+      "date": "2018-11-01"
    },
    {
       "deck": "Structure Deck: Soulburner",
@@ -2032,7 +2076,8 @@
          "True King Agnimazud, the Vanisher",
          "Volcanic Shell",
          "Will of the Salamangreat"
-      ]
+      ],
+      "date": "2019-02-14"
    },
    {
       "deck": "Structure Deck: Order of the Spellcasters",
@@ -2078,7 +2123,8 @@
          "Spellbook of Wisdom",
          "Summoner Monk",
          "Terraforming"
-      ]
+      ],
+      "date": "2019-04-19"
    },
    {
       "deck": "Structure Deck: Rokket Revolt",
@@ -2129,7 +2175,8 @@
          "Twin Twisters",
          "World Chalice Guardragon",
          "Zero-Day Blaster"
-      ]
+      ],
+      "date": "2019-08-15"
    },
    {
       "deck": "Structure Deck: Shaddoll Showdown",
@@ -2183,7 +2230,8 @@
          "Super Polymerization",
          "Twin Twisters",
          "Unending Nightmare"
-      ]
+      ],
+      "date": "2020-02-13"
    },
    {
       "deck": "Structure Deck: Mechanized Madness",
@@ -2229,7 +2277,8 @@
          "Torque Tune Gear",
          "Trap Trick",
          "Unauthorized Reactivation"
-      ]
+      ],
+      "date": "2020-04-16"
    },
    {
       "deck": "Structure Deck: Sacred Beasts",
@@ -2282,7 +2331,8 @@
          "The Fabled Cerburrel",
          "Tragoedia",
          "Uria, Lord of Searing Flames"
-      ]
+      ],
+      "date": "2020-07-09"
    },
    {
       "deck": "Structure Deck: Spirit Charmers",
@@ -2328,7 +2378,8 @@
          "Witch of the Black Forest",
          "Witchcrafter Golem Aruru",
          "Wynn the Wind Charmer"
-      ]
+      ],
+      "date": "2020-10-22"
    },
    {
       "deck": "Structure Deck: Freezing Chains",
@@ -2379,7 +2430,8 @@
          "Where Arf Thou?",
          "Winds Over the Ice Barrier",
          "Zuijin of the Ice Barrier"
-      ]
+      ],
+      "date": "2021-02-18"
    },
    {
       "deck": "Structure Deck: Cyber Strike",
@@ -2432,7 +2484,8 @@
          "Paleozoic Canadia",
          "Power Bond",
          "Power Wall"
-      ]
+      ],
+      "date": "2021-10-14"
    },
    {
       "deck": "Structure Deck: Albaz Strike",
@@ -2483,7 +2536,8 @@
          "Waking the Dragon",
          "Warning Point",
          "White Dragon Wyverburster"
-      ]
+      ],
+      "date": "2022-04-14"
    },
    {
       "deck": "Structure Deck: Legend of the Crystal Beasts",
@@ -2534,7 +2588,8 @@
          "The Melody of Awakening Dragon",
          "Ultimate Crystal Magic",
          "Ultimate Crystal Rainbow Dragon Overdrive"
-      ]
+      ],
+      "date": "2022-09-29"
    },
    {
       "deck": "Structure Deck: Dark World",
@@ -2584,7 +2639,8 @@
          "The Forces of Darkness",
          "The Gates of Dark World",
          "Zure, Knight of Dark World"
-      ]
+      ],
+      "date": "2022-12-01"
    },
    {
       "deck": "Structure Deck: Beware of Traptrix",
@@ -2635,6 +2691,7 @@
          "Traptrix Trap Hole Nightmare",
          "Traptrix Vesiculo",
          "Void Trap Hole"
-      ]
+      ],
+      "date": "2023-02-23"
    }
 ]

@@ -1,6 +1,6 @@
 const {
   getCardSets,
-  getStructureDeckSetNames,
+  getStructureDeckSets,
 } = require("./getCardsMissingForStructureDecks");
 const axios = require("axios");
 const fs = require("fs");
@@ -24,16 +24,14 @@ const mainFunction = async () => {
   const cardSets = await getCardSets();
   console.log(`There are ${cardSets.length} sets`);
 
-  const structureDeckNames = getStructureDeckSetNames(cardSets);
-  console.log(`There are ${structureDeckNames.length} structure decks`);
+  const structureDeckSets = getStructureDeckSets(cardSets);
+  console.log(`There are ${structureDeckSets.length} structure decks`);
 
   const cardsInStructureDeckSet = [];
-  await Promise.each(structureDeckNames, async (structureDeckName) => {
-    const cardsInStructureDeck = await getCardsInStructureDeck(
-      structureDeckName
-    );
+  await Promise.each(structureDeckSets, async ({ deck, date }) => {
+    const cardsInStructureDeck = await getCardsInStructureDeck(deck);
     const cardNames = cardsInStructureDeck.map((card) => card["name"]);
-    cardsInStructureDeckSet.push({ deck: structureDeckName, cards: cardNames });
+    cardsInStructureDeckSet.push({ deck, cards: cardNames, date });
     console.log(cardsInStructureDeck);
     await sleep(1000);
   });
