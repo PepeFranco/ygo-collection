@@ -3,6 +3,7 @@ const {
   getClosestMatchingBanList,
   getSetsOfCardsInStructureDeck,
   getDeckFilteredByBanlist,
+  removeCardsFromCollection,
 } = require("./getCardsMissingForStructureDecks");
 
 describe("Cards Missing for Structure Decks", () => {
@@ -170,6 +171,52 @@ describe("Cards Missing for Structure Decks", () => {
       expect(result).toEqual({
         deck: "Structure Deck: Dragon's Roar",
         cards: ["Card Destruction", "Card Destruction", "Change of Heart"],
+      });
+    });
+  });
+
+  describe("removeCardsFromCollection", () => {
+    it("removes cards from collection", () => {
+      const mockCollection = [
+        "Armed Dragon LV3",
+        "Armed Dragon LV3",
+        "Call of the Haunted",
+        "Zombie Master",
+      ];
+      const result = removeCardsFromCollection(
+        {
+          deck: "Structure Deck: Dragon's Roar",
+          cards: [
+            "Armed Dragon LV3",
+            "Armed Dragon LV3",
+            "Armed Dragon LV3",
+            "Call of the Haunted",
+          ],
+        },
+        mockCollection
+      );
+
+      expect(result).toEqual({
+        collection: ["Zombie Master"],
+        deck: {
+          deck: "Structure Deck: Dragon's Roar",
+          cards: ["Armed Dragon LV3"],
+        },
+      });
+
+      const result2 = removeCardsFromCollection(
+        {
+          deck: "Structure Deck: Zombie Madness",
+          cards: ["Zombie Master", "Call of the Haunted"],
+        },
+        result.collection
+      );
+      expect(result2).toEqual({
+        collection: [],
+        deck: {
+          deck: "Structure Deck: Zombie Madness",
+          cards: ["Call of the Haunted"],
+        },
       });
     });
   });

@@ -110,6 +110,27 @@ const getDeckFilteredByBanlist = (deck, banlist) => {
   };
 };
 
+const removeCardsFromCollection = (deck, collection) => {
+  const filteredCollection = [...collection];
+  const missingCardsInStructureDeck = [...deck.cards];
+  deck.cards.map((card) => {
+    const collectionIndex = filteredCollection.findIndex(
+      (collectionCard) => collectionCard === card
+    );
+    if (collectionIndex >= 0) {
+      filteredCollection.splice(collectionIndex, 1);
+      const deckIndex = missingCardsInStructureDeck.findIndex(
+        (deckCard) => deckCard === card
+      );
+      missingCardsInStructureDeck.splice(deckIndex, 1);
+    }
+  });
+  return {
+    collection: filteredCollection,
+    deck: { deck: deck.deck, cards: missingCardsInStructureDeck },
+  };
+};
+
 const getCardsMissingForStructureDecks = async () => {
   console.log(`📚 There are ${collection.length} cards in the collection`);
 
@@ -124,7 +145,13 @@ const getCardsMissingForStructureDecks = async () => {
     return getDeckFilteredByBanlist(deckWithCardsMultiplied, banlist);
   });
 
-  console.log(structureDeckSetOfTwo);
+  const structureDeckSetOfThree = cardsInStructureDecks.map((deck) => {
+    const banlist = getClosestMatchingBanList(deck.date);
+    const deckWithCardsMultiplied = getSetsOfCardsInStructureDeck(deck, 3);
+    return getDeckFilteredByBanlist(deckWithCardsMultiplied, banlist);
+  });
+
+  console.log(structureDeckSetOfThree);
 
   const structureDeckSetOfTwoMissing = [];
   const structureDeckSetOfThreeMissing = [];
@@ -317,4 +344,5 @@ module.exports = {
   getSetsOfCardsInStructureDeck,
   getDeckFilteredByBanlist,
   getCardSets,
+  removeCardsFromCollection,
 };
