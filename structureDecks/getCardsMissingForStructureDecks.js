@@ -56,7 +56,7 @@ const getClosestMatchingBanList = (date) => {
   });
 };
 
-const getSetsOfCardsInStructureDeck = () => {};
+const getSetsOfCardsInStructureDeck = (deck) => deck;
 
 const getCardsMissingForStructureDecks = async () => {
   console.log(`📚 There are ${collection.length} cards in the collection`);
