@@ -115,22 +115,24 @@ const getDeckFilteredByBanlist = (deck, banlist) => {
 
 const removeCardsFromCollection = (deck, collection) => {
   const filteredCollection = [...collection];
-  const missingCardsInStructureDeck = [...deck.cards];
+  const cardsMissing = [...deck.cards];
+  const cardsInCollection = [];
   deck.cards.map((card) => {
     const collectionIndex = filteredCollection.findIndex(
       (collectionCard) => collectionCard.toLowerCase() === card.toLowerCase()
     );
     if (collectionIndex >= 0) {
       filteredCollection.splice(collectionIndex, 1);
-      const deckIndex = missingCardsInStructureDeck.findIndex(
+      const deckIndex = cardsMissing.findIndex(
         (deckCard) => deckCard.toLowerCase() === card.toLowerCase()
       );
-      missingCardsInStructureDeck.splice(deckIndex, 1);
+      cardsMissing.splice(deckIndex, 1);
+      cardsInCollection.push(card);
     }
   });
   return {
     collection: filteredCollection,
-    deck: { ...deck, cards: missingCardsInStructureDeck },
+    deck: { ...deck, cardsMissing, cardsInCollection },
   };
 };
 
@@ -141,7 +143,7 @@ const getCardsMissingForStructureDecks = async () => {
   const structureDeckSets = getStructureDeckSets(cardSets);
   console.log(`🔢 There are ${structureDeckSets.length} structure decks`);
 
-  const sets = [1, 2, 3];
+  const sets = [3];
   sets.map((set) => {
     const collectionCopy = [...collection]
       .filter((card) => !card["In Deck"].toLowerCase().includes("edison"))
@@ -156,6 +158,9 @@ const getCardsMissingForStructureDecks = async () => {
     const structureDeckSetResult = [];
     structureDeckSet.reduce(
       (accumulator, structureDeck) => {
+        console.log("................");
+        console.log("collection ", accumulator.collection.length);
+        console.log("deck ", structureDeck.deck);
         const { collection, deck } = removeCardsFromCollection(
           structureDeck,
           collectionCopy

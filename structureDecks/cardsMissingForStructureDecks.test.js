@@ -193,7 +193,10 @@ describe("Cards Missing for Structure Decks", () => {
         "Armed Dragon Lv3",
         "Armed Dragon LV3",
         "Call of the Haunted",
+        "Call of the Haunted",
+        "Call of the Haunted",
         "Zombie Master",
+        "Blue-Eyes White Dragon",
       ];
       const result = removeCardsFromCollection(
         {
@@ -203,31 +206,59 @@ describe("Cards Missing for Structure Decks", () => {
             "Armed Dragon LV3",
             "Armed Dragon LV3",
             "Call of the Haunted",
+            "Call of the Haunted",
           ],
         },
         mockCollection
       );
 
       expect(result).toEqual({
-        collection: ["Zombie Master"],
+        collection: [
+          "Call of the Haunted",
+          "Zombie Master",
+          "Blue-Eyes White Dragon",
+        ],
         deck: {
           deck: "Structure Deck: Dragon's Roar",
-          cards: ["Armed Dragon LV3"],
+          cards: [
+            "Armed Dragon LV3",
+            "Armed Dragon LV3",
+            "Armed Dragon LV3",
+            "Call of the Haunted",
+            "Call of the Haunted",
+          ],
+          cardsMissing: ["Armed Dragon LV3"],
+          cardsInCollection: [
+            "Armed Dragon LV3",
+            "Armed Dragon LV3",
+            "Call of the Haunted",
+            "Call of the Haunted",
+          ],
         },
       });
 
       const result2 = removeCardsFromCollection(
         {
           deck: "Structure Deck: Zombie Madness",
-          cards: ["Zombie Master", "Call of the Haunted"],
+          cards: [
+            "Call of the Haunted",
+            "Call of the Haunted",
+            "Zombie Master",
+          ],
         },
         result.collection
       );
       expect(result2).toEqual({
-        collection: [],
+        collection: ["Blue-Eyes White Dragon"],
         deck: {
           deck: "Structure Deck: Zombie Madness",
-          cards: ["Call of the Haunted"],
+          cardsMissing: ["Call of the Haunted"],
+          cardsInCollection: ["Call of the Haunted", "Zombie Master"],
+          cards: [
+            "Call of the Haunted",
+            "Call of the Haunted",
+            "Zombie Master",
+          ],
         },
       });
     });
