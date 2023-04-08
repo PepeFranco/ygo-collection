@@ -39,20 +39,21 @@ const getStructureDeckSetNames = (cardSets) => {
 };
 
 const getClosestMatchingBanList = (date) => {
-  for (let i = 0; i < banLists.length; i++) {
-    const thisBl = banLists[i];
-    if (i === banLists.length - 1) {
-      return thisBl;
+  return banLists.find((banlist, index) => {
+    if (index === banLists.length - 1) {
+      return true;
     }
-    const nextBl = banLists[i + 1];
-    const nextBlDate = new Date(nextBl.date);
-    if (
-      nextBlDate.getFullYear() === date.getFullYear() &&
-      nextBlDate.getMonth() === date.getMonth()
-    )
-      return nextBl;
-    if (nextBlDate > date) return thisBl;
-  }
+
+    const banlistDateString = banlist.date;
+    const banlistDate = new Date(banlistDateString);
+
+    const nextBanlistDateString = banLists[index + 1].date;
+    const nextBanlistDate = new Date(nextBanlistDateString);
+
+    return (
+      date <= banlistDate || (banlistDate <= date && date < nextBanlistDate)
+    );
+  });
 };
 
 const getCardsMissingForStructureDecks = async () => {

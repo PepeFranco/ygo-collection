@@ -44,11 +44,6 @@ describe("Cards Missing for Structure Decks", () => {
       expect(result.date).toEqual("2002-5");
     });
 
-    it("returns the earliest banlist", () => {
-      const result = getClosestMatchingBanList(new Date(1999, 0, 1));
-      expect(result.date).toEqual("2002-5");
-    });
-
     it("returns the banlist that matches the date", () => {
       const result = getClosestMatchingBanList(new Date(2002, 6, 1));
       expect(result.date).toEqual("2002-7");
