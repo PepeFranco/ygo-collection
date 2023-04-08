@@ -88,8 +88,27 @@ describe("Cards Missing for Structure Decks", () => {
   });
 
   describe("getDeckFilteredByBanlist", () => {
-    it("can call", () => {
-      getDeckFilteredByBanlist();
+    const mockBanlist = {
+      date: "2002-5",
+      cards: [
+        {
+          card: "Card Destruction",
+          number: 2,
+        },
+        {
+          card: "Change of Heart",
+          number: 1,
+        },
+      ],
+    };
+
+    it("returns deck if no cards on banlist", () => {
+      const mockDeck = {
+        deck: "Structure Deck: Dragon's Roar",
+        cards: ["Armed Dragon LV3", "Armed Dragon LV5"],
+      };
+      const result = getDeckFilteredByBanlist(mockDeck, mockBanlist);
+      expect(result).toEqual(mockDeck);
     });
   });
 });

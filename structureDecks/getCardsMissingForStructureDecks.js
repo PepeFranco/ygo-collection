@@ -72,7 +72,7 @@ const getSetsOfCardsInStructureDeck = (deck, numberOfSets) => {
   return deckWithCardsMultiplied;
 };
 
-const getDeckFilteredByBanlist = () => {};
+const getDeckFilteredByBanlist = (deck, banlist) => deck;
 
 const getCardsMissingForStructureDecks = async () => {
   console.log(`📚 There are ${collection.length} cards in the collection`);
