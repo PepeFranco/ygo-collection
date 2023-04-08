@@ -119,12 +119,15 @@ describe("Cards Missing for Structure Decks", () => {
       const mockDeck = {
         deck: "Structure Deck: Dragon's Roar",
         cards: ["Armed Dragon LV3", "Armed Dragon LV5"],
+        forbiddenCards: [],
+        limitedCards: [],
+        semiLimitedCards: [],
       };
       const result = getDeckFilteredByBanlist(mockDeck, mockBanlist);
       expect(result).toEqual(mockDeck);
     });
 
-    it("filters banned cards", () => {
+    it("filters forbidden cards", () => {
       const mockDeck = {
         deck: "Structure Deck: Dragon's Roar",
         cards: ["Armed Dragon LV3", "Armed Dragon LV5", "Raigeki"],
@@ -133,6 +136,9 @@ describe("Cards Missing for Structure Decks", () => {
       expect(result).toEqual({
         deck: "Structure Deck: Dragon's Roar",
         cards: ["Armed Dragon LV3", "Armed Dragon LV5"],
+        forbiddenCards: ["Raigeki"],
+        limitedCards: [],
+        semiLimitedCards: [],
       });
     });
 
@@ -150,6 +156,9 @@ describe("Cards Missing for Structure Decks", () => {
       expect(result).toEqual({
         deck: "Structure Deck: Dragon's Roar",
         cards: ["Change of Heart"],
+        forbiddenCards: ["Raigeki"],
+        limitedCards: ["Change of Heart"],
+        semiLimitedCards: [],
       });
     });
 
@@ -171,6 +180,9 @@ describe("Cards Missing for Structure Decks", () => {
       expect(result).toEqual({
         deck: "Structure Deck: Dragon's Roar",
         cards: ["Card Destruction", "Card Destruction", "Change of Heart"],
+        forbiddenCards: ["Raigeki"],
+        limitedCards: ["Change of Heart"],
+        semiLimitedCards: ["Card Destruction"],
       });
     });
   });

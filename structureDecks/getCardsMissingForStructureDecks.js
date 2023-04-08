@@ -77,18 +77,18 @@ const getSetsOfCardsInStructureDeck = (deck, numberOfSets) => {
 
 const getDeckFilteredByBanlist = (deck, banlist) => {
   const forbiddenCards = banlist.cards
-    .filter(({ number }) => number === 0)
+    .filter(({ number, card }) => number === 0 && deck.cards.includes(card))
     .map(({ card }) => card);
   const cardsWithoutForbidden = _.difference(deck.cards, forbiddenCards);
 
   const limitedCards = banlist.cards
-    .filter(({ number }) => number === 1)
+    .filter(({ number, card }) => number === 1 && deck.cards.includes(card))
     .map(({ card }) => card);
   const limitedCardsInDeck = _.intersection(deck.cards, limitedCards);
   const cardsWithoutLimited = _.difference(cardsWithoutForbidden, limitedCards);
 
   const semiLimitedCards = banlist.cards
-    .filter(({ number }) => number === 2)
+    .filter(({ number, card }) => number === 2 && deck.cards.includes(card))
     .map(({ card }) => card);
   const semiLimitedCardsInDeck = _.intersection(deck.cards, semiLimitedCards);
   const cardsWithoutSemiLimited = _.difference(
@@ -107,6 +107,9 @@ const getDeckFilteredByBanlist = (deck, banlist) => {
       ],
       (card) => card
     ),
+    forbiddenCards,
+    limitedCards,
+    semiLimitedCards,
   };
 };
 
