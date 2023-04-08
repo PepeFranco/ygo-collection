@@ -56,6 +56,8 @@ const getClosestMatchingBanList = (date) => {
   });
 };
 
+const getSetsOfCardsInStructureDeck = () => {};
+
 const getCardsMissingForStructureDecks = async () => {
   console.log(`📚 There are ${collection.length} cards in the collection`);
 
@@ -253,4 +255,5 @@ module.exports = {
   getStructureDeckSetNames,
   getCardSets,
   getClosestMatchingBanList,
+  getSetsOfCardsInStructureDeck,
 };

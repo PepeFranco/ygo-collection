@@ -1,6 +1,7 @@
 const {
   getStructureDeckSetNames,
   getClosestMatchingBanList,
+  getSetsOfCardsInStructureDeck,
 } = require("./getCardsMissingForStructureDecks");
 
 describe("Cards Missing for Structure Decks", () => {
@@ -57,6 +58,12 @@ describe("Cards Missing for Structure Decks", () => {
     it("returns the latest banlist", () => {
       const result = getClosestMatchingBanList(new Date(3000, 0, 1));
       expect(result.date).toEqual("2022-12");
+    });
+  });
+
+  describe("getSetsOfCardsInStructureDeck", () => {
+    it("can call", () => {
+      getSetsOfCardsInStructureDeck();
     });
   });
 });
