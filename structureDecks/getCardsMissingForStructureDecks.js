@@ -130,58 +130,53 @@ const removeCardsFromCollection = (deck, collection) => {
   });
   return {
     collection: filteredCollection,
-    deck: { deck: deck.deck, cards: missingCardsInStructureDeck },
+    deck: { ...deck, cards: missingCardsInStructureDeck },
   };
 };
 
 const getCardsMissingForStructureDecks = async () => {
   console.log(`📚 There are ${collection.length} cards in the collection`);
-  const collectionCopy = [...collection]
-    .filter((card) => !card["In Deck"].toLowerCase().includes("edison"))
-    .map(({ Name }) => Name);
 
   const cardSets = await getCardSets();
   const structureDeckSets = getStructureDeckSets(cardSets);
   console.log(`🔢 There are ${structureDeckSets.length} structure decks`);
 
-  const structureDeckSetOfOne = cardsInStructureDecks.map((deck) => {
-    const banlist = getClosestMatchingBanList(deck.date);
-    const deckWithCardsMultiplied = getSetsOfCardsInStructureDeck(deck, 1);
-    return getDeckFilteredByBanlist(deckWithCardsMultiplied, banlist);
+  const sets = [1, 2, 3];
+  sets.map((set) => {
+    const collectionCopy = [...collection]
+      .filter((card) => !card["In Deck"].toLowerCase().includes("edison"))
+      .map(({ Name }) => Name);
+    const structureDeckSet = cardsInStructureDecks.map((deck) => {
+      const banlist = getClosestMatchingBanList(deck.date);
+      const deckWithCardsMultiplied = getSetsOfCardsInStructureDeck(deck, set);
+      return getDeckFilteredByBanlist(deckWithCardsMultiplied, banlist);
+    });
+
+    const structureDeckSetResult = [];
+    structureDeckSet.reduce(
+      (accumulator, structureDeck) => {
+        const { collection, deck } = removeCardsFromCollection(
+          structureDeck,
+          collectionCopy
+        );
+        accumulator.collection = collection;
+        structureDeckSetResult.push({
+          ...deck,
+          cardsMissing: deck.cards.length,
+        });
+        return accumulator;
+      },
+      { collection: collectionCopy }
+    );
+
+    fs.writeFile(
+      `./structureDecks/cardsFor${set}Sets.json`,
+      JSON.stringify(structureDeckSetResult, null, 3),
+      function (err) {
+        // console.error(err);
+      }
+    );
   });
-  //   const structureDeckSetOfTwo = cardsInStructureDecks.map((deck) => {
-  //     const banlist = getClosestMatchingBanList(deck.date);
-  //     const deckWithCardsMultiplied = getSetsOfCardsInStructureDeck(deck, 2);
-  //     return getDeckFilteredByBanlist(deckWithCardsMultiplied, banlist);
-  //   });
-
-  //   const structureDeckSetOfThree = cardsInStructureDecks.map((deck) => {
-  //     const banlist = getClosestMatchingBanList(deck.date);
-  //     const deckWithCardsMultiplied = getSetsOfCardsInStructureDeck(deck, 3);
-  //     return getDeckFilteredByBanlist(deckWithCardsMultiplied, banlist);
-  //   });
-
-  const structureDeckSetOfOneResult = [];
-  structureDeckSetOfOne.reduce(
-    (accumulator, structureDeck) => {
-      const { collection, deck } = removeCardsFromCollection(
-        structureDeck,
-        collectionCopy
-      );
-      accumulator.collection = collection;
-      structureDeckSetOfOneResult.push(deck);
-      return accumulator;
-    },
-    { collection: collectionCopy }
-  );
-
-  fs.writeFile(
-    "./structureDecks/cardsFor1Sets.json",
-    JSON.stringify(structureDeckSetOfOneResult, null, 3),
-    function (err) {
-      // console.error(err);
-    }
-  );
 };
 
 module.exports = {
