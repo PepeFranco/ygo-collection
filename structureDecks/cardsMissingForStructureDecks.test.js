@@ -169,7 +169,7 @@ describe("Cards Missing for Structure Decks", () => {
       const result = getDeckFilteredByBanlist(mockDeck, mockBanlist);
       expect(result).toEqual({
         deck: "Structure Deck: Dragon's Roar",
-        cards: ["Change of Heart", "Card Destruction", "Card Destruction"],
+        cards: ["Card Destruction", "Card Destruction", "Change of Heart"],
       });
     });
   });

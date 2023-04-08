@@ -98,12 +98,15 @@ const getDeckFilteredByBanlist = (deck, banlist) => {
 
   return {
     ...deck,
-    cards: [
-      ...cardsWithoutSemiLimited,
-      ...limitedCardsInDeck,
-      ...semiLimitedCardsInDeck,
-      ...semiLimitedCardsInDeck,
-    ],
+    cards: _.sortBy(
+      [
+        ...cardsWithoutSemiLimited,
+        ...limitedCardsInDeck,
+        ...semiLimitedCardsInDeck,
+        ...semiLimitedCardsInDeck,
+      ],
+      (card) => card
+    ),
   };
 };
 
@@ -111,10 +114,17 @@ const getCardsMissingForStructureDecks = async () => {
   console.log(`📚 There are ${collection.length} cards in the collection`);
 
   const cardSets = await getCardSets();
-  const structureDeckSetNames = getStructureDeckSetNames(cardSets);
-  console.log(`🔢 There are ${structureDeckSetNames.length} structure decks`);
+  const structureDeckSets = getStructureDeckSets(cardSets);
+  console.log(`🔢 There are ${structureDeckSets.length} structure decks`);
 
   const structureDeckSetOfOne = cardsInStructureDecks;
+  const structureDeckSetOfTwo = cardsInStructureDecks.map((deck) => {
+    const banlist = getClosestMatchingBanList(deck.date);
+    const deckWithCardsMultiplied = getSetsOfCardsInStructureDeck(deck, 2);
+    return getDeckFilteredByBanlist(deckWithCardsMultiplied, banlist);
+  });
+
+  console.log(structureDeckSetOfTwo);
 
   const structureDeckSetOfTwoMissing = [];
   const structureDeckSetOfThreeMissing = [];
