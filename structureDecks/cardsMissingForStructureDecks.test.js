@@ -212,6 +212,7 @@ describe("Cards Missing for Structure Decks", () => {
         "Call of the Haunted",
         "Zombie Master",
         "Blue-Eyes White Dragon",
+        "Contact C",
       ];
       const result = removeCardsFromCollection(
         {
@@ -258,6 +259,7 @@ describe("Cards Missing for Structure Decks", () => {
           cards: [
             "Call of the Haunted",
             "Call of the Haunted",
+            'Contact "C"',
             "Zombie Master",
           ],
         },
@@ -268,7 +270,11 @@ describe("Cards Missing for Structure Decks", () => {
         deck: {
           deck: "Structure Deck: Zombie Madness",
           cardsMissing: ["Call of the Haunted"],
-          cardsInCollection: ["Call of the Haunted", "Zombie Master"],
+          cardsInCollection: [
+            "Call of the Haunted",
+            "Zombie Master",
+            "Contact C",
+          ],
           cards: [
             "Call of the Haunted",
             "Call of the Haunted",

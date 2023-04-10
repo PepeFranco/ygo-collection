@@ -205,15 +205,14 @@ const getCardsMissingForStructureDecks = async () => {
         // console.error(err);
       }
     );
-
-    fs.writeFile(
-      `./structureDecks/missingCardsDataSet.json`,
-      JSON.stringify(dataForCSV),
-      function (err) {
-        // console.error(err);
-      }
-    );
   });
+  fs.writeFile(
+    `./structureDecks/missingCardsDataSet.json`,
+    JSON.stringify(dataForCSV),
+    function (err) {
+      // console.error(err);
+    }
+  );
 };
 
 module.exports = {

@@ -3340,8 +3340,7 @@
       "date": "2017-04-13",
       "forbiddenCards": [],
       "limitedCards": [
-         "Limiter Removal",
-         "Maxx \"C\""
+         "Limiter Removal"
       ],
       "semiLimitedCards": [
          "Card Trooper"
@@ -3361,6 +3360,7 @@
          "BOXer",
          "Geargiauger",
          "Geargiauger",
+         "Maxx C",
          "Minefieldriller",
          "Minefieldriller",
          "Mischief of the Gnomes",
@@ -3417,7 +3417,7 @@
          "Machine King - 3000 B.C.",
          "Mausoleum of the Emperor",
          "Mausoleum of the Emperor",
-         "Maxx \"C\"",
+         "Maxx C",
          "Mischief of the Gnomes",
          "Planet Pathfinder",
          "Planet Pathfinder",
@@ -3428,7 +3428,7 @@
          "The Huge Revolution is Over",
          "The Huge Revolution is Over"
       ],
-      "numberOfCardsMissing": 19
+      "numberOfCardsMissing": 20
    },
    {
       "deck": "Structure Deck: Cyberse Link",
@@ -5198,10 +5198,7 @@
          "Metaverse"
       ],
       "semiLimitedCards": [],
-      "cardsMissing": [
-         "Contact \"C\"",
-         "Contact \"C\""
-      ],
+      "cardsMissing": [],
       "cardsInCollection": [
          "Advanced Dark",
          "Advanced Dark",
@@ -5211,6 +5208,8 @@
          "Ash Blossom & Joyous Spring",
          "Awakening of the Crystal Ultimates",
          "Awakening of the Crystal Ultimates",
+         "Contact C",
+         "Contact C",
          "Cosmic Cyclone",
          "Cosmic Cyclone",
          "Counter Gem",
@@ -5293,7 +5292,7 @@
          "Ultimate Crystal Rainbow Dragon Overdrive",
          "Ultimate Crystal Rainbow Dragon Overdrive"
       ],
-      "numberOfCardsMissing": 2
+      "numberOfCardsMissing": 0
    },
    {
       "deck": "Structure Deck: Dark World",
@@ -5405,10 +5404,7 @@
          "Harpie's Feather Duster"
       ],
       "semiLimitedCards": [],
-      "cardsMissing": [
-         "Retaliating \"C\"",
-         "Retaliating \"C\""
-      ],
+      "cardsMissing": [],
       "cardsInCollection": [
          "Artifact Moralltach",
          "Artifact Moralltach",
@@ -5445,6 +5441,8 @@
          "Raigeki",
          "Resonance Insect",
          "Resonance Insect",
+         "Retaliating C",
+         "Retaliating C",
          "Rose Lover",
          "Rose Lover",
          "Sauge de Fleur",
@@ -5500,6 +5498,6 @@
          "Void Trap Hole",
          "Void Trap Hole"
       ],
-      "numberOfCardsMissing": 2
+      "numberOfCardsMissing": 0
    }
 ]

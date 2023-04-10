@@ -4558,8 +4558,7 @@
       "date": "2017-04-13",
       "forbiddenCards": [],
       "limitedCards": [
-         "Limiter Removal",
-         "Maxx \"C\""
+         "Limiter Removal"
       ],
       "semiLimitedCards": [
          "Card Trooper"
@@ -4612,6 +4611,8 @@
          "Mausoleum of the Emperor",
          "Mausoleum of the Emperor",
          "Mausoleum of the Emperor",
+         "Maxx C",
+         "Maxx C",
          "Minefieldriller",
          "Minefieldriller",
          "Minefieldriller",
@@ -4673,7 +4674,7 @@
          "Machine King - 3000 B.C.",
          "Machine King - 3000 B.C.",
          "Machine King - 3000 B.C.",
-         "Maxx \"C\"",
+         "Maxx C",
          "Mischief of the Gnomes",
          "Planet Pathfinder",
          "Planet Pathfinder",
@@ -4683,7 +4684,7 @@
          "The Huge Revolution is Over",
          "The Huge Revolution is Over"
       ],
-      "numberOfCardsMissing": 60
+      "numberOfCardsMissing": 62
    },
    {
       "deck": "Structure Deck: Cyberse Link",
@@ -7192,9 +7193,6 @@
       ],
       "semiLimitedCards": [],
       "cardsMissing": [
-         "Contact \"C\"",
-         "Contact \"C\"",
-         "Contact \"C\"",
          "Foolish Burial Goods",
          "Foolish Burial Goods"
       ],
@@ -7211,6 +7209,9 @@
          "Awakening of the Crystal Ultimates",
          "Awakening of the Crystal Ultimates",
          "Awakening of the Crystal Ultimates",
+         "Contact C",
+         "Contact C",
+         "Contact C",
          "Cosmic Cyclone",
          "Cosmic Cyclone",
          "Cosmic Cyclone",
@@ -7331,7 +7332,7 @@
          "Ultimate Crystal Rainbow Dragon Overdrive",
          "Ultimate Crystal Rainbow Dragon Overdrive"
       ],
-      "numberOfCardsMissing": 5
+      "numberOfCardsMissing": 2
    },
    {
       "deck": "Structure Deck: Dark World",
@@ -7488,9 +7489,6 @@
       ],
       "semiLimitedCards": [],
       "cardsMissing": [
-         "Retaliating \"C\"",
-         "Retaliating \"C\"",
-         "Retaliating \"C\"",
          "The Phantom Knights of Shade Brigandine",
          "Traptrix Trap Hole Nightmare"
       ],
@@ -7547,6 +7545,9 @@
          "Resonance Insect",
          "Resonance Insect",
          "Resonance Insect",
+         "Retaliating C",
+         "Retaliating C",
+         "Retaliating C",
          "Rose Lover",
          "Rose Lover",
          "Rose Lover",
@@ -7627,6 +7628,6 @@
          "Void Trap Hole",
          "Void Trap Hole"
       ],
-      "numberOfCardsMissing": 5
+      "numberOfCardsMissing": 2
    }
 ]

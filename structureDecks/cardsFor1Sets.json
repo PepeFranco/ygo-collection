@@ -2062,8 +2062,7 @@
       "date": "2017-04-13",
       "forbiddenCards": [],
       "limitedCards": [
-         "Limiter Removal",
-         "Maxx \"C\""
+         "Limiter Removal"
       ],
       "semiLimitedCards": [
          "Card Trooper"
@@ -2102,7 +2101,7 @@
          "Machine Duplication",
          "Machine King - 3000 B.C.",
          "Mausoleum of the Emperor",
-         "Maxx \"C\"",
+         "Maxx C",
          "Minefieldriller",
          "Mischief of the Gnomes",
          "Planet Pathfinder",
@@ -3127,14 +3126,13 @@
          "Metaverse"
       ],
       "semiLimitedCards": [],
-      "cardsMissing": [
-         "Contact \"C\""
-      ],
+      "cardsMissing": [],
       "cardsInCollection": [
          "Advanced Dark",
          "Ancient City - Rainbow Ruins",
          "Ash Blossom & Joyous Spring",
          "Awakening of the Crystal Ultimates",
+         "Contact C",
          "Cosmic Cyclone",
          "Counter Gem",
          "Crystal Abundance",
@@ -3177,7 +3175,7 @@
          "Ultimate Crystal Magic",
          "Ultimate Crystal Rainbow Dragon Overdrive"
       ],
-      "numberOfCardsMissing": 1
+      "numberOfCardsMissing": 0
    },
    {
       "deck": "Structure Deck: Dark World",
@@ -3246,9 +3244,7 @@
          "Harpie's Feather Duster"
       ],
       "semiLimitedCards": [],
-      "cardsMissing": [
-         "Retaliating \"C\""
-      ],
+      "cardsMissing": [],
       "cardsInCollection": [
          "Artifact Moralltach",
          "Artifact Sanctum",
@@ -3268,6 +3264,7 @@
          "Naturia Sacred Tree",
          "Raigeki",
          "Resonance Insect",
+         "Retaliating C",
          "Rose Lover",
          "Sauge de Fleur",
          "Terrifying Trap Hole Nightmare",
@@ -3296,6 +3293,6 @@
          "Traptrix Vesiculo",
          "Void Trap Hole"
       ],
-      "numberOfCardsMissing": 1
+      "numberOfCardsMissing": 0
    }
 ]
