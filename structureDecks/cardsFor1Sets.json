@@ -27,7 +27,6 @@
          "Call of the Haunted",
          "Ceasefire",
          "Creature Swap",
-         "Creature Swap",
          "Curse of Anubis",
          "Dragon's Rage",
          "Element Dragon",
@@ -36,7 +35,6 @@
          "Luster Dragon",
          "Masked Dragon",
          "Mystical Space Typhoon",
-         "Nobleman of Crossout",
          "Nobleman of Crossout",
          "Pot of Greed",
          "Premature Burial",
@@ -78,7 +76,6 @@
          "Card of Safe Return",
          "Compulsory Evacuation Device",
          "Creature Swap",
-         "Creature Swap",
          "Dark Dust Spirit",
          "Despair from the Dark",
          "Double Coston",
@@ -88,7 +85,6 @@
          "Magic Jammer",
          "Master Kyonshee",
          "Mystical Space Typhoon",
-         "Nobleman of Crossout",
          "Nobleman of Crossout",
          "Pot of Greed",
          "Pyramid Turtle",
@@ -137,14 +133,12 @@
          "Inferno",
          "Jar of Greed",
          "Level Limit - Area B",
-         "Level Limit - Area B",
          "Little Chimera",
          "Meteor of Destruction",
          "Molten Destruction",
          "Molten Zombie",
          "Mystical Space Typhoon",
          "Necklace of Command",
-         "Nobleman of Crossout",
          "Nobleman of Crossout",
          "Pot of Greed",
          "Premature Burial",
@@ -186,11 +180,9 @@
          "Big Wave Small Wave",
          "Call of the Haunted",
          "Creature Swap",
-         "Creature Swap",
          "Creeping Doom Manta",
          "Dust Tornado",
          "Fenrir",
-         "Gravity Bind",
          "Gravity Bind",
          "Hammer Shot",
          "Heavy Storm",
@@ -261,7 +253,6 @@
          "Mystical Space Typhoon",
          "Ninja Grandmaster Sasuke",
          "Obnoxious Celtic Guard",
-         "Reinforcement of the Army",
          "Reinforcement of the Army",
          "Release Restraint",
          "Reload",
@@ -424,7 +415,6 @@
          "Magic Jammer",
          "Mystical Space Typhoon",
          "Ninjitsu Art of Transformation",
-         "Nobleman of Crossout",
          "Nobleman of Crossout",
          "Reckless Greed",
          "Reload",
@@ -648,7 +638,6 @@
          "Mystical Space Typhoon",
          "Nobleman of Crossout",
          "Reinforcement of the Army",
-         "Reinforcement of the Army",
          "Return from the Different Dimension",
          "Sakuretsu Armor",
          "Samsara Kaiser",
@@ -676,7 +665,6 @@
          "Call of the Mummy",
          "Card Destruction",
          "Card of Safe Return",
-         "Card of Safe Return",
          "Cold Wave",
          "Creature Swap",
          "Des Lacooda",
@@ -686,7 +674,6 @@
          "Getsu Fuhma",
          "Imperial Iron Wall",
          "Magical Arm Shield",
-         "Magical Stone Excavation",
          "Magical Stone Excavation",
          "Malevolent Mech - Goku En",
          "Marionette Mite",
@@ -762,7 +749,6 @@
          "Royal Magical Library",
          "Skilled Dark Magician",
          "Spell Power Grasp",
-         "Summoner Monk",
          "Summoner Monk",
          "Swords of Revealing Light",
          "Terraforming",
@@ -851,7 +837,6 @@
          "Dimensional Prison",
          "Frontline Base",
          "Green Gadget",
-         "Green Gadget",
          "Hand Destruction",
          "Heavy Mech Support Platform",
          "Inferno Reckless Summon",
@@ -922,13 +907,11 @@
          "Lava Golem",
          "Legendary Fiend",
          "Magical Stone Excavation",
-         "Magical Stone Excavation",
          "Malevolent Catastrophe",
          "Metal Reflect Slime",
          "Mirror Force",
          "Mystic Tomato",
          "Mystical Beast of Serket",
-         "Mystical Space Typhoon",
          "Mystical Space Typhoon",
          "Necrovalley",
          "Newdoria",
@@ -952,13 +935,10 @@
          "Bottomless Trap Hole",
          "Icarus Attack"
       ],
-      "cardsMissing": [
-         "Icarus Attack"
-      ],
+      "cardsMissing": [],
       "cardsInCollection": [
          "Armed Dragon LV3",
          "Armed Dragon LV5",
-         "Bottomless Trap Hole",
          "Bottomless Trap Hole",
          "Card Destruction",
          "Creature Swap",
@@ -997,7 +977,7 @@
          "United We Stand",
          "Windstorm of Etaqua"
       ],
-      "numberOfCardsMissing": 1
+      "numberOfCardsMissing": 0
    },
    {
       "deck": "Lost Sanctuary Structure Deck",
@@ -1097,7 +1077,6 @@
          "Gren, Tactician of Dark World",
          "Kahkki, Guerilla of Dark World",
          "Mind Crush",
-         "Mind Crush",
          "Newdoria",
          "Reign-Beaux, Overlord of Dark World",
          "Renge, Gatekeeper of Dark World",
@@ -1109,7 +1088,6 @@
          "The Forces of Darkness",
          "The Gates of Dark World",
          "The Transmigration Prophecy",
-         "Tragoedia",
          "Tragoedia",
          "Zure, Knight of Dark World"
       ],
@@ -1132,7 +1110,6 @@
          "Summoner Monk"
       ],
       "cardsMissing": [
-         "Magical Stone Excavation",
          "Snipe Hunter"
       ],
       "cardsInCollection": [
@@ -1143,7 +1120,6 @@
          "Book of Moon",
          "Burst Breath",
          "Burst Stream of Destruction",
-         "Call of the Haunted",
          "Call of the Haunted",
          "Card Trader",
          "Chaos Sorcerer",
@@ -1173,12 +1149,11 @@
          "Red-Eyes Darkness Metal Dragon",
          "Ryko, Lightsworn Hunter",
          "Summoner Monk",
-         "Summoner Monk",
          "The Flute of Summoning Dragon",
          "The White Stone of Legend",
          "Vice Dragon"
       ],
-      "numberOfCardsMissing": 2
+      "numberOfCardsMissing": 1
    },
    {
       "deck": "Samurai Warlords Structure Deck",
@@ -1219,7 +1194,6 @@
          "Shien's Dojo",
          "Shien's Footsoldier",
          "Shien's Scheme",
-         "Shien's Smoke Signal",
          "Shien's Smoke Signal",
          "Shien's Squire",
          "Six Samurai United",
@@ -1288,7 +1262,6 @@
          "Terraforming",
          "Tornado Wall",
          "Torrential Tribute",
-         "Torrential Tribute",
          "Warrior of Atlantis",
          "Water Hazard"
       ],
@@ -1331,7 +1304,6 @@
          "Nightmare Wheel",
          "Onslaught of the Fire Kings",
          "Phoenix Wing Wind Blast",
-         "Pot of Duality",
          "Pot of Duality",
          "Raging Flame Sprite",
          "Regretful Rebirth",
@@ -1433,7 +1405,6 @@
          "Cybernetic Hidden Technology",
          "D.D.R. - Different Dimension Reincarnation",
          "Dimensional Prison",
-         "Dimensional Prison",
          "Evolution Burst",
          "Falchion Beta",
          "Jade Knight",
@@ -1525,7 +1496,6 @@
          "Ancient Gear Gadjiltron Chimera",
          "Ancient Gear Gadjiltron Dragon",
          "Card Trooper",
-         "Card Trooper",
          "Creature Swap",
          "Double Summon",
          "Fissure",
@@ -1582,7 +1552,6 @@
          "Bottomless Trap Hole",
          "Call of the Haunted",
          "Card Trooper",
-         "Card Trooper",
          "Compulsory Evacuation Device",
          "Contrast HERO Chaos",
          "E - Emergency Call",
@@ -1606,7 +1575,6 @@
          "Hero Signal",
          "Homunculus the Alchemic Being",
          "Honest",
-         "Honest",
          "Mask Change",
          "Mask Change II",
          "Mask Charge",
@@ -1621,7 +1589,6 @@
          "Pot of Duality",
          "R - Righteous Justice",
          "Reinforcement of the Army",
-         "Summoner Monk",
          "Summoner Monk",
          "The Warrior Returning Alive",
          "Winged Kuriboh"
@@ -1798,7 +1765,6 @@
          "The Monarchs Stormforth",
          "The Prime Monarch",
          "Tragoedia",
-         "Tragoedia",
          "Zaborg the Thunder Monarch"
       ],
       "numberOfCardsMissing": 2
@@ -1818,9 +1784,7 @@
          "Dragon Ravine"
       ],
       "cardsMissing": [
-         "Charge of the Light Brigade",
-         "Charge of the Light Brigade",
-         "Dragon Ravine"
+         "Charge of the Light Brigade"
       ],
       "cardsInCollection": [
          "A Wingbeat of Giant Dragon",
@@ -1830,7 +1794,6 @@
          "Breakthrough Skill",
          "Burst Breath",
          "Call of the Haunted",
-         "Card Trooper",
          "Card Trooper",
          "Darkblaze Dragon",
          "Darkstorm Dragon",
@@ -1865,7 +1828,7 @@
          "White Dragon Wyverburster",
          "White Night Dragon"
       ],
-      "numberOfCardsMissing": 3
+      "numberOfCardsMissing": 1
    },
    {
       "deck": "Structure Deck: Seto Kaiba",
@@ -2069,7 +2032,6 @@
          "Miscellaneousaurus",
          "Nightmare Archfiends",
          "Ojama Trio",
-         "Ojama Trio",
          "Painful Decision",
          "Petiteranodon",
          "Quaking Mirror Force",
@@ -2128,7 +2090,6 @@
          "BOXer",
          "Call of the Haunted",
          "Card Trooper",
-         "Card Trooper",
          "Fiendish Chain",
          "Galaxy Cyclone",
          "Geargiauger",
@@ -2165,9 +2126,7 @@
       "semiLimitedCards": [
          "Card Trooper"
       ],
-      "cardsMissing": [
-         "Card Trooper"
-      ],
+      "cardsMissing": [],
       "cardsInCollection": [
          "Backlinker",
          "Backup Secretary",
@@ -2213,7 +2172,7 @@
          "Tri-gate Wizard",
          "Where Arf Thou?"
       ],
-      "numberOfCardsMissing": 1
+      "numberOfCardsMissing": 0
    },
    {
       "deck": "Structure Deck: Wave of Light",
@@ -2398,9 +2357,7 @@
       "semiLimitedCards": [
          "Terraforming"
       ],
-      "cardsMissing": [
-         "Magical Stone Excavation"
-      ],
+      "cardsMissing": [],
       "cardsInCollection": [
          "A Feather of the Phoenix",
          "Armageddon Knight",
@@ -2461,6 +2418,7 @@
          "Leviair the Sea Dragon",
          "Ljosalf of the Nordic Alfar",
          "Loki, Lord of the Aesir",
+         "Magical Stone Excavation",
          "Mara of the Nordic Alfar",
          "March Towards Ragnarok",
          "Mask Change",
@@ -2491,7 +2449,6 @@
          "Tanngnjostr of the Nordic Beasts",
          "Tanngrisnir of the Nordic Beasts",
          "Terraforming",
-         "Terraforming",
          "The Nordic Lights",
          "The Phantom Knights of Ancient Cloak",
          "The Phantom Knights of Break Sword",
@@ -2517,7 +2474,7 @@
          "Xtra HERO Dread Decimator",
          "Xtra HERO Wonder Driver"
       ],
-      "numberOfCardsMissing": 1
+      "numberOfCardsMissing": 0
    },
    {
       "deck": "Structure Deck: Zombie Horde",
@@ -2680,7 +2637,6 @@
          "Spellbook of Secrets",
          "Spellbook of Wisdom",
          "Summoner Monk",
-         "Terraforming",
          "Terraforming"
       ],
       "numberOfCardsMissing": 0

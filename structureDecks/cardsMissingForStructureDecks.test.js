@@ -185,6 +185,21 @@ describe("Cards Missing for Structure Decks", () => {
         semiLimitedCards: ["Card Destruction"],
       });
     });
+
+    it("does not add cards", () => {
+      const mockDeck = {
+        deck: "Structure Deck: Dragon's Roar",
+        cards: ["Card Destruction"],
+      };
+      const result = getDeckFilteredByBanlist(mockDeck, mockBanlist);
+      expect(result).toEqual({
+        deck: "Structure Deck: Dragon's Roar",
+        cards: ["Card Destruction"],
+        forbiddenCards: [],
+        limitedCards: [],
+        semiLimitedCards: ["Card Destruction"],
+      });
+    });
   });
 
   describe("removeCardsFromCollection", () => {

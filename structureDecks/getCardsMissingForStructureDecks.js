@@ -80,37 +80,46 @@ const getDeckFilteredByBanlist = (deck, banlist) => {
   const forbiddenCards = banlist.cards
     .filter(({ number, card }) => number === 0 && deck.cards.includes(card))
     .map(({ card }) => card);
-  const cardsWithoutForbidden = _.difference(deck.cards, forbiddenCards);
+  const forbiddenCardsInDeck = _.intersection(deck.cards, forbiddenCards);
 
   const limitedCards = banlist.cards
     .filter(({ number, card }) => number === 1 && deck.cards.includes(card))
     .map(({ card }) => card);
   const limitedCardsInDeck = _.intersection(deck.cards, limitedCards);
-  const cardsWithoutLimited = _.difference(cardsWithoutForbidden, limitedCards);
 
   const semiLimitedCards = banlist.cards
     .filter(({ number, card }) => number === 2 && deck.cards.includes(card))
     .map(({ card }) => card);
   const semiLimitedCardsInDeck = _.intersection(deck.cards, semiLimitedCards);
-  const cardsWithoutSemiLimited = _.difference(
-    cardsWithoutLimited,
+
+  const filteredSemiLimitedCards = deck.cards.reduce((accumulator, card) => {
+    if (semiLimitedCardsInDeck.includes(card)) {
+      const timesThisCardIsInTheDeckAlready = accumulator.filter(
+        (filteredCard) => filteredCard === card
+      ).length;
+      if (timesThisCardIsInTheDeckAlready < 2) {
+        return [...accumulator, card];
+      }
+    }
+    return accumulator;
+  }, []);
+
+  const cardsNotInList = _.difference(
+    deck.cards,
+    forbiddenCards,
+    limitedCards,
     semiLimitedCardsInDeck
   );
 
   return {
     ...deck,
     cards: _.sortBy(
-      [
-        ...cardsWithoutSemiLimited,
-        ...limitedCardsInDeck,
-        ...semiLimitedCardsInDeck,
-        ...semiLimitedCardsInDeck,
-      ],
+      [...cardsNotInList, ...limitedCardsInDeck, ...filteredSemiLimitedCards],
       (card) => card
     ),
-    forbiddenCards,
-    limitedCards,
-    semiLimitedCards,
+    forbiddenCards: forbiddenCardsInDeck,
+    limitedCards: limitedCardsInDeck,
+    semiLimitedCards: semiLimitedCardsInDeck,
   };
 };
 
@@ -199,7 +208,7 @@ const getCardsMissingForStructureDecks = async () => {
 
     fs.writeFile(
       `./structureDecks/missingCardsDataSet.json`,
-      JSON.stringify(dataForCSV, null, 3),
+      JSON.stringify(dataForCSV),
       function (err) {
         // console.error(err);
       }
