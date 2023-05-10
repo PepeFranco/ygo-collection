@@ -68,8 +68,8 @@
   {
     "set": 1,
     "deck": "The Dark Emperor Structure Deck",
-    "cardsMissing": 0,
-    "cardsInCollection": 36
+    "cardsMissing": 1,
+    "cardsInCollection": 35
   },
   {
     "set": 1,
@@ -410,14 +410,14 @@
   {
     "set": 2,
     "deck": "The Dark Emperor Structure Deck",
-    "cardsMissing": 5,
-    "cardsInCollection": 62
+    "cardsMissing": 6,
+    "cardsInCollection": 61
   },
   {
     "set": 2,
     "deck": "Zombie World Structure Deck",
-    "cardsMissing": 11,
-    "cardsInCollection": 61
+    "cardsMissing": 10,
+    "cardsInCollection": 62
   },
   {
     "set": 2,
@@ -440,8 +440,8 @@
   {
     "set": 2,
     "deck": "Structure Deck: Marik (TCG)",
-    "cardsMissing": 3,
-    "cardsInCollection": 68
+    "cardsMissing": 2,
+    "cardsInCollection": 69
   },
   {
     "set": 2,
@@ -464,8 +464,8 @@
   {
     "set": 2,
     "deck": "Dragons Collide Structure Deck",
-    "cardsMissing": 12,
-    "cardsInCollection": 63
+    "cardsMissing": 11,
+    "cardsInCollection": 64
   },
   {
     "set": 2,
@@ -728,8 +728,8 @@
   {
     "set": 3,
     "deck": "Structure Deck: Lord of the Storm",
-    "cardsMissing": 28,
-    "cardsInCollection": 67
+    "cardsMissing": 27,
+    "cardsInCollection": 68
   },
   {
     "set": 3,
@@ -752,8 +752,8 @@
   {
     "set": 3,
     "deck": "The Dark Emperor Structure Deck",
-    "cardsMissing": 18,
-    "cardsInCollection": 79
+    "cardsMissing": 19,
+    "cardsInCollection": 78
   },
   {
     "set": 3,
@@ -782,8 +782,8 @@
   {
     "set": 3,
     "deck": "Structure Deck: Marik (TCG)",
-    "cardsMissing": 14,
-    "cardsInCollection": 89
+    "cardsMissing": 13,
+    "cardsInCollection": 90
   },
   {
     "set": 3,
@@ -806,8 +806,8 @@
   {
     "set": 3,
     "deck": "Dragons Collide Structure Deck",
-    "cardsMissing": 29,
-    "cardsInCollection": 78
+    "cardsMissing": 28,
+    "cardsInCollection": 79
   },
   {
     "set": 3,
@@ -956,14 +956,14 @@
   {
     "set": 3,
     "deck": "Structure Deck: Order of the Spellcasters",
-    "cardsMissing": 71,
-    "cardsInCollection": 51
+    "cardsMissing": 69,
+    "cardsInCollection": 53
   },
   {
     "set": 3,
     "deck": "Structure Deck: Rokket Revolt",
-    "cardsMissing": 87,
-    "cardsInCollection": 49
+    "cardsMissing": 86,
+    "cardsInCollection": 50
   },
   {
     "set": 3,
@@ -980,8 +980,8 @@
   {
     "set": 3,
     "deck": "Structure Deck: Sacred Beasts",
-    "cardsMissing": 72,
-    "cardsInCollection": 64
+    "cardsMissing": 73,
+    "cardsInCollection": 63
   },
   {
     "set": 3,

@@ -911,6 +911,7 @@
       ],
       "cardsMissing": [
          "Caius the Shadow Monarch",
+         "Caius the Shadow Monarch",
          "Dark Core",
          "Lightning Vortex",
          "Lightning Vortex",
@@ -928,7 +929,6 @@
          "Brain Control",
          "By Order of the Emperor",
          "By Order of the Emperor",
-         "Caius the Shadow Monarch",
          "Chaosrider Gustaph",
          "Chaosrider Gustaph",
          "D.D. Assailant",
@@ -980,7 +980,7 @@
          "Soul Release",
          "Torrential Tribute"
       ],
-      "numberOfCardsMissing": 5
+      "numberOfCardsMissing": 6
    },
    {
       "deck": "Zombie World Structure Deck",
@@ -996,7 +996,6 @@
       ],
       "cardsMissing": [
          "Cold Wave",
-         "Dust Tornado",
          "Gernia",
          "Getsu Fuhma",
          "Magical Arm Shield",
@@ -1022,6 +1021,7 @@
          "Creature Swap",
          "Des Lacooda",
          "Des Lacooda",
+         "Dust Tornado",
          "Dust Tornado",
          "Field Barrier",
          "Field Barrier",
@@ -1070,7 +1070,7 @@
          "Zombie World",
          "Zombie World"
       ],
-      "numberOfCardsMissing": 11
+      "numberOfCardsMissing": 10
    },
    {
       "deck": "Spellcaster's Command Structure Deck",
@@ -1358,8 +1358,7 @@
       ],
       "cardsMissing": [
          "Dark Room of Nightmare",
-         "Dark Room of Nightmare",
-         "Mystical Beast of Serket"
+         "Dark Room of Nightmare"
       ],
       "cardsInCollection": [
          "Acid Trap Hole",
@@ -1416,6 +1415,7 @@
          "Mystic Tomato",
          "Mystic Tomato",
          "Mystical Beast of Serket",
+         "Mystical Beast of Serket",
          "Mystical Space Typhoon",
          "Mystical Space Typhoon",
          "Necrovalley",
@@ -1431,7 +1431,7 @@
          "Viser Des",
          "Viser Des"
       ],
-      "numberOfCardsMissing": 3
+      "numberOfCardsMissing": 2
    },
    {
       "deck": "Dragunity Legion Structure Deck",
@@ -1733,7 +1733,6 @@
          "Chaos Zone",
          "Darkflare Dragon",
          "Inferno Fire Blast",
-         "Magical Stone Excavation",
          "Prime Material Dragon",
          "Ryko, Lightsworn Hunter",
          "Snipe Hunter",
@@ -1787,6 +1786,7 @@
          "Lyla, Lightsworn Sorceress",
          "Lyla, Lightsworn Sorceress",
          "Magical Stone Excavation",
+         "Magical Stone Excavation",
          "Monster Gate",
          "Mystic Tomato",
          "Mystic Tomato",
@@ -1805,7 +1805,7 @@
          "The White Stone of Legend",
          "Vice Dragon"
       ],
-      "numberOfCardsMissing": 12
+      "numberOfCardsMissing": 11
    },
    {
       "deck": "Samurai Warlords Structure Deck",

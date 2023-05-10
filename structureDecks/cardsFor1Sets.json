@@ -605,7 +605,9 @@
       "semiLimitedCards": [
          "Reinforcement of the Army"
       ],
-      "cardsMissing": [],
+      "cardsMissing": [
+         "Caius the Shadow Monarch"
+      ],
       "cardsInCollection": [
          "Banisher of the Radiance",
          "Bazoo the Soul-Eater",
@@ -613,7 +615,6 @@
          "Bottomless Trap Hole",
          "Brain Control",
          "By Order of the Emperor",
-         "Caius the Shadow Monarch",
          "Chaosrider Gustaph",
          "D.D. Assailant",
          "D.D. Dynamite",
@@ -644,7 +645,7 @@
          "Soul Release",
          "Torrential Tribute"
       ],
-      "numberOfCardsMissing": 0
+      "numberOfCardsMissing": 1
    },
    {
       "deck": "Zombie World Structure Deck",

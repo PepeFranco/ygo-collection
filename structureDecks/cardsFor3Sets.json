@@ -730,7 +730,6 @@
          "Bladefly",
          "Dark Coffin",
          "Dark Coffin",
-         "Dust Tornado",
          "Harpie Girl",
          "Harpie's Pet Baby Dragon",
          "Harpie's Pet Baby Dragon",
@@ -766,6 +765,7 @@
          "Call of the Haunted",
          "Card Destruction",
          "Dark Coffin",
+         "Dust Tornado",
          "Dust Tornado",
          "Dust Tornado",
          "Elegant Egotist",
@@ -824,7 +824,7 @@
          "Triangle Ecstasy Spark",
          "Triangle Ecstasy Spark"
       ],
-      "numberOfCardsMissing": 28
+      "numberOfCardsMissing": 27
    },
    {
       "deck": "Structure Deck: Dinosaur's Rage",
@@ -1201,6 +1201,7 @@
          "By Order of the Emperor",
          "Caius the Shadow Monarch",
          "Caius the Shadow Monarch",
+         "Caius the Shadow Monarch",
          "D.D. Warrior",
          "Dark Core",
          "Dark Core",
@@ -1229,7 +1230,6 @@
          "Brain Control",
          "By Order of the Emperor",
          "By Order of the Emperor",
-         "Caius the Shadow Monarch",
          "Chaosrider Gustaph",
          "Chaosrider Gustaph",
          "Chaosrider Gustaph",
@@ -1296,7 +1296,7 @@
          "Soul Release",
          "Torrential Tribute"
       ],
-      "numberOfCardsMissing": 18
+      "numberOfCardsMissing": 19
    },
    {
       "deck": "Zombie World Structure Deck",
@@ -1815,7 +1815,6 @@
          "Gravekeeper's Visionary",
          "Legendary Fiend",
          "Mystical Beast of Serket",
-         "Mystical Beast of Serket",
          "Nightmare's Steelcage",
          "Nightmare's Steelcage",
          "Nightmare's Steelcage"
@@ -1893,6 +1892,7 @@
          "Mystic Tomato",
          "Mystic Tomato",
          "Mystical Beast of Serket",
+         "Mystical Beast of Serket",
          "Mystical Space Typhoon",
          "Mystical Space Typhoon",
          "Necrovalley",
@@ -1911,7 +1911,7 @@
          "Viser Des",
          "Viser Des"
       ],
-      "numberOfCardsMissing": 14
+      "numberOfCardsMissing": 13
    },
    {
       "deck": "Dragunity Legion Structure Deck",
@@ -2325,7 +2325,6 @@
          "Gragonith, Lightsworn Dragon",
          "Inferno Fire Blast",
          "Inferno Fire Blast",
-         "Magical Stone Excavation",
          "Prime Material Dragon",
          "Prime Material Dragon",
          "Ryko, Lightsworn Hunter",
@@ -2393,6 +2392,7 @@
          "Lyla, Lightsworn Sorceress",
          "Lyla, Lightsworn Sorceress",
          "Magical Stone Excavation",
+         "Magical Stone Excavation",
          "Monster Gate",
          "Mystic Tomato",
          "Mystic Tomato",
@@ -2416,7 +2416,7 @@
          "The White Stone of Legend",
          "Vice Dragon"
       ],
-      "numberOfCardsMissing": 29
+      "numberOfCardsMissing": 28
    },
    {
       "deck": "Samurai Warlords Structure Deck",
@@ -4581,7 +4581,6 @@
          "Ancient Gear Gadjiltron Dragon",
          "Ancient Gear Gadjiltron Dragon",
          "Ancient Gear Gadjiltron Dragon",
-         "Ancient Gear Golem",
          "Ancient Gear Hydra",
          "Ancient Gear Hydra",
          "Ancient Gear Reactor Dragon",
@@ -4596,6 +4595,7 @@
          "Ancient Gear Wyvern",
          "BOXer",
          "BOXer",
+         "Call of the Haunted",
          "Call of the Haunted",
          "Call of the Haunted",
          "Fiendish Chain",
@@ -4640,6 +4640,7 @@
          "Ancient Gear Gadget",
          "Ancient Gear Golem",
          "Ancient Gear Golem",
+         "Ancient Gear Golem",
          "Ancient Gear Hydra",
          "Ancient Gear Knight",
          "Ancient Gear Knight",
@@ -4650,7 +4651,6 @@
          "Ancient Gear Token",
          "Ancient Gear Wyvern",
          "BOXer",
-         "Call of the Haunted",
          "Card Trooper",
          "Card Trooper",
          "Fiendish Chain",
@@ -5877,8 +5877,6 @@
          "Terraforming"
       ],
       "cardsMissing": [
-         "Apprentice Magician",
-         "Apprentice Magician",
          "Crusader of Endymion",
          "Day-Breaker the Shining Magical Warrior",
          "Day-Breaker the Shining Magical Warrior",
@@ -5951,6 +5949,8 @@
       ],
       "cardsInCollection": [
          "Apprentice Magician",
+         "Apprentice Magician",
+         "Apprentice Magician",
          "Arcane Barrier",
          "Arcane Barrier",
          "Arcane Barrier",
@@ -6002,7 +6002,7 @@
          "Summoner Monk",
          "Summoner Monk"
       ],
-      "numberOfCardsMissing": 71
+      "numberOfCardsMissing": 69
    },
    {
       "deck": "Structure Deck: Rokket Revolt",
@@ -6052,7 +6052,6 @@
          "Labradorite Dragon",
          "Link Turret",
          "Link Turret",
-         "Magic Cylinder",
          "Magic Cylinder",
          "Magnarokket Dragon",
          "Magnarokket Dragon",
@@ -6125,6 +6124,7 @@
          "Labradorite Dragon",
          "Link Turret",
          "Magic Cylinder",
+         "Magic Cylinder",
          "Magnarokket Dragon",
          "Metalrokket Dragon",
          "Mirror Force",
@@ -6152,7 +6152,7 @@
          "World Chalice Guardragon",
          "Zero-Day Blaster"
       ],
-      "numberOfCardsMissing": 87
+      "numberOfCardsMissing": 86
    },
    {
       "deck": "Structure Deck: Shaddoll Showdown",
@@ -6483,6 +6483,7 @@
          "Field Barrier",
          "Field Barrier",
          "Grave Squirmer",
+         "Grave Squirmer",
          "Hyper Blaze",
          "Hyper Blaze",
          "Imperial Custom",
@@ -6554,7 +6555,6 @@
          "Farfa, Malebranche of the Burning Abyss",
          "Farfa, Malebranche of the Burning Abyss",
          "Grave Squirmer",
-         "Grave Squirmer",
          "Hamon, Lord of Striking Thunder",
          "Hamon, Lord of Striking Thunder",
          "Hamon, Lord of Striking Thunder",
@@ -6597,7 +6597,7 @@
          "Uria, Lord of Searing Flames",
          "Uria, Lord of Searing Flames"
       ],
-      "numberOfCardsMissing": 72
+      "numberOfCardsMissing": 73
    },
    {
       "deck": "Structure Deck: Spirit Charmers",
