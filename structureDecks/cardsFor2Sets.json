@@ -1727,8 +1727,6 @@
          "Summoner Monk"
       ],
       "cardsMissing": [
-         "Black Dragon's Chick",
-         "Black Dragon's Chick",
          "Card Trader",
          "Chaos Zone",
          "Darkflare Dragon",
@@ -1744,6 +1742,8 @@
          "A Wingbeat of Giant Dragon",
          "Axe Dragonute",
          "Axe Dragonute",
+         "Black Dragon's Chick",
+         "Black Dragon's Chick",
          "Blue-Eyes White Dragon",
          "Blue-Eyes White Dragon",
          "Book of Moon",
@@ -1805,7 +1805,7 @@
          "The White Stone of Legend",
          "Vice Dragon"
       ],
-      "numberOfCardsMissing": 11
+      "numberOfCardsMissing": 9
    },
    {
       "deck": "Samurai Warlords Structure Deck",
