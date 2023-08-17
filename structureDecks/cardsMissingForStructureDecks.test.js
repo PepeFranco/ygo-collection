@@ -290,7 +290,48 @@ describe("Cards Missing for Structure Decks", () => {
 
   describe("excludeSetsFromCollection", () => {
     it("can call", () => {
-      excludeSetsFromCollection();
+      const collection = [
+        { Name: "Armed Dragon Lv3", Set: "Soul of the Duelist" },
+        { Name: "Armed Dragon Lv3", Set: "Soul of the Duelist" },
+        { Name: "Armed Dragon Lv3", Set: "Soul of the Duelist" },
+        { Name: "Armed Dragon Lv5", Set: "Soul of the Duelist" },
+        { Name: "Armed Dragon Lv5", Set: "Soul of the Duelist" },
+        { Name: "Armed Dragon Lv7", Set: "Soul of the Duelist" },
+        {
+          Name: "Blue-Eyes White Dragon",
+          Set: "Legend of Blue Eyes White Dragon",
+        },
+        {
+          Name: "Blue-Eyes White Dragon",
+          Set: "Legend of Blue Eyes White Dragon",
+        },
+        {
+          Name: "Dark Magician",
+          Set: "Legend of Blue Eyes White Dragon",
+        },
+        {
+          Name: "Zombie Master",
+          Set: "Tactical Evolution",
+        },
+      ];
+      const numberOfCopiesToExclude = 2;
+      const setsToExclude = [
+        "Soul of the Duelist",
+        "Legend of Blue Eyes White Dragon",
+      ];
+      const result = excludeSetsFromCollection({
+        setsToExclude,
+        numberOfCopiesToExclude,
+        collection,
+      });
+
+      expect(result).toEqual([
+        { Name: "Armed Dragon Lv3", Set: "Soul of the Duelist" },
+        {
+          Name: "Zombie Master",
+          Set: "Tactical Evolution",
+        },
+      ]);
     });
   });
 });

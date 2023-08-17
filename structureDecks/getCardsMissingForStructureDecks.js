@@ -146,11 +146,30 @@ const removeCardsFromCollection = (deck, collection) => {
   };
 };
 
-const excludeSetsFromCollection = (
-  sets,
+const excludeSetsFromCollection = ({
+  setsToExclude,
   numberOfCopiesToExclude,
-  collection
-) => {};
+  collection,
+}) => {
+  const counterOfCardsToExclude = {};
+  return collection.filter((card) => {
+    if (!setsToExclude.includes(card.Set)) {
+      return true;
+    }
+    const keyForCounter = `${card.Name}-${card.Set}`;
+    const itemInCounter = counterOfCardsToExclude[keyForCounter];
+    if (itemInCounter) {
+      if (itemInCounter === numberOfCopiesToExclude) {
+        return true;
+      }
+      counterOfCardsToExclude[keyForCounter]++;
+      return false;
+    }
+
+    counterOfCardsToExclude[keyForCounter] = 1;
+    return false;
+  });
+};
 
 const getCardsMissingForStructureDecks = async () => {
   console.log(`📚 There are ${collection.length} cards in the collection`);
@@ -176,12 +195,7 @@ const getCardsMissingForStructureDecks = async () => {
       // "Speed Duel Starter Decks: Twisted Nightmares"
       // "Speed Duel Starter Decks: Ultimate Predators"
     ];
-    const collectionCopy = [...collection];
-    const counterOfCardsToExclude = {};
-    const cardsInSetsToExclude = collectionCopy.filter((card) => {
-      const keyForCounter = `${card.Name}-`;
-      setsToExcludeTwoOf.contains(card.Set);
-    });
+
     // .filter((card) => !card["In Deck"].toLowerCase().includes(""))
     // .map(({ Name }) => Name);
     const structureDeckSet = cardsInStructureDecks.map((deck) => {
