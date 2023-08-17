@@ -4,6 +4,7 @@ const {
   getSetsOfCardsInStructureDeck,
   getDeckFilteredByBanlist,
   removeCardsFromCollection,
+  excludeSetsFromCollection,
 } = require("./getCardsMissingForStructureDecks");
 
 describe("Cards Missing for Structure Decks", () => {
@@ -284,6 +285,12 @@ describe("Cards Missing for Structure Decks", () => {
           ],
         },
       });
+    });
+  });
+
+  describe("excludeSetsFromCollection", () => {
+    it("can call", () => {
+      excludeSetsFromCollection();
     });
   });
 });

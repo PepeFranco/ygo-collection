@@ -146,6 +146,12 @@ const removeCardsFromCollection = (deck, collection) => {
   };
 };
 
+const excludeSetsFromCollection = (
+  sets,
+  numberOfCopiesToExclude,
+  collection
+) => {};
+
 const getCardsMissingForStructureDecks = async () => {
   console.log(`📚 There are ${collection.length} cards in the collection`);
 
@@ -157,9 +163,27 @@ const getCardsMissingForStructureDecks = async () => {
   const sets = [1, 2, 3];
   sets.map((set) => {
     console.log(`=== Set of ${set} ===`);
-    const collectionCopy = [...collection]
-      .filter((card) => !card["In Deck"].toLowerCase().includes("edison"))
-      .map(({ Name }) => Name);
+    const setsToExcludeTwoOf = [
+      "Speed Duel GX: Duel Academy Box",
+      "Speed Duel GX: Duelists of Shadows",
+      "Speed Duel GX: Midterm Paradox",
+      "Speed Duel Starter Decks: Duelists of Tomorrow",
+      "Speed Duel: Battle City Box",
+      //special case, there are 3 sets
+      "Speed Duel Starter Decks: Destiny Masters",
+      // one copy only
+      // "Speed Duel Starter Decks: Match of the Millennium"
+      // "Speed Duel Starter Decks: Twisted Nightmares"
+      // "Speed Duel Starter Decks: Ultimate Predators"
+    ];
+    const collectionCopy = [...collection];
+    const counterOfCardsToExclude = {};
+    const cardsInSetsToExclude = collectionCopy.filter((card) => {
+      const keyForCounter = `${card.Name}-`;
+      setsToExcludeTwoOf.contains(card.Set);
+    });
+    // .filter((card) => !card["In Deck"].toLowerCase().includes(""))
+    // .map(({ Name }) => Name);
     const structureDeckSet = cardsInStructureDecks.map((deck) => {
       const banlist = getClosestMatchingBanList(new Date(deck.date));
       const deckWithCardsMultiplied = getSetsOfCardsInStructureDeck(deck, set);
@@ -224,4 +248,5 @@ module.exports = {
   getDeckFilteredByBanlist,
   getCardSets,
   removeCardsFromCollection,
+  excludeSetsFromCollection,
 };
