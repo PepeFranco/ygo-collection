@@ -225,7 +225,9 @@
       "semiLimitedCards": [
          "Reinforcement of the Army"
       ],
-      "cardsMissing": [],
+      "cardsMissing": [
+         "Fusion Sword Murasame Blade"
+      ],
       "cardsInCollection": [
          "Armed Samurai - Ben Kei",
          "Blast with Chain",
@@ -236,7 +238,6 @@
          "Divine Sword - Phoenix Blade",
          "Exiled Force",
          "Fairy of the Spring",
-         "Fusion Sword Murasame Blade",
          "Gearfried the Iron Knight",
          "Gearfried the Swordmaster",
          "Giant Trunade",
@@ -264,7 +265,7 @@
          "Warrior Lady of the Wasteland",
          "Wicked-Breaking Flamberge - Baou"
       ],
-      "numberOfCardsMissing": 0
+      "numberOfCardsMissing": 1
    },
    {
       "deck": "Structure Deck: Spellcaster's Judgment",
@@ -492,9 +493,7 @@
          "Ultimate Offering"
       ],
       "semiLimitedCards": [],
-      "cardsMissing": [
-         "Heavy Storm"
-      ],
+      "cardsMissing": [],
       "cardsInCollection": [
          "Ancient Gear",
          "Ancient Gear Beast",
@@ -518,6 +517,7 @@
          "Gear Golem the Moving Fortress",
          "Green Gadget",
          "Heavy Mech Support Platform",
+         "Heavy Storm",
          "Limiter Removal",
          "Machine Duplication",
          "Mechanicalchaser",
@@ -533,7 +533,7 @@
          "Weapon Change",
          "Yellow Gadget"
       ],
-      "numberOfCardsMissing": 1
+      "numberOfCardsMissing": 0
    },
    {
       "deck": "Rise of the Dragon Lords Structure Deck",
@@ -605,9 +605,7 @@
       "semiLimitedCards": [
          "Reinforcement of the Army"
       ],
-      "cardsMissing": [
-         "Caius the Shadow Monarch"
-      ],
+      "cardsMissing": [],
       "cardsInCollection": [
          "Banisher of the Radiance",
          "Bazoo the Soul-Eater",
@@ -615,6 +613,7 @@
          "Bottomless Trap Hole",
          "Brain Control",
          "By Order of the Emperor",
+         "Caius the Shadow Monarch",
          "Chaosrider Gustaph",
          "D.D. Assailant",
          "D.D. Dynamite",
@@ -645,7 +644,7 @@
          "Soul Release",
          "Torrential Tribute"
       ],
-      "numberOfCardsMissing": 1
+      "numberOfCardsMissing": 0
    },
    {
       "deck": "Zombie World Structure Deck",
@@ -1111,6 +1110,7 @@
          "Summoner Monk"
       ],
       "cardsMissing": [
+         "Red-Eyes Black Dragon",
          "Snipe Hunter"
       ],
       "cardsInCollection": [
@@ -1146,7 +1146,6 @@
          "Mystic Tomato",
          "Prime Material Dragon",
          "Reasoning",
-         "Red-Eyes Black Dragon",
          "Red-Eyes Darkness Metal Dragon",
          "Ryko, Lightsworn Hunter",
          "Summoner Monk",
@@ -1154,7 +1153,7 @@
          "The White Stone of Legend",
          "Vice Dragon"
       ],
-      "numberOfCardsMissing": 1
+      "numberOfCardsMissing": 2
    },
    {
       "deck": "Samurai Warlords Structure Deck",
@@ -1440,8 +1439,7 @@
       ],
       "semiLimitedCards": [],
       "cardsMissing": [
-         "Beckoning Light",
-         "Ryko, Lightsworn Hunter"
+         "Beckoning Light"
       ],
       "cardsInCollection": [
          "Alexandrite Dragon",
@@ -1471,6 +1469,7 @@
          "Necro Gardna",
          "Raiden, Hand of the Lightsworn",
          "Realm of Light",
+         "Ryko, Lightsworn Hunter",
          "Shire, Lightsworn Spirit",
          "Skill Successor",
          "Solar Recharge",
@@ -1479,7 +1478,7 @@
          "Vylon Prism",
          "Wulf, Lightsworn Beast"
       ],
-      "numberOfCardsMissing": 2
+      "numberOfCardsMissing": 1
    },
    {
       "deck": "Geargia Rampage Structure Deck",
@@ -1723,14 +1722,12 @@
       "semiLimitedCards": [
          "Tragoedia"
       ],
-      "cardsMissing": [
-         "Caius the Shadow Monarch",
-         "Thestalos the Firestorm Monarch"
-      ],
+      "cardsMissing": [],
       "cardsInCollection": [
          "Battle Fader",
          "Berlineth the Firestorm Vassal",
          "By Order of the Emperor",
+         "Caius the Shadow Monarch",
          "Dandylion",
          "Dicephoon",
          "Domain of the True Monarchs",
@@ -1765,10 +1762,11 @@
          "The Monarchs Erupt",
          "The Monarchs Stormforth",
          "The Prime Monarch",
+         "Thestalos the Firestorm Monarch",
          "Tragoedia",
          "Zaborg the Thunder Monarch"
       ],
-      "numberOfCardsMissing": 2
+      "numberOfCardsMissing": 0
    },
    {
       "deck": "Rise of the True Dragons Structure Deck",
@@ -1784,9 +1782,7 @@
          "Charge of the Light Brigade",
          "Dragon Ravine"
       ],
-      "cardsMissing": [
-         "Charge of the Light Brigade"
-      ],
+      "cardsMissing": [],
       "cardsInCollection": [
          "A Wingbeat of Giant Dragon",
          "Arkbrave Dragon",
@@ -1796,6 +1792,7 @@
          "Burst Breath",
          "Call of the Haunted",
          "Card Trooper",
+         "Charge of the Light Brigade",
          "Darkblaze Dragon",
          "Darkstorm Dragon",
          "Decoy Dragon",
@@ -1829,7 +1826,7 @@
          "White Dragon Wyverburster",
          "White Night Dragon"
       ],
-      "numberOfCardsMissing": 1
+      "numberOfCardsMissing": 0
    },
    {
       "deck": "Structure Deck: Seto Kaiba",
@@ -2183,10 +2180,10 @@
       ],
       "semiLimitedCards": [],
       "cardsMissing": [
+         "Airknight Parshath",
          "Celestial Transformation"
       ],
       "cardsInCollection": [
-         "Airknight Parshath",
          "Archlord Kristya",
          "Athena",
          "Bountiful Artemis",
@@ -2228,7 +2225,7 @@
          "Ultimate Providence",
          "Valhalla, Hall of the Fallen"
       ],
-      "numberOfCardsMissing": 1
+      "numberOfCardsMissing": 2
    },
    {
       "deck": "Structure Deck: Lair of Darkness",

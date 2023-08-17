@@ -196,8 +196,11 @@ const getCardsMissingForStructureDecks = async () => {
       // "Speed Duel Starter Decks: Ultimate Predators"
     ];
 
-    // .filter((card) => !card["In Deck"].toLowerCase().includes(""))
-    // .map(({ Name }) => Name);
+    const collectionCopy = excludeSetsFromCollection({
+      setsToExclude: setsToExcludeTwoOf,
+      numberOfCopiesToExclude: 2,
+      collection: [...collection],
+    }).map(({ Name }) => Name);
     const structureDeckSet = cardsInStructureDecks.map((deck) => {
       const banlist = getClosestMatchingBanList(new Date(deck.date));
       const deckWithCardsMultiplied = getSetsOfCardsInStructureDeck(deck, set);
