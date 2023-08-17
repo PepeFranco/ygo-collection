@@ -207,12 +207,12 @@ describe("Cards Missing for Structure Decks", () => {
       const mockCollection = [
         "Armed Dragon Lv3",
         "Armed Dragon LV3",
-        "Call of the Haunted",
-        "Call of the Haunted",
-        "Call of the Haunted",
-        "Zombie Master",
         "Blue-Eyes White Dragon",
+        "Call of the Haunted",
+        "Call of the Haunted",
+        "Call of the Haunted",
         "Contact C",
+        "Zombie Master",
       ];
       const result = removeCardsFromCollection(
         {
@@ -230,9 +230,10 @@ describe("Cards Missing for Structure Decks", () => {
 
       expect(result).toEqual({
         collection: [
-          "Call of the Haunted",
-          "Zombie Master",
           "Blue-Eyes White Dragon",
+          "Call of the Haunted",
+          "Contact C",
+          "Zombie Master",
         ],
         deck: {
           deck: "Structure Deck: Dragon's Roar",
@@ -259,7 +260,7 @@ describe("Cards Missing for Structure Decks", () => {
           cards: [
             "Call of the Haunted",
             "Call of the Haunted",
-            'Contact "C"',
+            "Contact C",
             "Zombie Master",
           ],
         },
@@ -272,12 +273,13 @@ describe("Cards Missing for Structure Decks", () => {
           cardsMissing: ["Call of the Haunted"],
           cardsInCollection: [
             "Call of the Haunted",
-            "Zombie Master",
             "Contact C",
+            "Zombie Master",
           ],
           cards: [
             "Call of the Haunted",
             "Call of the Haunted",
+            "Contact C",
             "Zombie Master",
           ],
         },
