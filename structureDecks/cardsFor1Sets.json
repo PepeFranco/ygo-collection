@@ -1110,7 +1110,6 @@
          "Summoner Monk"
       ],
       "cardsMissing": [
-         "Red-Eyes Black Dragon",
          "Snipe Hunter"
       ],
       "cardsInCollection": [
@@ -1146,6 +1145,7 @@
          "Mystic Tomato",
          "Prime Material Dragon",
          "Reasoning",
+         "Red-Eyes Black Dragon",
          "Red-Eyes Darkness Metal Dragon",
          "Ryko, Lightsworn Hunter",
          "Summoner Monk",
@@ -1153,7 +1153,7 @@
          "The White Stone of Legend",
          "Vice Dragon"
       ],
-      "numberOfCardsMissing": 2
+      "numberOfCardsMissing": 1
    },
    {
       "deck": "Samurai Warlords Structure Deck",
@@ -2180,10 +2180,10 @@
       ],
       "semiLimitedCards": [],
       "cardsMissing": [
-         "Airknight Parshath",
          "Celestial Transformation"
       ],
       "cardsInCollection": [
+         "Airknight Parshath",
          "Archlord Kristya",
          "Athena",
          "Bountiful Artemis",
@@ -2225,7 +2225,7 @@
          "Ultimate Providence",
          "Valhalla, Hall of the Fallen"
       ],
-      "numberOfCardsMissing": 2
+      "numberOfCardsMissing": 1
    },
    {
       "deck": "Structure Deck: Lair of Darkness",
