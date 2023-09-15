@@ -2,176 +2,40 @@
    "deck1": {
       "name": "goat-control.ydk",
       "cardsFound": [
-         {
-            "card": "72989439",
-            "name": "Black Luster Soldier - Envoy of the Beginning",
-            "code": "CT10-EN005"
-         },
-         {
-            "card": "7572887",
-            "name": "D.D. Warrior Lady",
-            "code": "BP02-EN021"
-         },
-         {
-            "card": "40737112",
-            "name": "Dark Magician of Chaos",
-            "code": "BP02-EN023"
-         },
-         {
-            "card": "87621407",
-            "name": "Dekoichi the Battlechanted Locomotive",
-            "code": "DR3-EN092"
-         },
-         {
-            "card": "87621407",
-            "name": "Dekoichi the Battlechanted Locomotive",
-            "code": "SGX1-END05"
-         },
-         {
-            "card": "51632798",
-            "name": "Fusilier Dragon, the Dual-Mode Beast",
-            "code": "SDMP-EN015"
-         },
-         {
-            "card": "32362575",
-            "name": "Magical Merchant",
-            "code": "MFC-079"
-         },
-         {
-            "card": "31560081",
-            "name": "Magician of Faith",
-            "code": "SS04-ENA14"
-         },
-         {
-            "card": "31560081",
-            "name": "Magician of Faith",
-            "code": "SBAD-EN001"
-         },
-         {
-            "card": "33508719",
-            "name": "Morphing Jar",
-            "code": "BP01-EN173"
-         },
-         {
-            "card": "26202165",
-            "name": "Sangan",
-            "code": "SDJ-019"
-         },
-         {
-            "card": "8131171",
-            "name": "Sinister Serpent",
-            "code": "SBAD-EN037"
-         },
-         {
-            "card": "33184167",
-            "name": "Tribe-Infecting Virus",
-            "code": "SD4-EN007"
-         },
-         {
-            "card": "34853266",
-            "name": "Tsukuyomi",
-            "code": "SD6-EN011"
-         },
-         {
-            "card": "51945556",
-            "name": "Zaborg the Thunder Monarch",
-            "code": "BP01-EN132"
-         },
-         {
-            "card": "14087893",
-            "name": "Book of Moon",
-            "code": "BP02-EN138"
-         },
-         {
-            "card": "31036355",
-            "name": "Creature Swap",
-            "code": "BP01-EN044"
-         },
-         {
-            "card": "42703248",
-            "name": "Giant Trunade",
-            "code": "DLG1-EN059"
-         },
-         {
-            "card": "79571449",
-            "name": "Graceful Charity",
-            "code": "BP02-EN137"
-         },
-         {
-            "card": "19613556",
-            "name": "Heavy Storm",
-            "code": "BP01-EN038"
-         },
-         {
-            "card": "71044499",
-            "name": "Nobleman of Crossout",
-            "code": "DL14-SP015"
-         },
-         {
-            "card": "71044499",
-            "name": "Nobleman of Crossout",
-            "code": "DL14-SP015"
-         },
-         {
-            "card": "55144522",
-            "name": "Pot of Greed",
-            "code": "BP02-EN129"
-         },
-         {
-            "card": "70828912",
-            "name": "Premature Burial",
-            "code": "BP02-EN135"
-         },
-         {
-            "card": "73915051",
-            "name": "Scapegoat",
-            "code": "DLG1-EN091"
-         },
-         {
-            "card": "73915051",
-            "name": "Scapegoat",
-            "code": "DASA-EN052"
-         },
-         {
-            "card": "45986603",
-            "name": "Snatch Steal",
-            "code": "SD3-EN014"
-         },
-         {
-            "card": "83968380",
-            "name": "Jar of Greed",
-            "code": "SS01-ENC16"
-         },
-         {
-            "card": "44095762",
-            "name": "Mirror Force",
-            "code": "DASA-EN059"
-         },
-         {
-            "card": "83555666",
-            "name": "Ring of Destruction",
-            "code": "BP01-EN050"
-         },
-         {
-            "card": "41420027",
-            "name": "Solemn Judgment",
-            "code": "SDLS-EN038"
-         },
-         {
-            "card": "64697231",
-            "name": "Trap Dustshoot",
-            "code": "PGD-049"
-         },
-         {
-            "card": "63519819",
-            "name": "Thousand-Eyes Restrict",
-            "code": "SS04-ENB30"
-         },
-         {
-            "card": "",
-            "name": "A Bountiful Ocean",
-            "code": "SBC1-ENS11"
-         }
+         "Black Luster Soldier - Envoy of the Beginning",
+         "D.D. Warrior Lady",
+         "Dark Magician of Chaos",
+         "Dekoichi the Battlechanted Locomotive",
+         "Dekoichi the Battlechanted Locomotive",
+         "Fusilier Dragon, the Dual-Mode Beast",
+         "Magical Merchant",
+         "Magician of Faith",
+         "Magician of Faith",
+         "Morphing Jar",
+         "Sangan",
+         "Sinister Serpent",
+         "Tribe-Infecting Virus",
+         "Tsukuyomi",
+         "Zaborg the Thunder Monarch",
+         "Book of Moon",
+         "Creature Swap",
+         "Giant Trunade",
+         "Graceful Charity",
+         "Heavy Storm",
+         "Nobleman of Crossout",
+         "Nobleman of Crossout",
+         "Pot of Greed",
+         "Premature Burial",
+         "Scapegoat",
+         "Scapegoat",
+         "Snatch Steal",
+         "Jar of Greed",
+         "Mirror Force",
+         "Ring of Destruction",
+         "Solemn Judgment",
+         "Trap Dustshoot",
+         "Thousand-Eyes Restrict",
+         "A Bountiful Ocean"
       ],
       "cardsNotFound": [
          "Delinquent Duo",
@@ -202,146 +66,34 @@
    "deck2": {
       "name": "warrior.ydk",
       "cardsFound": [
-         {
-            "card": "72989439",
-            "name": "Black Luster Soldier - Envoy of the Beginning",
-            "code": "SDSH-EN012"
-         },
-         {
-            "card": "7572887",
-            "name": "D.D. Warrior Lady",
-            "code": "BP02-EN021"
-         },
-         {
-            "card": "40737112",
-            "name": "Dark Magician of Chaos",
-            "code": "BP01-EN007"
-         },
-         {
-            "card": "87621407",
-            "name": "Dekoichi the Battlechanted Locomotive",
-            "code": "SGX1-END05"
-         },
-         {
-            "card": "87621407",
-            "name": "Dekoichi the Battlechanted Locomotive",
-            "code": "SGX1-END05"
-         },
-         {
-            "card": "32362575",
-            "name": "Magical Merchant",
-            "code": "SDPL-EN018"
-         },
-         {
-            "card": "31560081",
-            "name": "Magician of Faith",
-            "code": "YSD-EN012"
-         },
-         {
-            "card": "31560081",
-            "name": "Magician of Faith",
-            "code": "SDJ-017"
-         },
-         {
-            "card": "33508719",
-            "name": "Morphing Jar",
-            "code": "BP01-EN173"
-         },
-         {
-            "card": "26202165",
-            "name": "Sangan",
-            "code": "YS12-EN016"
-         },
-         {
-            "card": "8131171",
-            "name": "Sinister Serpent",
-            "code": "SBAD-EN037"
-         },
-         {
-            "card": "51945556",
-            "name": "Zaborg the Thunder Monarch",
-            "code": "SR01-SP005"
-         },
-         {
-            "card": "14087893",
-            "name": "Book of Moon",
-            "code": "BP01-EN072"
-         },
-         {
-            "card": "31036355",
-            "name": "Creature Swap",
-            "code": "SDGR-EN027"
-         },
-         {
-            "card": "42703248",
-            "name": "Giant Trunade",
-            "code": "LCJW-EN063"
-         },
-         {
-            "card": "79571449",
-            "name": "Graceful Charity",
-            "code": "BP01-EN036"
-         },
-         {
-            "card": "19613556",
-            "name": "Heavy Storm",
-            "code": "BP01-EN038"
-         },
-         {
-            "card": "71044499",
-            "name": "Nobleman of Crossout",
-            "code": "DL14-SP015"
-         },
-         {
-            "card": "71044499",
-            "name": "Nobleman of Crossout",
-            "code": "SBCB-EN138"
-         },
-         {
-            "card": "55144522",
-            "name": "Pot of Greed",
-            "code": "BP01-EN034"
-         },
-         {
-            "card": "70828912",
-            "name": "Premature Burial",
-            "code": "BP03-EN136"
-         },
-         {
-            "card": "73915051",
-            "name": "Scapegoat",
-            "code": "DASA-EN052"
-         },
-         {
-            "card": "73915051",
-            "name": "Scapegoat",
-            "code": "DASA-EN052"
-         },
-         {
-            "card": "45986603",
-            "name": "Snatch Steal",
-            "code": "SD4-EN015"
-         },
-         {
-            "card": "83968380",
-            "name": "Jar of Greed",
-            "code": "SS01-ENC16"
-         },
-         {
-            "card": "44095762",
-            "name": "Mirror Force",
-            "code": "DASA-EN059"
-         },
-         {
-            "card": "83555666",
-            "name": "Ring of Destruction",
-            "code": "BP01-EN050"
-         },
-         {
-            "card": "",
-            "name": "A Bountiful Ocean",
-            "code": "SBC1-ENS11"
-         }
+         "Black Luster Soldier - Envoy of the Beginning",
+         "D.D. Warrior Lady",
+         "Dark Magician of Chaos",
+         "Dekoichi the Battlechanted Locomotive",
+         "Dekoichi the Battlechanted Locomotive",
+         "Magical Merchant",
+         "Magician of Faith",
+         "Magician of Faith",
+         "Morphing Jar",
+         "Sangan",
+         "Sinister Serpent",
+         "Zaborg the Thunder Monarch",
+         "Book of Moon",
+         "Creature Swap",
+         "Giant Trunade",
+         "Graceful Charity",
+         "Heavy Storm",
+         "Nobleman of Crossout",
+         "Nobleman of Crossout",
+         "Pot of Greed",
+         "Premature Burial",
+         "Scapegoat",
+         "Scapegoat",
+         "Snatch Steal",
+         "Jar of Greed",
+         "Mirror Force",
+         "Ring of Destruction",
+         "A Bountiful Ocean"
       ],
       "cardsNotFound": [
          "Fusilier Dragon, the Dual-Mode Beast",

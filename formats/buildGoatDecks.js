@@ -65,7 +65,7 @@ const main = async () => {
         });
         // console.log(c, cardIndex);
         if (cardIndex > 0) {
-          cardsFound.push(collectionCopy[cardIndex]);
+          cardsFound.push(collectionCopy[cardIndex].name);
           collectionCopy.splice(cardIndex, 1);
         } else {
           cardsNotFound.push(c.name);
@@ -108,7 +108,7 @@ const main = async () => {
             );
             // console.log(c, cardIndex);
             if (cardIndex > 0) {
-              cardsFoundForThisDeck.push(collectionCopy2[cardIndex]);
+              cardsFoundForThisDeck.push(collectionCopy2[cardIndex].name);
               collectionCopy2.splice(cardIndex, 1);
             } else {
               cardsNotFoundInThisDeck.push(c.name);
