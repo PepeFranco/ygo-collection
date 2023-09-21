@@ -75,7 +75,6 @@ const cardIsComplete = (card) => {
     card["Set"] &&
       card["ID"] &&
       card["Card Type"] &&
-      card["Description"] &&
       ((card["Earliest Set"] && card["Earliest Date"]) ||
         card["Type"] === "Skill Card") &&
       card["Is Speed Duel"]
@@ -106,7 +105,6 @@ const mainFunction = async () => {
           card["Archetype"] = cardInfo.archetype || "";
           card["Scale"] = cardInfo.scale || "";
           card["Link Scale"] = cardInfo.linkval || "";
-          card["Description"] = cardInfo.desc || "";
           const earliestSet = getEarliestInfo(cardInfo, cardSetsByDate);
           card["Earliest Set"] = earliestSet.earliestSet || "";
           card["Earliest Date"] = earliestSet.earliestDate || "";

@@ -23,13 +23,31 @@ const getCardInfo = async (id) => {
 };
 
 const main = async () => {
-  const collection = require("../data/collection.json");
-  const allCollectionCards = collection.map((card) => ({
-    card: card["ID"],
-    name: card["Name"],
-    code: card["Code"],
-  }));
   const _ = require("lodash");
+  const collection = require("../data/collection.json");
+  const allCollectionCards = _.sortBy(
+    collection.map((card) => ({
+      card: card["ID"],
+      name: card["Name"],
+      code: card["Code"],
+      rarity: card["Rarity"],
+      set: card["Set"],
+      deck: card["In Deck"],
+    })),
+    (card) => {
+      const rarityMap = {
+        Ghost: 0,
+        Ultimate: 1,
+        Secret: 2,
+        Ultra: 3,
+        Super: 4,
+        Rare: 5,
+      };
+      const rarityScore = rarityMap[card.rarity] || 10;
+      const deckScore = card.deck ? 10 : 0;
+      return rarityScore + deckScore;
+    }
+  );
 
   const fs = require("fs");
   const decks = [];
@@ -65,7 +83,9 @@ const main = async () => {
         });
         // console.log(c, cardIndex);
         if (cardIndex > 0) {
-          cardsFound.push(collectionCopy[cardIndex].name);
+          cardsFound.push(
+            `${collectionCopy[cardIndex].name} - ${collectionCopy[cardIndex].rarity} - ${collectionCopy[cardIndex].set} - ${collectionCopy[cardIndex].deck}`
+          );
           collectionCopy.splice(cardIndex, 1);
         } else {
           cardsNotFound.push(c.name);
@@ -108,7 +128,9 @@ const main = async () => {
             );
             // console.log(c, cardIndex);
             if (cardIndex > 0) {
-              cardsFoundForThisDeck.push(collectionCopy2[cardIndex].name);
+              cardsFoundForThisDeck.push(
+                `${collectionCopy2[cardIndex].name} - ${collectionCopy2[cardIndex].rarity} - ${collectionCopy2[cardIndex].set} - ${collectionCopy2[cardIndex].deck}`
+              );
               collectionCopy2.splice(cardIndex, 1);
             } else {
               cardsNotFoundInThisDeck.push(c.name);
