@@ -50,7 +50,7 @@ const getDeckList = async (deck) => {
     cardNames.join("\n"),
     () => {}
   );
-  return cardNames;
+  return _.sortBy(cardNames, _.identity);
 };
 
 const main = async () => {
@@ -121,7 +121,7 @@ const main = async () => {
           if (splitCode.length < 2) {
             return undefined;
           }
-          return splitCode[1];
+          return splitCode[1].substring(0, 2);
         };
         return (
           cc.name === cardInDeckName &&
