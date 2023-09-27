@@ -21,7 +21,9 @@ const structureDeckSet = cardsInStructureDecks.map((deck) => {
 //   }
 // );
 
-structureDeckSet.slice(0, 4).map((structureDeck) => {
+structureDeckSet.map((structureDeck) => {
+  console.log(`"${structureDeck.deck}",`);
+
   fs.writeFile(
     `./formats/structure/${structureDeck.deck}`,
     structureDeck.cards.join("\n"),
@@ -31,4 +33,4 @@ structureDeckSet.slice(0, 4).map((structureDeck) => {
   );
 });
 
-console.log(structureDeckSet[0]);
+// console.log(structureDeckSet[0]);

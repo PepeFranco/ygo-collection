@@ -1,7 +1,6 @@
 const _ = require("lodash");
 const fs = require("fs");
 const axios = require("axios");
-const csv = require("csvtojson");
 
 const getCardSets = async () => {
   const result = await axios
