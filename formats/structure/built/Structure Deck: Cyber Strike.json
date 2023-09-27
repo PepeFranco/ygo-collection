@@ -9,7 +9,6 @@
       "Fusion Deployment (Super) [SDCS-EN030] <Structure Deck: Cyber Strike>",
       "Infinite Impermanence (Super) [SDCS-EN036] <Structure Deck: Cyber Strike>",
       "Attachment Cybern (Common) [SDCS-EN001] <Structure Deck: Cyber Strike>",
-      "Call of the Haunted (Common) [SDCS-EN038] <Structure Deck: Cyber Strike>",
       "Chimeratech Overdragon (Common) [SDCS-EN042] <Structure Deck: Cyber Strike>",
       "Cyber Dragon (Common) [SDCS-EN003] <Structure Deck: Cyber Strike>",
       "Cyber Dragon Core (Common) [SDCS-EN008] <Structure Deck: Cyber Strike>",
@@ -43,10 +42,8 @@
       "Jizukiru, the Star Destroying Kaiju (Common) [SDCS-EN019] <Structure Deck: Cyber Strike>",
       "Leng Ling (Common) [SDCS-EN018] <Structure Deck: Cyber Strike>",
       "Limiter Removal (Common) [SDCS-EN033] <Structure Deck: Cyber Strike>",
-      "Machine Duplication (Common) [SDCS-EN032] <Structure Deck: Cyber Strike>",
       "Overload Fusion (Common) [SDCS-EN048] <Structure Deck: Cyber Strike>",
       "Paleozoic Canadia (Common) [SDCS-EN039] <Structure Deck: Cyber Strike>",
-      "Power Bond (Common) [SDCS-EN047] <Structure Deck: Cyber Strike>",
       "Power Wall (Common) [SDCS-EN037] <Structure Deck: Cyber Strike>",
       "Attachment Cybern (Common) [SDCS-EN001] <>",
       "Attachment Cybern (Common) [SDCS-EN001] <>",
@@ -134,6 +131,7 @@
       "Paleozoic Canadia (Common) [SDCS-EN039] <>",
       "Paleozoic Canadia (Common) [SDCS-EN039] <>",
       "Power Bond (Common) [SDCS-EN047] <>",
+      "Power Bond (Common) [SDCS-EN047] <>",
       "Power Bond (Common) [SGX2-ENS08] <>",
       "Power Wall (Common) [SDCS-EN037] <>",
       "Power Wall (Common) [SDCS-EN037] <>"
@@ -141,9 +139,11 @@
    "cardsNotFound": [
       "Call of the Haunted",
       "Call of the Haunted",
+      "Call of the Haunted",
       "Cyber Dragon Core",
       "Cyber Dragon Drei",
       "Cyber Repair Plant",
+      "Machine Duplication",
       "Machine Duplication",
       "Machine Duplication"
    ]

@@ -68,6 +68,7 @@ const decks = [
   "Structure Deck: The Crimson King",
 ];
 const excludeLanguages = [];
+const includeDecks = ["Structure Deck", "Legendary Deck"];
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 const getCardName = async (id) => {
@@ -143,7 +144,7 @@ const main = async () => {
     builtDecks[deck].cardsNotFound = [];
     builtDecks[deck].cards = deckList;
   }
-  console.log(builtDecks);
+  // console.log(builtDecks);
 
   const collection = require("./data/collection.json");
   const allCollectionCards = collection.map((card) => ({
@@ -193,20 +194,36 @@ const main = async () => {
     // console.log(builtDecks[deck]);
     builtDecks[deck].cards.map((cardInDeckName) => {
       const cardIndex = collectionCopy.findIndex((cc) => {
-        const getCCLanguage = () => {
+        const shouldIncludeBasedOnLanguage = () => {
           if (!cc.code) {
-            return undefined;
+            return true;
           }
           const splitCode = cc.code.split("-");
           if (splitCode.length < 2) {
-            return undefined;
+            return true;
           }
-          return splitCode[1].substring(0, 2);
+          return !excludeLanguages.includes(splitCode[1].substring(0, 2));
+        };
+        const shouldIncludeBasedOnDeck = () => {
+          if (!cc.deck) {
+            return true;
+          }
+
+          if (includeDecks.length === 0) {
+            return false;
+          }
+
+          return includeDecks.reduce((accumulator, currentValue) => {
+            if (cc.name === "Thestalos the Firestorm Monarch") {
+              console.log(cc.deck, cc.deck.includes(currentValue));
+            }
+            return accumulator || cc.deck.includes(currentValue);
+          }, false);
         };
         return (
           cc.name === cardInDeckName &&
-          !cc.deck &&
-          !excludeLanguages.includes(getCCLanguage())
+          shouldIncludeBasedOnDeck() &&
+          shouldIncludeBasedOnLanguage()
         );
       });
       // console.log(c, cardIndex);

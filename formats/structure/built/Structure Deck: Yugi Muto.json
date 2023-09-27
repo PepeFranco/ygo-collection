@@ -32,8 +32,6 @@
       "Magnet Conversion (Common) [SDMY-EN035] <Structure Deck: Yugi Muto>",
       "Magnetic Field (Common) [SDMY-EN024] <Structure Deck: Yugi Muto>",
       "Mirror Force (Common) [SDMY-EN037] <Structure Deck: Yugi Muto>",
-      "Mystic Box (Common) [SDMY-EN028] <Structure Deck: Yugi Muto>",
-      "Obnoxious Celtic Guard (Common) [SDMY-EN018] <Structure Deck: Yugi Muto>",
       "Polymerization (Common) [SDMY-EN031] <Structure Deck: Yugi Muto>",
       "Queen's Knight (Common) [SDMY-EN014] <Structure Deck: Yugi Muto>",
       "Rock Bombardment (Common) [SDMY-EN040] <Structure Deck: Yugi Muto>",
@@ -92,8 +90,8 @@
       "Magnetic Field (Common) [SBCB-EN034] <>",
       "Mirror Force (Secret) [LCYW-SP091] <>",
       "Mirror Force (Super) [DASA-EN059] <>",
-      "Polymerization (Common) [DPKB-EN028] <>",
-      "Polymerization (Common) [LEHD-ENA22] <>",
+      "Polymerization (Common) [LEHD-ENA22] <Legendary Deck - Destiny HERO>",
+      "Polymerization (Common) [LEHD-ENA22] <Legendary Deck - Destiny HERO>",
       "Queen's Knight (Common) [SBLS-EN004] <>",
       "Queen's Knight (Common) [SBLS-EN004] <>",
       "Rock Bombardment (Common) [SBCB-EN037] <>",
@@ -103,8 +101,10 @@
       "Skilled White Magician (Common) [SBC1-ENA07] <>",
       "Skilled White Magician (Common) [SBC1-ENA07] <>",
       "Soul Rope (Common) [YGLD-ENB39] <>",
+      "Swords of Concealing Light (Common) [SDSA-EN032] <>",
+      "Swords of Concealing Light (Common) [SR04-EN026] <>",
+      "Swords of Revealing Light (Common) [DPYG-EN018] <>",
       "Swords of Revealing Light (Common) [DPYG-SP018] <>",
-      "Swords of Revealing Light (Common) [EGS1-EN021] <>",
       "Twin-Headed Behemoth (Common) [SS02-ENA06] <>",
       "Twin-Headed Behemoth (Common) [SS02-ENA06] <>",
       "Valkyrion the Magna Warrior (Secret) [SBCB-EN022] <>"
@@ -130,12 +130,12 @@
       "Kuribohrn",
       "Mystic Box",
       "Mystic Box",
+      "Mystic Box",
+      "Obnoxious Celtic Guard",
       "Obnoxious Celtic Guard",
       "Obnoxious Celtic Guard",
       "Soul Rope",
       "Spell Shattering Arrow",
-      "Spell Shattering Arrow",
-      "Swords of Concealing Light",
-      "Swords of Concealing Light"
+      "Spell Shattering Arrow"
    ]
 }
