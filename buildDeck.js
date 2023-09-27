@@ -7,6 +7,10 @@ const _ = require("lodash");
 // const excludeLanguages = ["SP"];
 
 const deckPath = "/formats/structure/";
+// Can be empty and will go through the directory
+// For SDs this array keeps release order
+// Legendary Deck is wrong cause the set list includes 3 decks
+// And the Deck name in collection is different from the set name
 const decks = [
   "Structure Deck: Dragon's Roar",
   "Structure Deck: Zombie Madness",
@@ -68,6 +72,11 @@ const decks = [
   "Structure Deck: The Crimson King",
 ];
 const excludeLanguages = [];
+// If empty, will not use cards already in deck
+// If it has values, will use the cards in those decks
+// This works for SDs to use as many real cards as possible for earlier decks
+// Get this empty to check which cards need to be printed
+// And then add back Structure Deck and Legendary Deck to see where to get them from
 const includeDecks = ["Structure Deck", "Legendary Deck"];
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
