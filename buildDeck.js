@@ -2,9 +2,13 @@ const axios = require("axios");
 const fs = require("fs");
 const _ = require("lodash");
 
-const deckPath = "/formats/goat/";
-const decks = ["Goat Control", "Goat Warrior"];
-const excludeLanguages = ["SP"];
+// const deckPath = "/formats/goat/";
+// const decks = ["Goat Control", "Goat Warrior"];
+// const excludeLanguages = ["SP"];
+
+const deckPath = "/formats/structure/";
+const decks = [];
+const excludeLanguages = [];
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 const getCardName = async (id) => {
@@ -55,6 +59,23 @@ const getDeckList = async (deck) => {
 
 const main = async () => {
   const builtDecks = {};
+  if (decks.length === 0) {
+    const filenames = fs.readdirSync(
+      `${__dirname}${deckPath}`,
+      function (err, filenames) {
+        if (err) {
+          console.log(err);
+          return;
+        }
+      }
+    );
+    filenames.forEach(function (filename) {
+      if (!fs.lstatSync(`${__dirname}${deckPath}${filename}`).isDirectory()) {
+        decks.push(filename);
+      }
+    });
+  }
+
   for (let i = 0; i < decks.length; i++) {
     const deck = decks[i];
     const deckList = await getDeckList(deck);

@@ -201,6 +201,7 @@ const getCardsMissingForStructureDecks = async () => {
       numberOfCopiesToExclude: 2,
       collection: [...collection],
     }).map(({ Name }) => Name);
+
     const structureDeckSet = cardsInStructureDecks.map((deck) => {
       const banlist = getClosestMatchingBanList(new Date(deck.date));
       const deckWithCardsMultiplied = getSetsOfCardsInStructureDeck(deck, set);
