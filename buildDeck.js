@@ -6,78 +6,81 @@ const _ = require("lodash");
 // const decks = ["Goat Control", "Goat Warrior"];
 // const excludeLanguages = ["SP"];
 
-const deckPath = "/formats/structure/";
+const deckPath = "/formats/edison/";
+// const deckPath = "/formats/structure/";
 // Can be empty and will go through the directory
 // For SDs this array keeps release order
 // Legendary Deck is wrong cause the set list includes 3 decks
 // And the Deck name in collection is different from the set name
-const decks = [
-  "Structure Deck: Dragon's Roar",
-  "Structure Deck: Zombie Madness",
-  "Structure Deck: Blaze of Destruction",
-  "Structure Deck: Fury from the Deep",
-  "Structure Deck: Warrior's Triumph",
-  "Structure Deck: Spellcaster's Judgment",
-  "Structure Deck: Invincible Fortress",
-  "Structure Deck: Lord of the Storm",
-  "Structure Deck: Dinosaur's Rage",
-  "Structure Deck: Machine Re-Volt",
-  "Rise of the Dragon Lords Structure Deck",
-  "The Dark Emperor Structure Deck",
-  "Zombie World Structure Deck",
-  "Spellcaster's Command Structure Deck",
-  "Warriors' Strike Structure Deck",
-  "Machina Mayhem Structure Deck",
-  "Structure Deck: Marik (TCG)",
-  "Dragunity Legion Structure Deck",
-  "Lost Sanctuary Structure Deck",
-  "Gates of the Underworld Structure Deck",
-  "Dragons Collide Structure Deck",
-  "Samurai Warlords Structure Deck",
-  "Realm of the Sea Emperor Structure Deck",
-  "Onslaught of the Fire Kings Structure Deck",
-  "Saga of Blue-Eyes White Dragon Structure Deck",
-  "Cyber Dragon Revolution Structure Deck",
-  "Realm of Light Structure Deck",
-  "Geargia Rampage Structure Deck",
-  "HERO Strike Structure Deck",
-  "Synchron Extreme Structure Deck",
-  "Master of Pendulum Structure Deck",
-  "Emperor of Darkness Structure Deck",
-  "Rise of the True Dragons Structure Deck",
-  "Structure Deck: Seto Kaiba",
-  "Structure Deck: Yugi Muto",
-  "Pendulum Domination Structure Deck",
-  "Dinosmasher's Fury Structure Deck",
-  "Machine Reactor Structure Deck",
-  "Structure Deck: Cyberse Link",
-  "Structure Deck: Wave of Light",
-  "Structure Deck: Lair of Darkness",
-  "Structure Deck: Powercode Link",
-  "Legendary Hero Decks",
-  "Structure Deck: Zombie Horde",
-  "Structure Deck: Soulburner",
-  "Structure Deck: Order of the Spellcasters",
-  "Structure Deck: Rokket Revolt",
-  "Structure Deck: Shaddoll Showdown",
-  "Structure Deck: Mechanized Madness",
-  "Structure Deck: Sacred Beasts",
-  "Structure Deck: Spirit Charmers",
-  "Structure Deck: Freezing Chains",
-  "Structure Deck: Cyber Strike",
-  "Structure Deck: Albaz Strike",
-  "Structure Deck: Legend of the Crystal Beasts",
-  "Structure Deck: Dark World",
-  "Structure Deck: Beware of Traptrix",
-  "Structure Deck: The Crimson King",
-];
-const excludeLanguages = [];
+// const decks = [
+//   "Structure Deck: Dragon's Roar",
+//   "Structure Deck: Zombie Madness",
+//   "Structure Deck: Blaze of Destruction",
+//   "Structure Deck: Fury from the Deep",
+//   "Structure Deck: Warrior's Triumph",
+//   "Structure Deck: Spellcaster's Judgment",
+//   "Structure Deck: Invincible Fortress",
+//   "Structure Deck: Lord of the Storm",
+//   "Structure Deck: Dinosaur's Rage",
+//   "Structure Deck: Machine Re-Volt",
+//   "Rise of the Dragon Lords Structure Deck",
+//   "The Dark Emperor Structure Deck",
+//   "Zombie World Structure Deck",
+//   "Spellcaster's Command Structure Deck",
+//   "Warriors' Strike Structure Deck",
+//   "Machina Mayhem Structure Deck",
+//   "Structure Deck: Marik (TCG)",
+//   "Dragunity Legion Structure Deck",
+//   "Lost Sanctuary Structure Deck",
+//   "Gates of the Underworld Structure Deck",
+//   "Dragons Collide Structure Deck",
+//   "Samurai Warlords Structure Deck",
+//   "Realm of the Sea Emperor Structure Deck",
+//   "Onslaught of the Fire Kings Structure Deck",
+//   "Saga of Blue-Eyes White Dragon Structure Deck",
+//   "Cyber Dragon Revolution Structure Deck",
+//   "Realm of Light Structure Deck",
+//   "Geargia Rampage Structure Deck",
+//   "HERO Strike Structure Deck",
+//   "Synchron Extreme Structure Deck",
+//   "Master of Pendulum Structure Deck",
+//   "Emperor of Darkness Structure Deck",
+//   "Rise of the True Dragons Structure Deck",
+//   "Structure Deck: Seto Kaiba",
+//   "Structure Deck: Yugi Muto",
+//   "Pendulum Domination Structure Deck",
+//   "Dinosmasher's Fury Structure Deck",
+//   "Machine Reactor Structure Deck",
+//   "Structure Deck: Cyberse Link",
+//   "Structure Deck: Wave of Light",
+//   "Structure Deck: Lair of Darkness",
+//   "Structure Deck: Powercode Link",
+//   "Legendary Hero Decks",
+//   "Structure Deck: Zombie Horde",
+//   "Structure Deck: Soulburner",
+//   "Structure Deck: Order of the Spellcasters",
+//   "Structure Deck: Rokket Revolt",
+//   "Structure Deck: Shaddoll Showdown",
+//   "Structure Deck: Mechanized Madness",
+//   "Structure Deck: Sacred Beasts",
+//   "Structure Deck: Spirit Charmers",
+//   "Structure Deck: Freezing Chains",
+//   "Structure Deck: Cyber Strike",
+//   "Structure Deck: Albaz Strike",
+//   "Structure Deck: Legend of the Crystal Beasts",
+//   "Structure Deck: Dark World",
+//   "Structure Deck: Beware of Traptrix",
+//   "Structure Deck: The Crimson King",
+// ];
+const decks = ["diva zombie w side", "quickdraw plant w side"];
+const excludeLanguages = ["SP"];
 // If empty, will not use cards already in deck
 // If it has values, will use the cards in those decks
 // This works for SDs to use as many real cards as possible for earlier decks
 // Get this empty to check which cards need to be printed
-// And then add back Structure Deck and Legendary Deck to see where to get them from
-const includeDecks = ["Structure Deck", "Legendary Deck"];
+// And then add back Structure Deck and Legendary Deck to see where to get the real cards from
+const includeDecks = ["Structure Deck", "Legendary Deck", "edison"];
+// const includeDecks = [];
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 const getCardName = async (id) => {
@@ -89,7 +92,7 @@ const getCardName = async (id) => {
     });
 
   if (result && result.data.data[0]) {
-    // console.log(result.data.data[0].name);
+    console.log(result.data.data[0].name);
     return result.data.data[0].name;
   }
   return undefined;
@@ -174,7 +177,8 @@ const main = async () => {
       Super: 4,
       Rare: 5,
     };
-    const rarityScore = rarityMap[card.rarity] || 10;
+    const inDeckScore = !card.deck ? 1 : 2;
+    const rarityScore = inDeckScore * (rarityMap[card.rarity] || 10);
     return rarityScore;
   });
 
@@ -223,10 +227,10 @@ const main = async () => {
           }
 
           return includeDecks.reduce((accumulator, currentValue) => {
-            if (cc.name === "Thestalos the Firestorm Monarch") {
-              console.log(cc.deck, cc.deck.includes(currentValue));
-            }
-            return accumulator || cc.deck.includes(currentValue);
+            // if (cc.name === "Thestalos the Firestorm Monarch") {
+            //   console.log(cc.deck, cc.deck.includes(currentValue));
+            // }
+            return accumulator || cc.deck.toLowerCase().includes(currentValue);
           }, false);
         };
         return (
