@@ -21,8 +21,7 @@
       ],
       "cardsMissing": [
          "The Dragon's Bead",
-         "The Graveyard in the Fourth Dimension",
-         "Trap Jammer"
+         "The Graveyard in the Fourth Dimension"
       ],
       "cardsInCollection": [
          "Armed Dragon LV3",
@@ -67,9 +66,10 @@
          "The Dragon's Bead",
          "The Graveyard in the Fourth Dimension",
          "Trap Jammer",
+         "Trap Jammer",
          "Twin-Headed Behemoth"
       ],
-      "numberOfCardsMissing": 3
+      "numberOfCardsMissing": 2
    },
    {
       "deck": "Structure Deck: Zombie Madness",
@@ -89,8 +89,7 @@
          "Nobleman of Crossout"
       ],
       "cardsMissing": [
-         "Dark Dust Spirit",
-         "Vampire Genesis"
+         "Dark Dust Spirit"
       ],
       "cardsInCollection": [
          "Book of Life",
@@ -137,11 +136,12 @@
          "Spirit Reaper",
          "Torrential Tribute",
          "Vampire Genesis",
+         "Vampire Genesis",
          "Vampire Lady",
          "Vampire Lady",
          "Vampire Lord"
       ],
-      "numberOfCardsMissing": 2
+      "numberOfCardsMissing": 1
    },
    {
       "deck": "Structure Deck: Blaze of Destruction",
@@ -160,13 +160,12 @@
          "Nobleman of Crossout"
       ],
       "cardsMissing": [
-         "Blazing Inpachi",
-         "Infernal Flame Emperor",
          "Necklace of Command"
       ],
       "cardsInCollection": [
          "Backfire",
          "Backfire",
+         "Blazing Inpachi",
          "Blazing Inpachi",
          "Call of the Haunted",
          "Dark Room of Nightmare",
@@ -180,6 +179,7 @@
          "Great Angus",
          "Great Angus",
          "Heavy Storm",
+         "Infernal Flame Emperor",
          "Infernal Flame Emperor",
          "Inferno",
          "Inferno",
@@ -219,7 +219,7 @@
          "Ultimate Baseball Kid",
          "Ultimate Baseball Kid"
       ],
-      "numberOfCardsMissing": 3
+      "numberOfCardsMissing": 1
    },
    {
       "deck": "Structure Deck: Fury from the Deep",
@@ -240,8 +240,7 @@
          "Gravity Bind"
       ],
       "cardsMissing": [
-         "Creeping Doom Manta",
-         "Unshaven Angler"
+         "Creeping Doom Manta"
       ],
       "cardsInCollection": [
          "7 Colored Fish",
@@ -296,10 +295,11 @@
          "Torrential Tribute",
          "Tribe-Infecting Virus",
          "Unshaven Angler",
+         "Unshaven Angler",
          "Xing Zhen Hu",
          "Xing Zhen Hu"
       ],
-      "numberOfCardsMissing": 2
+      "numberOfCardsMissing": 1
    },
    {
       "deck": "Structure Deck: Warrior's Triumph",
@@ -319,8 +319,6 @@
       ],
       "cardsMissing": [
          "Fairy of the Spring",
-         "Fusion Sword Murasame Blade",
-         "Fusion Sword Murasame Blade",
          "Gearfried the Swordmaster",
          "Gilford the Legend",
          "Mystic Swordsman LV4",
@@ -341,6 +339,8 @@
          "Divine Sword - Phoenix Blade",
          "Exiled Force",
          "Fairy of the Spring",
+         "Fusion Sword Murasame Blade",
+         "Fusion Sword Murasame Blade",
          "Gearfried the Iron Knight",
          "Gearfried the Iron Knight",
          "Gearfried the Swordmaster",
@@ -386,7 +386,7 @@
          "Wicked-Breaking Flamberge - Baou",
          "Wicked-Breaking Flamberge - Baou"
       ],
-      "numberOfCardsMissing": 7
+      "numberOfCardsMissing": 5
    },
    {
       "deck": "Structure Deck: Spellcaster's Judgment",
@@ -412,8 +412,7 @@
          "Divine Wrath",
          "Ebon Magician Curran",
          "Rapid-Fire Magician",
-         "Reload",
-         "White Magician Pikeru"
+         "Reload"
       ],
       "cardsInCollection": [
          "Apprentice Magician",
@@ -469,9 +468,10 @@
          "Spell Shield Type-8",
          "Swords of Revealing Light",
          "Tsukuyomi",
+         "White Magician Pikeru",
          "White Magician Pikeru"
       ],
-      "numberOfCardsMissing": 6
+      "numberOfCardsMissing": 5
    },
    {
       "deck": "Structure Deck: Invincible Fortress",
@@ -495,8 +495,7 @@
          "Maharaghi",
          "Megarock Dragon",
          "Robbin' Goblin",
-         "Shifting Shadows",
-         "Stone Statue of the Aztecs"
+         "Shifting Shadows"
       ],
       "cardsInCollection": [
          "Brain Control",
@@ -542,13 +541,14 @@
          "Shield & Sword",
          "Shifting Shadows",
          "Stone Statue of the Aztecs",
+         "Stone Statue of the Aztecs",
          "Swords of Revealing Light",
          "Ultimate Offering",
          "Ultimate Offering",
          "Waboku",
          "Waboku"
       ],
-      "numberOfCardsMissing": 12
+      "numberOfCardsMissing": 11
    },
    {
       "deck": "Structure Deck: Lord of the Storm",
@@ -568,7 +568,6 @@
       "cardsMissing": [
          "Bladefly",
          "Dark Coffin",
-         "Harpie Lady 1",
          "Harpie's Pet Baby Dragon",
          "Hysteric Party",
          "Lady Ninja Yae",
@@ -578,7 +577,6 @@
          "Silpheed",
          "Simorgh, Bird of Divinity",
          "Slate Warrior",
-         "Sonic Shooter",
          "Swift Birdman Joe"
       ],
       "cardsInCollection": [
@@ -598,6 +596,7 @@
          "Flying Kamakiri #1",
          "Harpie Girl",
          "Harpie Girl",
+         "Harpie Lady 1",
          "Harpie Lady 1",
          "Harpie Lady 2",
          "Harpie Lady 2",
@@ -631,11 +630,12 @@
          "Sonic Duck",
          "Sonic Duck",
          "Sonic Shooter",
+         "Sonic Shooter",
          "Swift Birdman Joe",
          "Triangle Ecstasy Spark",
          "Triangle Ecstasy Spark"
       ],
-      "numberOfCardsMissing": 14
+      "numberOfCardsMissing": 12
    },
    {
       "deck": "Structure Deck: Dinosaur's Rage",
@@ -741,10 +741,8 @@
          "Ancient Gear Tank",
          "Boot-Up Soldier - Dread Dynamo",
          "Cannon Soldier",
-         "Covering Fire",
-         "Mechanicalchaser",
-         "Micro Ray",
-         "Weapon Change"
+         "Heavy Storm",
+         "Micro Ray"
       ],
       "cardsInCollection": [
          "Ancient Gear",
@@ -775,6 +773,7 @@
          "Boot-Up Soldier - Dread Dynamo",
          "Cannon Soldier",
          "Covering Fire",
+         "Covering Fire",
          "Enemy Controller",
          "Enemy Controller",
          "Gear Golem the Moving Fortress",
@@ -783,10 +782,10 @@
          "Green Gadget",
          "Heavy Mech Support Platform",
          "Heavy Mech Support Platform",
-         "Heavy Storm",
          "Limiter Removal",
          "Machine Duplication",
          "Machine Duplication",
+         "Mechanicalchaser",
          "Mechanicalchaser",
          "Micro Ray",
          "Mystical Space Typhoon",
@@ -803,10 +802,11 @@
          "Stronghold the Moving Fortress",
          "Ultimate Offering",
          "Weapon Change",
+         "Weapon Change",
          "Yellow Gadget",
          "Yellow Gadget"
       ],
-      "numberOfCardsMissing": 11
+      "numberOfCardsMissing": 9
    },
    {
       "deck": "Rise of the Dragon Lords Structure Deck",
@@ -825,12 +825,7 @@
       "cardsMissing": [
          "Flame Ruler",
          "Gilford the Lightning",
-         "Guardian Angel Joan",
-         "Magic Jammer",
-         "Magic Jammer",
-         "Majestic Mech - Goryu",
-         "Mystik Wok",
-         "Tyrant Dragon"
+         "Majestic Mech - Goryu"
       ],
       "cardsInCollection": [
          "A Wingbeat of Giant Dragon",
@@ -855,6 +850,7 @@
          "Giant Trunade",
          "Gilford the Lightning",
          "Guardian Angel Joan",
+         "Guardian Angel Joan",
          "Herald of Creation",
          "Herald of Creation",
          "Horus the Black Flame Dragon LV6",
@@ -863,6 +859,8 @@
          "Kaiser Sea Horse",
          "Lightning Vortex",
          "Lightning Vortex",
+         "Magic Jammer",
+         "Magic Jammer",
          "Majestic Mech - Goryu",
          "Malevolent Catastrophe",
          "Malevolent Catastrophe",
@@ -871,6 +869,7 @@
          "Mausoleum of the Emperor",
          "Mausoleum of the Emperor",
          "Morphing Jar",
+         "Mystik Wok",
          "Mystik Wok",
          "Premature Burial",
          "Sakuretsu Armor",
@@ -891,9 +890,10 @@
          "Trade-In",
          "Trade-In",
          "Twin-Headed Behemoth",
+         "Tyrant Dragon",
          "Tyrant Dragon"
       ],
-      "numberOfCardsMissing": 8
+      "numberOfCardsMissing": 3
    },
    {
       "deck": "The Dark Emperor Structure Deck",
@@ -910,12 +910,7 @@
          "Reinforcement of the Army"
       ],
       "cardsMissing": [
-         "Chaosrider Gustaph",
-         "D.D.M. - Different Dimension Master",
          "Dark Core",
-         "Dimensional Alchemist",
-         "Golden Homunculus",
-         "Helios - The Primordial Sun",
          "Lightning Vortex",
          "Lightning Vortex",
          "Samsara Kaiser"
@@ -935,6 +930,7 @@
          "Caius the Shadow Monarch",
          "Caius the Shadow Monarch",
          "Chaosrider Gustaph",
+         "Chaosrider Gustaph",
          "D.D. Assailant",
          "D.D. Assailant",
          "D.D. Dynamite",
@@ -947,9 +943,11 @@
          "D.D. Warrior",
          "D.D. Warrior Lady",
          "D.D.M. - Different Dimension Master",
+         "D.D.M. - Different Dimension Master",
          "D.D.R. - Different Dimension Reincarnation",
          "D.D.R. - Different Dimension Reincarnation",
          "Dark Core",
+         "Dimensional Alchemist",
          "Dimensional Alchemist",
          "Dimensional Fissure",
          "Dimensional Fissure",
@@ -958,8 +956,10 @@
          "Exiled Force",
          "Exiled Force",
          "Golden Homunculus",
+         "Golden Homunculus",
          "Gren Maju Da Eiza",
          "Gren Maju Da Eiza",
+         "Helios - The Primordial Sun",
          "Helios - The Primordial Sun",
          "Karma Cut",
          "Karma Cut",
@@ -980,7 +980,7 @@
          "Soul Release",
          "Torrential Tribute"
       ],
-      "numberOfCardsMissing": 9
+      "numberOfCardsMissing": 4
    },
    {
       "deck": "Zombie World Structure Deck",
@@ -995,8 +995,6 @@
          "Magical Stone Excavation"
       ],
       "cardsMissing": [
-         "Cold Wave",
-         "Des Lacooda",
          "Gernia",
          "Getsu Fuhma",
          "Master Kyonshee",
@@ -1017,8 +1015,10 @@
          "Card of Safe Return",
          "Card of Safe Return",
          "Cold Wave",
+         "Cold Wave",
          "Creature Swap",
          "Creature Swap",
+         "Des Lacooda",
          "Des Lacooda",
          "Dust Tornado",
          "Dust Tornado",
@@ -1070,7 +1070,7 @@
          "Zombie World",
          "Zombie World"
       ],
-      "numberOfCardsMissing": 10
+      "numberOfCardsMissing": 8
    },
    {
       "deck": "Spellcaster's Command Structure Deck",
@@ -1186,7 +1186,6 @@
          "Gemini Soldier",
          "Gemini Summoner",
          "Gemini Trap Hole",
-         "Justi-Break",
          "Phoenix Gearfried",
          "Sakuretsu Armor",
          "Sakuretsu Armor",
@@ -1227,6 +1226,7 @@
          "Hidden Armory",
          "Hidden Armory",
          "Justi-Break",
+         "Justi-Break",
          "Kunai with Chain",
          "Kunai with Chain",
          "Marauding Captain",
@@ -1250,7 +1250,7 @@
          "Symbols of Duty",
          "Unleash Your Power!"
       ],
-      "numberOfCardsMissing": 17
+      "numberOfCardsMissing": 16
    },
    {
       "deck": "Machina Mayhem Structure Deck",
@@ -1265,7 +1265,6 @@
          "Green Gadget"
       ],
       "cardsMissing": [
-         "Rare Metalmorph",
          "The Big Saturn"
       ],
       "cardsInCollection": [
@@ -1322,6 +1321,7 @@
          "Proto-Cyber Dragon",
          "Proto-Cyber Dragon",
          "Rare Metalmorph",
+         "Rare Metalmorph",
          "Red Gadget",
          "Red Gadget",
          "Roll Out!",
@@ -1339,7 +1339,7 @@
          "Yellow Gadget",
          "Yellow Gadget"
       ],
-      "numberOfCardsMissing": 2
+      "numberOfCardsMissing": 1
    },
    {
       "deck": "Structure Deck: Marik (TCG)",
@@ -1357,11 +1357,11 @@
          "Mystical Space Typhoon"
       ],
       "cardsMissing": [
-         "Acid Trap Hole",
          "Dark Room of Nightmare",
          "Dark Room of Nightmare"
       ],
       "cardsInCollection": [
+         "Acid Trap Hole",
          "Acid Trap Hole",
          "Allure of Darkness",
          "Book of Moon",
@@ -1431,7 +1431,7 @@
          "Viser Des",
          "Viser Des"
       ],
-      "numberOfCardsMissing": 3
+      "numberOfCardsMissing": 2
    },
    {
       "deck": "Dragunity Legion Structure Deck",
@@ -1447,9 +1447,7 @@
          "Icarus Attack"
       ],
       "cardsMissing": [
-         "Armed Dragon LV5",
          "Dragon Mastery",
-         "Dragon's Gunfire",
          "Dragunity Arma Leyvaten",
          "Dragunity Arma Mystletainn",
          "Dragunity Brandistock",
@@ -1458,19 +1456,15 @@
          "Dragunity Legionnaire",
          "Dragunity Primus Pilus",
          "Dragunity Tribus",
-         "Garuda the Wind Spirit",
          "Hunter Owl",
-         "Icarus Attack",
-         "Icarus Attack",
          "Legacy of Yata-Garasu",
          "Mist Valley Falcon",
-         "Relieve Monster",
-         "Spear Dragon",
-         "Windstorm of Etaqua"
+         "Relieve Monster"
       ],
       "cardsInCollection": [
          "Armed Dragon LV3",
          "Armed Dragon LV3",
+         "Armed Dragon LV5",
          "Armed Dragon LV5",
          "Bottomless Trap Hole",
          "Bottomless Trap Hole",
@@ -1480,6 +1474,7 @@
          "Dragon Mastery",
          "Dragon Ravine",
          "Dragon Ravine",
+         "Dragon's Gunfire",
          "Dragon's Gunfire",
          "Dragon's Rage",
          "Dragon's Rage",
@@ -1503,7 +1498,10 @@
          "Flying Kamakiri #1",
          "Foolish Burial",
          "Garuda the Wind Spirit",
+         "Garuda the Wind Spirit",
          "Hunter Owl",
+         "Icarus Attack",
+         "Icarus Attack",
          "Legacy of Yata-Garasu",
          "Mage Power",
          "Mage Power",
@@ -1515,6 +1513,7 @@
          "Monster Reincarnation",
          "Relieve Monster",
          "Spear Dragon",
+         "Spear Dragon",
          "Spiritual Wind Art - Miyabi",
          "Spiritual Wind Art - Miyabi",
          "Stamping Destruction",
@@ -1523,9 +1522,10 @@
          "Twin-Headed Behemoth",
          "United We Stand",
          "United We Stand",
+         "Windstorm of Etaqua",
          "Windstorm of Etaqua"
       ],
-      "numberOfCardsMissing": 20
+      "numberOfCardsMissing": 13
    },
    {
       "deck": "Lost Sanctuary Structure Deck",
@@ -1541,9 +1541,6 @@
       ],
       "semiLimitedCards": [],
       "cardsMissing": [
-         "Beckoning Light",
-         "Celestial Transformation",
-         "Consecrated Light",
          "Return from the Different Dimension",
          "Solidarity",
          "Solidarity",
@@ -1563,10 +1560,13 @@
          "Athena",
          "Athena",
          "Beckoning Light",
+         "Beckoning Light",
          "Burial from a Different Dimension",
          "Cards from the Sky",
          "Cards from the Sky",
          "Celestial Transformation",
+         "Celestial Transformation",
+         "Consecrated Light",
          "Consecrated Light",
          "Divine Punishment",
          "Divine Punishment",
@@ -1614,7 +1614,7 @@
          "Victoria",
          "Zeradias, Herald of Heaven"
       ],
-      "numberOfCardsMissing": 15
+      "numberOfCardsMissing": 12
    },
    {
       "deck": "Gates of the Underworld Structure Deck",
@@ -1732,9 +1732,8 @@
          "Darkflare Dragon",
          "Inferno Fire Blast",
          "Prime Material Dragon",
-         "Snipe Hunter",
-         "Snipe Hunter",
-         "Vice Dragon"
+         "Ryko, Lightsworn Hunter",
+         "Snipe Hunter"
       ],
       "cardsInCollection": [
          "A Wingbeat of Giant Dragon",
@@ -1796,16 +1795,17 @@
          "Red-Eyes Darkness Metal Dragon",
          "Red-Eyes Darkness Metal Dragon",
          "Ryko, Lightsworn Hunter",
-         "Ryko, Lightsworn Hunter",
+         "Snipe Hunter",
          "Summoner Monk",
          "Summoner Monk",
          "The Flute of Summoning Dragon",
          "The Flute of Summoning Dragon",
          "The White Stone of Legend",
          "The White Stone of Legend",
+         "Vice Dragon",
          "Vice Dragon"
       ],
-      "numberOfCardsMissing": 8
+      "numberOfCardsMissing": 7
    },
    {
       "deck": "Samurai Warlords Structure Deck",
@@ -2189,11 +2189,7 @@
       "semiLimitedCards": [
          "Dimensional Prison"
       ],
-      "cardsMissing": [
-         "Cyber Network",
-         "Waboku",
-         "Waboku"
-      ],
+      "cardsMissing": [],
       "cardsInCollection": [
          "Armored Cybern",
          "Armored Cybern",
@@ -2215,6 +2211,7 @@
          "Cyber Eltanin",
          "Cyber Larva",
          "Cyber Larva",
+         "Cyber Network",
          "Cyber Network",
          "Cyber Phoenix",
          "Cyber Phoenix",
@@ -2266,9 +2263,11 @@
          "Three of a Kind",
          "Three of a Kind",
          "Trap Stun",
-         "Trap Stun"
+         "Trap Stun",
+         "Waboku",
+         "Waboku"
       ],
-      "numberOfCardsMissing": 3
+      "numberOfCardsMissing": 0
    },
    {
       "deck": "Realm of Light Structure Deck",
@@ -2292,6 +2291,8 @@
          "Michael, the Arch-Lightsworn",
          "Minerva, Lightsworn Maiden",
          "Necro Gardna",
+         "Ryko, Lightsworn Hunter",
+         "Ryko, Lightsworn Hunter",
          "Solar Recharge",
          "Vanquishing Light",
          "Vylon Prism",
@@ -2340,8 +2341,6 @@
          "Raiden, Hand of the Lightsworn",
          "Realm of Light",
          "Realm of Light",
-         "Ryko, Lightsworn Hunter",
-         "Ryko, Lightsworn Hunter",
          "Shire, Lightsworn Spirit",
          "Shire, Lightsworn Spirit",
          "Skill Successor",
@@ -2353,7 +2352,7 @@
          "Vylon Prism",
          "Wulf, Lightsworn Beast"
       ],
-      "numberOfCardsMissing": 15
+      "numberOfCardsMissing": 17
    },
    {
       "deck": "Geargia Rampage Structure Deck",
@@ -2376,8 +2375,6 @@
          "Jumbo Drill",
          "Oilman",
          "Rare Metalmorph",
-         "Rare Metalmorph",
-         "Roll Out!",
          "Smashing Ground"
       ],
       "cardsInCollection": [
@@ -2425,8 +2422,10 @@
          "Minefieldriller",
          "Minefieldriller",
          "Oilman",
+         "Rare Metalmorph",
          "Red Gadget",
          "Red Gadget",
+         "Roll Out!",
          "Roll Out!",
          "Smashing Ground",
          "Stronghold the Moving Fortress",
@@ -2438,7 +2437,7 @@
          "Yellow Gadget",
          "Yellow Gadget"
       ],
-      "numberOfCardsMissing": 12
+      "numberOfCardsMissing": 10
    },
    {
       "deck": "HERO Strike Structure Deck",
@@ -2557,7 +2556,6 @@
       ],
       "semiLimitedCards": [],
       "cardsMissing": [
-         "Double Cyclone",
          "Drill Synchron",
          "Fleur Synchron",
          "Imperial Iron Wall",
@@ -2583,6 +2581,7 @@
          "Dark Eruption",
          "Doppelwarrior",
          "Doppelwarrior",
+         "Double Cyclone",
          "Double Cyclone",
          "Drill Synchron",
          "Effect Veiler",
@@ -2643,7 +2642,7 @@
          "White Dragon Wyverburster",
          "White Dragon Wyverburster"
       ],
-      "numberOfCardsMissing": 14
+      "numberOfCardsMissing": 13
    },
    {
       "deck": "Master of Pendulum Structure Deck",
@@ -2760,7 +2759,6 @@
          "Berlineth the Firestorm Vassal",
          "By Order of the Emperor",
          "By Order of the Emperor",
-         "Caius the Shadow Monarch",
          "Domain of the True Monarchs",
          "Ehther the Heavenly Monarch",
          "Erebus the Underworld Monarch",
@@ -2787,6 +2785,7 @@
          "Battle Fader",
          "Battle Fader",
          "Berlineth the Firestorm Vassal",
+         "Caius the Shadow Monarch",
          "Caius the Shadow Monarch",
          "Dandylion",
          "Dicephoon",
@@ -2839,7 +2838,7 @@
          "Zaborg the Thunder Monarch",
          "Zaborg the Thunder Monarch"
       ],
-      "numberOfCardsMissing": 25
+      "numberOfCardsMissing": 24
    },
    {
       "deck": "Rise of the True Dragons Structure Deck",
@@ -2870,8 +2869,6 @@
          "Divine Dragon Lord Felgrand",
          "Dragon Ravine",
          "Dragon Ravine",
-         "Dragon's Rebirth",
-         "Dragon's Rebirth",
          "Eclipse Wyvern",
          "Eclipse Wyvern",
          "Ehren, Lightsworn Monk",
@@ -2883,8 +2880,7 @@
          "Jain, Lightsworn Paladin",
          "Kidmodo Dragon",
          "Oasis of Dragon Souls",
-         "Raiden, Hand of the Lightsworn",
-         "Red-Eyes Wyvern"
+         "Raiden, Hand of the Lightsworn"
       ],
       "cardsInCollection": [
          "A Wingbeat of Giant Dragon",
@@ -2903,6 +2899,8 @@
          "Divine Dragon Lord Felgrand",
          "Dragon Knight of Creation",
          "Dragon Knight of Creation",
+         "Dragon's Rebirth",
+         "Dragon's Rebirth",
          "Evilswarm Zahak",
          "Felgrand Dragon",
          "Foolish Burial",
@@ -2922,6 +2920,7 @@
          "Raiden, Hand of the Lightsworn",
          "Red-Eyes Darkness Metal Dragon",
          "Red-Eyes Wyvern",
+         "Red-Eyes Wyvern",
          "Reinforcement of the Army",
          "Return of the Dragon Lords",
          "Return of the Dragon Lords",
@@ -2938,7 +2937,7 @@
          "White Night Dragon",
          "White Night Dragon"
       ],
-      "numberOfCardsMissing": 29
+      "numberOfCardsMissing": 26
    },
    {
       "deck": "Structure Deck: Seto Kaiba",
@@ -2955,25 +2954,10 @@
          "ABC-Dragon Buster",
          "B-Buster Drake",
          "C-Crush Wyvern",
-         "Enraged Battle Ox",
-         "Final Attack Orders",
-         "Frontline Base",
-         "Frontline Base",
          "Heavy Mech Support Armor",
-         "Heavy Mech Support Platform",
-         "Heavy Mech Support Platform",
-         "Interdimensional Matter Transporter",
          "Keeper of the Shrine",
          "Majesty with Eyes of Blue",
-         "Negate Attack",
-         "Negate Attack",
-         "Roll Out!",
-         "Roll Out!",
-         "Shrink",
-         "Silent Doom",
-         "Union Scramble",
-         "Vampire Lord",
-         "XZ-Tank Cannon"
+         "Roll Out!"
       ],
       "cardsInCollection": [
          "A-Assault Core",
@@ -2998,10 +2982,17 @@
          "Enemy Controller",
          "Enemy Controller",
          "Enraged Battle Ox",
+         "Enraged Battle Ox",
          "Fiendish Chain",
          "Fiendish Chain",
          "Final Attack Orders",
+         "Final Attack Orders",
+         "Frontline Base",
+         "Frontline Base",
          "Heavy Mech Support Armor",
+         "Heavy Mech Support Platform",
+         "Heavy Mech Support Platform",
+         "Interdimensional Matter Transporter",
          "Interdimensional Matter Transporter",
          "Interplanetarypurplythorny Dragon",
          "Interplanetarypurplythorny Dragon",
@@ -3016,16 +3007,23 @@
          "Majesty with Eyes of Blue",
          "Megamorph",
          "Megamorph",
+         "Negate Attack",
+         "Negate Attack",
          "Peten the Dark Clown",
          "Peten the Dark Clown",
          "Ring of Destruction",
+         "Roll Out!",
          "Shrink",
+         "Shrink",
+         "Silent Doom",
          "Silent Doom",
          "The Flute of Summoning Dragon",
          "The Flute of Summoning Dragon",
          "Union Hangar",
          "Union Hangar",
          "Union Scramble",
+         "Union Scramble",
+         "Vampire Lord",
          "Vampire Lord",
          "X-Head Cannon",
          "X-Head Cannon",
@@ -3034,12 +3032,13 @@
          "XYZ-Dragon Cannon",
          "XYZ-Dragon Cannon",
          "XZ-Tank Cannon",
+         "XZ-Tank Cannon",
          "Y-Dragon Head",
          "Y-Dragon Head",
          "Z-Metal Tank",
          "Z-Metal Tank"
       ],
-      "numberOfCardsMissing": 24
+      "numberOfCardsMissing": 9
    },
    {
       "deck": "Structure Deck: Yugi Muto",
@@ -3050,19 +3049,15 @@
       "cardsMissing": [
          "Alpha The Electromagnet Warrior",
          "Arcana Knight Joker",
-         "Attack the Moon!",
          "Berserkion the Electromagna Warrior",
          "Beta The Electromagnet Warrior",
          "Dark Magic Inheritance",
          "Gamma The Electromagnet Warrior",
          "Imperion Magnum the Superconductive Battlebot",
          "Kuribohrn",
-         "Magnet Conversion",
-         "Magnetic Field",
          "Mystic Box",
          "Obnoxious Celtic Guard",
-         "Obnoxious Celtic Guard",
-         "Rock Bombardment"
+         "Obnoxious Celtic Guard"
       ],
       "cardsInCollection": [
          "Alpha The Electromagnet Warrior",
@@ -3070,6 +3065,7 @@
          "Alpha The Magnet Warrior",
          "Arcana Knight Joker",
          "Attack the Moon!",
+         "Attack the Moon!",
          "Berfomet",
          "Berfomet",
          "Berserkion the Electromagna Warrior",
@@ -3115,6 +3111,8 @@
          "Magician's Circle",
          "Magician's Circle",
          "Magnet Conversion",
+         "Magnet Conversion",
+         "Magnetic Field",
          "Magnetic Field",
          "Mirror Force",
          "Mirror Force",
@@ -3123,6 +3121,7 @@
          "Polymerization",
          "Queen's Knight",
          "Queen's Knight",
+         "Rock Bombardment",
          "Rock Bombardment",
          "Skilled Dark Magician",
          "Skilled Dark Magician",
@@ -3141,7 +3140,7 @@
          "Valkyrion the Magna Warrior",
          "Valkyrion the Magna Warrior"
       ],
-      "numberOfCardsMissing": 15
+      "numberOfCardsMissing": 11
    },
    {
       "deck": "Pendulum Domination Structure Deck",
@@ -3254,7 +3253,6 @@
          "Ojama Trio"
       ],
       "cardsMissing": [
-         "Black Brachios",
          "Extinction on Schedule",
          "Grand Horn of Heaven",
          "Lost World",
@@ -3277,6 +3275,7 @@
          "Babycerasaurus",
          "Big Evolution Pill",
          "Big Evolution Pill",
+         "Black Brachios",
          "Black Brachios",
          "Burial from a Different Dimension",
          "Chewbone",
@@ -3333,44 +3332,35 @@
          "Ultimate Tyranno",
          "Unexpected Dai"
       ],
-      "numberOfCardsMissing": 17
+      "numberOfCardsMissing": 16
    },
    {
       "deck": "Machine Reactor Structure Deck",
       "date": "2017-04-13",
       "forbiddenCards": [],
       "limitedCards": [
-         "Limiter Removal"
+         "Limiter Removal",
+         "Maxx \"C\""
       ],
       "semiLimitedCards": [
          "Card Trooper"
       ],
       "cardsMissing": [
-         "Ancient Gear Beast",
-         "Ancient Gear Beast",
-         "Ancient Gear Castle",
-         "Ancient Gear Castle",
          "Ancient Gear Catapult",
-         "Ancient Gear Engineer",
-         "Ancient Gear Engineer",
          "Ancient Gear Fortress",
-         "Ancient Gear Gadget",
          "Ancient Gear Gadjiltron Chimera",
          "Ancient Gear Gadjiltron Chimera",
          "Ancient Gear Gadjiltron Dragon",
          "Ancient Gear Gadjiltron Dragon",
          "Ancient Gear Hydra",
          "Ancient Gear Reactor Dragon",
-         "Ancient Gear Soldier",
-         "Ancient Gear Soldier",
+         "Ancient Gear Token",
          "Ancient Gear Workshop",
          "Ancient Gear Workshop",
          "Ancient Gear Wyvern",
          "BOXer",
-         "Galaxy Cyclone",
          "Geargiauger",
          "Geargiauger",
-         "Maxx C",
          "Minefieldriller",
          "Minefieldriller",
          "Mischief of the Gnomes",
@@ -3378,10 +3368,17 @@
          "Spell Striker"
       ],
       "cardsInCollection": [
+         "Ancient Gear Beast",
+         "Ancient Gear Beast",
          "Ancient Gear Box",
          "Ancient Gear Box",
+         "Ancient Gear Castle",
+         "Ancient Gear Castle",
          "Ancient Gear Catapult",
+         "Ancient Gear Engineer",
+         "Ancient Gear Engineer",
          "Ancient Gear Fortress",
+         "Ancient Gear Gadget",
          "Ancient Gear Gadget",
          "Ancient Gear Golem",
          "Ancient Gear Golem",
@@ -3389,7 +3386,8 @@
          "Ancient Gear Knight",
          "Ancient Gear Knight",
          "Ancient Gear Reactor Dragon",
-         "Ancient Gear Token",
+         "Ancient Gear Soldier",
+         "Ancient Gear Soldier",
          "Ancient Gear Token",
          "Ancient Gear Wyvern",
          "BOXer",
@@ -3399,6 +3397,7 @@
          "Card Trooper",
          "Fiendish Chain",
          "Fiendish Chain",
+         "Galaxy Cyclone",
          "Galaxy Cyclone",
          "Geartown",
          "Geartown",
@@ -3417,7 +3416,7 @@
          "Machine King - 3000 B.C.",
          "Mausoleum of the Emperor",
          "Mausoleum of the Emperor",
-         "Maxx C",
+         "Maxx \"C\"",
          "Mischief of the Gnomes",
          "Planet Pathfinder",
          "Planet Pathfinder",
@@ -3428,7 +3427,7 @@
          "The Huge Revolution is Over",
          "The Huge Revolution is Over"
       ],
-      "numberOfCardsMissing": 30
+      "numberOfCardsMissing": 20
    },
    {
       "deck": "Structure Deck: Cyberse Link",
@@ -3448,9 +3447,9 @@
          "Balancer Lord",
          "Binary Sorceress",
          "Boot Staggered",
-         "Crane Crane",
          "Cyberse Wizard",
          "Cynet Backdoor",
+         "Debris Dragon",
          "Digitron",
          "Dotscaper",
          "Dual Assembwurm",
@@ -3458,15 +3457,10 @@
          "Ghosts From the Past",
          "Jester Confit",
          "Moon Mirror Shield",
-         "Powerful Rebirth",
-         "Powerful Rebirth",
-         "Quantum Cat",
          "ROM Cloudia",
          "Recoded Alive",
          "Shuffle Reborn",
          "Stack Reviver",
-         "Storming Mirror Force",
-         "Swamp Mirrorer",
          "Tri-gate Wizard"
       ],
       "cardsInCollection": [
@@ -3483,11 +3477,11 @@
          "Cosmic Cyclone",
          "Cosmic Cyclone",
          "Crane Crane",
+         "Crane Crane",
          "Cyberse Wizard",
          "Cynet Backdoor",
          "D.D.R. - Different Dimension Reincarnation",
          "D.D.R. - Different Dimension Reincarnation",
-         "Debris Dragon",
          "Debris Dragon",
          "Digitron",
          "Dimensional Barrier",
@@ -3511,8 +3505,11 @@
          "Miracle's Wake",
          "Miracle's Wake",
          "Moon Mirror Shield",
+         "Powerful Rebirth",
+         "Powerful Rebirth",
          "Premature Return",
          "Premature Return",
+         "Quantum Cat",
          "Quantum Cat",
          "ROM Cloudia",
          "Recoded Alive",
@@ -3520,8 +3517,10 @@
          "Soul Charge",
          "Stack Reviver",
          "Storming Mirror Force",
+         "Storming Mirror Force",
          "Summoner Monk",
          "Summoner Monk",
+         "Swamp Mirrorer",
          "Swamp Mirrorer",
          "Tragoedia",
          "Tragoedia",
@@ -3529,7 +3528,7 @@
          "Where Arf Thou?",
          "Where Arf Thou?"
       ],
-      "numberOfCardsMissing": 24
+      "numberOfCardsMissing": 19
    },
    {
       "deck": "Structure Deck: Wave of Light",
@@ -3540,7 +3539,6 @@
       ],
       "semiLimitedCards": [],
       "cardsMissing": [
-         "Airknight Parshath",
          "Archlord Kristya",
          "Athena",
          "Athena",
@@ -3572,15 +3570,15 @@
          "Recall",
          "Splendid Venus",
          "Splendid Venus",
+         "Synthetic Seraphim Token",
          "Tethys, Goddess of Light",
          "Tethys, Goddess of Light",
          "The Sanctuary in the Sky",
          "The Sanctum of Parshath",
-         "Ultimate Providence",
-         "Valhalla, Hall of the Fallen",
-         "Valhalla, Hall of the Fallen"
+         "Ultimate Providence"
       ],
       "cardsInCollection": [
+         "Airknight Parshath",
          "Airknight Parshath",
          "Archlord Kristya",
          "Bountiful Artemis",
@@ -3619,14 +3617,15 @@
          "Synthetic Seraphim",
          "Synthetic Seraphim",
          "Synthetic Seraphim Token",
-         "Synthetic Seraphim Token",
          "The Sanctuary in the Sky",
          "The Sanctum of Parshath",
          "Ties of the Brethren",
          "Ties of the Brethren",
-         "Ultimate Providence"
+         "Ultimate Providence",
+         "Valhalla, Hall of the Fallen",
+         "Valhalla, Hall of the Fallen"
       ],
-      "numberOfCardsMissing": 39
+      "numberOfCardsMissing": 37
    },
    {
       "deck": "Structure Deck: Lair of Darkness",
@@ -3644,7 +3643,6 @@
          "Crush Card Virus",
          "Curse of Darkness",
          "Darkest Diabolos, Lord of the Lair",
-         "Darklight",
          "Eradicator Epidemic Virus",
          "Fiendish Rhino Warrior",
          "Full Force Virus",
@@ -3653,14 +3651,12 @@
          "Kuribandit",
          "Legendary Maju Garzett",
          "Lich Lord, King of the Underworld",
-         "Mist Archfiend",
-         "Plague Wolf",
-         "Plague Wolf",
          "Recurring Nightmare",
          "Relinkuriboh",
          "Rise to Full Height",
          "Sinister Yorishiro",
-         "Sinister Yorishiro"
+         "Sinister Yorishiro",
+         "Torment Token"
       ],
       "cardsInCollection": [
          "Absolute King Back Jack",
@@ -3678,6 +3674,7 @@
          "Curse of Darkness",
          "Darkest Diabolos, Lord of the Lair",
          "Darklight",
+         "Darklight",
          "Deck Devastation Virus",
          "Deck Devastation Virus",
          "Diabolos, King of the Abyss",
@@ -3704,8 +3701,11 @@
          "Mind Crush",
          "Mind Crush",
          "Mist Archfiend",
+         "Mist Archfiend",
          "Phantom of Chaos",
          "Phantom of Chaos",
+         "Plague Wolf",
+         "Plague Wolf",
          "Prometheus, King of the Shadows",
          "Prometheus, King of the Shadows",
          "Recurring Nightmare",
@@ -3713,7 +3713,6 @@
          "Rise to Full Height",
          "Stygian Street Patrol",
          "Stygian Street Patrol",
-         "Torment Token",
          "Torment Token",
          "Tour Guide From the Underworld",
          "Trap of Darkness",
@@ -3723,7 +3722,7 @@
          "Veil of Darkness",
          "Veil of Darkness"
       ],
-      "numberOfCardsMissing": 23
+      "numberOfCardsMissing": 20
    },
    {
       "deck": "Structure Deck: Powercode Link",
@@ -4170,14 +4169,12 @@
       "semiLimitedCards": [],
       "cardsMissing": [
          "Break Off Trap Hole",
-         "Dogoran, the Mad Flame Kaiju",
          "Flame Administrator",
          "Formud Skipper",
          "Link Bound",
          "Magic Planter",
          "Monster Reincarnation",
          "Monster Reincarnation",
-         "Red Resonator",
          "Salamangreat Balelynx",
          "Salamangreat Beat Bison",
          "Salamangreat Circle",
@@ -4209,6 +4206,7 @@
          "Circle of the Fire Kings",
          "Circle of the Fire Kings",
          "Dogoran, the Mad Flame Kaiju",
+         "Dogoran, the Mad Flame Kaiju",
          "Duelittle Chimera",
          "Duelittle Chimera",
          "Fencing Fire Ferret",
@@ -4223,6 +4221,7 @@
          "Inferno",
          "Link Bound",
          "Magic Planter",
+         "Red Resonator",
          "Red Resonator",
          "Salamangreat Balelynx",
          "Salamangreat Beat Bison",
@@ -4260,7 +4259,7 @@
          "Volcanic Shell",
          "Will of the Salamangreat"
       ],
-      "numberOfCardsMissing": 30
+      "numberOfCardsMissing": 28
    },
    {
       "deck": "Structure Deck: Order of the Spellcasters",
@@ -4276,7 +4275,6 @@
          "Defender, the Magical Knight",
          "Disenchanter",
          "Disenchanter",
-         "Droll & Lock Bird",
          "Dwimmered Path",
          "Endymion's Lab",
          "Endymion, the Master Magician",
@@ -4290,7 +4288,6 @@
          "Magical Citadel of Endymion",
          "Magical Exemplar",
          "Magical Something",
-         "Magician's Circle",
          "Magister of Endymion",
          "Mythical Beast Cerberus",
          "Mythical Beast Cerberus",
@@ -4310,6 +4307,7 @@
          "Dark Magician of Chaos",
          "Day-Breaker the Shining Magical Warrior",
          "Droll & Lock Bird",
+         "Droll & Lock Bird",
          "Dwimmered Path",
          "Endymion's Lab",
          "Endymion, the Mighty Master of Magic",
@@ -4329,6 +4327,7 @@
          "Magical Undertaker",
          "Magician of Faith",
          "Magician of Faith",
+         "Magician's Circle",
          "Magician's Circle",
          "Magister of Endymion",
          "Mythical Beast Medusa",
@@ -4356,7 +4355,7 @@
          "Terraforming",
          "Terraforming"
       ],
-      "numberOfCardsMissing": 27
+      "numberOfCardsMissing": 25
    },
    {
       "deck": "Structure Deck: Rokket Revolt",
@@ -4485,7 +4484,6 @@
          "Kuribandit",
          "Kuribandit",
          "Lava Golem",
-         "Living Fossil",
          "Naelshaddoll Ariel",
          "Performage Trick Clown",
          "Purushaddoll Aeon",
@@ -4500,10 +4498,7 @@
          "Shaddoll Zefracore",
          "Shaddoll Zefranaga",
          "Sinister Shadow Games",
-         "Subterror Succession",
-         "Twin Twisters",
-         "Twin Twisters",
-         "Unending Nightmare"
+         "Subterror Succession"
       ],
       "cardsInCollection": [
          "Allure of Darkness",
@@ -4533,6 +4528,7 @@
          "Instant Fusion",
          "Instant Fusion",
          "Lava Golem",
+         "Living Fossil",
          "Living Fossil",
          "Lost Wind",
          "Lost Wind",
@@ -4570,9 +4566,12 @@
          "Subterror Succession",
          "Super Polymerization",
          "Super Polymerization",
+         "Twin Twisters",
+         "Twin Twisters",
+         "Unending Nightmare",
          "Unending Nightmare"
       ],
-      "numberOfCardsMissing": 30
+      "numberOfCardsMissing": 26
    },
    {
       "deck": "Structure Deck: Mechanized Madness",
@@ -4682,20 +4681,15 @@
       "semiLimitedCards": [],
       "cardsMissing": [
          "Armityle the Chaos Phantasm",
-         "Awakening of the Sacred Beasts",
-         "Cerulean Skyfire",
          "Chaos Core",
          "Chaos Hunter",
          "Chaos Hunter",
          "Chaos Summoning Beast",
-         "Danger! Chupacabra!",
          "Dark Beckoning Beast",
          "Dark Factory of More Production",
-         "Dark Summoning Beast",
          "Dimension Fusion Destruction",
          "Escape from the Dark Dimension",
          "Escape from the Dark Dimension",
-         "Fallen Paradise",
          "Field Barrier",
          "Field Barrier",
          "Hyper Blaze",
@@ -4724,14 +4718,19 @@
       "cardsInCollection": [
          "Armityle the Chaos Phantasm",
          "Awakening of the Sacred Beasts",
+         "Awakening of the Sacred Beasts",
+         "Cerulean Skyfire",
          "Cerulean Skyfire",
          "Chaos Core",
          "Chaos Summoning Beast",
          "Danger! Chupacabra!",
+         "Danger! Chupacabra!",
          "Dark Beckoning Beast",
          "Dark Factory of More Production",
          "Dark Summoning Beast",
+         "Dark Summoning Beast",
          "Dimension Fusion Destruction",
+         "Fallen Paradise",
          "Fallen Paradise",
          "Farfa, Malebranche of the Burning Abyss",
          "Farfa, Malebranche of the Burning Abyss",
@@ -4776,7 +4775,7 @@
          "Uria, Lord of Searing Flames",
          "Uria, Lord of Searing Flames"
       ],
-      "numberOfCardsMissing": 39
+      "numberOfCardsMissing": 34
    },
    {
       "deck": "Structure Deck: Spirit Charmers",
@@ -5119,7 +5118,6 @@
          "Necro Fusion",
          "Necro Fusion",
          "Omni Dragon Brotaur",
-         "Pot of Extravagance",
          "Radian, the Multidimensional Kaiju",
          "Radian, the Multidimensional Kaiju",
          "Red-Eyes Darkness Metal Dragon",
@@ -5172,6 +5170,7 @@
          "Mirrorjade the Iceblade Dragon",
          "Omni Dragon Brotaur",
          "Pot of Extravagance",
+         "Pot of Extravagance",
          "Screams of the Branded",
          "Sprind the Irondash Dragon",
          "Springans Kitt",
@@ -5188,7 +5187,7 @@
          "Warning Point",
          "White Dragon Wyverburster"
       ],
-      "numberOfCardsMissing": 37
+      "numberOfCardsMissing": 36
    },
    {
       "deck": "Structure Deck: Legend of the Crystal Beasts",
@@ -5198,7 +5197,10 @@
          "Metaverse"
       ],
       "semiLimitedCards": [],
-      "cardsMissing": [],
+      "cardsMissing": [
+         "Contact \"C\"",
+         "Contact \"C\""
+      ],
       "cardsInCollection": [
          "Advanced Dark",
          "Advanced Dark",
@@ -5208,8 +5210,6 @@
          "Ash Blossom & Joyous Spring",
          "Awakening of the Crystal Ultimates",
          "Awakening of the Crystal Ultimates",
-         "Contact C",
-         "Contact C",
          "Cosmic Cyclone",
          "Cosmic Cyclone",
          "Counter Gem",
@@ -5292,7 +5292,7 @@
          "Ultimate Crystal Rainbow Dragon Overdrive",
          "Ultimate Crystal Rainbow Dragon Overdrive"
       ],
-      "numberOfCardsMissing": 0
+      "numberOfCardsMissing": 2
    },
    {
       "deck": "Structure Deck: Dark World",
@@ -5404,7 +5404,10 @@
          "Harpie's Feather Duster"
       ],
       "semiLimitedCards": [],
-      "cardsMissing": [],
+      "cardsMissing": [
+         "Retaliating \"C\"",
+         "Retaliating \"C\""
+      ],
       "cardsInCollection": [
          "Artifact Moralltach",
          "Artifact Moralltach",
@@ -5441,8 +5444,6 @@
          "Raigeki",
          "Resonance Insect",
          "Resonance Insect",
-         "Retaliating C",
-         "Retaliating C",
          "Rose Lover",
          "Rose Lover",
          "Sauge de Fleur",
@@ -5497,6 +5498,219 @@
          "Traptrix Vesiculo",
          "Void Trap Hole",
          "Void Trap Hole"
+      ],
+      "numberOfCardsMissing": 2
+   },
+   {
+      "deck": "Structure Deck: The Crimson King",
+      "date": "2023-09-21",
+      "forbiddenCards": [],
+      "limitedCards": [],
+      "semiLimitedCards": [],
+      "cardsMissing": [
+         "Powerful Rebirth"
+      ],
+      "cardsInCollection": [
+         "Absolute King Back Jack",
+         "Absolute King Back Jack",
+         "Ascator, Dawnwalker",
+         "Ascator, Dawnwalker",
+         "Assault Beast",
+         "Assault Beast",
+         "Assault Mode Activate",
+         "Assault Mode Activate",
+         "Battle Fader",
+         "Battle Fader",
+         "Bone Archfiend",
+         "Bone Archfiend",
+         "Creation Resonator",
+         "Creation Resonator",
+         "Crimson Gaia",
+         "Crimson Gaia",
+         "Crimson Resonator",
+         "Crimson Resonator",
+         "Danger! Chupacabra!",
+         "Danger! Chupacabra!",
+         "Danger! Nessie!",
+         "Danger! Nessie!",
+         "Dark Resonator",
+         "Dark Resonator",
+         "Fiendish Chain",
+         "Fiendish Chain",
+         "Fiendish Golem",
+         "Fiendish Golem",
+         "Fire Ant Ascator",
+         "Fire Ant Ascator",
+         "Hot Red Dragon Archfiend Abyss",
+         "Hot Red Dragon Archfiend Abyss",
+         "Hot Red Dragon Archfiend Bane",
+         "Hot Red Dragon Archfiend Bane",
+         "Hot Red Dragon Archfiend King Calamity",
+         "Hot Red Dragon Archfiend King Calamity",
+         "King's Synchro",
+         "King's Synchro",
+         "Magical King Moonstar",
+         "Magical King Moonstar",
+         "Phantom King Hydride",
+         "Phantom King Hydride",
+         "Pot of Extravagance",
+         "Pot of Extravagance",
+         "Powerful Rebirth",
+         "Psi-Reflector",
+         "Psi-Reflector",
+         "Red Dragon Archfiend",
+         "Red Dragon Archfiend",
+         "Red Dragon Archfiend/Assault Mode",
+         "Red Dragon Archfiend/Assault Mode",
+         "Red Nova Dragon",
+         "Red Nova Dragon",
+         "Red Reign",
+         "Red Reign",
+         "Red Resonator",
+         "Red Resonator",
+         "Red Rising Dragon",
+         "Red Rising Dragon",
+         "Red Sprinter",
+         "Red Sprinter",
+         "Red Supernova Dragon",
+         "Red Supernova Dragon",
+         "Red Warg",
+         "Red Warg",
+         "Red Zone",
+         "Red Zone",
+         "Resonator Call",
+         "Resonator Call",
+         "Resonator Command",
+         "Resonator Command",
+         "Resonator Engine",
+         "Resonator Engine",
+         "Scarlight Red Dragon Archfiend",
+         "Scarlight Red Dragon Archfiend",
+         "Scarred Dragon Archfiend",
+         "Scarred Dragon Archfiend",
+         "Soul Resonator",
+         "Soul Resonator",
+         "Synkron Resonator",
+         "Synkron Resonator",
+         "Terrors of the Overroot",
+         "Terrors of the Overroot",
+         "Time to Stand Up",
+         "Time to Stand Up",
+         "Vice Dragon",
+         "Vice Dragon",
+         "Vision Resonator",
+         "Vision Resonator",
+         "Wandering King Wildwind",
+         "Wandering King Wildwind",
+         "Witch of the Black Forest",
+         "Witch of the Black Forest"
+      ],
+      "numberOfCardsMissing": 1
+   },
+   {
+      "deck": "Structure Deck: Fire Kings",
+      "date": "2023-12-07",
+      "forbiddenCards": [
+         "Blaster, Dragon Ruler of Infernos"
+      ],
+      "limitedCards": [],
+      "semiLimitedCards": [],
+      "cardsMissing": [],
+      "cardsInCollection": [
+         "Alpha, the Master of Beasts",
+         "Alpha, the Master of Beasts",
+         "Bonfire Colossus",
+         "Bonfire Colossus",
+         "Burner, Dragon Ruler of Sparks",
+         "Burner, Dragon Ruler of Sparks",
+         "Chain Destruction",
+         "Chain Destruction",
+         "Circle of the Fire Kings",
+         "Circle of the Fire Kings",
+         "Coach Captain Bearman",
+         "Coach Captain Bearman",
+         "Coach King Giantrainer",
+         "Coach King Giantrainer",
+         "Coach Soldier Wolfbark",
+         "Coach Soldier Wolfbark",
+         "Dark Hole",
+         "Dark Hole",
+         "Diamond Dire Wolf",
+         "Diamond Dire Wolf",
+         "Dogoran, the Mad Flame Kaiju",
+         "Dogoran, the Mad Flame Kaiju",
+         "Droll & Lock Bird",
+         "Droll & Lock Bird",
+         "Echelon of the Fire Kings",
+         "Echelon of the Fire Kings",
+         "Fencing Fire Ferret",
+         "Fencing Fire Ferret",
+         "Fire Formation - Tenki",
+         "Fire Formation - Tenki",
+         "Fire King Avatar Arvata",
+         "Fire King Avatar Arvata",
+         "Fire King Avatar Barong",
+         "Fire King Avatar Barong",
+         "Fire King Avatar Garunix",
+         "Fire King Avatar Garunix",
+         "Fire King Avatar Kirin",
+         "Fire King Avatar Kirin",
+         "Fire King Avatar Rangbali",
+         "Fire King Avatar Rangbali",
+         "Fire King Avatar Yaksha",
+         "Fire King Avatar Yaksha",
+         "Fire King High Avatar Garunix",
+         "Fire King High Avatar Garunix",
+         "Fire King High Avatar Kirin",
+         "Fire King High Avatar Kirin",
+         "Fire King Island",
+         "Fire King Island",
+         "Fire King Sanctuary",
+         "Fire King Sanctuary",
+         "Fire King Sky Burn",
+         "Fire King Sky Burn",
+         "Firebrand Hymnist",
+         "Firebrand Hymnist",
+         "Flamvell Counter",
+         "Flamvell Counter",
+         "Garunix Eternity, Hyang of the Fire Kings",
+         "Garunix Eternity, Hyang of the Fire Kings",
+         "Herald of the Abyss",
+         "Herald of the Abyss",
+         "Hiita the Fire Charmer, Ablaze",
+         "Hiita the Fire Charmer, Ablaze",
+         "Infernal Flame Emperor",
+         "Infernal Flame Emperor",
+         "Infinite Impermanence",
+         "Infinite Impermanence",
+         "Legendary Fire King Ponix",
+         "Legendary Fire King Ponix",
+         "Onslaught of the Fire Kings",
+         "Onslaught of the Fire Kings",
+         "Powersink Stone",
+         "Powersink Stone",
+         "Rekindling",
+         "Rekindling",
+         "Royal Firestorm Guards",
+         "Royal Firestorm Guards",
+         "Sacred Fire King Garunix",
+         "Sacred Fire King Garunix",
+         "Sacred Phoenix of Nephthys",
+         "Sacred Phoenix of Nephthys",
+         "Solemn Judgment",
+         "Solemn Judgment",
+         "Spirit of Flames",
+         "Spirit of Flames",
+         "Spiritual Fire Art - Kurenai",
+         "Spiritual Fire Art - Kurenai",
+         "The Blazing Mars",
+         "The Blazing Mars",
+         "Torrential Tribute",
+         "Torrential Tribute",
+         "Trade-In",
+         "Trade-In",
+         "True King Agnimazud, the Vanisher",
+         "True King Agnimazud, the Vanisher"
       ],
       "numberOfCardsMissing": 0
    }

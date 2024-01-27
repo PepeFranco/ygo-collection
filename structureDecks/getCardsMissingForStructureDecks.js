@@ -170,6 +170,12 @@ const excludeSetsFromCollection = ({
   });
 };
 
+const excludeDecksFromCollection = ({ decksToExclude, collection }) => {
+  return collection.filter((card) => {
+    return !decksToExclude.includes(card["In Deck"]);
+  });
+};
+
 const getCardsMissingForStructureDecks = async () => {
   console.log(`📚 There are ${collection.length} cards in the collection`);
 
@@ -182,23 +188,30 @@ const getCardsMissingForStructureDecks = async () => {
   sets.map((set) => {
     console.log(`=== Set of ${set} ===`);
     const setsToExcludeTwoOf = [
-      "Speed Duel GX: Duel Academy Box",
-      "Speed Duel GX: Duelists of Shadows",
-      "Speed Duel GX: Midterm Paradox",
-      "Speed Duel Starter Decks: Duelists of Tomorrow",
-      "Speed Duel: Battle City Box",
+      // "Speed Duel GX: Duel Academy Box",
+      // "Speed Duel GX: Duelists of Shadows",
+      // "Speed Duel GX: Midterm Paradox",
+      // "Speed Duel Starter Decks: Duelists of Tomorrow",
+      // "Speed Duel: Battle City Box",
       //special case, there are 3 sets
-      "Speed Duel Starter Decks: Destiny Masters",
+      // "Speed Duel Starter Decks: Destiny Masters",
       // one copy only
       // "Speed Duel Starter Decks: Match of the Millennium"
       // "Speed Duel Starter Decks: Twisted Nightmares"
       // "Speed Duel Starter Decks: Ultimate Predators"
     ];
 
-    const collectionCopy = excludeSetsFromCollection({
+    const decksToExclude = ["Edison Quickdraw"];
+
+    const collectionCopyWithSetsExcluded = excludeSetsFromCollection({
       setsToExclude: setsToExcludeTwoOf,
       numberOfCopiesToExclude: 2,
       collection: [...collection],
+    });
+
+    const collectionCopy = excludeDecksFromCollection({
+      decksToExclude,
+      collection: [...collectionCopyWithSetsExcluded],
     }).map(({ Name }) => Name);
 
     const structureDeckSet = cardsInStructureDecks.map((deck) => {

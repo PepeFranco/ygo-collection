@@ -71,14 +71,20 @@ const collection = require("./data/collection.json");
 const collectionCopy = [...collection];
 
 const cardIsComplete = (card) => {
-  return Boolean(
-    card["Set"] &&
-      card["ID"] &&
-      card["Card Type"] &&
-      ((card["Earliest Set"] && card["Earliest Date"]) ||
-        card["Type"] === "Skill Card") &&
-      card["Is Speed Duel"]
-  );
+  if (!card["Set"]) {
+    return false;
+  }
+  if (!card["ID"]) {
+    return false;
+  }
+  if (!card["Card Type"]) {
+    return false;
+  }
+  if (!card["Is Speed Duel"]) {
+    return false;
+  }
+  const cardHasEarliestSet = card["Earliest Set"] && card["Earliest Date"];
+  return Boolean(cardHasEarliestSet || card["Type"] === "Skill Card");
 };
 
 const mainFunction = async () => {

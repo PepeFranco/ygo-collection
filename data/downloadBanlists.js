@@ -1,7 +1,7 @@
 const { GoogleSpreadsheet } = require("google-spreadsheet");
-const creds = require("../../secret/spreadsheet-credentials.json");
-const { id } = require("../../secret/collectionwrite.json");
-const { api_key } = require("../../secret/google-api-key.json");
+const creds = require("../secret/spreadsheet-credentials.json");
+const { id } = require("../secret/collectionwrite.json");
+const { api_key } = require("../secret/google-api-key.json");
 const fs = require("fs");
 
 const banLists = [];

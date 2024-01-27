@@ -72,14 +72,14 @@ const deckPath = "/formats/edison/";
 //   "Structure Deck: Beware of Traptrix",
 //   "Structure Deck: The Crimson King",
 // ];
-const decks = ["diva zombie w side", "quickdraw plant w side"];
-const excludeLanguages = ["SP"];
+const decks = ["quickdraw plant w side"];
+const excludeLanguages = [];
 // If empty, will not use cards already in deck
 // If it has values, will use the cards in those decks
 // This works for SDs to use as many real cards as possible for earlier decks
 // Get this empty to check which cards need to be printed
 // And then add back Structure Deck and Legendary Deck to see where to get the real cards from
-const includeDecks = ["Structure Deck", "Legendary Deck", "edison"];
+const includeDecks = ["structure deck", "Legendary Deck", "edison", "goat"];
 // const includeDecks = [];
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));

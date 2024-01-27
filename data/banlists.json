@@ -34541,7 +34541,7 @@
          },
          {
             "card": "Nadir Servant",
-            "number": 1
+            "number": 2
          },
          {
             "card": "Night Assailant",
@@ -34693,7 +34693,7 @@
          },
          {
             "card": "Simorgh, Bird of Sovereignty",
-            "number": 1
+            "number": 0
          },
          {
             "card": "Sixth Sense",
@@ -35265,11 +35265,11 @@
             "number": 0
          },
          {
-            "card": "Mecha Phantom Beast O-Lion",
+            "card": "Mecha Phantom Beast Auroradon",
             "number": 0
          },
          {
-            "card": "Mecha Phantom Beast Auroradon ",
+            "card": "Mecha Phantom Beast O-Lion",
             "number": 0
          },
          {
@@ -35458,7 +35458,7 @@
          },
          {
             "card": "Simorgh, Bird of Sovereignty",
-            "number": 1
+            "number": 0
          },
          {
             "card": "Sixth Sense",
@@ -36022,12 +36022,12 @@
             "number": 0
          },
          {
-            "card": "Mecha Phantom Beast O-Lion",
-            "number": 1
+            "card": "Mecha Phantom Beast Auroradon",
+            "number": 0
          },
          {
-            "card": "Mecha Phantom Beast Auroradon ",
-            "number": 0
+            "card": "Mecha Phantom Beast O-Lion",
+            "number": 1
          },
          {
             "card": "Metamorphosis",
@@ -36211,7 +36211,7 @@
          },
          {
             "card": "Simorgh, Bird of Sovereignty",
-            "number": 1
+            "number": 0
          },
          {
             "card": "Sixth Sense",
@@ -36487,11 +36487,11 @@
             "number": 0
          },
          {
-            "card": "Curious, the Lightsworn Dominion",
+            "card": "Crystron Halqifibrax",
             "number": 0
          },
          {
-            "card": "Crystron Halqifibrax",
+            "card": "Curious, the Lightsworn Dominion",
             "number": 0
          },
          {
@@ -36763,12 +36763,12 @@
             "number": 0
          },
          {
-            "card": "Mecha Phantom Beast O-Lion",
-            "number": 1
+            "card": "Mecha Phantom Beast Auroradon",
+            "number": 0
          },
          {
-            "card": "Mecha Phantom Beast Auroradon ",
-            "number": 0
+            "card": "Mecha Phantom Beast O-Lion",
+            "number": 1
          },
          {
             "card": "Metamorphosis",
@@ -36804,7 +36804,7 @@
          },
          {
             "card": "Mystic Mine",
-            "number": 1
+            "number": 0
          },
          {
             "card": "Number 16: Shock Master",
@@ -36952,7 +36952,7 @@
          },
          {
             "card": "Simorgh, Bird of Sovereignty",
-            "number": 1
+            "number": 0
          },
          {
             "card": "Sixth Sense",
@@ -37109,6 +37109,3086 @@
          {
             "card": "Yata-Garasu",
             "number": 1
+         },
+         {
+            "card": "Zoodiac Barrage",
+            "number": 0
+         },
+         {
+            "card": "Zoodiac Broadbull",
+            "number": 0
+         },
+         {
+            "card": "Zoodiac Drident",
+            "number": 0
+         },
+         {
+            "card": "Zoodiac Ratpier",
+            "number": 1
+         }
+      ]
+   },
+   {
+      "date": "2023-2",
+      "cards": [
+         {
+            "card": "Agido the Ancient Sentinel",
+            "number": 1
+         },
+         {
+            "card": "Ancient Fairy Dragon",
+            "number": 1
+         },
+         {
+            "card": "Appointer of the Red Lotus",
+            "number": 1
+         },
+         {
+            "card": "Archnemeses Protos",
+            "number": 0
+         },
+         {
+            "card": "Armageddon Knight",
+            "number": 1
+         },
+         {
+            "card": "Artifact Scythe",
+            "number": 0
+         },
+         {
+            "card": "Astrograph Sorcerer",
+            "number": 1
+         },
+         {
+            "card": "Barrier Statue of the Stormwinds",
+            "number": 0
+         },
+         {
+            "card": "Beatrice, Lady of the Eternal",
+            "number": 1
+         },
+         {
+            "card": "Black Dragon Collapserpent",
+            "number": 1
+         },
+         {
+            "card": "Blackwing - Gofu the Vague Shadow",
+            "number": 0
+         },
+         {
+            "card": "Blackwing - Steam the Cloak",
+            "number": 1
+         },
+         {
+            "card": "Blaster, Dragon Ruler of Infernos",
+            "number": 0
+         },
+         {
+            "card": "Block Dragon",
+            "number": 0
+         },
+         {
+            "card": "Brilliant Fusion",
+            "number": 0
+         },
+         {
+            "card": "Butterfly Dagger - Elma",
+            "number": 0
+         },
+         {
+            "card": "Called by the Grave",
+            "number": 1
+         },
+         {
+            "card": "Card Destruction",
+            "number": 1
+         },
+         {
+            "card": "Card of Demise",
+            "number": 1
+         },
+         {
+            "card": "Card of Safe Return",
+            "number": 0
+         },
+         {
+            "card": "Chain Strike",
+            "number": 1
+         },
+         {
+            "card": "Change of Heart",
+            "number": 1
+         },
+         {
+            "card": "Chaos Ruler, the Chaotic Magical Dragon",
+            "number": 0
+         },
+         {
+            "card": "Chicken Game",
+            "number": 0
+         },
+         {
+            "card": "Cold Wave",
+            "number": 0
+         },
+         {
+            "card": "Confiscation",
+            "number": 0
+         },
+         {
+            "card": "Crystron Halqifibrax",
+            "number": 0
+         },
+         {
+            "card": "Curious, the Lightsworn Dominion",
+            "number": 0
+         },
+         {
+            "card": "Cyber Jar",
+            "number": 1
+         },
+         {
+            "card": "Cyber-Stein",
+            "number": 1
+         },
+         {
+            "card": "Daigusto Emeral",
+            "number": 1
+         },
+         {
+            "card": "Dandylion",
+            "number": 0
+         },
+         {
+            "card": "Danger!? Jackalope?",
+            "number": 1
+         },
+         {
+            "card": "Danger!? Tsuchinoko?",
+            "number": 1
+         },
+         {
+            "card": "Dark Grepher",
+            "number": 1
+         },
+         {
+            "card": "Delinquent Duo",
+            "number": 0
+         },
+         {
+            "card": "Denglong, First of the Yang Zing",
+            "number": 0
+         },
+         {
+            "card": "Destiny HERO - Malicious",
+            "number": 2
+         },
+         {
+            "card": "Dimension Fusion",
+            "number": 0
+         },
+         {
+            "card": "Dinowrestler Pankratops",
+            "number": 1
+         },
+         {
+            "card": "Divine Wind of Mist Valley",
+            "number": 1
+         },
+         {
+            "card": "Djinn Releaser of Rituals",
+            "number": 0
+         },
+         {
+            "card": "Dragonic Diagram",
+            "number": 1
+         },
+         {
+            "card": "Draco Face-Off",
+            "number": 1
+         },
+         {
+            "card": "Eclipse Wyvern",
+            "number": 0
+         },
+         {
+            "card": "Elder Entity Norden",
+            "number": 0
+         },
+         {
+            "card": "Eva",
+            "number": 0
+         },
+         {
+            "card": "Exodia the Forbidden One",
+            "number": 1
+         },
+         {
+            "card": "Fairy Tail - Snow",
+            "number": 0
+         },
+         {
+            "card": "Fiber Jar",
+            "number": 0
+         },
+         {
+            "card": "Final Countdown",
+            "number": 1
+         },
+         {
+            "card": "Fishborg Blaster",
+            "number": 0
+         },
+         {
+            "card": "Foolish Burial",
+            "number": 1
+         },
+         {
+            "card": "Gateway of the Six",
+            "number": 1
+         },
+         {
+            "card": "Gem-Knight Master Diamond",
+            "number": 1
+         },
+         {
+            "card": "Genex Ally Birdman",
+            "number": 1
+         },
+         {
+            "card": "Giant Trunade",
+            "number": 0
+         },
+         {
+            "card": "Glow-Up Bulb",
+            "number": 0
+         },
+         {
+            "card": "Gold Sarcophagus",
+            "number": 1
+         },
+         {
+            "card": "Graceful Charity",
+            "number": 0
+         },
+         {
+            "card": "Grinder Golem",
+            "number": 0
+         },
+         {
+            "card": "Guardragon Agarpain",
+            "number": 0
+         },
+         {
+            "card": "Guardragon Elpy",
+            "number": 0
+         },
+         {
+            "card": "Harpie's Feather Duster",
+            "number": 1
+         },
+         {
+            "card": "Heavy Storm",
+            "number": 0
+         },
+         {
+            "card": "Heavymetalfoes Electrumite",
+            "number": 0
+         },
+         {
+            "card": "Herald of Orange Light",
+            "number": 1
+         },
+         {
+            "card": "Ib the World Chalice Justiciar",
+            "number": 0
+         },
+         {
+            "card": "Imperial Order",
+            "number": 0
+         },
+         {
+            "card": "Infernity Archfiend",
+            "number": 1
+         },
+         {
+            "card": "Infernity Launcher",
+            "number": 1
+         },
+         {
+            "card": "Instant Fusion",
+            "number": 1
+         },
+         {
+            "card": "Into the Void",
+            "number": 1
+         },
+         {
+            "card": "Kaiser Colosseum",
+            "number": 0
+         },
+         {
+            "card": "Kelbek the Ancient Vanguard",
+            "number": 1
+         },
+         {
+            "card": "Keldo the Sacred Protector",
+            "number": 1
+         },
+         {
+            "card": "Knightmare Goblin",
+            "number": 0
+         },
+         {
+            "card": "Knightmare Mermaid",
+            "number": 0
+         },
+         {
+            "card": "Last Turn",
+            "number": 0
+         },
+         {
+            "card": "Last Will",
+            "number": 0
+         },
+         {
+            "card": "Lavalval Chain",
+            "number": 0
+         },
+         {
+            "card": "Left Arm of the Forbidden One",
+            "number": 1
+         },
+         {
+            "card": "Left Leg of the Forbidden One",
+            "number": 1
+         },
+         {
+            "card": "Level Eater",
+            "number": 0
+         },
+         {
+            "card": "Linkross",
+            "number": 0
+         },
+         {
+            "card": "Lunalight Tiger",
+            "number": 1
+         },
+         {
+            "card": "Lyrilusc - Recital Starling",
+            "number": 2
+         },
+         {
+            "card": "M-X-Saber Invoker",
+            "number": 0
+         },
+         {
+            "card": "Magical Explosion",
+            "number": 1
+         },
+         {
+            "card": "Magical Mid-Breaker Field",
+            "number": 1
+         },
+         {
+            "card": "Magical Scientist",
+            "number": 0
+         },
+         {
+            "card": "Majespecter Unicorn - Kirin",
+            "number": 0
+         },
+         {
+            "card": "Mass Driver",
+            "number": 0
+         },
+         {
+            "card": "Master Peace, the True Dracoslaying King",
+            "number": 0
+         },
+         {
+            "card": "Maxx \"C\"",
+            "number": 0
+         },
+         {
+            "card": "Mecha Phantom Beast Auroradon",
+            "number": 0
+         },
+         {
+            "card": "Metamorphosis",
+            "number": 0
+         },
+         {
+            "card": "Mind Control",
+            "number": 1
+         },
+         {
+            "card": "Mind Master",
+            "number": 0
+         },
+         {
+            "card": "Mirage of Nightmare",
+            "number": 0
+         },
+         {
+            "card": "Miscellaneousaurus",
+            "number": 1
+         },
+         {
+            "card": "Monster Gate",
+            "number": 1
+         },
+         {
+            "card": "Monster Reborn",
+            "number": 1
+         },
+         {
+            "card": "Morphing Jar",
+            "number": 1
+         },
+         {
+            "card": "Mudora the Sword Oracle",
+            "number": 1
+         },
+         {
+            "card": "Mystic Mine",
+            "number": 0
+         },
+         {
+            "card": "Number 16: Shock Master",
+            "number": 0
+         },
+         {
+            "card": "Number 42: Galaxy Tomahawk",
+            "number": 0
+         },
+         {
+            "card": "Number 86: Heroic Champion - Rhongomyniad",
+            "number": 0
+         },
+         {
+            "card": "Number 95: Galaxy-Eyes Dark Matter Dragon",
+            "number": 0
+         },
+         {
+            "card": "Number S0: Utopic ZEXAL",
+            "number": 0
+         },
+         {
+            "card": "One Day of Peace",
+            "number": 1
+         },
+         {
+            "card": "One for One",
+            "number": 1
+         },
+         {
+            "card": "Orcust Harp Horror",
+            "number": 0
+         },
+         {
+            "card": "Outer Entity Azathot",
+            "number": 0
+         },
+         {
+            "card": "Painful Choice",
+            "number": 0
+         },
+         {
+            "card": "Performage Plushfire",
+            "number": 0
+         },
+         {
+            "card": "Performapal Monkeyboard",
+            "number": 1
+         },
+         {
+            "card": "Phantom Skyblaster",
+            "number": 1
+         },
+         {
+            "card": "Phoenixian Cluster Amaryllis",
+            "number": 0
+         },
+         {
+            "card": "Pot of Desires",
+            "number": 2
+         },
+         {
+            "card": "Pot of Greed",
+            "number": 0
+         },
+         {
+            "card": "Prank-Kids Meow-Meow-Mu",
+            "number": 0
+         },
+         {
+            "card": "Predaplant Verte Anaconda",
+            "number": 0
+         },
+         {
+            "card": "Premature Burial",
+            "number": 0
+         },
+         {
+            "card": "PSY-Framelord Omega",
+            "number": 1
+         },
+         {
+            "card": "Reasoning",
+            "number": 1
+         },
+         {
+            "card": "Red Reboot",
+            "number": 0
+         },
+         {
+            "card": "Red Rose Dragon",
+            "number": 1
+         },
+         {
+            "card": "Redox, Dragon Ruler of Boulders",
+            "number": 0
+         },
+         {
+            "card": "Reinforcement of the Army",
+            "number": 1
+         },
+         {
+            "card": "Return from the Different Dimension",
+            "number": 0
+         },
+         {
+            "card": "Right Arm of the Forbidden One",
+            "number": 1
+         },
+         {
+            "card": "Right Leg of the Forbidden One",
+            "number": 1
+         },
+         {
+            "card": "Ronintoadin",
+            "number": 0
+         },
+         {
+            "card": "Royal Oppression",
+            "number": 0
+         },
+         {
+            "card": "Salamangreat Gazelle",
+            "number": 1
+         },
+         {
+            "card": "Samsara Lotus",
+            "number": 0
+         },
+         {
+            "card": "Sekka's Light",
+            "number": 1
+         },
+         {
+            "card": "Self-Destruct Button",
+            "number": 0
+         },
+         {
+            "card": "Set Rotation",
+            "number": 1
+         },
+         {
+            "card": "Simorgh, Bird of Sovereignty",
+            "number": 0
+         },
+         {
+            "card": "Sixth Sense",
+            "number": 0
+         },
+         {
+            "card": "Sky Striker Mecha - Hornet Drones",
+            "number": 1
+         },
+         {
+            "card": "Sky Striker Mecha Modules - Multirole",
+            "number": 1
+         },
+         {
+            "card": "Sky Striker Mobilize - Engage!",
+            "number": 1
+         },
+         {
+            "card": "Slash Draw",
+            "number": 1
+         },
+         {
+            "card": "Smoke Grenade of the Thief",
+            "number": 0
+         },
+         {
+            "card": "Snatch Steal",
+            "number": 0
+         },
+         {
+            "card": "Soul Charge",
+            "number": 0
+         },
+         {
+            "card": "Speedroid Terrortop",
+            "number": 1
+         },
+         {
+            "card": "Spellbook of Judgment",
+            "number": 1
+         },
+         {
+            "card": "Spright Elf",
+            "number": 0
+         },
+         {
+            "card": "SPYRAL Master Plan",
+            "number": 0
+         },
+         {
+            "card": "SPYRAL Quik-Fix",
+            "number": 1
+         },
+         {
+            "card": "Striker Dragon",
+            "number": 1
+         },
+         {
+            "card": "Substitoad",
+            "number": 1
+         },
+         {
+            "card": "Summon Sorceress",
+            "number": 0
+         },
+         {
+            "card": "Supreme King Dragon Starving Venom",
+            "number": 0
+         },
+         {
+            "card": "T.G. Hyper Librarian",
+            "number": 1
+         },
+         {
+            "card": "Tearlaments Havnis",
+            "number": 1
+         },
+         {
+            "card": "Tearlaments Kitkallos",
+            "number": 0
+         },
+         {
+            "card": "Tearlaments Merrli",
+            "number": 1
+         },
+         {
+            "card": "Tearlaments Scheiren",
+            "number": 1
+         },
+         {
+            "card": "Tempest Magician",
+            "number": 0
+         },
+         {
+            "card": "Tempest, Dragon Ruler of Storms",
+            "number": 1
+         },
+         {
+            "card": "Terraforming",
+            "number": 1
+         },
+         {
+            "card": "That Grass Looks Greener",
+            "number": 0
+         },
+         {
+            "card": "The Forceful Sentry",
+            "number": 0
+         },
+         {
+            "card": "The Tyrant Neptune",
+            "number": 0
+         },
+         {
+            "card": "Thunder Dragon Colossus",
+            "number": 0
+         },
+         {
+            "card": "Tidal, Dragon Ruler of Waterfalls",
+            "number": 0
+         },
+         {
+            "card": "Time Seal",
+            "number": 1
+         },
+         {
+            "card": "Topologic Gumblar Dragon",
+            "number": 0
+         },
+         {
+            "card": "Trap Dustshoot",
+            "number": 0
+         },
+         {
+            "card": "True King of All Calamities",
+            "number": 0
+         },
+         {
+            "card": "Ultimate Offering",
+            "number": 0
+         },
+         {
+            "card": "Union Carrier",
+            "number": 0
+         },
+         {
+            "card": "Upstart Goblin",
+            "number": 1
+         },
+         {
+            "card": "Vanity's Emptiness",
+            "number": 0
+         },
+         {
+            "card": "Victory Dragon",
+            "number": 0
+         },
+         {
+            "card": "White Dragon Wyverburster",
+            "number": 1
+         },
+         {
+            "card": "Wind-Up Carrier Zenmaity",
+            "number": 0
+         },
+         {
+            "card": "Zoodiac Barrage",
+            "number": 0
+         },
+         {
+            "card": "Zoodiac Broadbull",
+            "number": 0
+         },
+         {
+            "card": "Zoodiac Drident",
+            "number": 0
+         },
+         {
+            "card": "Zoodiac Ratpier",
+            "number": 1
+         }
+      ]
+   },
+   {
+      "date": "2023-6",
+      "cards": [
+         {
+            "card": "Agido the Ancient Sentinel",
+            "number": 1
+         },
+         {
+            "card": "Ancient Fairy Dragon",
+            "number": 1
+         },
+         {
+            "card": "Appointer of the Red Lotus",
+            "number": 0
+         },
+         {
+            "card": "Archnemeses Protos",
+            "number": 0
+         },
+         {
+            "card": "Armageddon Knight",
+            "number": 1
+         },
+         {
+            "card": "Artifact Scythe",
+            "number": 0
+         },
+         {
+            "card": "Astrograph Sorcerer",
+            "number": 1
+         },
+         {
+            "card": "Barrier Statue of the Stormwinds",
+            "number": 0
+         },
+         {
+            "card": "Beatrice, Lady of the Eternal",
+            "number": 1
+         },
+         {
+            "card": "Black Dragon Collapserpent",
+            "number": 1
+         },
+         {
+            "card": "Blackwing - Gofu the Vague Shadow",
+            "number": 0
+         },
+         {
+            "card": "Blaster, Dragon Ruler of Infernos",
+            "number": 1
+         },
+         {
+            "card": "Block Dragon",
+            "number": 0
+         },
+         {
+            "card": "Branded Expulsion",
+            "number": 0
+         },
+         {
+            "card": "Brilliant Fusion",
+            "number": 0
+         },
+         {
+            "card": "Butterfly Dagger - Elma",
+            "number": 0
+         },
+         {
+            "card": "Called by the Grave",
+            "number": 1
+         },
+         {
+            "card": "Card Destruction",
+            "number": 1
+         },
+         {
+            "card": "Card of Demise",
+            "number": 1
+         },
+         {
+            "card": "Card of Safe Return",
+            "number": 0
+         },
+         {
+            "card": "Chain Strike",
+            "number": 1
+         },
+         {
+            "card": "Change of Heart",
+            "number": 1
+         },
+         {
+            "card": "Chaos Ruler, the Chaotic Magical Dragon",
+            "number": 0
+         },
+         {
+            "card": "Chicken Game",
+            "number": 0
+         },
+         {
+            "card": "Cold Wave",
+            "number": 0
+         },
+         {
+            "card": "Confiscation",
+            "number": 0
+         },
+         {
+            "card": "Crystron Halqifibrax",
+            "number": 0
+         },
+         {
+            "card": "Curious, the Lightsworn Dominion",
+            "number": 0
+         },
+         {
+            "card": "Cyber Jar",
+            "number": 1
+         },
+         {
+            "card": "Cyber-Stein",
+            "number": 0
+         },
+         {
+            "card": "Daigusto Emeral",
+            "number": 1
+         },
+         {
+            "card": "Dandylion",
+            "number": 0
+         },
+         {
+            "card": "Danger!? Jackalope?",
+            "number": 1
+         },
+         {
+            "card": "Danger!? Tsuchinoko?",
+            "number": 1
+         },
+         {
+            "card": "Dark Grepher",
+            "number": 1
+         },
+         {
+            "card": "Delinquent Duo",
+            "number": 0
+         },
+         {
+            "card": "Denglong, First of the Yang Zing",
+            "number": 1
+         },
+         {
+            "card": "Destiny HERO - Malicious",
+            "number": 2
+         },
+         {
+            "card": "Dimension Fusion",
+            "number": 0
+         },
+         {
+            "card": "Dinowrestler Pankratops",
+            "number": 1
+         },
+         {
+            "card": "Divine Wind of Mist Valley",
+            "number": 1
+         },
+         {
+            "card": "Djinn Releaser of Rituals",
+            "number": 0
+         },
+         {
+            "card": "Dragonic Diagram",
+            "number": 1
+         },
+         {
+            "card": "Eclipse Wyvern",
+            "number": 0
+         },
+         {
+            "card": "Elder Entity Norden",
+            "number": 0
+         },
+         {
+            "card": "Eva",
+            "number": 0
+         },
+         {
+            "card": "Exodia the Forbidden One",
+            "number": 1
+         },
+         {
+            "card": "Fairy Tail - Snow",
+            "number": 0
+         },
+         {
+            "card": "Fiber Jar",
+            "number": 0
+         },
+         {
+            "card": "Final Countdown",
+            "number": 1
+         },
+         {
+            "card": "Fishborg Blaster",
+            "number": 0
+         },
+         {
+            "card": "Foolish Burial",
+            "number": 1
+         },
+         {
+            "card": "Gateway of the Six",
+            "number": 1
+         },
+         {
+            "card": "Gem-Knight Master Diamond",
+            "number": 1
+         },
+         {
+            "card": "Giant Trunade",
+            "number": 0
+         },
+         {
+            "card": "Glow-Up Bulb",
+            "number": 0
+         },
+         {
+            "card": "Gold Sarcophagus",
+            "number": 1
+         },
+         {
+            "card": "Graceful Charity",
+            "number": 0
+         },
+         {
+            "card": "Grinder Golem",
+            "number": 0
+         },
+         {
+            "card": "Guardragon Agarpain",
+            "number": 0
+         },
+         {
+            "card": "Guardragon Elpy",
+            "number": 0
+         },
+         {
+            "card": "Harpie's Feather Duster",
+            "number": 1
+         },
+         {
+            "card": "Heavy Storm",
+            "number": 0
+         },
+         {
+            "card": "Heavymetalfoes Electrumite",
+            "number": 0
+         },
+         {
+            "card": "Herald of Orange Light",
+            "number": 2
+         },
+         {
+            "card": "Ib the World Chalice Justiciar",
+            "number": 0
+         },
+         {
+            "card": "Imperial Order",
+            "number": 0
+         },
+         {
+            "card": "Infernity Archfiend",
+            "number": 1
+         },
+         {
+            "card": "Infernity Launcher",
+            "number": 1
+         },
+         {
+            "card": "Instant Fusion",
+            "number": 1
+         },
+         {
+            "card": "Into the Void",
+            "number": 1
+         },
+         {
+            "card": "Kaiser Colosseum",
+            "number": 0
+         },
+         {
+            "card": "Kashtira Arise-Heart",
+            "number": 1
+         },
+         {
+            "card": "Kashtira Unicorn",
+            "number": 2
+         },
+         {
+            "card": "Kelbek the Ancient Vanguard",
+            "number": 1
+         },
+         {
+            "card": "Keldo the Sacred Protector",
+            "number": 1
+         },
+         {
+            "card": "Knightmare Goblin",
+            "number": 0
+         },
+         {
+            "card": "Knightmare Mermaid",
+            "number": 0
+         },
+         {
+            "card": "Last Turn",
+            "number": 0
+         },
+         {
+            "card": "Last Will",
+            "number": 0
+         },
+         {
+            "card": "Lavalval Chain",
+            "number": 0
+         },
+         {
+            "card": "Left Arm of the Forbidden One",
+            "number": 1
+         },
+         {
+            "card": "Left Leg of the Forbidden One",
+            "number": 1
+         },
+         {
+            "card": "Level Eater",
+            "number": 0
+         },
+         {
+            "card": "Lightning Storm",
+            "number": 2
+         },
+         {
+            "card": "Linkross",
+            "number": 0
+         },
+         {
+            "card": "Lunalight Tiger",
+            "number": 1
+         },
+         {
+            "card": "M-X-Saber Invoker",
+            "number": 0
+         },
+         {
+            "card": "Magical Explosion",
+            "number": 1
+         },
+         {
+            "card": "Magical Mid-Breaker Field",
+            "number": 1
+         },
+         {
+            "card": "Magical Scientist",
+            "number": 0
+         },
+         {
+            "card": "Majespecter Unicorn - Kirin",
+            "number": 0
+         },
+         {
+            "card": "Mass Driver",
+            "number": 0
+         },
+         {
+            "card": "Master Peace, the True Dracoslaying King",
+            "number": 0
+         },
+         {
+            "card": "Mathmech Circular",
+            "number": 1
+         },
+         {
+            "card": "Maxx \"C\"",
+            "number": 0
+         },
+         {
+            "card": "Mecha Phantom Beast Auroradon",
+            "number": 0
+         },
+         {
+            "card": "Metamorphosis",
+            "number": 0
+         },
+         {
+            "card": "Mind Control",
+            "number": 1
+         },
+         {
+            "card": "Mind Master",
+            "number": 0
+         },
+         {
+            "card": "Mirage of Nightmare",
+            "number": 0
+         },
+         {
+            "card": "Miscellaneousaurus",
+            "number": 1
+         },
+         {
+            "card": "Monster Gate",
+            "number": 1
+         },
+         {
+            "card": "Monster Reborn",
+            "number": 1
+         },
+         {
+            "card": "Morphing Jar",
+            "number": 1
+         },
+         {
+            "card": "Mudora the Sword Oracle",
+            "number": 1
+         },
+         {
+            "card": "Mystic Mine",
+            "number": 0
+         },
+         {
+            "card": "Naturia Sacred Tree",
+            "number": 1
+         },
+         {
+            "card": "Number 16: Shock Master",
+            "number": 0
+         },
+         {
+            "card": "Number 42: Galaxy Tomahawk",
+            "number": 0
+         },
+         {
+            "card": "Number 86: Heroic Champion - Rhongomyniad",
+            "number": 0
+         },
+         {
+            "card": "Number 89: Diablosis the Mind Hacker",
+            "number": 0
+         },
+         {
+            "card": "Number 95: Galaxy-Eyes Dark Matter Dragon",
+            "number": 0
+         },
+         {
+            "card": "Number S0: Utopic ZEXAL",
+            "number": 0
+         },
+         {
+            "card": "One Day of Peace",
+            "number": 1
+         },
+         {
+            "card": "One for One",
+            "number": 1
+         },
+         {
+            "card": "Orcust Harp Horror",
+            "number": 0
+         },
+         {
+            "card": "Outer Entity Azathot",
+            "number": 0
+         },
+         {
+            "card": "Painful Choice",
+            "number": 0
+         },
+         {
+            "card": "Performage Plushfire",
+            "number": 0
+         },
+         {
+            "card": "Performapal Monkeyboard",
+            "number": 1
+         },
+         {
+            "card": "Phantom Skyblaster",
+            "number": 1
+         },
+         {
+            "card": "Phoenixian Cluster Amaryllis",
+            "number": 0
+         },
+         {
+            "card": "Pot of Desires",
+            "number": 2
+         },
+         {
+            "card": "Pot of Greed",
+            "number": 0
+         },
+         {
+            "card": "Prank-Kids Meow-Meow-Mu",
+            "number": 0
+         },
+         {
+            "card": "Predaplant Verte Anaconda",
+            "number": 0
+         },
+         {
+            "card": "Premature Burial",
+            "number": 0
+         },
+         {
+            "card": "PSY-Framegear Gamma",
+            "number": 1
+         },
+         {
+            "card": "PSY-Framelord Omega",
+            "number": 1
+         },
+         {
+            "card": "Purrely Delicious Memory",
+            "number": 1
+         },
+         {
+            "card": "Reasoning",
+            "number": 1
+         },
+         {
+            "card": "Red Reboot",
+            "number": 0
+         },
+         {
+            "card": "Red Rose Dragon",
+            "number": 1
+         },
+         {
+            "card": "Redox, Dragon Ruler of Boulders",
+            "number": 0
+         },
+         {
+            "card": "Reinforcement of the Army",
+            "number": 1
+         },
+         {
+            "card": "Return from the Different Dimension",
+            "number": 0
+         },
+         {
+            "card": "Right Arm of the Forbidden One",
+            "number": 1
+         },
+         {
+            "card": "Right Leg of the Forbidden One",
+            "number": 1
+         },
+         {
+            "card": "Ronintoadin",
+            "number": 0
+         },
+         {
+            "card": "Royal Oppression",
+            "number": 0
+         },
+         {
+            "card": "Runick Fountain",
+            "number": 2
+         },
+         {
+            "card": "Salamangreat Gazelle",
+            "number": 1
+         },
+         {
+            "card": "Sekka's Light",
+            "number": 1
+         },
+         {
+            "card": "Self-Destruct Button",
+            "number": 0
+         },
+         {
+            "card": "Set Rotation",
+            "number": 1
+         },
+         {
+            "card": "Simorgh, Bird of Sovereignty",
+            "number": 0
+         },
+         {
+            "card": "Sixth Sense",
+            "number": 0
+         },
+         {
+            "card": "Sky Striker Mecha - Hornet Drones",
+            "number": 1
+         },
+         {
+            "card": "Sky Striker Mobilize - Engage!",
+            "number": 2
+         },
+         {
+            "card": "Slash Draw",
+            "number": 1
+         },
+         {
+            "card": "Smoke Grenade of the Thief",
+            "number": 0
+         },
+         {
+            "card": "Snatch Steal",
+            "number": 0
+         },
+         {
+            "card": "Soul Charge",
+            "number": 0
+         },
+         {
+            "card": "Speedroid Terrortop",
+            "number": 1
+         },
+         {
+            "card": "Spellbook of Judgment",
+            "number": 1
+         },
+         {
+            "card": "Spright Elf",
+            "number": 0
+         },
+         {
+            "card": "Spright Starter",
+            "number": 2
+         },
+         {
+            "card": "SPYRAL Master Plan",
+            "number": 0
+         },
+         {
+            "card": "Striker Dragon",
+            "number": 1
+         },
+         {
+            "card": "Substitoad",
+            "number": 1
+         },
+         {
+            "card": "Summon Sorceress",
+            "number": 0
+         },
+         {
+            "card": "Superheavy Samurai Scarecrow",
+            "number": 0
+         },
+         {
+            "card": "Supreme King Dragon Starving Venom",
+            "number": 0
+         },
+         {
+            "card": "T.G. Hyper Librarian",
+            "number": 1
+         },
+         {
+            "card": "Tearlaments Havnis",
+            "number": 1
+         },
+         {
+            "card": "Tearlaments Kitkallos",
+            "number": 0
+         },
+         {
+            "card": "Tearlaments Merrli",
+            "number": 1
+         },
+         {
+            "card": "Tearlaments Scheiren",
+            "number": 1
+         },
+         {
+            "card": "Tempest Magician",
+            "number": 0
+         },
+         {
+            "card": "Tempest, Dragon Ruler of Storms",
+            "number": 1
+         },
+         {
+            "card": "Terraforming",
+            "number": 1
+         },
+         {
+            "card": "That Grass Looks Greener",
+            "number": 0
+         },
+         {
+            "card": "The Forceful Sentry",
+            "number": 0
+         },
+         {
+            "card": "The Tyrant Neptune",
+            "number": 0
+         },
+         {
+            "card": "Thunder Dragon Colossus",
+            "number": 0
+         },
+         {
+            "card": "Tidal, Dragon Ruler of Waterfalls",
+            "number": 0
+         },
+         {
+            "card": "Time Seal",
+            "number": 1
+         },
+         {
+            "card": "Topologic Gumblar Dragon",
+            "number": 0
+         },
+         {
+            "card": "Trap Dustshoot",
+            "number": 0
+         },
+         {
+            "card": "True King of All Calamities",
+            "number": 0
+         },
+         {
+            "card": "Ultimate Offering",
+            "number": 0
+         },
+         {
+            "card": "Union Carrier",
+            "number": 0
+         },
+         {
+            "card": "Upstart Goblin",
+            "number": 1
+         },
+         {
+            "card": "Vanity's Emptiness",
+            "number": 0
+         },
+         {
+            "card": "Victory Dragon",
+            "number": 0
+         },
+         {
+            "card": "White Dragon Wyverburster",
+            "number": 1
+         },
+         {
+            "card": "Wind-Up Carrier Zenmaity",
+            "number": 0
+         },
+         {
+            "card": "Zoodiac Barrage",
+            "number": 0
+         },
+         {
+            "card": "Zoodiac Broadbull",
+            "number": 0
+         },
+         {
+            "card": "Zoodiac Drident",
+            "number": 0
+         },
+         {
+            "card": "Zoodiac Ratpier",
+            "number": 1
+         }
+      ]
+   },
+   {
+      "date": "2023-9",
+      "cards": [
+         {
+            "card": "Agido the Ancient Sentinel",
+            "number": 1
+         },
+         {
+            "card": "Ancient Fairy Dragon",
+            "number": 1
+         },
+         {
+            "card": "Appointer of the Red Lotus",
+            "number": 0
+         },
+         {
+            "card": "Archnemeses Protos",
+            "number": 0
+         },
+         {
+            "card": "Armageddon Knight",
+            "number": 1
+         },
+         {
+            "card": "Artifact Scythe",
+            "number": 0
+         },
+         {
+            "card": "Astrograph Sorcerer",
+            "number": 1
+         },
+         {
+            "card": "Barrier Statue of the Stormwinds",
+            "number": 0
+         },
+         {
+            "card": "Beatrice, Lady of the Eternal",
+            "number": 1
+         },
+         {
+            "card": "Black Dragon Collapserpent",
+            "number": 1
+         },
+         {
+            "card": "Blackwing - Gofu the Vague Shadow",
+            "number": 0
+         },
+         {
+            "card": "Blaster, Dragon Ruler of Infernos",
+            "number": 1
+         },
+         {
+            "card": "Block Dragon",
+            "number": 0
+         },
+         {
+            "card": "Branded Expulsion",
+            "number": 0
+         },
+         {
+            "card": "Brilliant Fusion",
+            "number": 0
+         },
+         {
+            "card": "Butterfly Dagger - Elma",
+            "number": 0
+         },
+         {
+            "card": "Bystial Magnamhut",
+            "number": 1
+         },
+         {
+            "card": "Called by the Grave",
+            "number": 1
+         },
+         {
+            "card": "Card Destruction",
+            "number": 1
+         },
+         {
+            "card": "Card of Demise",
+            "number": 1
+         },
+         {
+            "card": "Card of Safe Return",
+            "number": 0
+         },
+         {
+            "card": "Chain Strike",
+            "number": 1
+         },
+         {
+            "card": "Change of Heart",
+            "number": 1
+         },
+         {
+            "card": "Chaos Ruler, the Chaotic Magical Dragon",
+            "number": 0
+         },
+         {
+            "card": "Chaos Space",
+            "number": 1
+         },
+         {
+            "card": "Chicken Game",
+            "number": 0
+         },
+         {
+            "card": "Cold Wave",
+            "number": 0
+         },
+         {
+            "card": "Confiscation",
+            "number": 0
+         },
+         {
+            "card": "Crystron Halqifibrax",
+            "number": 0
+         },
+         {
+            "card": "Curious, the Lightsworn Dominion",
+            "number": 0
+         },
+         {
+            "card": "Cyber Jar",
+            "number": 1
+         },
+         {
+            "card": "Cyber-Stein",
+            "number": 0
+         },
+         {
+            "card": "Daigusto Emeral",
+            "number": 1
+         },
+         {
+            "card": "Dandylion",
+            "number": 0
+         },
+         {
+            "card": "Danger!? Jackalope?",
+            "number": 1
+         },
+         {
+            "card": "Danger!? Tsuchinoko?",
+            "number": 1
+         },
+         {
+            "card": "Dark Grepher",
+            "number": 1
+         },
+         {
+            "card": "Delinquent Duo",
+            "number": 0
+         },
+         {
+            "card": "Denglong, First of the Yang Zing",
+            "number": 1
+         },
+         {
+            "card": "Destiny HERO - Malicious",
+            "number": 2
+         },
+         {
+            "card": "Dimension Fusion",
+            "number": 0
+         },
+         {
+            "card": "Dinowrestler Pankratops",
+            "number": 1
+         },
+         {
+            "card": "Divine Wind of Mist Valley",
+            "number": 1
+         },
+         {
+            "card": "Djinn Releaser of Rituals",
+            "number": 0
+         },
+         {
+            "card": "Dragonic Diagram",
+            "number": 1
+         },
+         {
+            "card": "Eclipse Wyvern",
+            "number": 0
+         },
+         {
+            "card": "Elder Entity Norden",
+            "number": 0
+         },
+         {
+            "card": "Eva",
+            "number": 0
+         },
+         {
+            "card": "Exodia the Forbidden One",
+            "number": 1
+         },
+         {
+            "card": "Fairy Tail - Snow",
+            "number": 0
+         },
+         {
+            "card": "Fiber Jar",
+            "number": 0
+         },
+         {
+            "card": "Final Countdown",
+            "number": 1
+         },
+         {
+            "card": "Fishborg Blaster",
+            "number": 0
+         },
+         {
+            "card": "Foolish Burial",
+            "number": 1
+         },
+         {
+            "card": "Gateway of the Six",
+            "number": 1
+         },
+         {
+            "card": "Gem-Knight Master Diamond",
+            "number": 1
+         },
+         {
+            "card": "Giant Trunade",
+            "number": 0
+         },
+         {
+            "card": "Glow-Up Bulb",
+            "number": 0
+         },
+         {
+            "card": "Gold Sarcophagus",
+            "number": 1
+         },
+         {
+            "card": "Graceful Charity",
+            "number": 0
+         },
+         {
+            "card": "Grinder Golem",
+            "number": 0
+         },
+         {
+            "card": "Guardragon Agarpain",
+            "number": 0
+         },
+         {
+            "card": "Guardragon Elpy",
+            "number": 0
+         },
+         {
+            "card": "Harpie's Feather Duster",
+            "number": 1
+         },
+         {
+            "card": "Heavy Storm",
+            "number": 0
+         },
+         {
+            "card": "Heavymetalfoes Electrumite",
+            "number": 0
+         },
+         {
+            "card": "Ib the World Chalice Justiciar",
+            "number": 0
+         },
+         {
+            "card": "Imperial Order",
+            "number": 0
+         },
+         {
+            "card": "Infernity Archfiend",
+            "number": 1
+         },
+         {
+            "card": "Infernity Launcher",
+            "number": 1
+         },
+         {
+            "card": "Instant Fusion",
+            "number": 1
+         },
+         {
+            "card": "Into the Void",
+            "number": 1
+         },
+         {
+            "card": "Kaiser Colosseum",
+            "number": 0
+         },
+         {
+            "card": "Kashtira Arise-Heart",
+            "number": 0
+         },
+         {
+            "card": "Kashtira Unicorn",
+            "number": 2
+         },
+         {
+            "card": "Kelbek the Ancient Vanguard",
+            "number": 1
+         },
+         {
+            "card": "Keldo the Sacred Protector",
+            "number": 1
+         },
+         {
+            "card": "Knightmare Goblin",
+            "number": 0
+         },
+         {
+            "card": "Knightmare Mermaid",
+            "number": 0
+         },
+         {
+            "card": "Last Turn",
+            "number": 0
+         },
+         {
+            "card": "Last Will",
+            "number": 0
+         },
+         {
+            "card": "Lavalval Chain",
+            "number": 0
+         },
+         {
+            "card": "Left Arm of the Forbidden One",
+            "number": 1
+         },
+         {
+            "card": "Left Leg of the Forbidden One",
+            "number": 1
+         },
+         {
+            "card": "Level Eater",
+            "number": 0
+         },
+         {
+            "card": "Lightning Storm",
+            "number": 2
+         },
+         {
+            "card": "Linkross",
+            "number": 0
+         },
+         {
+            "card": "Lunalight Tiger",
+            "number": 1
+         },
+         {
+            "card": "M-X-Saber Invoker",
+            "number": 0
+         },
+         {
+            "card": "Magical Explosion",
+            "number": 1
+         },
+         {
+            "card": "Magical Mid-Breaker Field",
+            "number": 1
+         },
+         {
+            "card": "Magical Scientist",
+            "number": 0
+         },
+         {
+            "card": "Majespecter Unicorn - Kirin",
+            "number": 0
+         },
+         {
+            "card": "Mass Driver",
+            "number": 0
+         },
+         {
+            "card": "Master Peace, the True Dracoslaying King",
+            "number": 0
+         },
+         {
+            "card": "Mathmech Circular",
+            "number": 1
+         },
+         {
+            "card": "Maxx \"C\"",
+            "number": 0
+         },
+         {
+            "card": "Mecha Phantom Beast Auroradon",
+            "number": 0
+         },
+         {
+            "card": "Metamorphosis",
+            "number": 0
+         },
+         {
+            "card": "Mind Control",
+            "number": 1
+         },
+         {
+            "card": "Mind Master",
+            "number": 0
+         },
+         {
+            "card": "Mirage of Nightmare",
+            "number": 0
+         },
+         {
+            "card": "Miscellaneousaurus",
+            "number": 1
+         },
+         {
+            "card": "Monster Gate",
+            "number": 1
+         },
+         {
+            "card": "Monster Reborn",
+            "number": 1
+         },
+         {
+            "card": "Morphing Jar",
+            "number": 1
+         },
+         {
+            "card": "Mudora the Sword Oracle",
+            "number": 1
+         },
+         {
+            "card": "Mystic Mine",
+            "number": 0
+         },
+         {
+            "card": "Naturia Sacred Tree",
+            "number": 1
+         },
+         {
+            "card": "Number 16: Shock Master",
+            "number": 0
+         },
+         {
+            "card": "Number 42: Galaxy Tomahawk",
+            "number": 0
+         },
+         {
+            "card": "Number 86: Heroic Champion - Rhongomyniad",
+            "number": 0
+         },
+         {
+            "card": "Number 89: Diablosis the Mind Hacker",
+            "number": 0
+         },
+         {
+            "card": "Number 95: Galaxy-Eyes Dark Matter Dragon",
+            "number": 0
+         },
+         {
+            "card": "Number S0: Utopic ZEXAL",
+            "number": 0
+         },
+         {
+            "card": "One Day of Peace",
+            "number": 1
+         },
+         {
+            "card": "One for One",
+            "number": 1
+         },
+         {
+            "card": "Orcust Harp Horror",
+            "number": 0
+         },
+         {
+            "card": "Outer Entity Azathot",
+            "number": 0
+         },
+         {
+            "card": "Painful Choice",
+            "number": 0
+         },
+         {
+            "card": "Performage Plushfire",
+            "number": 0
+         },
+         {
+            "card": "Performapal Monkeyboard",
+            "number": 1
+         },
+         {
+            "card": "Phantom Skyblaster",
+            "number": 1
+         },
+         {
+            "card": "Phoenixian Cluster Amaryllis",
+            "number": 0
+         },
+         {
+            "card": "Pot of Desires",
+            "number": 2
+         },
+         {
+            "card": "Pot of Greed",
+            "number": 0
+         },
+         {
+            "card": "Prank-Kids Meow-Meow-Mu",
+            "number": 0
+         },
+         {
+            "card": "Predaplant Verte Anaconda",
+            "number": 0
+         },
+         {
+            "card": "Premature Burial",
+            "number": 0
+         },
+         {
+            "card": "PSY-Framegear Gamma",
+            "number": 1
+         },
+         {
+            "card": "PSY-Framelord Omega",
+            "number": 1
+         },
+         {
+            "card": "Purrely Delicious Memory",
+            "number": 1
+         },
+         {
+            "card": "Reasoning",
+            "number": 1
+         },
+         {
+            "card": "Red Reboot",
+            "number": 0
+         },
+         {
+            "card": "Red Rose Dragon",
+            "number": 1
+         },
+         {
+            "card": "Redox, Dragon Ruler of Boulders",
+            "number": 0
+         },
+         {
+            "card": "Reinforcement of the Army",
+            "number": 1
+         },
+         {
+            "card": "Return from the Different Dimension",
+            "number": 0
+         },
+         {
+            "card": "Right Arm of the Forbidden One",
+            "number": 1
+         },
+         {
+            "card": "Right Leg of the Forbidden One",
+            "number": 1
+         },
+         {
+            "card": "Ronintoadin",
+            "number": 0
+         },
+         {
+            "card": "Royal Oppression",
+            "number": 0
+         },
+         {
+            "card": "Runick Fountain",
+            "number": 2
+         },
+         {
+            "card": "Sekka's Light",
+            "number": 1
+         },
+         {
+            "card": "Self-Destruct Button",
+            "number": 0
+         },
+         {
+            "card": "Set Rotation",
+            "number": 1
+         },
+         {
+            "card": "Simorgh, Bird of Sovereignty",
+            "number": 0
+         },
+         {
+            "card": "Sixth Sense",
+            "number": 0
+         },
+         {
+            "card": "Sky Striker Mecha - Hornet Drones",
+            "number": 1
+         },
+         {
+            "card": "Sky Striker Mobilize - Engage!",
+            "number": 2
+         },
+         {
+            "card": "Slash Draw",
+            "number": 1
+         },
+         {
+            "card": "Smoke Grenade of the Thief",
+            "number": 0
+         },
+         {
+            "card": "Snatch Steal",
+            "number": 0
+         },
+         {
+            "card": "Soul Charge",
+            "number": 0
+         },
+         {
+            "card": "Speedroid Terrortop",
+            "number": 1
+         },
+         {
+            "card": "Spellbook of Judgment",
+            "number": 1
+         },
+         {
+            "card": "Spright Elf",
+            "number": 0
+         },
+         {
+            "card": "Spright Starter",
+            "number": 2
+         },
+         {
+            "card": "SPYRAL Master Plan",
+            "number": 0
+         },
+         {
+            "card": "Striker Dragon",
+            "number": 1
+         },
+         {
+            "card": "Substitoad",
+            "number": 1
+         },
+         {
+            "card": "Summon Sorceress",
+            "number": 0
+         },
+         {
+            "card": "Superheavy Samurai Scarecrow",
+            "number": 0
+         },
+         {
+            "card": "Supreme King Dragon Starving Venom",
+            "number": 0
+         },
+         {
+            "card": "T.G. Hyper Librarian",
+            "number": 1
+         },
+         {
+            "card": "Tearlaments Havnis",
+            "number": 1
+         },
+         {
+            "card": "Tearlaments Kitkallos",
+            "number": 0
+         },
+         {
+            "card": "Tearlaments Merrli",
+            "number": 1
+         },
+         {
+            "card": "Tearlaments Scheiren",
+            "number": 1
+         },
+         {
+            "card": "Tempest Magician",
+            "number": 0
+         },
+         {
+            "card": "Tempest, Dragon Ruler of Storms",
+            "number": 1
+         },
+         {
+            "card": "Terraforming",
+            "number": 1
+         },
+         {
+            "card": "That Grass Looks Greener",
+            "number": 0
+         },
+         {
+            "card": "The Forceful Sentry",
+            "number": 0
+         },
+         {
+            "card": "The Tyrant Neptune",
+            "number": 0
+         },
+         {
+            "card": "Thunder Dragon Colossus",
+            "number": 0
+         },
+         {
+            "card": "Tidal, Dragon Ruler of Waterfalls",
+            "number": 0
+         },
+         {
+            "card": "Time Seal",
+            "number": 1
+         },
+         {
+            "card": "Topologic Gumblar Dragon",
+            "number": 0
+         },
+         {
+            "card": "Trap Dustshoot",
+            "number": 0
+         },
+         {
+            "card": "True King of All Calamities",
+            "number": 0
+         },
+         {
+            "card": "Ultimate Offering",
+            "number": 0
+         },
+         {
+            "card": "Union Carrier",
+            "number": 0
+         },
+         {
+            "card": "Upstart Goblin",
+            "number": 1
+         },
+         {
+            "card": "Vanity's Emptiness",
+            "number": 0
+         },
+         {
+            "card": "Victory Dragon",
+            "number": 0
+         },
+         {
+            "card": "White Dragon Wyverburster",
+            "number": 1
+         },
+         {
+            "card": "Wind-Up Carrier Zenmaity",
+            "number": 0
+         },
+         {
+            "card": "Zoodiac Barrage",
+            "number": 0
+         },
+         {
+            "card": "Zoodiac Broadbull",
+            "number": 0
+         },
+         {
+            "card": "Zoodiac Drident",
+            "number": 0
+         },
+         {
+            "card": "Zoodiac Ratpier",
+            "number": 1
+         }
+      ]
+   },
+   {
+      "date": "2024-1",
+      "cards": [
+         {
+            "card": "Agido the Ancient Sentinel",
+            "number": 0
+         },
+         {
+            "card": "Ancient Fairy Dragon",
+            "number": 1
+         },
+         {
+            "card": "Appointer of the Red Lotus",
+            "number": 0
+         },
+         {
+            "card": "Archnemeses Protos",
+            "number": 0
+         },
+         {
+            "card": "Armageddon Knight",
+            "number": 1
+         },
+         {
+            "card": "Artifact Scythe",
+            "number": 0
+         },
+         {
+            "card": "Astrograph Sorcerer",
+            "number": 1
+         },
+         {
+            "card": "Barrier Statue of the Stormwinds",
+            "number": 0
+         },
+         {
+            "card": "Beatrice, Lady of the Eternal",
+            "number": 1
+         },
+         {
+            "card": "Black Dragon Collapserpent",
+            "number": 1
+         },
+         {
+            "card": "Blackwing - Gofu the Vague Shadow",
+            "number": 0
+         },
+         {
+            "card": "Blaster, Dragon Ruler of Infernos",
+            "number": 1
+         },
+         {
+            "card": "Block Dragon",
+            "number": 0
+         },
+         {
+            "card": "Branded Expulsion",
+            "number": 0
+         },
+         {
+            "card": "Brilliant Fusion",
+            "number": 0
+         },
+         {
+            "card": "Butterfly Dagger - Elma",
+            "number": 0
+         },
+         {
+            "card": "Bystial Magnamhut",
+            "number": 1
+         },
+         {
+            "card": "Called by the Grave",
+            "number": 1
+         },
+         {
+            "card": "Card Destruction",
+            "number": 1
+         },
+         {
+            "card": "Card of Demise",
+            "number": 1
+         },
+         {
+            "card": "Card of Safe Return",
+            "number": 0
+         },
+         {
+            "card": "Chain Strike",
+            "number": 1
+         },
+         {
+            "card": "Change of Heart",
+            "number": 1
+         },
+         {
+            "card": "Chaos Ruler, the Chaotic Magical Dragon",
+            "number": 0
+         },
+         {
+            "card": "Chaos Space",
+            "number": 1
+         },
+         {
+            "card": "Chicken Game",
+            "number": 0
+         },
+         {
+            "card": "Cold Wave",
+            "number": 0
+         },
+         {
+            "card": "Confiscation",
+            "number": 0
+         },
+         {
+            "card": "Crystron Halqifibrax",
+            "number": 0
+         },
+         {
+            "card": "Curious, the Lightsworn Dominion",
+            "number": 0
+         },
+         {
+            "card": "Cyber Jar",
+            "number": 1
+         },
+         {
+            "card": "Cyber-Stein",
+            "number": 0
+         },
+         {
+            "card": "Daigusto Emeral",
+            "number": 1
+         },
+         {
+            "card": "Dandylion",
+            "number": 0
+         },
+         {
+            "card": "Danger!? Jackalope?",
+            "number": 1
+         },
+         {
+            "card": "Danger!? Tsuchinoko?",
+            "number": 1
+         },
+         {
+            "card": "Dark Grepher",
+            "number": 1
+         },
+         {
+            "card": "Delinquent Duo",
+            "number": 0
+         },
+         {
+            "card": "Denglong, First of the Yang Zing",
+            "number": 1
+         },
+         {
+            "card": "Destiny HERO - Malicious",
+            "number": 2
+         },
+         {
+            "card": "Dimension Fusion",
+            "number": 0
+         },
+         {
+            "card": "Dinowrestler Pankratops",
+            "number": 2
+         },
+         {
+            "card": "Divine Wind of Mist Valley",
+            "number": 1
+         },
+         {
+            "card": "Djinn Releaser of Rituals",
+            "number": 0
+         },
+         {
+            "card": "Dragonic Diagram",
+            "number": 1
+         },
+         {
+            "card": "Eclipse Wyvern",
+            "number": 0
+         },
+         {
+            "card": "Elder Entity Norden",
+            "number": 0
+         },
+         {
+            "card": "Eva",
+            "number": 0
+         },
+         {
+            "card": "Exodia the Forbidden One",
+            "number": 1
+         },
+         {
+            "card": "Fairy Tail - Snow",
+            "number": 0
+         },
+         {
+            "card": "Fiber Jar",
+            "number": 0
+         },
+         {
+            "card": "Final Countdown",
+            "number": 1
+         },
+         {
+            "card": "Fishborg Blaster",
+            "number": 0
+         },
+         {
+            "card": "Foolish Burial",
+            "number": 1
+         },
+         {
+            "card": "Gateway of the Six",
+            "number": 1
+         },
+         {
+            "card": "Gem-Knight Master Diamond",
+            "number": 1
+         },
+         {
+            "card": "Giant Trunade",
+            "number": 0
+         },
+         {
+            "card": "Glow-Up Bulb",
+            "number": 0
+         },
+         {
+            "card": "Gold Sarcophagus",
+            "number": 1
+         },
+         {
+            "card": "Gozen Match",
+            "number": 1
+         },
+         {
+            "card": "Graceful Charity",
+            "number": 0
+         },
+         {
+            "card": "Grinder Golem",
+            "number": 0
+         },
+         {
+            "card": "Guardragon Agarpain",
+            "number": 0
+         },
+         {
+            "card": "Guardragon Elpy",
+            "number": 0
+         },
+         {
+            "card": "Harpie's Feather Duster",
+            "number": 1
+         },
+         {
+            "card": "Heavy Storm",
+            "number": 0
+         },
+         {
+            "card": "Heavymetalfoes Electrumite",
+            "number": 0
+         },
+         {
+            "card": "Ib the World Chalice Justiciar",
+            "number": 1
+         },
+         {
+            "card": "Imperial Order",
+            "number": 0
+         },
+         {
+            "card": "Infernity Launcher",
+            "number": 1
+         },
+         {
+            "card": "Instant Fusion",
+            "number": 1
+         },
+         {
+            "card": "Into the Void",
+            "number": 1
+         },
+         {
+            "card": "Isolde, Two Tales of the Noble Knights",
+            "number": 0
+         },
+         {
+            "card": "Kaiser Colosseum",
+            "number": 0
+         },
+         {
+            "card": "Kashtira Arise-Heart",
+            "number": 0
+         },
+         {
+            "card": "Kelbek the Ancient Vanguard",
+            "number": 0
+         },
+         {
+            "card": "Keldo the Sacred Protector",
+            "number": 1
+         },
+         {
+            "card": "Knightmare Goblin",
+            "number": 0
+         },
+         {
+            "card": "Knightmare Mermaid",
+            "number": 0
+         },
+         {
+            "card": "Last Turn",
+            "number": 0
+         },
+         {
+            "card": "Last Will",
+            "number": 0
+         },
+         {
+            "card": "Lavalval Chain",
+            "number": 0
+         },
+         {
+            "card": "Left Arm of the Forbidden One",
+            "number": 1
+         },
+         {
+            "card": "Left Leg of the Forbidden One",
+            "number": 1
+         },
+         {
+            "card": "Level Eater",
+            "number": 0
+         },
+         {
+            "card": "Lightning Storm",
+            "number": 2
+         },
+         {
+            "card": "Linkross",
+            "number": 0
+         },
+         {
+            "card": "Lunalight Tiger",
+            "number": 1
+         },
+         {
+            "card": "M-X-Saber Invoker",
+            "number": 0
+         },
+         {
+            "card": "Magical Explosion",
+            "number": 1
+         },
+         {
+            "card": "Magical Mid-Breaker Field",
+            "number": 1
+         },
+         {
+            "card": "Magical Scientist",
+            "number": 0
+         },
+         {
+            "card": "Majespecter Unicorn - Kirin",
+            "number": 0
+         },
+         {
+            "card": "Mass Driver",
+            "number": 0
+         },
+         {
+            "card": "Master Peace, the True Dracoslaying King",
+            "number": 0
+         },
+         {
+            "card": "Mathmech Circular",
+            "number": 0
+         },
+         {
+            "card": "Maxx \"C\"",
+            "number": 0
+         },
+         {
+            "card": "Mecha Phantom Beast Auroradon",
+            "number": 0
+         },
+         {
+            "card": "Metamorphosis",
+            "number": 0
+         },
+         {
+            "card": "Mind Master",
+            "number": 0
+         },
+         {
+            "card": "Mirage of Nightmare",
+            "number": 0
+         },
+         {
+            "card": "Miscellaneousaurus",
+            "number": 1
+         },
+         {
+            "card": "Monster Gate",
+            "number": 1
+         },
+         {
+            "card": "Monster Reborn",
+            "number": 1
+         },
+         {
+            "card": "Morphing Jar",
+            "number": 1
+         },
+         {
+            "card": "Mudora the Sword Oracle",
+            "number": 1
+         },
+         {
+            "card": "Mystic Mine",
+            "number": 0
+         },
+         {
+            "card": "Naturia Sacred Tree",
+            "number": 1
+         },
+         {
+            "card": "Number 16: Shock Master",
+            "number": 0
+         },
+         {
+            "card": "Number 42: Galaxy Tomahawk",
+            "number": 0
+         },
+         {
+            "card": "Number 86: Heroic Champion - Rhongomyniad",
+            "number": 0
+         },
+         {
+            "card": "Number 89: Diablosis the Mind Hacker",
+            "number": 0
+         },
+         {
+            "card": "Number 95: Galaxy-Eyes Dark Matter Dragon",
+            "number": 0
+         },
+         {
+            "card": "Number S0: Utopic ZEXAL",
+            "number": 0
+         },
+         {
+            "card": "One Day of Peace",
+            "number": 1
+         },
+         {
+            "card": "One for One",
+            "number": 1
+         },
+         {
+            "card": "Orcust Harp Horror",
+            "number": 1
+         },
+         {
+            "card": "Outer Entity Azathot",
+            "number": 0
+         },
+         {
+            "card": "Painful Choice",
+            "number": 0
+         },
+         {
+            "card": "Performage Plushfire",
+            "number": 0
+         },
+         {
+            "card": "Performapal Monkeyboard",
+            "number": 1
+         },
+         {
+            "card": "Phantom Skyblaster",
+            "number": 1
+         },
+         {
+            "card": "Phoenixian Cluster Amaryllis",
+            "number": 0
+         },
+         {
+            "card": "Pot of Greed",
+            "number": 0
+         },
+         {
+            "card": "Prank-Kids Meow-Meow-Mu",
+            "number": 0
+         },
+         {
+            "card": "Predaplant Verte Anaconda",
+            "number": 0
+         },
+         {
+            "card": "Premature Burial",
+            "number": 0
+         },
+         {
+            "card": "PSY-Framegear Gamma",
+            "number": 1
+         },
+         {
+            "card": "PSY-Framelord Omega",
+            "number": 1
+         },
+         {
+            "card": "Purrely Delicious Memory",
+            "number": 1
+         },
+         {
+            "card": "Purrely Sleepy Memory",
+            "number": 2
+         },
+         {
+            "card": "Reasoning",
+            "number": 1
+         },
+         {
+            "card": "Red Reboot",
+            "number": 0
+         },
+         {
+            "card": "Red Rose Dragon",
+            "number": 1
+         },
+         {
+            "card": "Redox, Dragon Ruler of Boulders",
+            "number": 1
+         },
+         {
+            "card": "Reinforcement of the Army",
+            "number": 1
+         },
+         {
+            "card": "Rescue-ACE Air Lifter",
+            "number": 1
+         },
+         {
+            "card": "Return from the Different Dimension",
+            "number": 0
+         },
+         {
+            "card": "Right Arm of the Forbidden One",
+            "number": 1
+         },
+         {
+            "card": "Right Leg of the Forbidden One",
+            "number": 1
+         },
+         {
+            "card": "Rivalry of Warlords",
+            "number": 1
+         },
+         {
+            "card": "Ronintoadin",
+            "number": 0
+         },
+         {
+            "card": "Royal Oppression",
+            "number": 0
+         },
+         {
+            "card": "Runick Fountain",
+            "number": 2
+         },
+         {
+            "card": "Sekka's Light",
+            "number": 1
+         },
+         {
+            "card": "Self-Destruct Button",
+            "number": 0
+         },
+         {
+            "card": "Set Rotation",
+            "number": 1
+         },
+         {
+            "card": "Simorgh, Bird of Sovereignty",
+            "number": 0
+         },
+         {
+            "card": "Sixth Sense",
+            "number": 0
+         },
+         {
+            "card": "Sky Striker Mecha - Hornet Drones",
+            "number": 1
+         },
+         {
+            "card": "Sky Striker Mobilize - Engage!",
+            "number": 2
+         },
+         {
+            "card": "Slash Draw",
+            "number": 1
+         },
+         {
+            "card": "Smoke Grenade of the Thief",
+            "number": 0
+         },
+         {
+            "card": "Snatch Steal",
+            "number": 1
+         },
+         {
+            "card": "Soul Charge",
+            "number": 0
+         },
+         {
+            "card": "Speedroid Terrortop",
+            "number": 2
+         },
+         {
+            "card": "Spright Elf",
+            "number": 0
+         },
+         {
+            "card": "SPYRAL Master Plan",
+            "number": 0
+         },
+         {
+            "card": "Striker Dragon",
+            "number": 1
+         },
+         {
+            "card": "Substitoad",
+            "number": 1
+         },
+         {
+            "card": "Summon Sorceress",
+            "number": 0
+         },
+         {
+            "card": "Sunavalon Dryas",
+            "number": 1
+         },
+         {
+            "card": "Sunvine Healer",
+            "number": 1
+         },
+         {
+            "card": "Superheavy Samurai Scarecrow",
+            "number": 0
+         },
+         {
+            "card": "Supreme King Dragon Starving Venom",
+            "number": 0
+         },
+         {
+            "card": "T.G. Hyper Librarian",
+            "number": 1
+         },
+         {
+            "card": "Tearlaments Havnis",
+            "number": 1
+         },
+         {
+            "card": "Tearlaments Kitkallos",
+            "number": 0
+         },
+         {
+            "card": "Tearlaments Merrli",
+            "number": 1
+         },
+         {
+            "card": "Tearlaments Scheiren",
+            "number": 1
+         },
+         {
+            "card": "Tempest Magician",
+            "number": 0
+         },
+         {
+            "card": "Tempest, Dragon Ruler of Storms",
+            "number": 1
+         },
+         {
+            "card": "Terraforming",
+            "number": 1
+         },
+         {
+            "card": "That Grass Looks Greener",
+            "number": 0
+         },
+         {
+            "card": "The Forceful Sentry",
+            "number": 0
+         },
+         {
+            "card": "The Tyrant Neptune",
+            "number": 0
+         },
+         {
+            "card": "There Can Be Only One",
+            "number": 1
+         },
+         {
+            "card": "Thunder Dragon Colossus",
+            "number": 0
+         },
+         {
+            "card": "Tidal, Dragon Ruler of Waterfalls",
+            "number": 0
+         },
+         {
+            "card": "Time Seal",
+            "number": 1
+         },
+         {
+            "card": "Topologic Gumblar Dragon",
+            "number": 0
+         },
+         {
+            "card": "Trap Dustshoot",
+            "number": 0
+         },
+         {
+            "card": "True King of All Calamities",
+            "number": 0
+         },
+         {
+            "card": "Ultimate Offering",
+            "number": 0
+         },
+         {
+            "card": "Unchained Soul of Sharvara",
+            "number": 1
+         },
+         {
+            "card": "Union Carrier",
+            "number": 0
+         },
+         {
+            "card": "Vanity's Emptiness",
+            "number": 0
+         },
+         {
+            "card": "Victory Dragon",
+            "number": 0
+         },
+         {
+            "card": "White Dragon Wyverburster",
+            "number": 1
+         },
+         {
+            "card": "Wind-Up Carrier Zenmaity",
+            "number": 0
          },
          {
             "card": "Zoodiac Barrage",

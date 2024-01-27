@@ -225,9 +225,7 @@
       "semiLimitedCards": [
          "Reinforcement of the Army"
       ],
-      "cardsMissing": [
-         "Fusion Sword Murasame Blade"
-      ],
+      "cardsMissing": [],
       "cardsInCollection": [
          "Armed Samurai - Ben Kei",
          "Blast with Chain",
@@ -238,6 +236,7 @@
          "Divine Sword - Phoenix Blade",
          "Exiled Force",
          "Fairy of the Spring",
+         "Fusion Sword Murasame Blade",
          "Gearfried the Iron Knight",
          "Gearfried the Swordmaster",
          "Giant Trunade",
@@ -265,7 +264,7 @@
          "Warrior Lady of the Wasteland",
          "Wicked-Breaking Flamberge - Baou"
       ],
-      "numberOfCardsMissing": 1
+      "numberOfCardsMissing": 0
    },
    {
       "deck": "Structure Deck: Spellcaster's Judgment",
@@ -493,7 +492,9 @@
          "Ultimate Offering"
       ],
       "semiLimitedCards": [],
-      "cardsMissing": [],
+      "cardsMissing": [
+         "Heavy Storm"
+      ],
       "cardsInCollection": [
          "Ancient Gear",
          "Ancient Gear Beast",
@@ -517,7 +518,6 @@
          "Gear Golem the Moving Fortress",
          "Green Gadget",
          "Heavy Mech Support Platform",
-         "Heavy Storm",
          "Limiter Removal",
          "Machine Duplication",
          "Mechanicalchaser",
@@ -533,7 +533,7 @@
          "Weapon Change",
          "Yellow Gadget"
       ],
-      "numberOfCardsMissing": 0
+      "numberOfCardsMissing": 1
    },
    {
       "deck": "Rise of the Dragon Lords Structure Deck",
@@ -1109,9 +1109,7 @@
          "Magical Stone Excavation",
          "Summoner Monk"
       ],
-      "cardsMissing": [
-         "Snipe Hunter"
-      ],
+      "cardsMissing": [],
       "cardsInCollection": [
          "A Wingbeat of Giant Dragon",
          "Axe Dragonute",
@@ -1148,12 +1146,13 @@
          "Red-Eyes Black Dragon",
          "Red-Eyes Darkness Metal Dragon",
          "Ryko, Lightsworn Hunter",
+         "Snipe Hunter",
          "Summoner Monk",
          "The Flute of Summoning Dragon",
          "The White Stone of Legend",
          "Vice Dragon"
       ],
-      "numberOfCardsMissing": 1
+      "numberOfCardsMissing": 0
    },
    {
       "deck": "Samurai Warlords Structure Deck",
@@ -1439,11 +1438,12 @@
       ],
       "semiLimitedCards": [],
       "cardsMissing": [
-         "Beckoning Light"
+         "Ryko, Lightsworn Hunter"
       ],
       "cardsInCollection": [
          "Alexandrite Dragon",
          "Aurkus, Lightsworn Druid",
+         "Beckoning Light",
          "Blackwing - Zephyros the Elite",
          "Breakthrough Skill",
          "Celestia, Lightsworn Angel",
@@ -1469,7 +1469,6 @@
          "Necro Gardna",
          "Raiden, Hand of the Lightsworn",
          "Realm of Light",
-         "Ryko, Lightsworn Hunter",
          "Shire, Lightsworn Spirit",
          "Skill Successor",
          "Solar Recharge",
@@ -2060,7 +2059,8 @@
       "date": "2017-04-13",
       "forbiddenCards": [],
       "limitedCards": [
-         "Limiter Removal"
+         "Limiter Removal",
+         "Maxx \"C\""
       ],
       "semiLimitedCards": [
          "Card Trooper"
@@ -2099,7 +2099,7 @@
          "Machine Duplication",
          "Machine King - 3000 B.C.",
          "Mausoleum of the Emperor",
-         "Maxx C",
+         "Maxx \"C\"",
          "Minefieldriller",
          "Mischief of the Gnomes",
          "Planet Pathfinder",
@@ -2179,15 +2179,14 @@
          "Solemn Warning"
       ],
       "semiLimitedCards": [],
-      "cardsMissing": [
-         "Celestial Transformation"
-      ],
+      "cardsMissing": [],
       "cardsInCollection": [
          "Airknight Parshath",
          "Archlord Kristya",
          "Athena",
          "Bountiful Artemis",
          "Cards from the Sky",
+         "Celestial Transformation",
          "D.D. Sprite",
          "Dark Bribe",
          "Divine Punishment",
@@ -2225,7 +2224,7 @@
          "Ultimate Providence",
          "Valhalla, Hall of the Fallen"
       ],
-      "numberOfCardsMissing": 1
+      "numberOfCardsMissing": 0
    },
    {
       "deck": "Structure Deck: Lair of Darkness",
@@ -3124,13 +3123,14 @@
          "Metaverse"
       ],
       "semiLimitedCards": [],
-      "cardsMissing": [],
+      "cardsMissing": [
+         "Contact \"C\""
+      ],
       "cardsInCollection": [
          "Advanced Dark",
          "Ancient City - Rainbow Ruins",
          "Ash Blossom & Joyous Spring",
          "Awakening of the Crystal Ultimates",
-         "Contact C",
          "Cosmic Cyclone",
          "Counter Gem",
          "Crystal Abundance",
@@ -3173,7 +3173,7 @@
          "Ultimate Crystal Magic",
          "Ultimate Crystal Rainbow Dragon Overdrive"
       ],
-      "numberOfCardsMissing": 0
+      "numberOfCardsMissing": 1
    },
    {
       "deck": "Structure Deck: Dark World",
@@ -3242,7 +3242,9 @@
          "Harpie's Feather Duster"
       ],
       "semiLimitedCards": [],
-      "cardsMissing": [],
+      "cardsMissing": [
+         "Retaliating \"C\""
+      ],
       "cardsInCollection": [
          "Artifact Moralltach",
          "Artifact Sanctum",
@@ -3262,7 +3264,6 @@
          "Naturia Sacred Tree",
          "Raigeki",
          "Resonance Insect",
-         "Retaliating C",
          "Rose Lover",
          "Sauge de Fleur",
          "Terrifying Trap Hole Nightmare",
@@ -3290,6 +3291,124 @@
          "Traptrix Trap Hole Nightmare",
          "Traptrix Vesiculo",
          "Void Trap Hole"
+      ],
+      "numberOfCardsMissing": 1
+   },
+   {
+      "deck": "Structure Deck: The Crimson King",
+      "date": "2023-09-21",
+      "forbiddenCards": [],
+      "limitedCards": [],
+      "semiLimitedCards": [],
+      "cardsMissing": [],
+      "cardsInCollection": [
+         "Absolute King Back Jack",
+         "Ascator, Dawnwalker",
+         "Assault Beast",
+         "Assault Mode Activate",
+         "Battle Fader",
+         "Bone Archfiend",
+         "Creation Resonator",
+         "Crimson Gaia",
+         "Crimson Resonator",
+         "Danger! Chupacabra!",
+         "Danger! Nessie!",
+         "Dark Resonator",
+         "Fiendish Chain",
+         "Fiendish Golem",
+         "Fire Ant Ascator",
+         "Hot Red Dragon Archfiend Abyss",
+         "Hot Red Dragon Archfiend Bane",
+         "Hot Red Dragon Archfiend King Calamity",
+         "King's Synchro",
+         "Magical King Moonstar",
+         "Phantom King Hydride",
+         "Pot of Extravagance",
+         "Powerful Rebirth",
+         "Psi-Reflector",
+         "Red Dragon Archfiend",
+         "Red Dragon Archfiend/Assault Mode",
+         "Red Nova Dragon",
+         "Red Reign",
+         "Red Resonator",
+         "Red Rising Dragon",
+         "Red Sprinter",
+         "Red Supernova Dragon",
+         "Red Warg",
+         "Red Zone",
+         "Resonator Call",
+         "Resonator Command",
+         "Resonator Engine",
+         "Scarlight Red Dragon Archfiend",
+         "Scarred Dragon Archfiend",
+         "Soul Resonator",
+         "Synkron Resonator",
+         "Terrors of the Overroot",
+         "Time to Stand Up",
+         "Vice Dragon",
+         "Vision Resonator",
+         "Wandering King Wildwind",
+         "Witch of the Black Forest"
+      ],
+      "numberOfCardsMissing": 0
+   },
+   {
+      "deck": "Structure Deck: Fire Kings",
+      "date": "2023-12-07",
+      "forbiddenCards": [
+         "Blaster, Dragon Ruler of Infernos"
+      ],
+      "limitedCards": [],
+      "semiLimitedCards": [],
+      "cardsMissing": [],
+      "cardsInCollection": [
+         "Alpha, the Master of Beasts",
+         "Bonfire Colossus",
+         "Burner, Dragon Ruler of Sparks",
+         "Chain Destruction",
+         "Circle of the Fire Kings",
+         "Coach Captain Bearman",
+         "Coach King Giantrainer",
+         "Coach Soldier Wolfbark",
+         "Dark Hole",
+         "Diamond Dire Wolf",
+         "Dogoran, the Mad Flame Kaiju",
+         "Droll & Lock Bird",
+         "Echelon of the Fire Kings",
+         "Fencing Fire Ferret",
+         "Fire Formation - Tenki",
+         "Fire King Avatar Arvata",
+         "Fire King Avatar Barong",
+         "Fire King Avatar Garunix",
+         "Fire King Avatar Kirin",
+         "Fire King Avatar Rangbali",
+         "Fire King Avatar Yaksha",
+         "Fire King High Avatar Garunix",
+         "Fire King High Avatar Kirin",
+         "Fire King Island",
+         "Fire King Sanctuary",
+         "Fire King Sky Burn",
+         "Firebrand Hymnist",
+         "Flamvell Counter",
+         "Garunix Eternity, Hyang of the Fire Kings",
+         "Herald of the Abyss",
+         "Hiita the Fire Charmer, Ablaze",
+         "Infernal Flame Emperor",
+         "Infinite Impermanence",
+         "Legendary Fire King Ponix",
+         "Onslaught of the Fire Kings",
+         "Powersink Stone",
+         "Rekindling",
+         "Royal Firestorm Guards",
+         "Sacred Fire King Garunix",
+         "Sacred Phoenix of Nephthys",
+         "Solemn Judgment",
+         "Spirit of Flames",
+         "Spiritual Fire Art - Kurenai",
+         "The Blazing Mars",
+         "Torrential Tribute",
+         "Trade-In",
+         "True King Agnimazud, the Vanisher"
       ],
       "numberOfCardsMissing": 0
    }
