@@ -7785,10 +7785,10 @@
    {
       "deck": "Structure Deck: Fire Kings",
       "date": "2023-12-07",
-      "forbiddenCards": [
+      "forbiddenCards": [],
+      "limitedCards": [
          "Blaster, Dragon Ruler of Infernos"
       ],
-      "limitedCards": [],
       "semiLimitedCards": [],
       "cardsMissing": [
          "Circle of the Fire Kings",
@@ -7804,6 +7804,7 @@
          "Alpha, the Master of Beasts",
          "Alpha, the Master of Beasts",
          "Alpha, the Master of Beasts",
+         "Blaster, Dragon Ruler of Infernos",
          "Bonfire Colossus",
          "Bonfire Colossus",
          "Bonfire Colossus",
