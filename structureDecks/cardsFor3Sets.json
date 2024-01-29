@@ -2059,6 +2059,7 @@
          "Beckoning Light",
          "Celestial Transformation",
          "Consecrated Light",
+         "Consecrated Light",
          "Divine Punishment",
          "Hanewata",
          "Master Hyperion",
@@ -2104,7 +2105,6 @@
          "Cards from the Sky",
          "Celestial Transformation",
          "Celestial Transformation",
-         "Consecrated Light",
          "Consecrated Light",
          "Divine Punishment",
          "Divine Punishment",
@@ -2160,7 +2160,7 @@
          "Victoria",
          "Zeradias, Herald of Heaven"
       ],
-      "numberOfCardsMissing": 34
+      "numberOfCardsMissing": 35
    },
    {
       "deck": "Gates of the Underworld Structure Deck",
@@ -2964,6 +2964,7 @@
          "Malevolent Catastrophe",
          "Malevolent Catastrophe",
          "Satellite Cannon",
+         "Trap Stun",
          "Waboku",
          "Waboku",
          "Waboku"
@@ -3063,10 +3064,9 @@
          "Three of a Kind",
          "Three of a Kind",
          "Trap Stun",
-         "Trap Stun",
          "Trap Stun"
       ],
-      "numberOfCardsMissing": 15
+      "numberOfCardsMissing": 16
    },
    {
       "deck": "Realm of Light Structure Deck",
@@ -3470,7 +3470,6 @@
          "Jet Synchron",
          "Jet Synchron",
          "Jet Warrior",
-         "Junk Warrior",
          "Limit Overdrive",
          "Limit Overdrive",
          "Limiter Overload",
@@ -3524,6 +3523,7 @@
          "Junk Synchron",
          "Junk Synchron",
          "Junk Synchron",
+         "Junk Warrior",
          "Junk Warrior",
          "Junk Warrior",
          "Level Eater",
@@ -3585,7 +3585,7 @@
          "White Dragon Wyverburster",
          "White Dragon Wyverburster"
       ],
-      "numberOfCardsMissing": 31
+      "numberOfCardsMissing": 30
    },
    {
       "deck": "Master of Pendulum Structure Deck",
@@ -3745,6 +3745,7 @@
          "By Order of the Emperor",
          "By Order of the Emperor",
          "By Order of the Emperor",
+         "Caius the Shadow Monarch",
          "Domain of the True Monarchs",
          "Domain of the True Monarchs",
          "Edea the Heavenly Squire",
@@ -3806,7 +3807,6 @@
          "Berlineth the Firestorm Vassal",
          "Caius the Shadow Monarch",
          "Caius the Shadow Monarch",
-         "Caius the Shadow Monarch",
          "Dandylion",
          "Dicephoon",
          "Dicephoon",
@@ -3859,7 +3859,7 @@
          "Zaborg the Thunder Monarch",
          "Zaborg the Thunder Monarch"
       ],
-      "numberOfCardsMissing": 58
+      "numberOfCardsMissing": 59
    },
    {
       "deck": "Rise of the True Dragons Structure Deck",
@@ -5023,7 +5023,8 @@
          "Stygian Street Patrol",
          "Torment Token",
          "Torment Token",
-         "Trap of Darkness"
+         "Trap of Darkness",
+         "Vanity's Fiend"
       ],
       "cardsInCollection": [
          "Absolute King Back Jack",
@@ -5092,12 +5093,11 @@
          "Trap of Darkness",
          "Vanity's Fiend",
          "Vanity's Fiend",
-         "Vanity's Fiend",
          "Veil of Darkness",
          "Veil of Darkness",
          "Veil of Darkness"
       ],
-      "numberOfCardsMissing": 52
+      "numberOfCardsMissing": 53
    },
    {
       "deck": "Structure Deck: Powercode Link",
@@ -5162,6 +5162,7 @@
          "Traffic Ghost",
          "Traffic Ghost",
          "Trap Stun",
+         "Trap Stun",
          "Trap Stun"
       ],
       "cardsInCollection": [
@@ -5225,7 +5226,6 @@
          "Swords of Revealing Light",
          "Swords of Revealing Light",
          "Traffic Ghost",
-         "Trap Stun",
          "Traptrix Trap Hole Nightmare",
          "Traptrix Trap Hole Nightmare",
          "Traptrix Trap Hole Nightmare",
@@ -5233,7 +5233,7 @@
          "Wild Tornado",
          "Wild Tornado"
       ],
-      "numberOfCardsMissing": 53
+      "numberOfCardsMissing": 54
    },
    {
       "deck": "Legendary Hero Decks",
@@ -7648,7 +7648,6 @@
          "Powerful Rebirth",
          "Powerful Rebirth",
          "Powerful Rebirth",
-         "Red Dragon Archfiend",
          "Red Resonator",
          "Red Resonator",
          "Vice Dragon",
@@ -7717,6 +7716,7 @@
          "Psi-Reflector",
          "Red Dragon Archfiend",
          "Red Dragon Archfiend",
+         "Red Dragon Archfiend",
          "Red Dragon Archfiend/Assault Mode",
          "Red Dragon Archfiend/Assault Mode",
          "Red Dragon Archfiend/Assault Mode",
@@ -7780,7 +7780,7 @@
          "Witch of the Black Forest",
          "Witch of the Black Forest"
       ],
-      "numberOfCardsMissing": 17
+      "numberOfCardsMissing": 16
    },
    {
       "deck": "Structure Deck: Fire Kings",

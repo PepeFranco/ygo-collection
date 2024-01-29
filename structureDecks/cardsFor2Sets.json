@@ -1541,6 +1541,7 @@
       ],
       "semiLimitedCards": [],
       "cardsMissing": [
+         "Consecrated Light",
          "Return from the Different Dimension",
          "Solidarity",
          "Solidarity",
@@ -1566,7 +1567,6 @@
          "Cards from the Sky",
          "Celestial Transformation",
          "Celestial Transformation",
-         "Consecrated Light",
          "Consecrated Light",
          "Divine Punishment",
          "Divine Punishment",
@@ -1614,7 +1614,7 @@
          "Victoria",
          "Zeradias, Herald of Heaven"
       ],
-      "numberOfCardsMissing": 12
+      "numberOfCardsMissing": 13
    },
    {
       "deck": "Gates of the Underworld Structure Deck",
@@ -3754,7 +3754,9 @@
          "Segmental Dragon",
          "Skull Meister",
          "Storm Cipher",
-         "Traffic Ghost"
+         "Traffic Ghost",
+         "Trap Stun",
+         "Trap Stun"
       ],
       "cardsInCollection": [
          "Antialian",
@@ -3812,14 +3814,12 @@
          "Terraforming",
          "Terraforming",
          "Traffic Ghost",
-         "Trap Stun",
-         "Trap Stun",
          "Traptrix Trap Hole Nightmare",
          "Traptrix Trap Hole Nightmare",
          "Wild Tornado",
          "Wild Tornado"
       ],
-      "numberOfCardsMissing": 20
+      "numberOfCardsMissing": 22
    },
    {
       "deck": "Legendary Hero Decks",

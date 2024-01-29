@@ -18,7 +18,7 @@ const getCardPrice = async (cardName) => {
   return Math.min(...data.card_sets.map(({ set_price }) => set_price));
 };
 
-const decks = require("./cardsFor2Sets.json");
+const decks = require("../cardsFor2Sets.json");
 
 const mainFunction = async () => {
   const newDecks = [];

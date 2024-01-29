@@ -25,7 +25,7 @@ const mainFunction = async () => {
   const cardsFor2 = decksFor2.reduce(
     (accumulator, currentValue) => [
       ...accumulator,
-      ...currentValue.cards.map((cardName) => ({
+      ...currentValue.cardsMissing.map((cardName) => ({
         card: cardName,
         set: "2",
         deck: currentValue.deck,
@@ -36,7 +36,7 @@ const mainFunction = async () => {
   const cardsFor3 = decksFor3.reduce(
     (accumulator, currentValue) => [
       ...accumulator,
-      ...currentValue.cards.map((cardName) => ({
+      ...currentValue.cardsMissing.map((cardName) => ({
         card: cardName,
         set: "3",
         deck: currentValue.deck,
