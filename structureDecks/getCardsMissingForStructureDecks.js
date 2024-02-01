@@ -184,7 +184,8 @@ const getCardsMissingForStructureDecks = async () => {
   console.log(`🔢 There are ${structureDeckSets.length} structure decks`);
   const dataForCSV = [];
 
-  const sets = [1, 2, 3];
+  // const sets = [1, 2, 3];
+  const sets = [3];
   sets.map((set) => {
     console.log(`=== Set of ${set} ===`);
     const setsToExcludeTwoOf = [

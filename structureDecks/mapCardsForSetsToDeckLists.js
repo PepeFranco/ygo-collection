@@ -13,13 +13,13 @@ const structureDeckSet = cardsInStructureDecks.map((deck) => {
   return getDeckFilteredByBanlist(deckWithCardsMultiplied, banlist);
 });
 
-// fs.writeFile(
-//   `./structureDecks/cardsInStructureDecksEnhanced.json`,
-//   JSON.stringify(structureDeckSet),
-//   function (err) {
-//     // console.error(err);
-//   }
-// );
+fs.writeFile(
+  `./structureDecks/cardsInStructureDecksEnhanced.json`,
+  JSON.stringify(structureDeckSet),
+  function (err) {
+    // console.error(err);
+  }
+);
 
 structureDeckSet.map((structureDeck) => {
   console.log(`"${structureDeck.deck}",`);
