@@ -22,59 +22,28 @@ const getCardType = async (cardName) => {
 };
 
 const mainFunction = async () => {
-  const cardsFor2 = decksFor2.reduce(
-    (accumulator, currentValue) => [
-      ...accumulator,
-      ...currentValue.cardsMissing.map((cardName) => ({
-        card: cardName,
-        set: "2",
-        deck: currentValue.deck,
-      })),
-    ],
-    []
-  );
   const cardsFor3 = decksFor3.reduce(
     (accumulator, currentValue) => [
       ...accumulator,
       ...currentValue.cardsMissing.map((cardName) => ({
         card: cardName,
-        set: "3",
         deck: currentValue.deck,
       })),
     ],
     []
   );
 
-  cardsFor2.map((card) => {
-    const index = cardsFor3.findIndex(
-      (card3) => card3.card === card.card && card3.deck === card.deck
-    );
-    cardsFor3.splice(index, 1);
-  });
-  console.log(`${cardsFor2.length} cards needed to complete 2 sets`);
   console.log(`${cardsFor3.length} cards needed to complete 3 sets`);
 
-  const allCards = _.sortBy(
-    [...cardsFor2, ...cardsFor3],
-    ({ card, set }) => `${card}-${set}`
-  );
-  const lines = [`Card^Type^Deck^For Set Of`];
+  const allCards = _.sortBy(cardsFor3, ({ card, set }) => `${card}-${set}`);
+  const lines = [`Card^Deck`];
 
   for (let i = 0; i < allCards.length; i++) {
     const card = allCards[i].card;
-    const cardType = await getCardType(card);
-    const line = `${card}^${cardType}^${allCards[i].deck}^${allCards[i].set}`;
+    // const cardType = await getCardType(card);
+    const line = `${card}^${allCards[i].deck}`;
     lines.push(line);
     console.log("->", card);
-    for (let j = i + 1; j < allCards.length; j++) {
-      const nextCard = allCards[j].card;
-      if (card === nextCard) {
-        console.log("-->", card);
-        const nextLine = `${nextCard}^${cardType}^${allCards[j].deck}^${allCards[j].set}`;
-        lines.push(nextLine);
-        i++;
-      }
-    }
   }
 
   fs.writeFile(
