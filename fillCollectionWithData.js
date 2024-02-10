@@ -49,20 +49,38 @@ const getEarliestInfo = (cardInfo, cardSetsByDate) => {
 
 const getCardSetName = (card, cardInfo) => {
   if (card["Code"] && cardInfo["card_sets"]) {
-    console.log("card code", card["Code"]);
+    // console.log("card code", card["Code"]);
     const cardSet = cardInfo["card_sets"].find((cs) => {
-      console.log("set code", cs["set_code"]);
+      // console.log("set code", cs["set_code"]);
       return (
         cs["set_code"].toLowerCase().trim().split("-")[0] ===
         card["Code"].toLowerCase().trim().split("-")[0]
       );
     });
     if (cardSet) {
-      console.log("Card set found", cardSet);
+      // console.log("Card set found", cardSet);
       return cardSet["set_name"];
     }
   }
   return "";
+};
+
+const getCardPrice = (card, cardInfo) => {
+  const cardSets = cardInfo["card_sets"];
+  if (!card["Set"] || !cardSets || cardSets.length === 0) {
+    return undefined;
+  }
+  const cardRarity = card["Rarity"] ? card["Rarity"].toLowerCase() : "common";
+  const cardSet = cardSets.find((cardSet) => {
+    return (
+      cardSet["set_name"] === card["Set"] &&
+      cardSet["set_rarity"].toLowerCase().includes(cardRarity)
+    );
+  });
+  if (cardSet) {
+    console.log(`$${cardSet["set_price"]}`);
+    return cardSet["set_price"];
+  }
 };
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
@@ -71,6 +89,9 @@ const collection = require("./data/collection.json");
 const collectionCopy = [...collection];
 
 const cardIsComplete = (card) => {
+  if (!card["Price"]) {
+    return false;
+  }
   if (!card["Set"]) {
     return false;
   }
@@ -118,6 +139,7 @@ const mainFunction = async () => {
             ? "Yes"
             : "No";
           card["Is Speed Duel"] = isSpeedDuel;
+          card["Price"] = getCardPrice(card, cardInfo);
         }
         sleep(100);
       }
