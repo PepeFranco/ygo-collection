@@ -35,6 +35,18 @@ const markCardsToKeep = async () => {
     `cards to keep`
   );
 
+  console.log(`=> Marking skills to keep`);
+  collection.map((card) => {
+    if (card["Type"] === "Skill Card") {
+      card["Keep"] = "TRUE";
+    }
+  });
+  console.log(
+    `==> Marked`,
+    collection.filter((card) => card["Keep"] === "TRUE").length,
+    `cards to keep`
+  );
+
   console.log(`=> Marking sets to keep`);
   collection.map((card) => {
     const cardAlreadyMarkedToKeep = card["Keep"] === "TRUE";
