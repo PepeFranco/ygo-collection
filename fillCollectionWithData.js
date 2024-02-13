@@ -7,7 +7,11 @@ const getCardInfo = async (cardName) => {
   // console.log("==================");
   // console.log(name);
   const result = await axios
-    .get("https://db.ygoprodeck.com/api/v7/cardinfo.php?name=" + name)
+    .get(
+      `https://db.ygoprodeck.com/api/v7/cardinfo.php?name=${encodeURIComponent(
+        name
+      )}`
+    )
     .catch((e) => {
       // console.error(e);
     });
@@ -68,7 +72,7 @@ const getCardSetName = (card, cardInfo) => {
 const getCardPrice = (card, cardInfo) => {
   const cardSets = cardInfo["card_sets"];
   if (!card["Set"] || !cardSets || cardSets.length === 0) {
-    return undefined;
+    return 0;
   }
   const cardRarity = card["Rarity"] ? card["Rarity"].toLowerCase() : "common";
   const cardSet = cardSets.find((cardSet) => {
@@ -81,6 +85,7 @@ const getCardPrice = (card, cardInfo) => {
     console.log(`$${cardSet["set_price"]}`);
     return cardSet["set_price"];
   }
+  return 0;
 };
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
@@ -89,23 +94,31 @@ const collection = require("./data/collection.json");
 const collectionCopy = [...collection];
 
 const cardIsComplete = (card) => {
-  if (!card["Price"]) {
+  if (card["Type"] === "Skill Card") {
+    return true;
+  }
+  if (card["Price"] === undefined) {
+    console.log("Missing price");
     return false;
   }
   if (!card["Set"]) {
+    console.log("Missing Set");
     return false;
   }
-  if (!card["ID"]) {
+  if (!card["Type"]) {
+    console.log("Missing Type");
     return false;
   }
   if (!card["Card Type"]) {
+    console.log("Missing Card Type");
     return false;
   }
   if (!card["Is Speed Duel"]) {
+    console.log("Missing Card Type");
     return false;
   }
   const cardHasEarliestSet = card["Earliest Set"] && card["Earliest Date"];
-  return Boolean(cardHasEarliestSet || card["Type"] === "Skill Card");
+  return Boolean(cardHasEarliestSet);
 };
 
 const mainFunction = async () => {
@@ -135,9 +148,10 @@ const mainFunction = async () => {
           const earliestSet = getEarliestInfo(cardInfo, cardSetsByDate);
           card["Earliest Set"] = earliestSet.earliestSet || "";
           card["Earliest Date"] = earliestSet.earliestDate || "";
-          const isSpeedDuel = set.toLowerCase().includes("speed duel")
-            ? "Yes"
-            : "No";
+          const isSpeedDuel =
+            set.toLowerCase().includes("speed duel") || card["Type"] === "Skill"
+              ? "Yes"
+              : "No";
           card["Is Speed Duel"] = isSpeedDuel;
           card["Price"] = getCardPrice(card, cardInfo);
         }

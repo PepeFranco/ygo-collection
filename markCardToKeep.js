@@ -10,15 +10,30 @@ const setsToKeep = ["speed duel"];
 
 const decksToKeep = ["edison"];
 
-const collection = _.sortBy(
-  [...require("./data/collection.json")],
-  (collectionCard) => collectionCard["In Deck"]
+const collection = _.reverse(
+  _.sortBy([...require("./data/collection.json")], (collectionCard) =>
+    Number(collectionCard["Price"])
+  )
 );
 
 const markCardsToKeep = async () => {
   collection.map((cardInCollection) => {
     cardInCollection["Keep"] = "FALSE";
   });
+
+  console.log(`=> Marking dates to keep`);
+  const edisonDate = new Date(2010, 3, 26);
+  collection.map((card) => {
+    const cardDate = new Date(card["Earliest Date"]);
+    if (cardDate <= edisonDate) {
+      card["Keep"] = "TRUE";
+    }
+  });
+  console.log(
+    `==> Marked`,
+    collection.filter((card) => card["Keep"] === "TRUE").length,
+    `cards to keep`
+  );
 
   console.log(`=> Marking sets to keep`);
   collection.map((card) => {
@@ -30,21 +45,6 @@ const markCardsToKeep = async () => {
       (accumulator, current) => accumulator || card["Set"] === current,
       false
     );
-
-    if (card["Name"] === "Buster Blader") {
-      console.log(card["Name"]);
-      console.log(card["Set"]);
-      console.log({
-        cardAlreadyMarkedToKeep,
-        cardInSetToKeep,
-        cardInSetNotToKeep,
-      });
-      console.log(
-        `Marking to keep ${
-          !cardAlreadyMarkedToKeep && cardInSetToKeep && !cardInSetNotToKeep
-        }`
-      );
-    }
 
     if (!cardAlreadyMarkedToKeep && cardInSetToKeep && !cardInSetNotToKeep) {
       card["Keep"] = "TRUE";
