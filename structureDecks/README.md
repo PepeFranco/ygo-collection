@@ -32,6 +32,7 @@ Summarizes how many cards in collection and missing for each deck
 
 Generates `cardsForXSets.json`
 Specifies which cards are missing for each deck
+Which cards are already in the collection
 And which cards are limited / semi limited
 ```
 node structureDecks/cardsMissingForStructureDecks.js
