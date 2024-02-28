@@ -38,6 +38,15 @@ And which cards are limited / semi limited
 node structureDecks/cardsMissingForStructureDecks.js
 ```
 
+### CSV for missing cards
+Generates `missingCards.csv`
+Which can be them manually uploaded to sheets
+Using `^` as separator
+```
+node ./structureDecks/listAllMissingCards.js
+```
+
+
 ## Approach 2
 
 ### Download structure deck lists
