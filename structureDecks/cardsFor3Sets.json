@@ -20,7 +20,6 @@
          "Nobleman of Crossout"
       ],
       "cardsMissing": [
-         "Curse of Anubis",
          "Element Dragon",
          "The Dragon's Bead",
          "The Dragon's Bead",
@@ -41,6 +40,7 @@
          "Ceasefire",
          "Creature Swap",
          "Creature Swap",
+         "Curse of Anubis",
          "Curse of Anubis",
          "Curse of Anubis",
          "Dragon's Rage",
@@ -85,7 +85,7 @@
          "Trap Jammer",
          "Twin-Headed Behemoth"
       ],
-      "numberOfCardsMissing": 6
+      "numberOfCardsMissing": 5
    },
    {
       "deck": "Structure Deck: Zombie Madness",
@@ -106,7 +106,6 @@
       ],
       "cardsMissing": [
          "Dark Dust Spirit",
-         "Dark Dust Spirit",
          "Soul-Absorbing Bone Tower",
          "Spirit Reaper"
       ],
@@ -125,6 +124,7 @@
          "Compulsory Evacuation Device",
          "Creature Swap",
          "Creature Swap",
+         "Dark Dust Spirit",
          "Dark Dust Spirit",
          "Despair from the Dark",
          "Despair from the Dark",
@@ -176,7 +176,7 @@
          "Vampire Lady",
          "Vampire Lord"
       ],
-      "numberOfCardsMissing": 4
+      "numberOfCardsMissing": 3
    },
    {
       "deck": "Structure Deck: Blaze of Destruction",
@@ -198,7 +198,6 @@
          "Dark Room of Nightmare",
          "Great Angus",
          "Meteor of Destruction",
-         "Molten Destruction",
          "Necklace of Command",
          "Necklace of Command",
          "Ultimate Baseball Kid"
@@ -241,6 +240,7 @@
          "Little Chimera",
          "Meteor of Destruction",
          "Meteor of Destruction",
+         "Molten Destruction",
          "Molten Destruction",
          "Molten Destruction",
          "Molten Zombie",
@@ -277,7 +277,7 @@
          "Ultimate Baseball Kid",
          "Ultimate Baseball Kid"
       ],
-      "numberOfCardsMissing": 7
+      "numberOfCardsMissing": 6
    },
    {
       "deck": "Structure Deck: Fury from the Deep",
@@ -4744,8 +4744,8 @@
          "Shuffle Reborn",
          "Stack Reviver",
          "Stack Reviver",
-         "Tri-gate Wizard",
-         "Tri-gate Wizard"
+         "Tri-Gate Wizard",
+         "Tri-Gate Wizard"
       ],
       "cardsInCollection": [
          "Backlinker",
@@ -4817,7 +4817,7 @@
          "Tragoedia",
          "Tragoedia",
          "Tragoedia",
-         "Tri-gate Wizard",
+         "Tri-Gate Wizard",
          "Where Arf Thou?",
          "Where Arf Thou?",
          "Where Arf Thou?"
@@ -7655,6 +7655,9 @@
       ],
       "cardsInCollection": [
          "Absolute King Back Jack",
+         "Absolute Powerforce",
+         "Absolute Powerforce",
+         "Absolute Powerforce",
          "Ascator, Dawnwalker",
          "Ascator, Dawnwalker",
          "Ascator, Dawnwalker",
@@ -7670,6 +7673,9 @@
          "Bone Archfiend",
          "Bone Archfiend",
          "Bone Archfiend",
+         "Burning Soul",
+         "Burning Soul",
+         "Burning Soul",
          "Creation Resonator",
          "Creation Resonator",
          "Creation Resonator",
