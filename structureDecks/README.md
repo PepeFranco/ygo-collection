@@ -40,6 +40,7 @@ node structureDecks/cardsMissingForStructureDecks.js
 
 ### CSV for missing cards
 Generates `missingCards.csv`
+Specifies which cards are missing for what deck
 Which can be them manually uploaded to sheets
 Using `^` as separator
 ```
