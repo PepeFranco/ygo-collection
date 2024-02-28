@@ -1,4 +1,3 @@
-const cardsForSets = require("./cardsFor3Sets.json");
 const cardsInStructureDecks = require("./cardsInStructureDecks.json");
 const {
   getClosestMatchingBanList,

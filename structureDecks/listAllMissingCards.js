@@ -1,25 +1,7 @@
-const axios = require("axios");
 const fs = require("fs");
 const _ = require("lodash");
 
-const decksFor2 = require("./cardsFor2Sets.json");
 const decksFor3 = require("./cardsFor3Sets.json");
-
-const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
-
-const getCardType = async (cardName) => {
-  await sleep(100);
-  const name = `${cardName.trim()}`;
-  const result = await axios
-    .get("https://db.ygoprodeck.com/api/v7/cardinfo.php?name=" + name)
-    .catch((e) => {});
-
-  const data = (result && result.data && result.data.data[0]) || null;
-  if (data === null) {
-    return null;
-  }
-  return data.type;
-};
 
 const mainFunction = async () => {
   const cardsFor3 = decksFor3.reduce(

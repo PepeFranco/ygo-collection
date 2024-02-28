@@ -11,9 +11,17 @@ const setsToKeep = ["speed duel"];
 const decksToKeep = ["edison"];
 
 const collection = _.reverse(
-  _.sortBy([...require("./data/collection.json")], (collectionCard) =>
-    Number(collectionCard["Price"])
-  )
+  _.sortBy([...require("./data/collection.json")], (card) => {
+    const rarityMap = {
+      Ghost: 0,
+      Ultimate: 1,
+      Secret: 2,
+      Ultra: 3,
+      Super: 4,
+      Rare: 5,
+    };
+    return rarityMap[card["Rarity"]] || 6;
+  })
 );
 
 const markCardsToKeep = async () => {
@@ -21,19 +29,21 @@ const markCardsToKeep = async () => {
     cardInCollection["Keep"] = "FALSE";
   });
 
-  console.log(`=> Marking dates to keep`);
-  const edisonDate = new Date(2010, 3, 26);
-  collection.map((card) => {
-    const cardDate = new Date(card["Earliest Date"]);
-    if (cardDate <= edisonDate) {
-      card["Keep"] = "TRUE";
-    }
-  });
-  console.log(
-    `==> Marked`,
-    collection.filter((card) => card["Keep"] === "TRUE").length,
-    `cards to keep`
-  );
+  //   console.log(`=> Marking dates to keep`);
+  //   const edisonDate = new Date(2010, 3, 26);
+  //   const hatDate = new Date(2014, 6, 8);
+  //   const comparisonDate = hatDate;
+  //   collection.map((card) => {
+  //     const cardDate = new Date(card["Earliest Date"]);
+  //     if (cardDate <= comparisonDate) {
+  //       card["Keep"] = "TRUE";
+  //     }
+  //   });
+  //   console.log(
+  //     `==> Marked`,
+  //     collection.filter((card) => card["Keep"] === "TRUE").length,
+  //     `cards to keep`
+  //   );
 
   console.log(`=> Marking skills to keep`);
   collection.map((card) => {
@@ -102,6 +112,7 @@ const markCardsToKeep = async () => {
         return true;
       }
     });
+
     if (foundCard) {
       foundCard["Keep"] = "TRUE";
     }
