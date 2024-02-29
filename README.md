@@ -15,6 +15,8 @@ node fillCollectionWithData.js
 
 ### Upload collection
 Upload collection back to google spreadsheet
+
+Also uploads cards missing for structure decks
 ```
 node data/uploadCollection.js
 ```
