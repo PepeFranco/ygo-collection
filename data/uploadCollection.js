@@ -6,6 +6,8 @@ const { api_key } = require("../secret/google-api-key.json");
 const localCollection = require("./collection.json");
 const { headers: headerValues } = require("./headers.json");
 
+const cardsFor3Sets = require("../structureDecks/cardsFor3Sets.json");
+
 const mainFunction = async () => {
   const doc = new GoogleSpreadsheet(id);
   doc.useApiKey(api_key);
@@ -20,6 +22,31 @@ const mainFunction = async () => {
   await collectionSheet.updateDimensionProperties("ROWS", {
     pixelSize: 21,
   });
-  console.log("done");
+  console.log("uploaded collection");
+
+  // Structure deck missing cards
+  const missingSheetTitle = "Structure Decks Missing";
+  const missingCardsSheet = doc.sheetsByTitle[missingSheetTitle];
+  await missingCardsSheet.clear();
+  await missingCardsSheet.setHeaderRow([
+    "Card",
+    "Deck",
+    "Date",
+    "# of cards missing",
+  ]);
+  const missingRows = cardsFor3Sets.reduce(
+    (accumulator, currentValue) => [
+      ...accumulator,
+      ...currentValue.cardsMissing.map((cardName) => ({
+        Card: cardName,
+        Deck: currentValue.deck,
+        Date: currentValue.date,
+        "# of cards missing": currentValue.cardsMissing.length,
+      })),
+    ],
+    []
+  );
+  await missingCardsSheet.addRows(missingRows);
+  console.log("uploaded structure deck missing cards");
 };
 mainFunction();

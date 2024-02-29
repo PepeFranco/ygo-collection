@@ -202,7 +202,7 @@ const getCardsMissingForStructureDecks = async () => {
       // "Speed Duel Starter Decks: Ultimate Predators"
     ];
 
-    const decksToExclude = ["Edison Quickdraw"];
+    const decksToExclude = ["Edison Quickdraw", "Edison Diva Hero"];
 
     const collectionCopyWithSetsExcluded = excludeSetsFromCollection({
       setsToExclude: setsToExcludeTwoOf,
