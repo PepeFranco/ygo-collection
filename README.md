@@ -24,6 +24,16 @@ node data/uploadCollection.js
 
 There are 2 approaches to get which cards are missing for 3 sets of structure decks
 
+## For both approaches
+
+### Download banlists
+Banlists are manually udpated in spreadsheet
+Format was copied from wikia
+The script transforms it to json
+```
+node ./data/downloadBanlists.js
+```
+
 ## Approach 1 
 
 ### Get cards missing for structure decks
@@ -37,16 +47,6 @@ And which cards are limited / semi limited
 ```
 node structureDecks/cardsMissingForStructureDecks.js
 ```
-
-### CSV for missing cards
-Generates `missingCards.csv`
-Specifies which cards are missing for what deck
-Which can be them manually uploaded to sheets
-Using `^` as separator
-```
-node ./structureDecks/listAllMissingCards.js
-```
-
 
 ## Approach 2
 
