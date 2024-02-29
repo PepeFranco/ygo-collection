@@ -6091,6 +6091,7 @@
          "Topologic Zeroboros",
          "Triple Burst Dragon",
          "Triple Burst Dragon",
+         "Twin Twisters",
          "World Chalice Guardragon",
          "World Chalice Guardragon",
          "Zero-Day Blaster",
@@ -6147,11 +6148,10 @@
          "Triple Burst Dragon",
          "Twin Twisters",
          "Twin Twisters",
-         "Twin Twisters",
          "World Chalice Guardragon",
          "Zero-Day Blaster"
       ],
-      "numberOfCardsMissing": 83
+      "numberOfCardsMissing": 84
    },
    {
       "deck": "Structure Deck: Shaddoll Showdown",
@@ -6168,6 +6168,7 @@
          "Kuribandit",
          "Kuribandit",
          "Lava Golem",
+         "Twin Twisters",
          "Twin Twisters",
          "Twin Twisters"
       ],
@@ -6303,12 +6304,11 @@
          "Super Polymerization",
          "Super Polymerization",
          "Super Polymerization",
-         "Twin Twisters",
          "Unending Nightmare",
          "Unending Nightmare",
          "Unending Nightmare"
       ],
-      "numberOfCardsMissing": 6
+      "numberOfCardsMissing": 7
    },
    {
       "deck": "Structure Deck: Mechanized Madness",
