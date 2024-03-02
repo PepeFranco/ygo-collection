@@ -1,11 +1,11 @@
-const {
+import {
   getStructureDeckSets,
   getClosestMatchingBanList,
   getSetsOfCardsInStructureDeck,
   getDeckFilteredByBanlist,
   removeCardsFromCollection,
   excludeSetsFromCollection,
-} = require("./getCardsMissingForStructureDecks");
+} from "./getCardsMissingForStructureDecks";
 
 describe("Cards Missing for Structure Decks", () => {
   describe("getStructureDecks", () => {
@@ -13,6 +13,7 @@ describe("Cards Missing for Structure Decks", () => {
       const mockSets = [
         {
           set_name: "Spellcaster's Command Structure Deck: Special Edition",
+          tcg_date: "",
         },
         {
           set_name: "Spellcaster's Command Structure Deck",
@@ -24,9 +25,11 @@ describe("Cards Missing for Structure Decks", () => {
         },
         {
           set_name: "Cyber Dragon Revolution Structure Deck Deluxe Edition",
+          tcg_date: "",
         },
         {
           set_name: "2-Player Starter Deck: Yuya & Declan",
+          tcg_date: "",
         },
         {
           set_name: "Legendary Hero Decks",
@@ -77,6 +80,7 @@ describe("Cards Missing for Structure Decks", () => {
     const mockDeck = {
       deck: "Structure Deck: Dragon's Roar",
       cards: ["Armed Dragon LV3", "Armed Dragon LV5"],
+      date: "",
     };
 
     it("returns given if set is one", () => {
@@ -87,6 +91,7 @@ describe("Cards Missing for Structure Decks", () => {
     it("returns set of two", () => {
       const result = getSetsOfCardsInStructureDeck(mockDeck, 2);
       expect(result).toEqual({
+        date: "",
         deck: "Structure Deck: Dragon's Roar",
         cards: [
           "Armed Dragon LV3",
@@ -100,6 +105,7 @@ describe("Cards Missing for Structure Decks", () => {
 
   describe("getDeckFilteredByBanlist", () => {
     const mockBanlist = {
+      date: "",
       cards: [
         {
           card: "Card Destruction",
@@ -118,6 +124,7 @@ describe("Cards Missing for Structure Decks", () => {
 
     it("returns deck if no cards on banlist", () => {
       const mockDeck = {
+        date: "",
         deck: "Structure Deck: Dragon's Roar",
         cards: ["Armed Dragon LV3", "Armed Dragon LV5"],
         forbiddenCards: [],
@@ -130,11 +137,13 @@ describe("Cards Missing for Structure Decks", () => {
 
     it("filters forbidden cards", () => {
       const mockDeck = {
+        date: "",
         deck: "Structure Deck: Dragon's Roar",
         cards: ["Armed Dragon LV3", "Armed Dragon LV5", "Raigeki"],
       };
       const result = getDeckFilteredByBanlist(mockDeck, mockBanlist);
       expect(result).toEqual({
+        date: "",
         deck: "Structure Deck: Dragon's Roar",
         cards: ["Armed Dragon LV3", "Armed Dragon LV5"],
         forbiddenCards: ["Raigeki"],
@@ -145,6 +154,7 @@ describe("Cards Missing for Structure Decks", () => {
 
     it("filters limited cards", () => {
       const mockDeck = {
+        date: "",
         deck: "Structure Deck: Dragon's Roar",
         cards: [
           "Change of Heart",
@@ -155,6 +165,7 @@ describe("Cards Missing for Structure Decks", () => {
       };
       const result = getDeckFilteredByBanlist(mockDeck, mockBanlist);
       expect(result).toEqual({
+        date: "",
         deck: "Structure Deck: Dragon's Roar",
         cards: ["Change of Heart"],
         forbiddenCards: ["Raigeki"],
@@ -165,6 +176,7 @@ describe("Cards Missing for Structure Decks", () => {
 
     it("filters semi limited cards", () => {
       const mockDeck = {
+        date: "",
         deck: "Structure Deck: Dragon's Roar",
         cards: [
           "Card Destruction",
@@ -179,6 +191,7 @@ describe("Cards Missing for Structure Decks", () => {
       };
       const result = getDeckFilteredByBanlist(mockDeck, mockBanlist);
       expect(result).toEqual({
+        date: "",
         deck: "Structure Deck: Dragon's Roar",
         cards: ["Card Destruction", "Card Destruction", "Change of Heart"],
         forbiddenCards: ["Raigeki"],
@@ -189,11 +202,13 @@ describe("Cards Missing for Structure Decks", () => {
 
     it("does not add cards", () => {
       const mockDeck = {
+        date: "",
         deck: "Structure Deck: Dragon's Roar",
         cards: ["Card Destruction"],
       };
       const result = getDeckFilteredByBanlist(mockDeck, mockBanlist);
       expect(result).toEqual({
+        date: "",
         deck: "Structure Deck: Dragon's Roar",
         cards: ["Card Destruction"],
         forbiddenCards: [],
@@ -217,6 +232,7 @@ describe("Cards Missing for Structure Decks", () => {
       ];
       const result = removeCardsFromCollection(
         {
+          date: "",
           deck: "Structure Deck: Dragon's Roar",
           cards: [
             "Armed Dragon LV3",
@@ -225,6 +241,9 @@ describe("Cards Missing for Structure Decks", () => {
             "Call of the Haunted",
             "Call of the Haunted",
           ],
+          forbiddenCards: [],
+          limitedCards: [],
+          semiLimitedCards: [],
         },
         mockCollection
       );
@@ -252,11 +271,16 @@ describe("Cards Missing for Structure Decks", () => {
             "Call of the Haunted",
             "Call of the Haunted",
           ],
+          date: "",
+          forbiddenCards: [],
+          limitedCards: [],
+          semiLimitedCards: [],
         },
       });
 
       const result2 = removeCardsFromCollection(
         {
+          date: "",
           deck: "Structure Deck: Zombie Madness",
           cards: [
             "Call of the Haunted",
@@ -264,6 +288,9 @@ describe("Cards Missing for Structure Decks", () => {
             "Contact C",
             "Zombie Master",
           ],
+          forbiddenCards: [],
+          limitedCards: [],
+          semiLimitedCards: [],
         },
         result.collection
       );
@@ -283,6 +310,10 @@ describe("Cards Missing for Structure Decks", () => {
             "Contact C",
             "Zombie Master",
           ],
+          date: "",
+          forbiddenCards: [],
+          limitedCards: [],
+          semiLimitedCards: [],
         },
       });
     });

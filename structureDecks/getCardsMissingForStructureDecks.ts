@@ -39,7 +39,9 @@ const banLists: Banlist[] = _.sortBy(
 
 const cardsInStructureDecks: StructureDeck[] = require("./cardsInStructureDecks.json");
 
-const getStructureDeckSets = (cardSets: YGOProSet[]) => {
+const getStructureDeckSets = (
+  cardSets: Pick<YGOProSet, "set_name" | "tcg_date">[]
+) => {
   const filteredSets = cardSets.filter((cardSet) => {
     const setName = cardSet["set_name"].toLowerCase();
     return (

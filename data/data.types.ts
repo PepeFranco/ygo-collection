@@ -38,7 +38,7 @@ export type YGOProSet = {
   set_image: string;
 };
 
-type BanlistCard = { card: string; number: 0 | 1 | 2 };
+type BanlistCard = { card: string; number: number };
 export type Banlist = {
   date: string;
   cards: BanlistCard[];
