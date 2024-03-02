@@ -2,32 +2,42 @@ export type CollectionRow = {
   Name: string;
   Code?: string;
   Set?: string;
-  Rarity?:
-    | "Common"
-    | "Ghost"
-    | "Rare"
-    | "Secret"
-    | "Super"
-    | "Ultimate"
-    | "Ultra";
-  Edition?: "1st" | "LIMITED";
+  Rarity?: string;
+  // | "Common"
+  // | "Ghost"
+  // | "Rare"
+  // | "Secret"
+  // | "Super"
+  // | "Ultimate"
+  // | "Ultra";
+  Edition?: string;
+  // "1st" | "LIMITED";
   "In Deck"?: string;
-  ID?: number;
+  ID?: string;
   Type?: string;
-  ATK?: number;
-  DEF?: number;
-  Level?: number;
+  ATK?: string;
+  DEF?: string;
+  Level?: string;
   "Card Type"?: string;
-  Attribute?: "DARK" | "DIVINE" | "EARTH" | "FIRE" | "LIGHT" | "WATER" | "WIND";
+  Attribute?: string;
+  // | "DARK"
+  // | "DIVINE"
+  // | "EARTH"
+  // | "FIRE"
+  // | "LIGHT"
+  // | "WATER"
+  // | "WIND";
   Archetype?: string;
-  Scale?: number;
-  "Link Scale"?: number;
+  Scale?: string;
+  "Link Scale"?: string;
   "Earliest Set"?: string;
   "Earliest Date"?: string;
-  "Is Speed Duel"?: "Yes" | "No";
-  "Is Speed Duel Legal"?: "TRUE" | "FALSE";
+  "Is Speed Duel"?: string;
+  // "Yes" | "No";
+  "Is Speed Duel Legal"?: string;
+  //  "TRUE" | "FALSE";
   Keep?: string;
-  Price?: number;
+  Price?: string;
 };
 
 export type YGOProSet = {

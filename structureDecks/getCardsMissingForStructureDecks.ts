@@ -1,5 +1,4 @@
 import _ from "lodash";
-import fs from "fs";
 import axios from "axios";
 
 import type { Banlist, CollectionRow, YGOProSet } from "../data/data.types";
@@ -27,12 +26,12 @@ const getCardSets = async () => {
   return null;
 };
 
-const collection: CollectionRow[] = _.sortBy(
+const collectionFile: CollectionRow[] = _.sortBy(
   [...require("../data/collection.json")],
   (collectionCard: CollectionRow) => collectionCard["In Deck"]
 );
 
-const banLists: Banlist[] = _.sortBy(
+const banListsFile: Banlist[] = _.sortBy(
   require("../data/banlists.json"),
   (l: Banlist) => new Date(l.date)
 );
@@ -57,7 +56,7 @@ const getStructureDeckSets = (
   }));
 };
 
-const getClosestMatchingBanList = (date: Date) => {
+const getClosestMatchingBanList = (date: Date, banLists = banListsFile) => {
   const foundBanlist = banLists.find((banlist, index) => {
     if (index === banLists.length - 1) {
       return true;
@@ -158,6 +157,9 @@ const removeCardsFromCollection = (
   deck: StructureDeckWithLimitedAndCollectionCards;
 } => {
   const filteredCollection = [...collection];
+  if (deck.deck === "Structure Deck: Dragon's Roar") {
+    console.log({ filteredCollection });
+  }
   const cardsMissing = [...deck.cards];
   const cardsInCollection: string[] = [];
   deck.cards?.map((card) => {
@@ -217,12 +219,20 @@ const excludeDecksFromCollection = ({
   collection: CollectionRow[];
 }) => {
   return collection.filter((card) => {
-    return card["In Deck"] && !decksToExclude.includes(card["In Deck"]);
+    return !decksToExclude.includes(card["In Deck"] || "");
   });
 };
 
-const getCardsMissingForStructureDecks = async () => {
-  console.log(`📚 There are ${collection.length} cards in the collection`);
+const getCardsMissingForStructureDecks = async ({
+  collection = collectionFile,
+  banlists,
+}: {
+  collection?: CollectionRow[];
+  banlists?: Banlist[];
+}) => {
+  if (process.env.NODE_ENV !== "test") {
+    console.log(`📚 There are ${collection.length} cards in the collection`);
+  }
 
   const cardSets = await getCardSets();
   if (cardSets === null) {
@@ -230,7 +240,9 @@ const getCardsMissingForStructureDecks = async () => {
     return;
   }
   const structureDeckSets = getStructureDeckSets(cardSets);
-  console.log(`🔢 There are ${structureDeckSets.length} structure decks`);
+  if (process.env.NODE_ENV !== "test") {
+    console.log(`🔢 There are ${structureDeckSets.length} structure decks`);
+  }
   const dataForCSV: {
     set: number;
     deck: string;
@@ -245,7 +257,9 @@ const getCardsMissingForStructureDecks = async () => {
   };
   const setResult: Record<number, StructureDeckResult[]> = {};
   sets.map((set) => {
-    console.log(`=== Set of ${set} ===`);
+    if (process.env.NODE_ENV !== "test") {
+      console.log(`=== Set of ${set} ===`);
+    }
     const setsToExcludeTwoOf = [
       "",
       // "Speed Duel GX: Duel Academy Box",
@@ -275,7 +289,7 @@ const getCardsMissingForStructureDecks = async () => {
     }).map(({ Name }) => Name);
 
     const structureDeckSet = cardsInStructureDecks.map((deck) => {
-      const banlist = getClosestMatchingBanList(new Date(deck.date));
+      const banlist = getClosestMatchingBanList(new Date(deck.date), banlists);
       const deckWithCardsMultiplied = getSetsOfCardsInStructureDeck(deck, set);
       return getDeckFilteredByBanlist(deckWithCardsMultiplied, banlist);
     });
@@ -283,19 +297,23 @@ const getCardsMissingForStructureDecks = async () => {
     const structureDeckSetResult: StructureDeckResult[] = [];
     structureDeckSet.reduce(
       (accumulator, structureDeck) => {
-        console.log(` 🎴 Getting cards for: ${structureDeck.deck}`);
+        if (process.env.NODE_ENV !== "test") {
+          console.log(` 🎴 Getting cards for: ${structureDeck.deck}`);
+        }
         const { collection, deck } = removeCardsFromCollection(
           structureDeck,
           accumulator.collection
         );
         accumulator.collection = collection;
-        console.log(
-          `  #️⃣ There are ${deck?.cards?.length} cards in a set of ${set}`
-        );
-        console.log(
-          `  ✅ ${deck.cardsInCollection.length} are in the collection`
-        );
-        console.log(`  ❌ ${deck.cardsMissing.length} are missing`);
+        if (process.env.NODE_ENV !== "test") {
+          console.log(
+            `  #️⃣ There are ${deck?.cards?.length} cards in a set of ${set}`
+          );
+          console.log(
+            `  ✅ ${deck.cardsInCollection.length} are in the collection`
+          );
+          console.log(`  ❌ ${deck.cardsMissing.length} are missing`);
+        }
         dataForCSV.push({
           set,
           deck: deck.deck,

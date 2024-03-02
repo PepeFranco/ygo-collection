@@ -374,17 +374,97 @@ describe("Cards Missing for Structure Decks", () => {
   });
 });
 
-describe("getCardsMissingForStructureDecks", () => {
+describe.only("getCardsMissingForStructureDecks", () => {
   beforeAll(() => {
-    jest.mocked(axios.get).mockResolvedValue([
-      {
-        set_name: "Structure Deck: Dragon's Roar",
-        tcg_date: "2005-01-01",
-      },
-    ]);
+    jest.mocked(axios.get).mockResolvedValue({
+      data: [
+        {
+          set_name: "Structure Deck: Dragon's Roar",
+          tcg_date: "2005-01-01",
+        },
+      ],
+    });
   });
 
   it("can call", async () => {
-    await getCardsMissingForStructureDecks();
+    const collection = [
+      {
+        Name: "Curse of Anubis",
+        Code: "BP02-EN182",
+        Set: "Battle Pack 2: War of the Giants",
+        Rarity: "Common",
+        Edition: "1st",
+        "In Deck": "Structure Deck: Dragon's Roar",
+        ID: "66742250",
+        Type: "Trap Card",
+        ATK: "",
+        DEF: "",
+        Level: "",
+        "Card Type": "Normal",
+        Attribute: "",
+        Archetype: "",
+        Scale: "",
+        "Link Scale": "",
+        "Earliest Set": "Ancient Sanctuary",
+        "Earliest Date": "2004-06-01",
+        "Is Speed Duel": "No",
+        "Is Speed Duel Legal": "FALSE",
+        Keep: "",
+        Price: "1.17",
+      },
+      {
+        Name: "Curse of Anubis",
+        Code: "BP02-EN182",
+        Set: "Battle Pack 2: War of the Giants",
+        Rarity: "Common",
+        Edition: "1st",
+        "In Deck": "Structure Deck: Dragon's Roar",
+        ID: "66742250",
+        Type: "Trap Card",
+        ATK: "",
+        DEF: "",
+        Level: "",
+        "Card Type": "Normal",
+        Attribute: "",
+        Archetype: "",
+        Scale: "",
+        "Link Scale": "",
+        "Earliest Set": "Ancient Sanctuary",
+        "Earliest Date": "2004-06-01",
+        "Is Speed Duel": "No",
+        "Is Speed Duel Legal": "FALSE",
+        Keep: "",
+        Price: "1.17",
+      },
+      {
+        Name: "Curse of Anubis",
+        Code: "SD1-EN028",
+        Set: "Structure Deck: Dragon's Roar",
+        Rarity: "Common",
+        Edition: "1st",
+        "In Deck": "",
+        ID: "66742250",
+        Type: "Trap Card",
+        ATK: "",
+        DEF: "",
+        Level: "",
+        "Card Type": "Normal",
+        Attribute: "",
+        Archetype: "",
+        Scale: "",
+        "Link Scale": "",
+        "Earliest Set": "Ancient Sanctuary",
+        "Earliest Date": "2004-06-01",
+        "Is Speed Duel": "No",
+        "Is Speed Duel Legal": "",
+        Keep: "",
+        Price: "1.13",
+      },
+    ];
+    const result = await getCardsMissingForStructureDecks({ collection });
+    const dragonsRoarDeck = result?.cardsFor3Sets[0];
+    expect(dragonsRoarDeck?.cardsMissing.includes("Curse of Anubis")).toEqual(
+      false
+    );
   });
 });
