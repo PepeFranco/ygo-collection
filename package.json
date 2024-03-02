@@ -4,6 +4,8 @@
   "private": false,
   "scripts": {
     "test": "jest",
+    "collection:download": "node data/downloadCollection.js",
+    "collection:fill": "node fillCollectionWithData.js",
     "structure:download-lists": "tsx structureDecks/downloadStructureDeckSets.js",
     "structure:get-missing": "tsx structureDecks/cardsMissingForStructureDecks.ts"
   },

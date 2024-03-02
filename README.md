@@ -3,14 +3,14 @@
 ### Download collection
 Download collection from google spreadsheet to json
 ```
-node data/downloadCollection.js
+yarn collection:download
 ```
 
 ### Fill data
 Fill collection with missing data
 
 ```
-node fillCollectionWithData.js
+yarn collection:fill
 ```
 
 ### Upload collection
