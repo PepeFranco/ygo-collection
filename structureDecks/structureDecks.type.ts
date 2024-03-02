@@ -1,6 +1,6 @@
 export type StructureDeck = {
   deck: string;
-  cards?: string[];
+  cards: string[];
   date: string;
 };
 

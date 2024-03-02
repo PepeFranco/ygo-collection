@@ -276,9 +276,11 @@ const getCardsMissingForStructureDecks = async () => {
       return getDeckFilteredByBanlist(deckWithCardsMultiplied, banlist);
     });
 
-    const structureDeckSetResult: (StructureDeckWithLimitedAndCollectionCards & {
-      numberOfCardsMissing: number;
-    })[] = [];
+    type StructureDeckResult = Omit<
+      StructureDeckWithLimitedAndCollectionCards,
+      "cards"
+    > & { numberOfCardsMissing: number };
+    const structureDeckSetResult: StructureDeckResult[] = [];
     structureDeckSet.reduce(
       (accumulator, structureDeck) => {
         console.log(` 🎴 Getting cards for: ${structureDeck.deck}`);
@@ -300,10 +302,10 @@ const getCardsMissingForStructureDecks = async () => {
           cardsMissing: deck.cardsMissing.length,
           cardsInCollection: deck.cardsInCollection.length,
         });
-        deck.cards = undefined;
         structureDeckSetResult.push({
           ...deck,
           numberOfCardsMissing: deck.cardsMissing.length,
+          // cards: undefined,
         });
         return accumulator;
       },
