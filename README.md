@@ -28,6 +28,22 @@ There are 2 approaches to get which cards are missing for 3 sets of structure de
 
 ## For both approaches
 
+### Download structure deck lists
+Generates `cardsInStructureDecks.json`
+
+List of each individual card in each deck
+
+
+YGO Pro API may not have complete lists on all decks
+
+This means missing lists may be incomplete
+
+And cards may incorrectly be marked as not to keep
+
+```
+yarn structure:download-lists
+```
+
 ### Download banlists
 Banlists are manually udpated in spreadsheet
 
@@ -54,26 +70,10 @@ Which cards are already in the collection
 
 And which cards are limited / semi limited
 ```
-node structureDecks/cardsMissingForStructureDecks.js
+yarn structure:get-missing
 ```
 
 ## Approach 2
-
-### Download structure deck lists
-Generates `cardsInStructureDecks.json`
-
-List of each individual card in each deck
-
-
-YGO Pro API may not have complete lists on all decks
-
-This means missing lists may be incomplete
-
-And cards may incorrectly be marked as not to keep
-
-```
-node structureDecks/downloadStructureDeckSets.json
-```
 
 ### Generate enhanced structure deck lists
 Takes `cardsInStructureDecks.json` and generates `cardsInStructureDecksEnhanced.json`

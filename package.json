@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "private": false,
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "structure:download-lists": "tsx structureDecks/downloadStructureDeckSets.js",
+    "structure:get-missing": "tsx structureDecks/cardsMissingForStructureDecks.ts"
   },
   "dependencies": {
     "axios": "^0.21.1",
@@ -17,7 +19,8 @@
     "@babel/plugin-transform-modules-commonjs": "^7.21.2",
     "babel-jest": "^29.5.0",
     "bluebird": "^3.7.2",
-    "jest": "^29.5.0"
+    "jest": "^29.5.0",
+    "tsx": "^4.7.1"
   },
   "jest": {
     "transform": {
