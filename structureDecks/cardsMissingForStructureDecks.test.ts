@@ -9,7 +9,6 @@ import {
 } from "./getCardsMissingForStructureDecks";
 
 import axios from "axios";
-import mockFs from "mock-fs";
 
 jest.mock("axios", () => ({
   get: jest.fn(),
@@ -377,17 +376,12 @@ describe("Cards Missing for Structure Decks", () => {
 
 describe("getCardsMissingForStructureDecks", () => {
   beforeAll(() => {
-    // mockFs();
     jest.mocked(axios.get).mockResolvedValue([
       {
         set_name: "Structure Deck: Dragon's Roar",
         tcg_date: "2005-01-01",
       },
     ]);
-  });
-
-  afterAll(() => {
-    mockFs.restore();
   });
 
   it("can call", async () => {

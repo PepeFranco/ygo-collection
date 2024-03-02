@@ -1,6 +1,6 @@
-const _ = require("lodash");
-const fs = require("fs");
-const axios = require("axios");
+import _ from "lodash";
+import fs from "fs";
+import axios from "axios";
 
 import type { Banlist, CollectionRow, YGOProSet } from "../data/data.types";
 import type {
@@ -50,10 +50,7 @@ const getStructureDeckSets = (
       !setName.includes("deluxe")
     );
   });
-  const sortedSets: YGOProSet[] = _.sortBy(
-    filteredSets,
-    (sd: YGOProSet) => sd["tcg_date"]
-  );
+  const sortedSets = _.sortBy(filteredSets, (sd) => sd["tcg_date"]);
   return sortedSets.map((cardSet) => ({
     deck: cardSet["set_name"],
     date: cardSet["tcg_date"],
@@ -243,6 +240,10 @@ const getCardsMissingForStructureDecks = async () => {
 
   // const sets = [1, 2, 3];
   const sets = [3];
+  type StructureDeckResult = StructureDeckWithLimitedAndCollectionCards & {
+    numberOfCardsMissing: number;
+  };
+  const setResult: Record<number, StructureDeckResult[]> = {};
   sets.map((set) => {
     console.log(`=== Set of ${set} ===`);
     const setsToExcludeTwoOf = [
@@ -279,10 +280,6 @@ const getCardsMissingForStructureDecks = async () => {
       return getDeckFilteredByBanlist(deckWithCardsMultiplied, banlist);
     });
 
-    type StructureDeckResult = Omit<
-      StructureDeckWithLimitedAndCollectionCards,
-      "cards"
-    > & { numberOfCardsMissing: number };
     const structureDeckSetResult: StructureDeckResult[] = [];
     structureDeckSet.reduce(
       (accumulator, structureDeck) => {
@@ -307,29 +304,17 @@ const getCardsMissingForStructureDecks = async () => {
         });
         structureDeckSetResult.push({
           ...deck,
+          cards: [],
           numberOfCardsMissing: deck.cardsMissing.length,
-          // cards: undefined,
         });
         return accumulator;
       },
       { collection: collectionCopy }
     );
-
-    fs.writeFile(
-      `./structureDecks/cardsFor${set}Sets.json`,
-      JSON.stringify(structureDeckSetResult, null, 3),
-      function () {
-        // console.error(err);
-      }
-    );
+    setResult[set] = structureDeckSetResult;
   });
-  fs.writeFile(
-    `./structureDecks/missingCardsDataSet.json`,
-    JSON.stringify(dataForCSV),
-    function () {
-      // console.error(err);
-    }
-  );
+
+  return { dataForCSV, cardsFor3Sets: setResult[3] };
 };
 
 export {

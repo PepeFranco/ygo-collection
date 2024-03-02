@@ -1,6 +1,7 @@
 [
    {
       "deck": "Structure Deck: Dragon's Roar",
+      "cards": [],
       "date": "2005-01-01",
       "forbiddenCards": [],
       "limitedCards": [
@@ -89,6 +90,7 @@
    },
    {
       "deck": "Structure Deck: Zombie Madness",
+      "cards": [],
       "date": "2005-01-01",
       "forbiddenCards": [],
       "limitedCards": [
@@ -180,6 +182,7 @@
    },
    {
       "deck": "Structure Deck: Blaze of Destruction",
+      "cards": [],
       "date": "2005-05-09",
       "forbiddenCards": [],
       "limitedCards": [
@@ -281,6 +284,7 @@
    },
    {
       "deck": "Structure Deck: Fury from the Deep",
+      "cards": [],
       "date": "2005-05-09",
       "forbiddenCards": [],
       "limitedCards": [
@@ -383,6 +387,7 @@
    },
    {
       "deck": "Structure Deck: Warrior's Triumph",
+      "cards": [],
       "date": "2005-10-28",
       "forbiddenCards": [],
       "limitedCards": [
@@ -498,6 +503,7 @@
    },
    {
       "deck": "Structure Deck: Spellcaster's Judgment",
+      "cards": [],
       "date": "2006-01-18",
       "forbiddenCards": [],
       "limitedCards": [
@@ -607,6 +613,7 @@
    },
    {
       "deck": "Structure Deck: Invincible Fortress",
+      "cards": [],
       "date": "2006-05-15",
       "forbiddenCards": [],
       "limitedCards": [
@@ -712,6 +719,7 @@
    },
    {
       "deck": "Structure Deck: Lord of the Storm",
+      "cards": [],
       "date": "2006-07-12",
       "forbiddenCards": [],
       "limitedCards": [
@@ -828,6 +836,7 @@
    },
    {
       "deck": "Structure Deck: Dinosaur's Rage",
+      "cards": [],
       "date": "2006-10-20",
       "forbiddenCards": [],
       "limitedCards": [
@@ -947,6 +956,7 @@
    },
    {
       "deck": "Structure Deck: Machine Re-Volt",
+      "cards": [],
       "date": "2007-01-17",
       "forbiddenCards": [],
       "limitedCards": [
@@ -1066,6 +1076,7 @@
    },
    {
       "deck": "Rise of the Dragon Lords Structure Deck",
+      "cards": [],
       "date": "2007-10-24",
       "forbiddenCards": [],
       "limitedCards": [
@@ -1183,6 +1194,7 @@
    },
    {
       "deck": "The Dark Emperor Structure Deck",
+      "cards": [],
       "date": "2008-04-02",
       "forbiddenCards": [],
       "limitedCards": [
@@ -1300,6 +1312,7 @@
    },
    {
       "deck": "Zombie World Structure Deck",
+      "cards": [],
       "date": "2008-10-21",
       "forbiddenCards": [],
       "limitedCards": [
@@ -1423,6 +1436,7 @@
    },
    {
       "deck": "Spellcaster's Command Structure Deck",
+      "cards": [],
       "date": "2009-03-31",
       "forbiddenCards": [],
       "limitedCards": [
@@ -1546,6 +1560,7 @@
    },
    {
       "deck": "Warriors' Strike Structure Deck",
+      "cards": [],
       "date": "2009-10-23",
       "forbiddenCards": [],
       "limitedCards": [
@@ -1669,6 +1684,7 @@
    },
    {
       "deck": "Machina Mayhem Structure Deck",
+      "cards": [],
       "date": "2010-02-19",
       "forbiddenCards": [],
       "limitedCards": [
@@ -1791,6 +1807,7 @@
    },
    {
       "deck": "Structure Deck: Marik (TCG)",
+      "cards": [],
       "date": "2010-10-15",
       "forbiddenCards": [
          "Temple of the Kings"
@@ -1915,6 +1932,7 @@
    },
    {
       "deck": "Dragunity Legion Structure Deck",
+      "cards": [],
       "date": "2011-03-04",
       "forbiddenCards": [],
       "limitedCards": [
@@ -2043,6 +2061,7 @@
    },
    {
       "deck": "Lost Sanctuary Structure Deck",
+      "cards": [],
       "date": "2011-06-10",
       "forbiddenCards": [],
       "limitedCards": [
@@ -2164,6 +2183,7 @@
    },
    {
       "deck": "Gates of the Underworld Structure Deck",
+      "cards": [],
       "date": "2011-10-13",
       "forbiddenCards": [],
       "limitedCards": [
@@ -2291,6 +2311,7 @@
    },
    {
       "deck": "Dragons Collide Structure Deck",
+      "cards": [],
       "date": "2012-02-03",
       "forbiddenCards": [],
       "limitedCards": [
@@ -2420,6 +2441,7 @@
    },
    {
       "deck": "Samurai Warlords Structure Deck",
+      "cards": [],
       "date": "2012-06-21",
       "forbiddenCards": [],
       "limitedCards": [
@@ -2554,6 +2576,7 @@
    },
    {
       "deck": "Realm of the Sea Emperor Structure Deck",
+      "cards": [],
       "date": "2012-10-11",
       "forbiddenCards": [],
       "limitedCards": [
@@ -2684,6 +2707,7 @@
    },
    {
       "deck": "Onslaught of the Fire Kings Structure Deck",
+      "cards": [],
       "date": "2013-02-08",
       "forbiddenCards": [],
       "limitedCards": [],
@@ -2814,6 +2838,7 @@
    },
    {
       "deck": "Saga of Blue-Eyes White Dragon Structure Deck",
+      "cards": [],
       "date": "2013-09-12",
       "forbiddenCards": [
          "Monster Reborn"
@@ -2943,6 +2968,7 @@
    },
    {
       "deck": "Cyber Dragon Revolution Structure Deck",
+      "cards": [],
       "date": "2014-02-06",
       "forbiddenCards": [],
       "limitedCards": [
@@ -3070,6 +3096,7 @@
    },
    {
       "deck": "Realm of Light Structure Deck",
+      "cards": [],
       "date": "2014-06-27",
       "forbiddenCards": [],
       "limitedCards": [
@@ -3188,6 +3215,7 @@
    },
    {
       "deck": "Geargia Rampage Structure Deck",
+      "cards": [],
       "date": "2014-10-16",
       "forbiddenCards": [],
       "limitedCards": [
@@ -3305,6 +3333,7 @@
    },
    {
       "deck": "HERO Strike Structure Deck",
+      "cards": [],
       "date": "2015-01-29",
       "forbiddenCards": [],
       "limitedCards": [
@@ -3451,6 +3480,7 @@
    },
    {
       "deck": "Synchron Extreme Structure Deck",
+      "cards": [],
       "date": "2015-08-27",
       "forbiddenCards": [],
       "limitedCards": [
@@ -3590,6 +3620,7 @@
    },
    {
       "deck": "Master of Pendulum Structure Deck",
+      "cards": [],
       "date": "2015-12-03",
       "forbiddenCards": [],
       "limitedCards": [
@@ -3730,6 +3761,7 @@
    },
    {
       "deck": "Emperor of Darkness Structure Deck",
+      "cards": [],
       "date": "2016-01-28",
       "forbiddenCards": [],
       "limitedCards": [
@@ -3864,6 +3896,7 @@
    },
    {
       "deck": "Rise of the True Dragons Structure Deck",
+      "cards": [],
       "date": "2016-07-07",
       "forbiddenCards": [],
       "limitedCards": [
@@ -3998,6 +4031,7 @@
    },
    {
       "deck": "Structure Deck: Seto Kaiba",
+      "cards": [],
       "date": "2016-10-20",
       "forbiddenCards": [],
       "limitedCards": [
@@ -4141,6 +4175,7 @@
    },
    {
       "deck": "Structure Deck: Yugi Muto",
+      "cards": [],
       "date": "2016-10-20",
       "forbiddenCards": [],
       "limitedCards": [],
@@ -4288,6 +4323,7 @@
    },
    {
       "deck": "Pendulum Domination Structure Deck",
+      "cards": [],
       "date": "2017-01-19",
       "forbiddenCards": [],
       "limitedCards": [
@@ -4427,6 +4463,7 @@
    },
    {
       "deck": "Dinosmasher's Fury Structure Deck",
+      "cards": [],
       "date": "2017-04-13",
       "forbiddenCards": [],
       "limitedCards": [
@@ -4556,6 +4593,7 @@
    },
    {
       "deck": "Machine Reactor Structure Deck",
+      "cards": [],
       "date": "2017-04-13",
       "forbiddenCards": [],
       "limitedCards": [
@@ -4688,6 +4726,7 @@
    },
    {
       "deck": "Structure Deck: Cyberse Link",
+      "cards": [],
       "date": "2017-11-02",
       "forbiddenCards": [],
       "limitedCards": [
@@ -4827,6 +4866,7 @@
    },
    {
       "deck": "Structure Deck: Wave of Light",
+      "cards": [],
       "date": "2018-01-18",
       "forbiddenCards": [],
       "limitedCards": [
@@ -4965,6 +5005,7 @@
    },
    {
       "deck": "Structure Deck: Lair of Darkness",
+      "cards": [],
       "date": "2018-04-19",
       "forbiddenCards": [],
       "limitedCards": [
@@ -5102,6 +5143,7 @@
    },
    {
       "deck": "Structure Deck: Powercode Link",
+      "cards": [],
       "date": "2018-08-09",
       "forbiddenCards": [],
       "limitedCards": [
@@ -5238,6 +5280,7 @@
    },
    {
       "deck": "Legendary Hero Decks",
+      "cards": [],
       "date": "2018-10-04",
       "forbiddenCards": [],
       "limitedCards": [
@@ -5589,6 +5632,7 @@
    },
    {
       "deck": "Structure Deck: Zombie Horde",
+      "cards": [],
       "date": "2018-11-01",
       "forbiddenCards": [],
       "limitedCards": [
@@ -5726,6 +5770,7 @@
    },
    {
       "deck": "Structure Deck: Soulburner",
+      "cards": [],
       "date": "2019-02-14",
       "forbiddenCards": [],
       "limitedCards": [],
@@ -5870,6 +5915,7 @@
    },
    {
       "deck": "Structure Deck: Order of the Spellcasters",
+      "cards": [],
       "date": "2019-04-19",
       "forbiddenCards": [],
       "limitedCards": [],
@@ -6006,6 +6052,7 @@
    },
    {
       "deck": "Structure Deck: Rokket Revolt",
+      "cards": [],
       "date": "2019-08-15",
       "forbiddenCards": [],
       "limitedCards": [
@@ -6156,6 +6203,7 @@
    },
    {
       "deck": "Structure Deck: Shaddoll Showdown",
+      "cards": [],
       "date": "2020-02-13",
       "forbiddenCards": [],
       "limitedCards": [
@@ -6313,6 +6361,7 @@
    },
    {
       "deck": "Structure Deck: Mechanized Madness",
+      "cards": [],
       "date": "2020-04-16",
       "forbiddenCards": [],
       "limitedCards": [
@@ -6448,6 +6497,7 @@
    },
    {
       "deck": "Structure Deck: Sacred Beasts",
+      "cards": [],
       "date": "2020-07-09",
       "forbiddenCards": [],
       "limitedCards": [
@@ -6601,6 +6651,7 @@
    },
    {
       "deck": "Structure Deck: Spirit Charmers",
+      "cards": [],
       "date": "2020-10-22",
       "forbiddenCards": [],
       "limitedCards": [
@@ -6734,6 +6785,7 @@
    },
    {
       "deck": "Structure Deck: Freezing Chains",
+      "cards": [],
       "date": "2021-02-18",
       "forbiddenCards": [],
       "limitedCards": [
@@ -6883,6 +6935,7 @@
    },
    {
       "deck": "Structure Deck: Cyber Strike",
+      "cards": [],
       "date": "2021-10-14",
       "forbiddenCards": [],
       "limitedCards": [],
@@ -7039,6 +7092,7 @@
    },
    {
       "deck": "Structure Deck: Albaz Strike",
+      "cards": [],
       "date": "2022-04-14",
       "forbiddenCards": [],
       "limitedCards": [
@@ -7186,6 +7240,7 @@
    },
    {
       "deck": "Structure Deck: Legend of the Crystal Beasts",
+      "cards": [],
       "date": "2022-09-29",
       "forbiddenCards": [],
       "limitedCards": [
@@ -7336,6 +7391,7 @@
    },
    {
       "deck": "Structure Deck: Dark World",
+      "cards": [],
       "date": "2022-12-01",
       "forbiddenCards": [],
       "limitedCards": [
@@ -7482,6 +7538,7 @@
    },
    {
       "deck": "Structure Deck: Beware of Traptrix",
+      "cards": [],
       "date": "2023-02-23",
       "forbiddenCards": [],
       "limitedCards": [
@@ -7632,6 +7689,7 @@
    },
    {
       "deck": "Structure Deck: The Crimson King",
+      "cards": [],
       "date": "2023-09-21",
       "forbiddenCards": [],
       "limitedCards": [],
@@ -7791,6 +7849,7 @@
    },
    {
       "deck": "Structure Deck: Fire Kings",
+      "cards": [],
       "date": "2023-12-07",
       "forbiddenCards": [],
       "limitedCards": [
