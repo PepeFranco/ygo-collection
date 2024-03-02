@@ -51,7 +51,7 @@ Format was copied from wikia
 
 The script transforms it to json
 ```
-node ./data/downloadBanlists.js
+yarn collection:download-banlists
 ```
 
 ## Approach 1 
