@@ -12,7 +12,7 @@ import type {
 const getCardSets = async () => {
   const result = await axios
     .get("https://db.ygoprodeck.com/api/v7/cardsets.php")
-    .catch((e) => {
+    .catch(() => {
       // console.error(e);
     });
 
@@ -29,12 +29,12 @@ const getCardSets = async () => {
 
 const collection: CollectionRow[] = _.sortBy(
   [...require("../data/collection.json")],
-  (collectionCard) => collectionCard["In Deck"]
+  (collectionCard: CollectionRow) => collectionCard["In Deck"]
 );
 
 const banLists: Banlist[] = _.sortBy(
   require("../data/banlists.json"),
-  (l) => new Date(l.date)
+  (l: Banlist) => new Date(l.date)
 );
 
 const cardsInStructureDecks: StructureDeck[] = require("./cardsInStructureDecks.json");
@@ -52,7 +52,7 @@ const getStructureDeckSets = (
   });
   const sortedSets: YGOProSet[] = _.sortBy(
     filteredSets,
-    (sd) => sd["tcg_date"]
+    (sd: YGOProSet) => sd["tcg_date"]
   );
   return sortedSets.map((cardSet) => ({
     deck: cardSet["set_name"],
@@ -92,7 +92,7 @@ const getSetsOfCardsInStructureDeck = (
   }, deck);
   deckWithCardsMultiplied.cards = _.sortBy(
     deckWithCardsMultiplied.cards,
-    (card) => card
+    (card: string) => card
   );
   return deckWithCardsMultiplied;
 };
@@ -145,7 +145,7 @@ const getDeckFilteredByBanlist = (
     ...deck,
     cards: _.sortBy(
       [...cardsNotInList, ...limitedCardsInDeck, ...filteredSemiLimitedCards],
-      (card) => card
+      (card: string) => card
     ) as string[],
     forbiddenCards: forbiddenCardsInDeck,
     limitedCards: limitedCardsInDeck,
@@ -246,6 +246,7 @@ const getCardsMissingForStructureDecks = async () => {
   sets.map((set) => {
     console.log(`=== Set of ${set} ===`);
     const setsToExcludeTwoOf = [
+      "",
       // "Speed Duel GX: Duel Academy Box",
       // "Speed Duel GX: Duelists of Shadows",
       // "Speed Duel GX: Midterm Paradox",
@@ -317,7 +318,7 @@ const getCardsMissingForStructureDecks = async () => {
     fs.writeFile(
       `./structureDecks/cardsFor${set}Sets.json`,
       JSON.stringify(structureDeckSetResult, null, 3),
-      function (err) {
+      function () {
         // console.error(err);
       }
     );
@@ -325,7 +326,7 @@ const getCardsMissingForStructureDecks = async () => {
   fs.writeFile(
     `./structureDecks/missingCardsDataSet.json`,
     JSON.stringify(dataForCSV),
-    function (err) {
+    function () {
       // console.error(err);
     }
   );
