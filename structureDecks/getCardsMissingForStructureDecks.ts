@@ -150,7 +150,7 @@ const getDeckFilteredByBanlist = (
 };
 
 const removeCardsFromCollection = (
-  deck: StructureDeckWithLimitedCards,
+  deck: StructureDeckWithLimitedAndCollectionCards,
   collection: CollectionRow[],
   onlyRemoveIfSameSet: Boolean
 ): {
@@ -158,30 +158,40 @@ const removeCardsFromCollection = (
   deck: StructureDeckWithLimitedAndCollectionCards;
 } => {
   const filteredCollection = [...collection];
-  const cardsMissing = [...deck.cards];
-  const cardsInCollection: string[] = [];
-  deck.cards?.map((card) => {
+  const cardsMissing =
+    deck.cardsMissing.length > 0 ? [...deck.cardsMissing] : [...deck.cards];
+  const cardsInCollection =
+    deck.cardsInCollection.length > 0 ? [...deck.cardsInCollection] : [];
+  const cardsFound: string[] = [];
+
+  cardsMissing?.map((card) => {
     const collectionIndex = filteredCollection.findIndex((collectionCard) => {
       const sameName =
         collectionCard["Name"].toLowerCase() === card.toLowerCase();
+
       if (!onlyRemoveIfSameSet) {
         return sameName;
       }
       const sameSet = collectionCard["Set"] === deck.deck;
       return sameName && sameSet;
     });
+
     if (collectionIndex >= 0) {
       filteredCollection.splice(collectionIndex, 1);
-      const deckIndex = cardsMissing.findIndex(
-        (deckCard) => deckCard.toLowerCase() === card.toLowerCase()
-      );
-      cardsMissing.splice(deckIndex, 1);
       cardsInCollection.push(card);
+      cardsFound.push(card);
     }
+  });
+  _.each(cardsFound, (card) => {
+    cardsMissing.splice(cardsMissing.indexOf(card), 1);
   });
   return {
     collection: filteredCollection,
-    deck: { ...deck, cardsMissing, cardsInCollection },
+    deck: {
+      ...deck,
+      cardsMissing,
+      cardsInCollection,
+    },
   };
 };
 
@@ -234,9 +244,7 @@ const getCardsMissingForStructureDecks = async ({
   collection?: CollectionRow[];
   banlists?: Banlist[];
 }) => {
-  if (process.env.NODE_ENV !== "test") {
-    console.log(`📚 There are ${collection.length} cards in the collection`);
-  }
+  console.log(`📚 There are ${collection.length} cards in the collection`);
 
   const cardSets = await getCardSets();
   if (cardSets === null) {
@@ -305,14 +313,10 @@ const getCardsMissingForStructureDecks = async ({
           console.log(` 🎴 Getting cards for: ${structureDeck.deck}`);
         }
         const { collection, deck } = removeCardsFromCollection(
-          structureDeck,
+          { ...structureDeck, cardsMissing: [], cardsInCollection: [] },
           accumulator.collection,
           true
         );
-
-        structureDeck.cards = deck.cardsMissing;
-
-        accumulator.collection = collection;
         if (process.env.NODE_ENV !== "test") {
           console.log(
             `  #️⃣ There are ${deck?.cards?.length} cards in a set of ${set}`
@@ -322,12 +326,17 @@ const getCardsMissingForStructureDecks = async ({
           );
           console.log(`  ❌ ${deck.cardsMissing.length} are missing`);
         }
+        accumulator.collection = collection;
+        structureDeckSetResult.push({
+          ...deck,
+          numberOfCardsMissing: deck.cardsMissing.length,
+        });
         return accumulator;
       },
       { collection: collectionCopy }
     );
-    console.log("........................", collectionCopy.length);
-    structureDeckSet.reduce(
+    const secondStructureDeckSetResult: StructureDeckResult[] = [];
+    structureDeckSetResult.reduce(
       (accumulator, structureDeck) => {
         if (process.env.NODE_ENV !== "test") {
           console.log(` 🎴 Getting cards for: ${structureDeck.deck}`);
@@ -354,7 +363,7 @@ const getCardsMissingForStructureDecks = async ({
           cardsMissing: deck.cardsMissing.length,
           cardsInCollection: deck.cardsInCollection.length,
         });
-        structureDeckSetResult.push({
+        secondStructureDeckSetResult.push({
           ...deck,
           cards: [],
           numberOfCardsMissing: deck.cardsMissing.length,
@@ -363,7 +372,7 @@ const getCardsMissingForStructureDecks = async ({
       },
       { collection: firstReduceResult.collection }
     );
-    setResult[set] = structureDeckSetResult;
+    setResult[set] = secondStructureDeckSetResult;
   });
 
   return { dataForCSV, cardsFor3Sets: setResult[3] };
