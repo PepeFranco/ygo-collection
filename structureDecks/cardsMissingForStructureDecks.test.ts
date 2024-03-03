@@ -423,9 +423,10 @@ describe("getCardsMissingForStructureDecks", () => {
     const fireKings = result?.cardsFor3Sets.find(
       (sd) => sd.deck === "Structure Deck: Fire Kings"
     );
-    expect(
-      fireKings?.cardsMissing.includes("Circle of the Fire Kings")
-    ).toEqual(false);
+    const missingCirclesInFireKings = fireKings?.cardsMissing.filter(
+      (cardName) => cardName === "Circle of the Fire Kings"
+    );
+    expect(missingCirclesInFireKings?.length).toEqual(0);
     // expect(
     //   fireKings?.cardsInCollection.filter(
     //     (cardName) => cardName === "Circle of the Fire Kings"
@@ -434,19 +435,17 @@ describe("getCardsMissingForStructureDecks", () => {
     const onslaughtKings = result?.cardsFor3Sets.find(
       (sd) => sd.deck === "Onslaught of the Fire Kings Structure Deck"
     );
-    expect(
-      onslaughtKings?.cardsMissing.filter(
-        (cardName) => cardName === "Circle of the Fire Kings"
-      ).length
-    ).toEqual(1);
+    const missingCirclesInOnslaught = onslaughtKings?.cardsMissing.filter(
+      (cardName) => cardName === "Circle of the Fire Kings"
+    );
+    expect(missingCirclesInOnslaught?.length).toEqual(1);
 
     const soulburner = result?.cardsFor3Sets.find(
       (sd) => sd.deck === "Structure Deck: Soulburner"
     );
-    expect(
-      soulburner?.cardsMissing.filter(
-        (cardName) => cardName === "Circle of the Fire Kings"
-      ).length
-    ).toEqual(2);
+    const missingCirclesInSoulburner = soulburner?.cardsMissing.filter(
+      (cardName) => cardName === "Circle of the Fire Kings"
+    );
+    expect(missingCirclesInSoulburner?.length).toEqual(2);
   });
 });
