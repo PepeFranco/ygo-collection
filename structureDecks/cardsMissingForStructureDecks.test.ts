@@ -388,85 +388,65 @@ describe("getCardsMissingForStructureDecks", () => {
     });
   });
 
-  it("can call", async () => {
+  it("removes the correct cards", async () => {
+    // This card is 3x of in
+    // Structure Deck: Fire Kings
+    // Onslaught of the Fire Kings Structure Deck
+    // Structure Deck: Soulburner
     const collection = [
       {
-        Name: "Curse of Anubis",
-        Code: "BP02-EN182",
-        Set: "Battle Pack 2: War of the Giants",
-        Rarity: "Common",
-        Edition: "1st",
-        "In Deck": "Structure Deck: Dragon's Roar",
-        ID: "66742250",
-        Type: "Trap Card",
-        ATK: "",
-        DEF: "",
-        Level: "",
-        "Card Type": "Normal",
-        Attribute: "",
-        Archetype: "",
-        Scale: "",
-        "Link Scale": "",
-        "Earliest Set": "Ancient Sanctuary",
-        "Earliest Date": "2004-06-01",
-        "Is Speed Duel": "No",
-        "Is Speed Duel Legal": "FALSE",
-        Keep: "",
-        Price: "1.17",
+        Name: "Circle of the Fire Kings",
+        Set: "Structure Deck: Fire Kings",
       },
       {
-        Name: "Curse of Anubis",
-        Code: "BP02-EN182",
-        Set: "Battle Pack 2: War of the Giants",
-        Rarity: "Common",
-        Edition: "1st",
-        "In Deck": "Structure Deck: Dragon's Roar",
-        ID: "66742250",
-        Type: "Trap Card",
-        ATK: "",
-        DEF: "",
-        Level: "",
-        "Card Type": "Normal",
-        Attribute: "",
-        Archetype: "",
-        Scale: "",
-        "Link Scale": "",
-        "Earliest Set": "Ancient Sanctuary",
-        "Earliest Date": "2004-06-01",
-        "Is Speed Duel": "No",
-        "Is Speed Duel Legal": "FALSE",
-        Keep: "",
-        Price: "1.17",
+        Name: "Circle of the Fire Kings",
+        Set: "Structure Deck: Fire Kings",
       },
       {
-        Name: "Curse of Anubis",
-        Code: "SD1-EN028",
-        Set: "Structure Deck: Dragon's Roar",
-        Rarity: "Common",
-        Edition: "1st",
-        "In Deck": "",
-        ID: "66742250",
-        Type: "Trap Card",
-        ATK: "",
-        DEF: "",
-        Level: "",
-        "Card Type": "Normal",
-        Attribute: "",
-        Archetype: "",
-        Scale: "",
-        "Link Scale": "",
-        "Earliest Set": "Ancient Sanctuary",
-        "Earliest Date": "2004-06-01",
-        "Is Speed Duel": "No",
-        "Is Speed Duel Legal": "",
-        Keep: "",
-        Price: "1.13",
+        Name: "Circle of the Fire Kings",
+        Set: "Structure Deck: Fire Kings",
+      },
+      {
+        Name: "Circle of the Fire Kings",
+        Set: "Structure Deck: Fire Kings",
+      },
+      {
+        Name: "Circle of the Fire Kings",
+        Set: "Onslaught of the Fire Kings Structure Deck",
+      },
+      {
+        Name: "Circle of the Fire Kings",
+        Set: "Structure Deck: Soulburner",
       },
     ];
     const result = await getCardsMissingForStructureDecks({ collection });
-    const dragonsRoarDeck = result?.cardsFor3Sets[0];
-    expect(dragonsRoarDeck?.cardsMissing.includes("Curse of Anubis")).toEqual(
-      false
+    const fireKings = result?.cardsFor3Sets.find(
+      (sd) => sd.deck === "Structure Deck: Fire Kings"
     );
+    expect(
+      fireKings?.cardsMissing.includes("Circle of the Fire Kings")
+    ).toEqual(false);
+    // expect(
+    //   fireKings?.cardsInCollection.filter(
+    //     (cardName) => cardName === "Circle of the Fire Kings"
+    //   ).length
+    // ).toEqual(3);
+    const onslaughtKings = result?.cardsFor3Sets.find(
+      (sd) => sd.deck === "Onslaught of the Fire Kings Structure Deck"
+    );
+    expect(
+      onslaughtKings?.cardsMissing.filter(
+        (cardName) => cardName === "Circle of the Fire Kings"
+      ).length
+    ).toEqual(1);
+
+    const soulburner = result?.cardsFor3Sets.find(
+      (sd) => sd.deck === "Structure Deck: Soulburner"
+    );
+    expect(
+      soulburner?.cardsMissing.filter(
+        (cardName) => cardName === "Circle of the Fire Kings"
+      ).length
+    ).toEqual(2);
   });
 });
