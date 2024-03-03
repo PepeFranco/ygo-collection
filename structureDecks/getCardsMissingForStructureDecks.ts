@@ -262,8 +262,8 @@ const getCardsMissingForStructureDecks = async ({
     cardsInCollection: number;
   }[] = [];
 
-  // const sets = [1, 2, 3];
-  const sets = [3];
+  // const sets = [3];
+  const sets = [1, 2, 3];
   type StructureDeckResult = StructureDeckWithLimitedAndCollectionCards & {
     numberOfCardsMissing: number;
   };
@@ -381,7 +381,12 @@ const getCardsMissingForStructureDecks = async ({
     );
   });
 
-  return { dataForCSV, cardsFor3Sets: setResult[3] };
+  return {
+    dataForCSV,
+    cardsFor1Sets: setResult[1],
+    cardsFor2Sets: setResult[2],
+    cardsFor3Sets: setResult[3],
+  };
 };
 
 export {
