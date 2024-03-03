@@ -372,7 +372,13 @@ const getCardsMissingForStructureDecks = async ({
       },
       { collection: firstReduceResult.collection }
     );
-    setResult[set] = secondStructureDeckSetResult;
+    setResult[set] = secondStructureDeckSetResult.map(
+      (structureDeckSetResult) => {
+        structureDeckSetResult.cardsInCollection =
+          structureDeckSetResult.cardsInCollection.sort();
+        return structureDeckSetResult;
+      }
+    );
   });
 
   return { dataForCSV, cardsFor3Sets: setResult[3] };
