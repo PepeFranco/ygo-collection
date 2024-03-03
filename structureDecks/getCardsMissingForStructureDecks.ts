@@ -44,7 +44,7 @@ const getStructureDeckSets = (
   const filteredSets = cardSets.filter((cardSet) => {
     const setName = cardSet["set_name"].toLowerCase();
     return (
-      (setName.includes("structure") || setName === "legendary hero decks") &&
+      setName.includes("structure") &&
       !setName.includes("special") &&
       !setName.includes("deluxe")
     );
@@ -174,7 +174,7 @@ const removeCardsFromCollection = (
       if (!onlyRemoveIfSameSet) {
         return sameName;
       }
-      const sameSet = collectionCard["Set"] === deck.deck;
+      const sameSet = deck.deck.includes(collectionCard["Set"] || "");
       return sameName && sameSet;
     });
 
@@ -187,9 +187,6 @@ const removeCardsFromCollection = (
   _.each(cardsFound, (card) => {
     cardsMissing.splice(cardsMissing.indexOf(card), 1);
   });
-  if (deck.deck.includes(": Fire Kings")) {
-    console.log({ cardsMissing });
-  }
   return {
     collection: filteredCollection,
     deck: {
