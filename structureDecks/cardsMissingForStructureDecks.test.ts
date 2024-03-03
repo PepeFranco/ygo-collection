@@ -258,10 +258,10 @@ describe("Cards Missing for Structure Decks", () => {
 
       expect(result).toEqual({
         collection: [
-          "Blue-Eyes White Dragon",
-          "Call of the Haunted",
-          "Contact C",
-          "Zombie Master",
+          { Name: "Blue-Eyes White Dragon" },
+          { Name: "Call of the Haunted" },
+          { Name: "Contact C" },
+          { Name: "Zombie Master" },
         ],
         deck: {
           deck: "Structure Deck: Dragon's Roar",
@@ -304,7 +304,7 @@ describe("Cards Missing for Structure Decks", () => {
         false
       );
       expect(result2).toEqual({
-        collection: ["Blue-Eyes White Dragon"],
+        collection: [{ Name: "Blue-Eyes White Dragon" }],
         deck: {
           deck: "Structure Deck: Zombie Madness",
           cardsMissing: ["Call of the Haunted"],
