@@ -159,7 +159,9 @@ const removeCardsFromCollection = (
 } => {
   const filteredCollection = [...collection];
   const cardsMissing =
-    deck.cardsMissing.length > 0 ? [...deck.cardsMissing] : [...deck.cards];
+    deck.cardsInCollection.length > 0
+      ? [...deck.cardsMissing]
+      : [...deck.cards];
   const cardsInCollection =
     deck.cardsInCollection.length > 0 ? [...deck.cardsInCollection] : [];
   const cardsFound: string[] = [];
@@ -185,6 +187,9 @@ const removeCardsFromCollection = (
   _.each(cardsFound, (card) => {
     cardsMissing.splice(cardsMissing.indexOf(card), 1);
   });
+  if (deck.deck.includes(": Fire Kings")) {
+    console.log({ cardsMissing });
+  }
   return {
     collection: filteredCollection,
     deck: {
