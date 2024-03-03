@@ -151,21 +151,25 @@ const getDeckFilteredByBanlist = (
 
 const removeCardsFromCollection = (
   deck: StructureDeckWithLimitedCards,
-  collection: string[]
+  collection: CollectionRow[],
+  onlyRemoveIfSameSet: Boolean
 ): {
-  collection: string[];
+  collection: CollectionRow[];
   deck: StructureDeckWithLimitedAndCollectionCards;
 } => {
   const filteredCollection = [...collection];
-  if (deck.deck === "Structure Deck: Dragon's Roar") {
-    console.log({ filteredCollection });
-  }
   const cardsMissing = [...deck.cards];
   const cardsInCollection: string[] = [];
   deck.cards?.map((card) => {
-    const collectionIndex = filteredCollection.findIndex(
-      (collectionCard) => collectionCard.toLowerCase() === card.toLowerCase()
-    );
+    const collectionIndex = filteredCollection.findIndex((collectionCard) => {
+      const sameName =
+        collectionCard["Name"].toLowerCase() === card.toLowerCase();
+      if (!onlyRemoveIfSameSet) {
+        return sameName;
+      }
+      const sameSet = collectionCard["Set"] === deck.deck;
+      return sameName && sameSet;
+    });
     if (collectionIndex >= 0) {
       filteredCollection.splice(collectionIndex, 1);
       const deckIndex = cardsMissing.findIndex(
@@ -286,7 +290,7 @@ const getCardsMissingForStructureDecks = async ({
     const collectionCopy = excludeDecksFromCollection({
       decksToExclude,
       collection: [...collectionCopyWithSetsExcluded],
-    }).map(({ Name }) => Name);
+    });
 
     const structureDeckSet = cardsInStructureDecks.map((deck) => {
       const banlist = getClosestMatchingBanList(new Date(deck.date), banlists);
@@ -295,6 +299,34 @@ const getCardsMissingForStructureDecks = async ({
     });
 
     const structureDeckSetResult: StructureDeckResult[] = [];
+    const firstReduceResult = structureDeckSet.reduce(
+      (accumulator, structureDeck) => {
+        if (process.env.NODE_ENV !== "test") {
+          console.log(` 🎴 Getting cards for: ${structureDeck.deck}`);
+        }
+        const { collection, deck } = removeCardsFromCollection(
+          structureDeck,
+          accumulator.collection,
+          true
+        );
+
+        structureDeck.cards = deck.cardsMissing;
+
+        accumulator.collection = collection;
+        if (process.env.NODE_ENV !== "test") {
+          console.log(
+            `  #️⃣ There are ${deck?.cards?.length} cards in a set of ${set}`
+          );
+          console.log(
+            `  ✅ ${deck.cardsInCollection.length} are in the collection`
+          );
+          console.log(`  ❌ ${deck.cardsMissing.length} are missing`);
+        }
+        return accumulator;
+      },
+      { collection: collectionCopy }
+    );
+    console.log("........................", collectionCopy.length);
     structureDeckSet.reduce(
       (accumulator, structureDeck) => {
         if (process.env.NODE_ENV !== "test") {
@@ -302,8 +334,10 @@ const getCardsMissingForStructureDecks = async ({
         }
         const { collection, deck } = removeCardsFromCollection(
           structureDeck,
-          accumulator.collection
+          accumulator.collection,
+          false
         );
+
         accumulator.collection = collection;
         if (process.env.NODE_ENV !== "test") {
           console.log(
@@ -327,7 +361,7 @@ const getCardsMissingForStructureDecks = async ({
         });
         return accumulator;
       },
-      { collection: collectionCopy }
+      { collection: firstReduceResult.collection }
     );
     setResult[set] = structureDeckSetResult;
   });

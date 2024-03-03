@@ -228,14 +228,14 @@ describe("Cards Missing for Structure Decks", () => {
   describe("removeCardsFromCollection", () => {
     it("removes cards from collection", () => {
       const mockCollection = [
-        "Armed Dragon Lv3",
-        "Armed Dragon LV3",
-        "Blue-Eyes White Dragon",
-        "Call of the Haunted",
-        "Call of the Haunted",
-        "Call of the Haunted",
-        "Contact C",
-        "Zombie Master",
+        { Name: "Armed Dragon Lv3" },
+        { Name: "Armed Dragon LV3" },
+        { Name: "Blue-Eyes White Dragon" },
+        { Name: "Call of the Haunted" },
+        { Name: "Call of the Haunted" },
+        { Name: "Call of the Haunted" },
+        { Name: "Contact C" },
+        { Name: "Zombie Master" },
       ];
       const result = removeCardsFromCollection(
         {
@@ -252,7 +252,8 @@ describe("Cards Missing for Structure Decks", () => {
           limitedCards: [],
           semiLimitedCards: [],
         },
-        mockCollection
+        mockCollection,
+        false
       );
 
       expect(result).toEqual({
@@ -299,7 +300,8 @@ describe("Cards Missing for Structure Decks", () => {
           limitedCards: [],
           semiLimitedCards: [],
         },
-        result.collection
+        result.collection,
+        false
       );
       expect(result2).toEqual({
         collection: ["Blue-Eyes White Dragon"],
@@ -374,7 +376,7 @@ describe("Cards Missing for Structure Decks", () => {
   });
 });
 
-describe.only("getCardsMissingForStructureDecks", () => {
+describe("getCardsMissingForStructureDecks", () => {
   beforeAll(() => {
     jest.mocked(axios.get).mockResolvedValue({
       data: [
