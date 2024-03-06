@@ -22,7 +22,7 @@ const mainFunction = async () => {
           }
         }
       );
-      console.log(collection);
+      console.log(`⬇️ Downloaded ${collection.length} items`);
       fs.writeFile(
         "./data/collection.json",
         JSON.stringify(collection, null, 3),

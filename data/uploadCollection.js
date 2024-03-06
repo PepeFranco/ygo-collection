@@ -22,7 +22,7 @@ const mainFunction = async () => {
   await collectionSheet.updateDimensionProperties("ROWS", {
     pixelSize: 21,
   });
-  console.log("uploaded collection");
+  console.log(`⬆️ Uploaded collection`);
 
   // Structure deck missing cards
   const missingSheetTitle = "Structure Decks Missing";
@@ -47,6 +47,6 @@ const mainFunction = async () => {
     []
   );
   await missingCardsSheet.addRows(missingRows);
-  console.log("uploaded structure deck missing cards");
+  console.log(`⬆️ Uploaded Structure Deck Missing Cards`);
 };
 mainFunction();

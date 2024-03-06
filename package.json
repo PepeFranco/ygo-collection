@@ -7,6 +7,7 @@
     "collection:download": "node data/downloadCollection.js",
     "collection:fill": "node fillCollectionWithData.js",
     "collection:upload": "node data/uploadCollection.js",
+    "collection:update": "yarn collection:download && yarn collection:fill && yarn collection:upload",
     "collection:download-banlists": "node ./data/downloadBanlists.js",
     "structure:download-lists": "tsx structureDecks/downloadStructureDeckSets.js",
     "structure:get-missing": "tsx structureDecks/cardsMissingForStructureDecks.ts"

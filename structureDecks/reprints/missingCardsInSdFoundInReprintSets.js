@@ -2,10 +2,10 @@ const _ = require("lodash");
 const fs = require("fs");
 const axios = require("axios");
 
-const missingData = require("./cardsNeededToComplete3Sets.json");
+const missingData = require("../cardsFor3Sets.json");
 
 const missingCards = _.sortBy(
-  missingData.reduce((cards, deck) => [...cards, ...deck.cards], []),
+  missingData.reduce((cards, deck) => [...cards, ...deck.cardsMissing], []),
   (card) => card
 );
 
@@ -26,11 +26,11 @@ const getCardInfo = async (cardName) => {
 };
 
 const reprintSets = [
-  "legend of blue eyes white dragon",
-  "spell ruler",
-  "metal raiders",
-  "pharaoh's servant",
-  "invasion of chaos",
+  // "legend of blue eyes white dragon",
+  // "spell ruler",
+  // "metal raiders",
+  // "pharaoh's servant",
+  // "invasion of chaos",
   // "structure deck: dark world",
   // "structure deck: sacred beasts",
   // "structure deck: legend of the crystal beasts",
@@ -39,7 +39,8 @@ const reprintSets = [
   // "structure deck: mechanized madness",
   // "structure deck: spirit charmers",
   // "structure Ddeck: albaz strike",
-  // "saga of blue-eyes white dragon structure deck",
+  "saga of blue-eyes white dragon structure deck",
+  "realm of light structure deck",
 ];
 
 const getReprintSetsForCard = (cardInfo) => {

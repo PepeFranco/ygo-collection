@@ -51,22 +51,41 @@ const getEarliestInfo = (cardInfo, cardSetsByDate) => {
   };
 };
 
-const getCardSetName = (card, cardInfo) => {
+const getCardSet = (card, cardInfo) => {
   if (card["Code"] && cardInfo["card_sets"]) {
     // console.log("card code", card["Code"]);
-    const cardSet = cardInfo["card_sets"].find((cs) => {
-      // console.log("set code", cs["set_code"]);
+    const cardSet = cardInfo["card_sets"].filter((cs) => {
+      console.log("set code", cs["set_code"]);
       return (
         cs["set_code"].toLowerCase().trim().split("-")[0] ===
         card["Code"].toLowerCase().trim().split("-")[0]
       );
     });
     if (cardSet) {
-      // console.log("Card set found", cardSet);
-      return cardSet["set_name"];
+      if (cardSet.length === 1) {
+        console.log("Card set found", cardSet[0]);
+        return cardSet[0];
+      }
+
+      if (card["Rarity"]) {
+        const setWithCorrectRarity = cardSet.find((cardSet) => {
+          return cardSet["set_rarity"]
+            .toLowerCase()
+            .includes(card["Rarity"].toLowerCase());
+        });
+        if (setWithCorrectRarity) {
+          return setWithCorrectRarity;
+        }
+      }
+
+      console.log(
+        `-> Set ${cardSet[0]["set_name"]} includes several rarities: ${cardSet
+          .map((cs) => cs["set_rarity"].split(" ")[0])
+          .join(",")}`
+      );
     }
   }
-  return "";
+  return {};
 };
 
 const getCardPrice = (card, cardInfo) => {
@@ -74,7 +93,7 @@ const getCardPrice = (card, cardInfo) => {
   if (!card["Set"] || !cardSets || cardSets.length === 0) {
     return 0;
   }
-  const cardRarity = card["Rarity"] ? card["Rarity"].toLowerCase() : "common";
+  const cardRarity = card["Rarity"];
   const cardSet = cardSets.find((cardSet) => {
     return (
       cardSet["set_name"] === card["Set"] &&
@@ -95,29 +114,41 @@ const collectionCopy = [...collection];
 
 const cardIsComplete = (card) => {
   if (card["Type"] === "Skill Card") {
+    // console.log("========================");
+    // console.log("Card is Skill Card", card["Name"]);
     return true;
   }
+
   if (card["Price"] === undefined) {
+    console.log("========================");
     console.log("Missing price");
     return false;
   }
   if (!card["Set"]) {
+    console.log("========================");
     console.log("Missing Set");
     return false;
   }
   if (!card["Type"]) {
+    console.log("========================");
     console.log("Missing Type");
     return false;
   }
   if (!card["Card Type"]) {
+    console.log("========================");
     console.log("Missing Card Type");
     return false;
   }
   if (!card["Is Speed Duel"]) {
-    console.log("Missing Card Type");
+    console.log("========================");
+    console.log("Missing Speed Duel");
     return false;
   }
   const cardHasEarliestSet = card["Earliest Set"] && card["Earliest Date"];
+  if (!cardHasEarliestSet) {
+    console.log("========================");
+    console.log("Missing Earliest Set");
+  }
   return Boolean(cardHasEarliestSet);
 };
 
@@ -127,15 +158,22 @@ const mainFunction = async () => {
     const cardSetsByDate = _.orderBy(cardSets, ["tcg_date"]);
     for (let i = 0; i < collectionCopy.length; i++) {
       const card = collectionCopy[i];
+
       if (!cardIsComplete(card)) {
         const cardInfo = await getCardInfo(card["Name"]);
-        console.log("========================");
-        console.log(card["Name"], card["Code"]);
+        console.log(
+          `${card["Name"]} (${card["Code"]}). Card info found: ${Boolean(
+            cardInfo
+          )}`
+        );
         if (cardInfo) {
-          const set = getCardSetName(card, cardInfo);
-          card["Set"] = card["Set"] || set || "";
-          card["Rarity"] = card["Rarity"] || "Common";
-          card["ID"] = cardInfo.id || "";
+          const set = getCardSet(card, cardInfo);
+          card["Set"] = card["Set"] || (set && set["set_name"]) || "";
+          card["Code"] = set["set_code"] || card["Code"] || "";
+          (card["Rarity"] =
+            card["Rarity"] ||
+            (set["set_rarity"] && set["set_rarity"].split(" ")[0])),
+            (card["ID"] = cardInfo.id || "");
           card["Type"] = cardInfo.type || "";
           card["ATK"] = cardInfo.atk || "";
           card["DEF"] = cardInfo.def || "";
@@ -149,7 +187,9 @@ const mainFunction = async () => {
           card["Earliest Set"] = earliestSet.earliestSet || "";
           card["Earliest Date"] = earliestSet.earliestDate || "";
           const isSpeedDuel =
-            set.toLowerCase().includes("speed duel") || card["Type"] === "Skill"
+            (set["set_name"] &&
+              set["set_name"].toLowerCase().includes("speed duel")) ||
+            card["Type"] === "Skill"
               ? "Yes"
               : "No";
           card["Is Speed Duel"] = isSpeedDuel;
