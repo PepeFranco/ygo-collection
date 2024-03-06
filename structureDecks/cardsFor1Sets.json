@@ -673,9 +673,7 @@
          "Card of Safe Return",
          "Magical Stone Excavation"
       ],
-      "cardsMissing": [
-         "Spirit Reaper"
-      ],
+      "cardsMissing": [],
       "cardsInCollection": [
          "Book of Life",
          "Bottomless Trap Hole",
@@ -708,13 +706,14 @@
          "Shrink",
          "Soul Taker",
          "Spell Shattering Arrow",
+         "Spirit Reaper",
          "Terraforming",
          "Tutan Mask",
          "Waboku",
          "Zombie Master",
          "Zombie World"
       ],
-      "numberOfCardsMissing": 1
+      "numberOfCardsMissing": 0
    },
    {
       "deck": "Spellcaster's Command Structure Deck",
@@ -1638,9 +1637,7 @@
          "Solemn Warning"
       ],
       "semiLimitedCards": [],
-      "cardsMissing": [
-         "Plaguespreader Zombie"
-      ],
+      "cardsMissing": [],
       "cardsInCollection": [
          "Accel Synchron",
          "Black Dragon Collapserpent",
@@ -1663,6 +1660,7 @@
          "Limiter Overload",
          "Night Beam",
          "One for One",
+         "Plaguespreader Zombie",
          "Quickdraw Synchron",
          "Quillbolt Hedgehog",
          "Reinforcement of the Army",
@@ -1685,7 +1683,7 @@
          "Unknown Synchron",
          "White Dragon Wyverburster"
       ],
-      "numberOfCardsMissing": 1
+      "numberOfCardsMissing": 0
    },
    {
       "deck": "Master of Pendulum Structure Deck",

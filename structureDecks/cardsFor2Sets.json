@@ -165,8 +165,7 @@
       "cardsMissing": [
          "Dark Room of Nightmare",
          "Dark Room of Nightmare",
-         "Necklace of Command",
-         "Thestalos the Firestorm Monarch"
+         "Necklace of Command"
       ],
       "cardsInCollection": [
          "Backfire",
@@ -215,6 +214,7 @@
          "Spell Shield Type-8",
          "Spell Shield Type-8",
          "Thestalos the Firestorm Monarch",
+         "Thestalos the Firestorm Monarch",
          "Tribute to the Doomed",
          "Tribute to the Doomed",
          "UFO Turtle",
@@ -222,7 +222,7 @@
          "Ultimate Baseball Kid",
          "Ultimate Baseball Kid"
       ],
-      "numberOfCardsMissing": 4
+      "numberOfCardsMissing": 3
    },
    {
       "deck": "Structure Deck: Fury from the Deep",
@@ -326,7 +326,6 @@
          "Divine Sword - Phoenix Blade",
          "Fairy of the Spring",
          "Gearfried the Swordmaster",
-         "Gilford the Legend",
          "Mystic Swordsman LV4",
          "Ninja Grandmaster Sasuke",
          "Obnoxious Celtic Guard",
@@ -353,6 +352,7 @@
          "Gearfried the Swordmaster",
          "Giant Trunade",
          "Giant Trunade",
+         "Gilford the Legend",
          "Gilford the Legend",
          "Goblin Attack Force",
          "Goblin Attack Force",
@@ -391,7 +391,7 @@
          "Wicked-Breaking Flamberge - Baou",
          "Wicked-Breaking Flamberge - Baou"
       ],
-      "numberOfCardsMissing": 8
+      "numberOfCardsMissing": 7
    },
    {
       "deck": "Structure Deck: Spellcaster's Judgment",
@@ -414,12 +414,10 @@
       ],
       "semiLimitedCards": [],
       "cardsMissing": [
-         "Dark Eradicator Warlock",
          "Divine Wrath",
          "Ebon Magician Curran",
          "Mythical Beast Cerberus",
-         "Rapid-Fire Magician",
-         "Reload"
+         "Rapid-Fire Magician"
       ],
       "cardsInCollection": [
          "Apprentice Magician",
@@ -432,6 +430,7 @@
          "Chaos Command Magician",
          "Chaos Sorcerer",
          "Chaos Sorcerer",
+         "Dark Eradicator Warlock",
          "Dark Eradicator Warlock",
          "Dark Magic Attack",
          "Dark Magic Attack",
@@ -464,6 +463,7 @@
          "Premature Burial",
          "Rapid-Fire Magician",
          "Reload",
+         "Reload",
          "Royal Magical Library",
          "Royal Magical Library",
          "Skilled Dark Magician",
@@ -477,7 +477,7 @@
          "White Magician Pikeru",
          "White Magician Pikeru"
       ],
-      "numberOfCardsMissing": 6
+      "numberOfCardsMissing": 4
    },
    {
       "deck": "Structure Deck: Invincible Fortress",
@@ -494,15 +494,13 @@
       "cardsMissing": [
          "Canyon",
          "Criosphinx",
-         "Exxod, Master of The Guard",
          "Golem Sentry",
          "Great Spirit",
          "Guardian Sphinx",
          "Hieracosphinx",
          "Maharaghi",
          "Megarock Dragon",
-         "Robbin' Goblin",
-         "Shifting Shadows"
+         "Robbin' Goblin"
       ],
       "cardsInCollection": [
          "Brain Control",
@@ -513,6 +511,7 @@
          "Criosphinx",
          "Ectoplasmer",
          "Ectoplasmer",
+         "Exxod, Master of The Guard",
          "Exxod, Master of The Guard",
          "Giant Rat",
          "Giant Rat",
@@ -547,6 +546,7 @@
          "Shield & Sword",
          "Shield & Sword",
          "Shifting Shadows",
+         "Shifting Shadows",
          "Stone Statue of the Aztecs",
          "Stone Statue of the Aztecs",
          "Swords of Revealing Light",
@@ -555,7 +555,7 @@
          "Waboku",
          "Waboku"
       ],
-      "numberOfCardsMissing": 11
+      "numberOfCardsMissing": 9
    },
    {
       "deck": "Structure Deck: Lord of the Storm",
@@ -582,8 +582,6 @@
          "Ninjitsu Art of Transformation",
          "Reload",
          "Reload",
-         "Silpheed",
-         "Slate Warrior",
          "Swift Birdman Joe"
       ],
       "cardsInCollection": [
@@ -632,8 +630,10 @@
          "Sakuretsu Armor",
          "Sakuretsu Armor",
          "Silpheed",
+         "Silpheed",
          "Simorgh, Bird of Divinity",
          "Simorgh, Bird of Divinity",
+         "Slate Warrior",
          "Slate Warrior",
          "Sonic Duck",
          "Sonic Duck",
@@ -643,7 +643,7 @@
          "Triangle Ecstasy Spark",
          "Triangle Ecstasy Spark"
       ],
-      "numberOfCardsMissing": 11
+      "numberOfCardsMissing": 9
    },
    {
       "deck": "Structure Deck: Dinosaur's Rage",
@@ -1010,9 +1010,7 @@
       ],
       "cardsMissing": [
          "Gernia",
-         "Getsu Fuhma",
          "Imperial Iron Wall",
-         "Magical Stone Excavation",
          "Malevolent Mech - Goku En",
          "Marionette Mite",
          "Master Kyonshee",
@@ -1021,7 +1019,6 @@
          "Red-Eyes Zombie Dragon",
          "Ribbon of Rebirth",
          "Royal Keeper",
-         "Spirit Reaper",
          "Tutan Mask",
          "Zombie World"
       ],
@@ -1047,9 +1044,11 @@
          "Field Barrier",
          "Gernia",
          "Getsu Fuhma",
+         "Getsu Fuhma",
          "Imperial Iron Wall",
          "Magical Arm Shield",
          "Magical Arm Shield",
+         "Magical Stone Excavation",
          "Magical Stone Excavation",
          "Malevolent Mech - Goku En",
          "Marionette Mite",
@@ -1075,6 +1074,7 @@
          "Soul Taker",
          "Spell Shattering Arrow",
          "Spell Shattering Arrow",
+         "Spirit Reaper",
          "Terraforming",
          "Terraforming",
          "Tutan Mask",
@@ -1084,7 +1084,7 @@
          "Zombie Master",
          "Zombie World"
       ],
-      "numberOfCardsMissing": 15
+      "numberOfCardsMissing": 12
    },
    {
       "deck": "Spellcaster's Command Structure Deck",
@@ -1113,8 +1113,7 @@
          "Malevolent Nuzzler",
          "Mist Body",
          "Mythical Beast Cerberus",
-         "Royal Magical Library",
-         "Tower of Babel"
+         "Royal Magical Library"
       ],
       "cardsInCollection": [
          "Apprentice Magician",
@@ -1173,10 +1172,11 @@
          "Terraforming",
          "Terraforming",
          "Tower of Babel",
+         "Tower of Babel",
          "Twister",
          "Twister"
       ],
-      "numberOfCardsMissing": 13
+      "numberOfCardsMissing": 12
    },
    {
       "deck": "Warriors' Strike Structure Deck",
@@ -1936,10 +1936,7 @@
       "semiLimitedCards": [
          "Torrential Tribute"
       ],
-      "cardsMissing": [
-         "Deep Sea Diva",
-         "Snowman Eater"
-      ],
+      "cardsMissing": [],
       "cardsInCollection": [
          "A Legendary Ocean",
          "A Legendary Ocean",
@@ -1971,6 +1968,7 @@
          "Deep Diver",
          "Deep Diver",
          "Deep Sea Diva",
+         "Deep Sea Diva",
          "Forgotten Temple of the Deep",
          "Forgotten Temple of the Deep",
          "Friller Rabca",
@@ -2000,6 +1998,7 @@
          "Skreech",
          "Skreech",
          "Snowman Eater",
+         "Snowman Eater",
          "Spined Gillman",
          "Spined Gillman",
          "Spiritual Water Art - Aoi",
@@ -2017,7 +2016,7 @@
          "Water Hazard",
          "Water Hazard"
       ],
-      "numberOfCardsMissing": 2
+      "numberOfCardsMissing": 0
    },
    {
       "deck": "Onslaught of the Fire Kings Structure Deck",
@@ -2593,8 +2592,6 @@
          "Jet Synchron",
          "Limit Overdrive",
          "Limiter Overload",
-         "Plaguespreader Zombie",
-         "Plaguespreader Zombie",
          "Rush Warrior",
          "Scrap Fist",
          "Scrap-Iron Statue",
@@ -2637,6 +2634,8 @@
          "Night Beam",
          "Night Beam",
          "One for One",
+         "Plaguespreader Zombie",
+         "Plaguespreader Zombie",
          "Quickdraw Synchron",
          "Quickdraw Synchron",
          "Quillbolt Hedgehog",
@@ -2673,7 +2672,7 @@
          "White Dragon Wyverburster",
          "White Dragon Wyverburster"
       ],
-      "numberOfCardsMissing": 14
+      "numberOfCardsMissing": 12
    },
    {
       "deck": "Master of Pendulum Structure Deck",
@@ -2889,7 +2888,6 @@
          "Dragon Ravine"
       ],
       "cardsMissing": [
-         "A Wingbeat of Giant Dragon",
          "Arkbrave Dragon",
          "Breakthrough Skill",
          "Burst Breath",
@@ -2912,6 +2910,7 @@
          "Ruins of the Divine Dragon Lords"
       ],
       "cardsInCollection": [
+         "A Wingbeat of Giant Dragon",
          "A Wingbeat of Giant Dragon",
          "Arkbrave Dragon",
          "Armed Protector Dragon",
@@ -2971,7 +2970,7 @@
          "White Night Dragon",
          "White Night Dragon"
       ],
-      "numberOfCardsMissing": 21
+      "numberOfCardsMissing": 20
    },
    {
       "deck": "Structure Deck: Seto Kaiba",
@@ -3296,13 +3295,10 @@
          "Lost World",
          "Nightmare Archfiends",
          "Painful Decision",
-         "Petiteranodon",
          "Quaking Mirror Force",
          "Secret Blast",
          "Skelesaurus",
-         "Souleating Oviraptor",
          "Stegocyber",
-         "Super Conductor Tyranno",
          "Survival's End",
          "Trifortressops",
          "Ultimate Conductor Tyranno",
@@ -3340,6 +3336,7 @@
          "Ojama Trio",
          "Painful Decision",
          "Petiteranodon",
+         "Petiteranodon",
          "Quaking Mirror Force",
          "Rescue Rabbit",
          "Sabersaurus",
@@ -3349,7 +3346,9 @@
          "Secret Blast",
          "Skelesaurus",
          "Souleating Oviraptor",
+         "Souleating Oviraptor",
          "Stegocyber",
+         "Super Conductor Tyranno",
          "Super Conductor Tyranno",
          "Super-Ancient Dinobeast",
          "Super-Ancient Dinobeast",
@@ -3370,7 +3369,7 @@
          "Ultimate Tyranno",
          "Unexpected Dai"
       ],
-      "numberOfCardsMissing": 16
+      "numberOfCardsMissing": 13
    },
    {
       "deck": "Machine Reactor Structure Deck",
@@ -4270,8 +4269,7 @@
          "Salamangreat Spinny",
          "Salamangreat Wolvie",
          "The Transmigration Prophecy",
-         "Transmodify",
-         "Will of the Salamangreat"
+         "Transmodify"
       ],
       "cardsInCollection": [
          "Ash Blossom & Joyous Spring",
@@ -4334,9 +4332,10 @@
          "True King Agnimazud, the Vanisher",
          "Volcanic Shell",
          "Volcanic Shell",
+         "Will of the Salamangreat",
          "Will of the Salamangreat"
       ],
-      "numberOfCardsMissing": 27
+      "numberOfCardsMissing": 26
    },
    {
       "deck": "Structure Deck: Order of the Spellcasters",

@@ -10,7 +10,9 @@
     "collection:update": "yarn collection:download && yarn collection:fill && yarn collection:upload",
     "collection:download-banlists": "node ./data/downloadBanlists.js",
     "structure:download-lists": "tsx structureDecks/downloadStructureDeckSets.js",
-    "structure:get-missing": "tsx structureDecks/cardsMissingForStructureDecks.ts"
+    "structure:get-missing": "tsx structureDecks/cardsMissingForStructureDecks.ts",
+    "structure:update": "yarn collection:download && yarn collection:download-banlists && yarn structure:download-lists && yarn structure:get-missing && yarn collection:upload",
+    "update-all": "yarn collection:download && yarn collection:fill &&  yarn collection:download-banlists && yarn structure:download-lists && yarn structure:get-missing && yarn collection:upload"
   },
   "dependencies": {
     "axios": "^0.21.1",
@@ -31,5 +33,6 @@
     "ts-jest": "^29.1.2",
     "tsx": "^4.7.1",
     "typescript": "^5.3.3"
-  }
+  },
+  "license": "MIT"
 }

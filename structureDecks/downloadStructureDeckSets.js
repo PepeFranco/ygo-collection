@@ -175,8 +175,8 @@ const mainFunction = async () => {
     const cardsInStructureDeck = await getCardsInStructureDeck(deck);
     const cardNames = cardsInStructureDeck.map((card) => card["name"]);
     cardsInStructureDeckSet.push({ deck, cards: cardNames, date });
-    console.log(cardsInStructureDeck);
-    await sleep(1000);
+    console.log(`Downloaded ${cardsInStructureDeck.length} cards for ${deck}`);
+    await sleep(100);
   });
 
   fs.writeFile(
