@@ -2,7 +2,9 @@ import { getCardsMissingForStructureDecks } from "./getCardsMissingForStructureD
 import fs from "fs";
 
 const mainFunction = async () => {
-  const result = await getCardsMissingForStructureDecks({});
+  const result = await getCardsMissingForStructureDecks({
+    prioritiseOriginalSet: false,
+  });
 
   if (result) {
     const { cardsFor1Sets, cardsFor2Sets, cardsFor3Sets, dataForCSV } = result;

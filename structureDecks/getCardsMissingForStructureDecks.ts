@@ -266,8 +266,8 @@ const getCardsMissingForStructureDecks = async ({
     cardsInCollection: number;
   }[] = [];
 
-  const sets = [3];
-  // const sets = [1, 2, 3];
+  // const sets = [3];
+  const sets = [1, 2, 3];
   type StructureDeckResult = StructureDeckWithLimitedAndCollectionCards & {
     numberOfCardsMissing: number;
   };
@@ -385,9 +385,6 @@ const getCardsMissingForStructureDecks = async ({
             firstReduceResult.collectionWithCardsRemoved,
           onlyRemoveIfSameSet: false,
         });
-        console.log(
-          secondReduceResult.resultSet[firstReduceResult.resultSet.length - 1]
-        );
         return secondReduceResult.resultSet;
       }
       const firstReduceResult = getMissingCardsFromCollection({
