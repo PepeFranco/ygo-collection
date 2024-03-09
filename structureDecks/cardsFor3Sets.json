@@ -5822,7 +5822,6 @@
          "Flamvell Firedog",
          "Formud Skipper",
          "Formud Skipper",
-         "Inferno",
          "Link Bound",
          "Link Bound",
          "Magic Planter",
@@ -5900,6 +5899,7 @@
          "Gozen Match",
          "Inferno",
          "Inferno",
+         "Inferno",
          "Link Bound",
          "Magic Planter",
          "Monster Reincarnation",
@@ -5944,7 +5944,7 @@
          "Will of the Salamangreat",
          "Will of the Salamangreat"
       ],
-      "numberOfCardsMissing": 67
+      "numberOfCardsMissing": 66
    },
    {
       "deck": "Structure Deck: Order of the Spellcasters",

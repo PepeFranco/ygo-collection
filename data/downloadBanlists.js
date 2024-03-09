@@ -24,7 +24,7 @@ const mainFunction = async () => {
       }
       const month = b1Sheet.getCell(1, c).value;
       const date = `${year}-${month}`;
-      console.log(date);
+      // console.log(date);
       const cardsInThisList = [];
       for (let r = 2; r < rowCount; r++) {
         const card = b1Sheet.getCell(r, 0).value;
@@ -44,6 +44,11 @@ const mainFunction = async () => {
       banLists.push(thisBanlist);
     }
   }
+  console.log(
+    `⬇️ Downloaded ${banLists.length} banlists. Latest banlist from ${
+      banLists[banLists.length - 1].date
+    }`
+  );
   fs.writeFileSync("./data/banlists.json", JSON.stringify(banLists, null, 3));
 };
 mainFunction();

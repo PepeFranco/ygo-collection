@@ -54,24 +54,40 @@ const getEarliestInfo = (cardInfo, cardSetsByDate) => {
 const getCardSet = (card, cardInfo) => {
   if (card["Code"] && cardInfo["card_sets"]) {
     // console.log("card code", card["Code"]);
-    const cardSet = cardInfo["card_sets"].filter((cs) => {
-      console.log("set code", cs["set_code"]);
-      return (
-        cs["set_code"].toLowerCase().trim().split("-")[0] ===
-        card["Code"].toLowerCase().trim().split("-")[0]
-      );
-    });
-    if (cardSet) {
+    const cardSet = _.uniqBy(
+      cardInfo["card_sets"]
+        .map((cs) => ({
+          ...cs,
+          set_rarity: cs["set_rarity"].toLowerCase().includes("short")
+            ? "Common"
+            : cs["set_rarity"],
+        }))
+        .filter((cs) => {
+          console.log("set code", cs["set_code"], cs["set_rarity"]);
+          return (
+            cs["set_code"].toLowerCase().trim().split("-")[0] ===
+            card["Code"].toLowerCase().trim().split("-")[0]
+          );
+        }),
+      (cs) => cs["set_rarity"]
+    );
+
+    if (cardSet.length > 0) {
       if (cardSet.length === 1) {
         console.log("Card set found", cardSet[0]);
         return cardSet[0];
       }
 
+      console.log(
+        "Multiple card sets found: ",
+        cardSet.map((cs) => cs["set_name"]).join(",")
+      );
+
       if (card["Rarity"]) {
         const setWithCorrectRarity = cardSet.find((cardSet) => {
-          return cardSet["set_rarity"]
-            .toLowerCase()
-            .includes(card["Rarity"].toLowerCase());
+          const setRarity = cardSet["set_rarity"].toLowerCase();
+          console.log({ setRarity }, card.Rarity);
+          return setRarity.includes(card["Rarity"].toLowerCase());
         });
         if (setWithCorrectRarity) {
           return setWithCorrectRarity;
@@ -168,12 +184,13 @@ const mainFunction = async () => {
         );
         if (cardInfo) {
           const set = getCardSet(card, cardInfo);
+          card["Name"] = cardInfo.name;
           card["Set"] = card["Set"] || (set && set["set_name"]) || "";
           card["Code"] = set["set_code"] || card["Code"] || "";
-          (card["Rarity"] =
+          card["Rarity"] =
             card["Rarity"] ||
-            (set["set_rarity"] && set["set_rarity"].split(" ")[0])),
-            (card["ID"] = cardInfo.id || "");
+            (set["set_rarity"] && set["set_rarity"].split(" ")[0]);
+          card["ID"] = cardInfo.id || "";
           card["Type"] = cardInfo.type || "";
           card["ATK"] = cardInfo.atk || "";
           card["DEF"] = cardInfo.def || "";
