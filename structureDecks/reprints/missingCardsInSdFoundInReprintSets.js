@@ -31,7 +31,7 @@ const reprintSets = [
   // "metal raiders",
   // "pharaoh's servant",
   // "invasion of chaos",
-  // "structure deck: dark world",
+  "structure deck: dark world",
   // "structure deck: sacred beasts",
   // "structure deck: legend of the crystal beasts",
   // "structure deck: cyber strike",
@@ -39,8 +39,8 @@ const reprintSets = [
   // "structure deck: mechanized madness",
   // "structure deck: spirit charmers",
   // "structure Ddeck: albaz strike",
-  "saga of blue-eyes white dragon structure deck",
-  "realm of light structure deck",
+  // "saga of blue-eyes white dragon structure deck",
+  // "realm of light structure deck",
 ];
 
 const getReprintSetsForCard = (cardInfo) => {

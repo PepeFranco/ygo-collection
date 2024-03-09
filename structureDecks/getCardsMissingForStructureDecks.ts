@@ -242,9 +242,11 @@ const excludeDecksFromCollection = ({
 const getCardsMissingForStructureDecks = async ({
   collection = collectionFile,
   banlists,
+  prioritiseOriginalSet = true,
 }: {
   collection?: CollectionRow[];
   banlists?: Banlist[];
+  prioritiseOriginalSet?: Boolean;
 }) => {
   console.log(`📚 There are ${collection.length} cards in the collection`);
 
@@ -264,8 +266,8 @@ const getCardsMissingForStructureDecks = async ({
     cardsInCollection: number;
   }[] = [];
 
-  // const sets = [3];
-  const sets = [1, 2, 3];
+  const sets = [3];
+  // const sets = [1, 2, 3];
   type StructureDeckResult = StructureDeckWithLimitedAndCollectionCards & {
     numberOfCardsMissing: number;
   };
@@ -302,85 +304,115 @@ const getCardsMissingForStructureDecks = async ({
       collection: [...collectionCopyWithSetsExcluded],
     });
 
-    const structureDeckSet = cardsInStructureDecks.map((deck) => {
-      const banlist = getClosestMatchingBanList(new Date(deck.date), banlists);
-      const deckWithCardsMultiplied = getSetsOfCardsInStructureDeck(deck, set);
-      return getDeckFilteredByBanlist(deckWithCardsMultiplied, banlist);
-    });
-
-    const structureDeckSetResult: StructureDeckResult[] = [];
-    const firstReduceResult = structureDeckSet.reduce(
-      (accumulator, structureDeck) => {
-        if (process.env.NODE_ENV !== "test") {
-          console.log(` 🎴 Getting cards for: ${structureDeck.deck}`);
-        }
-        const { collection, deck } = removeCardsFromCollection(
-          { ...structureDeck, cardsMissing: [], cardsInCollection: [] },
-          accumulator.collection,
-          true
+    const structureDeckSet: StructureDeckResult[] = cardsInStructureDecks.map(
+      (deck) => {
+        const banlist = getClosestMatchingBanList(
+          new Date(deck.date),
+          banlists
         );
-        if (process.env.NODE_ENV !== "test") {
-          console.log(
-            `  #️⃣ There are ${deck?.cards?.length} cards in a set of ${set}`
-          );
-          console.log(
-            `  ✅ ${deck.cardsInCollection.length} are in the collection`
-          );
-          console.log(`  ❌ ${deck.cardsMissing.length} are missing`);
-        }
-        accumulator.collection = collection;
-        structureDeckSetResult.push({
-          ...deck,
-          numberOfCardsMissing: deck.cardsMissing.length,
-        });
-        return accumulator;
-      },
-      { collection: collectionCopy }
-    );
-    const secondStructureDeckSetResult: StructureDeckResult[] = [];
-    structureDeckSetResult.reduce(
-      (accumulator, structureDeck) => {
-        if (process.env.NODE_ENV !== "test") {
-          console.log(` 🎴 Getting cards for: ${structureDeck.deck}`);
-        }
-        const { collection, deck } = removeCardsFromCollection(
-          structureDeck,
-          accumulator.collection,
-          false
+        const deckWithCardsMultiplied = getSetsOfCardsInStructureDeck(
+          deck,
+          set
         );
-
-        accumulator.collection = collection;
-        if (process.env.NODE_ENV !== "test") {
-          console.log(
-            `  #️⃣ There are ${deck?.cards?.length} cards in a set of ${set}`
-          );
-          console.log(
-            `  ✅ ${deck.cardsInCollection.length} are in the collection`
-          );
-          console.log(`  ❌ ${deck.cardsMissing.length} are missing`);
-        }
-        dataForCSV.push({
-          set,
-          deck: deck.deck,
-          cardsMissing: deck.cardsMissing.length,
-          cardsInCollection: deck.cardsInCollection.length,
-        });
-        secondStructureDeckSetResult.push({
-          ...deck,
-          cards: [],
-          numberOfCardsMissing: deck.cardsMissing.length,
-        });
-        return accumulator;
-      },
-      { collection: firstReduceResult.collection }
-    );
-    setResult[set] = secondStructureDeckSetResult.map(
-      (structureDeckSetResult) => {
-        structureDeckSetResult.cardsInCollection =
-          structureDeckSetResult.cardsInCollection.sort();
-        return structureDeckSetResult;
+        return {
+          ...getDeckFilteredByBanlist(deckWithCardsMultiplied, banlist),
+          cardsMissing: [],
+          cardsInCollection: [],
+          numberOfCardsMissing: 0,
+        };
       }
     );
+
+    const getMissingCardsFromCollection = ({
+      setToReduce,
+      collectionToRemoveCardsFrom,
+      onlyRemoveIfSameSet,
+    }: {
+      setToReduce: StructureDeckResult[];
+      collectionToRemoveCardsFrom: CollectionRow[];
+      onlyRemoveIfSameSet: Boolean;
+    }) => {
+      const resultSet: StructureDeckResult[] = [];
+      const { collection: collectionWithCardsRemoved } = setToReduce.reduce(
+        (accumulator, structureDeck) => {
+          if (process.env.NODE_ENV !== "test") {
+            console.log(` 🎴 Getting cards for: ${structureDeck.deck}`);
+          }
+          const { collection, deck } = removeCardsFromCollection(
+            { ...structureDeck },
+            accumulator.collection,
+            onlyRemoveIfSameSet
+          );
+          if (process.env.NODE_ENV !== "test") {
+            console.log(
+              `  #️⃣ There are ${deck?.cards?.length} cards in a set of ${set}`
+            );
+            console.log(
+              `  ✅ ${deck.cardsInCollection.length} are in the collection`
+            );
+            console.log(`  ❌ ${deck.cardsMissing.length} are missing`);
+          }
+          accumulator.collection = collection;
+          if (onlyRemoveIfSameSet) {
+            resultSet.push({
+              ...deck,
+              numberOfCardsMissing: deck.cardsMissing.length,
+            });
+            return accumulator;
+          }
+          resultSet.push({
+            ...deck,
+            cards: [],
+            numberOfCardsMissing: deck.cardsMissing.length,
+          });
+          return accumulator;
+        },
+        { collection: collectionToRemoveCardsFrom }
+      );
+      return { resultSet, collectionWithCardsRemoved };
+    };
+
+    const getResultSet = () => {
+      if (prioritiseOriginalSet) {
+        const firstReduceResult = getMissingCardsFromCollection({
+          setToReduce: structureDeckSet,
+          collectionToRemoveCardsFrom: collectionCopy,
+          onlyRemoveIfSameSet: true,
+        });
+        const secondReduceResult = getMissingCardsFromCollection({
+          setToReduce: firstReduceResult.resultSet,
+          collectionToRemoveCardsFrom:
+            firstReduceResult.collectionWithCardsRemoved,
+          onlyRemoveIfSameSet: false,
+        });
+        console.log(
+          secondReduceResult.resultSet[firstReduceResult.resultSet.length - 1]
+        );
+        return secondReduceResult.resultSet;
+      }
+      const firstReduceResult = getMissingCardsFromCollection({
+        setToReduce: structureDeckSet,
+        collectionToRemoveCardsFrom: collectionCopy,
+        onlyRemoveIfSameSet: false,
+      });
+      return firstReduceResult.resultSet;
+    };
+    setResult[set] = getResultSet().map((structureDeckSetResult) => {
+      structureDeckSetResult.cardsInCollection =
+        structureDeckSetResult.cardsInCollection.sort();
+      return structureDeckSetResult;
+    });
+  });
+
+  sets.map((set) => {
+    setResult[set].map((deckResult) => {
+      dataForCSV.push({
+        set,
+        deck: deckResult.deck,
+        cardsMissing: deckResult.cardsMissing.length,
+        cardsInCollection: deckResult.cardsInCollection.length,
+      });
+    });
   });
 
   return {

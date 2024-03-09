@@ -72,7 +72,7 @@ const deckPath = "/formats/edison/";
 //   "Structure Deck: Beware of Traptrix",
 //   "Structure Deck: The Crimson King",
 // ];
-const decks = ["quickdraw plant w side"];
+const decks = ["quickdraw plant w side", "diva hero"];
 const excludeLanguages = [];
 // If empty, will not use cards already in deck
 // If it has values, will use the cards in those decks
