@@ -5,7 +5,7 @@
   "scripts": {
     "test": "jest",
     "collection:download": "node data/downloadCollection.js",
-    "collection:fill": "node fillCollectionWithData.js",
+    "collection:fill": "tsx fillCollectionWithData.ts",
     "collection:upload": "node data/uploadCollection.js",
     "collection:update": "yarn collection:download && yarn collection:fill && yarn collection:upload",
     "collection:download-banlists": "node ./data/downloadBanlists.js",

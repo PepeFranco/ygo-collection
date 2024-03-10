@@ -79,7 +79,7 @@ const excludeLanguages = [];
 // This works for SDs to use as many real cards as possible for earlier decks
 // Get this empty to check which cards need to be printed
 // And then add back Structure Deck and Legendary Deck to see where to get the real cards from
-const includeDecks = ["structure deck", "Legendary Deck", "edison", "goat"];
+const includeDecks = ["structure deck", "Legendary Deck", "edison"];
 // const includeDecks = [];
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));

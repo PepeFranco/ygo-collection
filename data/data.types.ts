@@ -53,3 +53,25 @@ export type Banlist = {
   date: string;
   cards: BanlistCard[];
 };
+
+export type YGOProCardSet = {
+  set_name: string;
+  set_code: string;
+  set_rarity: string;
+  set_price: string;
+};
+
+export type YGOProCard = {
+  name: string;
+  id: string;
+  type: string;
+  atk: number;
+  def: number;
+  level?: number;
+  race: string;
+  attribute: string;
+  archetype: string;
+  scale?: number;
+  linkval?: number;
+  card_sets: YGOProCardSet[];
+};

@@ -39,8 +39,8 @@ const reprintSets = [
   // "structure deck: mechanized madness",
   // "structure deck: spirit charmers",
   // "structure Ddeck: albaz strike",
-  // "saga of blue-eyes white dragon structure deck",
-  // "realm of light structure deck",
+  "saga of blue-eyes white dragon structure deck",
+  "realm of light structure deck",
 ];
 
 const getReprintSetsForCard = (cardInfo) => {
