@@ -618,7 +618,9 @@
       "semiLimitedCards": [
          "Reinforcement of the Army"
       ],
-      "cardsMissing": [],
+      "cardsMissing": [
+         "Return from the Different Dimension"
+      ],
       "cardsInCollection": [
          "Banisher of the Radiance",
          "Bazoo the Soul-Eater",
@@ -651,13 +653,12 @@
          "Mystical Space Typhoon",
          "Nobleman of Crossout",
          "Reinforcement of the Army",
-         "Return from the Different Dimension",
          "Sakuretsu Armor",
          "Samsara Kaiser",
          "Soul Release",
          "Torrential Tribute"
       ],
-      "numberOfCardsMissing": 0
+      "numberOfCardsMissing": 1
    },
    {
       "deck": "Zombie World Structure Deck",
@@ -1013,8 +1014,7 @@
       ],
       "semiLimitedCards": [],
       "cardsMissing": [
-         "Consecrated Light",
-         "Return from the Different Dimension"
+         "Consecrated Light"
       ],
       "cardsInCollection": [
          "Airknight Parshath",
@@ -1033,6 +1033,7 @@
          "Miraculous Descent",
          "Mystical Shine Ball",
          "Nova Summoner",
+         "Return from the Different Dimension",
          "Shining Angel",
          "Smashing Ground",
          "Solemn Judgment",
@@ -1054,7 +1055,7 @@
          "Victoria",
          "Zeradias, Herald of Heaven"
       ],
-      "numberOfCardsMissing": 2
+      "numberOfCardsMissing": 1
    },
    {
       "deck": "Gates of the Underworld Structure Deck",
@@ -1071,7 +1072,9 @@
          "Mind Crush",
          "Tragoedia"
       ],
-      "cardsMissing": [],
+      "cardsMissing": [
+         "The Transmigration Prophecy"
+      ],
       "cardsInCollection": [
          "Allure of Darkness",
          "Battle Fader",
@@ -1109,11 +1112,10 @@
          "Terraforming",
          "The Forces of Darkness",
          "The Gates of Dark World",
-         "The Transmigration Prophecy",
          "Tragoedia",
          "Zure, Knight of Dark World"
       ],
-      "numberOfCardsMissing": 0
+      "numberOfCardsMissing": 1
    },
    {
       "deck": "Dragons Collide Structure Deck",
