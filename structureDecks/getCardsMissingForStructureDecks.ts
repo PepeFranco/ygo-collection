@@ -164,7 +164,10 @@ const removeCardsFromCollection = (
     ) {
       return 0;
     }
-    return 1;
+    if (collectionCard["In Deck"]?.toLowerCase().trim() === "") {
+      return 1;
+    }
+    return 2;
   });
   const cardsMissing =
     deck.cardsInCollection.length > 0
@@ -187,8 +190,11 @@ const removeCardsFromCollection = (
     });
 
     if (collectionIndex >= 0) {
+      const collectionCard = { ...filteredCollection[collectionIndex] };
       filteredCollection.splice(collectionIndex, 1);
-      cardsInCollection.push(card);
+      cardsInCollection.push(
+        `${collectionCard.Name} (${collectionCard.Rarity}) <${collectionCard["In Deck"]}>`
+      );
       cardsFound.push(card);
     }
   });
