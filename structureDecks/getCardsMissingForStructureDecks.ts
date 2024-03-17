@@ -157,7 +157,15 @@ const removeCardsFromCollection = (
   collection: CollectionRow[];
   deck: StructureDeckWithLimitedAndCollectionCards;
 } => {
-  const filteredCollection = [...collection];
+  const filteredCollection = _.sortBy([...collection], (collectionCard) => {
+    if (
+      collectionCard["In Deck"]?.toLowerCase().trim() ===
+      deck.deck.toLowerCase().trim()
+    ) {
+      return 0;
+    }
+    return 1;
+  });
   const cardsMissing =
     deck.cardsInCollection.length > 0
       ? [...deck.cardsMissing]

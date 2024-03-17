@@ -423,7 +423,6 @@
          "Reload",
          "Reload",
          "Reload",
-         "Royal Decree",
          "Swords of Concealing Light",
          "Swords of Concealing Light"
       ],
@@ -484,6 +483,7 @@
          "Release Restraint",
          "Royal Decree",
          "Royal Decree",
+         "Royal Decree",
          "Snatch Steal",
          "Swift Gaia the Fierce Knight",
          "Swift Gaia the Fierce Knight",
@@ -499,7 +499,7 @@
          "Wicked-Breaking Flamberge - Baou",
          "Wicked-Breaking Flamberge - Baou"
       ],
-      "numberOfCardsMissing": 23
+      "numberOfCardsMissing": 22
    },
    {
       "deck": "Structure Deck: Spellcaster's Judgment",
@@ -738,6 +738,7 @@
          "Bladefly",
          "Dark Coffin",
          "Dark Coffin",
+         "Dust Tornado",
          "Harpie Girl",
          "Hysteric Party",
          "Hysteric Party",
@@ -764,7 +765,6 @@
          "Call of the Haunted",
          "Card Destruction",
          "Dark Coffin",
-         "Dust Tornado",
          "Dust Tornado",
          "Dust Tornado",
          "Elegant Egotist",
@@ -832,7 +832,7 @@
          "Triangle Ecstasy Spark",
          "Triangle Ecstasy Spark"
       ],
-      "numberOfCardsMissing": 18
+      "numberOfCardsMissing": 19
    },
    {
       "deck": "Structure Deck: Dinosaur's Rage",
@@ -1098,6 +1098,7 @@
          "Decoy Dragon",
          "Dust Tornado",
          "Dust Tornado",
+         "Dust Tornado",
          "Felgrand Dragon",
          "Flame Ruler",
          "Flame Ruler",
@@ -1128,7 +1129,6 @@
          "Draining Shield",
          "Draining Shield",
          "Draining Shield",
-         "Dust Tornado",
          "Felgrand Dragon",
          "Felgrand Dragon",
          "Flame Ruler",
@@ -1190,7 +1190,7 @@
          "Tyrant Dragon",
          "Tyrant Dragon"
       ],
-      "numberOfCardsMissing": 25
+      "numberOfCardsMissing": 26
    },
    {
       "deck": "The Dark Emperor Structure Deck",
@@ -1213,6 +1213,7 @@
          "By Order of the Emperor",
          "By Order of the Emperor",
          "By Order of the Emperor",
+         "Caius the Shadow Monarch",
          "Caius the Shadow Monarch",
          "D.D. Warrior",
          "Dark Core",
@@ -1243,7 +1244,6 @@
          "Bottomless Trap Hole",
          "Brain Control",
          "Caius the Shadow Monarch",
-         "Caius the Shadow Monarch",
          "Chaosrider Gustaph",
          "Chaosrider Gustaph",
          "Chaosrider Gustaph",
@@ -1308,7 +1308,7 @@
          "Soul Release",
          "Torrential Tribute"
       ],
-      "numberOfCardsMissing": 21
+      "numberOfCardsMissing": 22
    },
    {
       "deck": "Zombie World Structure Deck",
@@ -1344,8 +1344,6 @@
          "Paladin of the Cursed Dragon",
          "Patrician of Darkness",
          "Patrician of Darkness",
-         "Pyramid Turtle",
-         "Pyramid Turtle",
          "Red-Eyes Zombie Dragon",
          "Red-Eyes Zombie Dragon",
          "Ribbon of Rebirth",
@@ -1403,6 +1401,8 @@
          "Pot of Avarice",
          "Pot of Avarice",
          "Pyramid Turtle",
+         "Pyramid Turtle",
+         "Pyramid Turtle",
          "Red-Eyes Zombie Dragon",
          "Regenerating Mummy",
          "Regenerating Mummy",
@@ -1432,7 +1432,7 @@
          "Zombie Master",
          "Zombie World"
       ],
-      "numberOfCardsMissing": 34
+      "numberOfCardsMissing": 32
    },
    {
       "deck": "Spellcaster's Command Structure Deck",
@@ -1701,6 +1701,7 @@
          "Commander Covington",
          "Commander Covington",
          "Commander Covington",
+         "Dimensional Prison",
          "Green Gadget",
          "Inferno Reckless Summon",
          "Inferno Reckless Summon",
@@ -1716,7 +1717,6 @@
          "Machina Soldier",
          "Machina Soldier",
          "Machine Duplication",
-         "Prohibition",
          "Prohibition",
          "Rare Metalmorph",
          "Rare Metalmorph",
@@ -1753,7 +1753,6 @@
          "Cyber Valley",
          "Dimensional Prison",
          "Dimensional Prison",
-         "Dimensional Prison",
          "Frontline Base",
          "Frontline Base",
          "Frontline Base",
@@ -1783,6 +1782,7 @@
          "Metalmorph",
          "Metalmorph",
          "Metalmorph",
+         "Prohibition",
          "Prohibition",
          "Proto-Cyber Dragon",
          "Proto-Cyber Dragon",
@@ -2097,7 +2097,6 @@
          "Nova Summoner",
          "Nova Summoner",
          "Smashing Ground",
-         "Smashing Ground",
          "Solemn Judgment",
          "Solidarity",
          "Solidarity",
@@ -2158,6 +2157,7 @@
          "Shining Angel",
          "Shining Angel",
          "Smashing Ground",
+         "Smashing Ground",
          "Soul of Purity and Light",
          "Splendid Venus",
          "Terraforming",
@@ -2179,7 +2179,7 @@
          "Victoria",
          "Zeradias, Herald of Heaven"
       ],
-      "numberOfCardsMissing": 54
+      "numberOfCardsMissing": 53
    },
    {
       "deck": "Gates of the Underworld Structure Deck",
@@ -2204,6 +2204,7 @@
          "Dark Eruption",
          "Dark Scheme",
          "Dark World Dealings",
+         "Deck Devastation Virus",
          "Eradicator Epidemic Virus",
          "Eradicator Epidemic Virus",
          "Escape from the Dark Dimension",
@@ -2259,7 +2260,6 @@
          "Dark World Lightning",
          "Deck Devastation Virus",
          "Deck Devastation Virus",
-         "Deck Devastation Virus",
          "Eradicator Epidemic Virus",
          "Escape from the Dark Dimension",
          "Escape from the Dark Dimension",
@@ -2307,7 +2307,7 @@
          "Zure, Knight of Dark World",
          "Zure, Knight of Dark World"
       ],
-      "numberOfCardsMissing": 24
+      "numberOfCardsMissing": 25
    },
    {
       "deck": "Dragons Collide Structure Deck",
@@ -2589,7 +2589,9 @@
          "Abyss Soldier",
          "Atlantean Dragoons",
          "Deep Sea Diva",
-         "Poseidra, the Atlantean Dragon"
+         "Poseidra, the Atlantean Dragon",
+         "Snowman Eater",
+         "Spined Gillman"
       ],
       "cardsInCollection": [
          "A Legendary Ocean",
@@ -2678,8 +2680,6 @@
          "Skreech",
          "Snowman Eater",
          "Snowman Eater",
-         "Snowman Eater",
-         "Spined Gillman",
          "Spined Gillman",
          "Spined Gillman",
          "Spiritual Water Art - Aoi",
@@ -2703,7 +2703,7 @@
          "Water Hazard",
          "Water Hazard"
       ],
-      "numberOfCardsMissing": 4
+      "numberOfCardsMissing": 6
    },
    {
       "deck": "Onslaught of the Fire Kings Structure Deck",
@@ -4626,7 +4626,6 @@
          "Ancient Gear Wyvern",
          "BOXer",
          "BOXer",
-         "Call of the Haunted",
          "Fiendish Chain",
          "Fiendish Chain",
          "Geargiauger",
@@ -4680,6 +4679,7 @@
          "BOXer",
          "Call of the Haunted",
          "Call of the Haunted",
+         "Call of the Haunted",
          "Card Trooper",
          "Card Trooper",
          "Fiendish Chain",
@@ -4720,7 +4720,7 @@
          "The Huge Revolution is Over",
          "The Huge Revolution is Over"
       ],
-      "numberOfCardsMissing": 44
+      "numberOfCardsMissing": 43
    },
    {
       "deck": "Structure Deck: Cyberse Link",
@@ -5684,13 +5684,10 @@
          "Malevolent Mech - Goku En",
          "Marionette Mite",
          "Mask of Restrict",
-         "Mask of Restrict",
-         "Mezuki",
          "Mezuki",
          "Necroworld Banshee",
          "Needlebug Nest",
          "Paladin of the Cursed Dragon",
-         "Pyramid Turtle",
          "Pyramid Turtle",
          "Red-Eyes Zombie Dragon",
          "Red-Eyes Zombie Necro Dragon",
@@ -5701,7 +5698,6 @@
          "Trap of the Imperial Tomb",
          "Tristan, Knight of the Underworld",
          "Uni-Zombie",
-         "Zombie Master",
          "Zombie Master",
          "Zombie Necronize",
          "Zombie Power Struggle",
@@ -5751,9 +5747,11 @@
          "Marionette Mite",
          "Marionette Mite",
          "Mask of Restrict",
+         "Mask of Restrict",
          "Metaverse",
          "Metaverse",
          "Metaverse",
+         "Mezuki",
          "Mezuki",
          "Monster Gate",
          "Necroworld Banshee",
@@ -5765,6 +5763,7 @@
          "Overpowering Eye",
          "Paladin of the Cursed Dragon",
          "Paladin of the Cursed Dragon",
+         "Pyramid Turtle",
          "Pyramid Turtle",
          "Red-Eyes Zombie Dragon",
          "Red-Eyes Zombie Dragon",
@@ -5791,6 +5790,7 @@
          "Uni-Zombie",
          "Uni-Zombie",
          "Zombie Master",
+         "Zombie Master",
          "Zombie Necronize",
          "Zombie Necronize",
          "Zombie Power Struggle",
@@ -5798,7 +5798,7 @@
          "Zombie World",
          "Zombie World"
       ],
-      "numberOfCardsMissing": 33
+      "numberOfCardsMissing": 29
    },
    {
       "deck": "Structure Deck: Soulburner",

@@ -925,6 +925,7 @@
          "Big Bang Shot",
          "By Order of the Emperor",
          "By Order of the Emperor",
+         "Caius the Shadow Monarch",
          "Dark Core",
          "Lightning Vortex",
          "Lightning Vortex",
@@ -942,7 +943,6 @@
          "Bottomless Trap Hole",
          "Bottomless Trap Hole",
          "Brain Control",
-         "Caius the Shadow Monarch",
          "Caius the Shadow Monarch",
          "Chaosrider Gustaph",
          "Chaosrider Gustaph",
@@ -992,7 +992,7 @@
          "Soul Release",
          "Torrential Tribute"
       ],
-      "numberOfCardsMissing": 10
+      "numberOfCardsMissing": 11
    },
    {
       "deck": "Zombie World Structure Deck",
@@ -1282,7 +1282,6 @@
       ],
       "cardsMissing": [
          "Commander Covington",
-         "Prohibition",
          "The Big Saturn"
       ],
       "cardsInCollection": [
@@ -1334,6 +1333,7 @@
          "Metalmorph",
          "Metalmorph",
          "Prohibition",
+         "Prohibition",
          "Proto-Cyber Dragon",
          "Proto-Cyber Dragon",
          "Rare Metalmorph",
@@ -1355,7 +1355,7 @@
          "Yellow Gadget",
          "Yellow Gadget"
       ],
-      "numberOfCardsMissing": 3
+      "numberOfCardsMissing": 2
    },
    {
       "deck": "Structure Deck: Marik (TCG)",
@@ -1568,7 +1568,6 @@
          "Hanewata",
          "Hanewata",
          "Nova Summoner",
-         "Smashing Ground",
          "Solidarity",
          "Solidarity",
          "Soul of Purity and Light",
@@ -1611,6 +1610,7 @@
          "Shining Angel",
          "Shining Angel",
          "Smashing Ground",
+         "Smashing Ground",
          "Solemn Judgment",
          "Soul of Purity and Light",
          "Splendid Venus",
@@ -1632,7 +1632,7 @@
          "Victoria",
          "Zeradias, Herald of Heaven"
       ],
-      "numberOfCardsMissing": 24
+      "numberOfCardsMissing": 23
    },
    {
       "deck": "Gates of the Underworld Structure Deck",
@@ -2214,6 +2214,7 @@
          "Dimensional Prison"
       ],
       "cardsMissing": [
+         "Dimensional Prison",
          "Trap Stun"
       ],
       "cardsInCollection": [
@@ -2251,7 +2252,6 @@
          "Cybernetic Hidden Technology",
          "D.D.R. - Different Dimension Reincarnation",
          "D.D.R. - Different Dimension Reincarnation",
-         "Dimensional Prison",
          "Dimensional Prison",
          "Evolution Burst",
          "Evolution Burst",
@@ -2292,7 +2292,7 @@
          "Waboku",
          "Waboku"
       ],
-      "numberOfCardsMissing": 1
+      "numberOfCardsMissing": 2
    },
    {
       "deck": "Realm of Light Structure Deck",
@@ -4147,12 +4147,7 @@
          "Monster Gate"
       ],
       "semiLimitedCards": [],
-      "cardsMissing": [
-         "Mask of Restrict",
-         "Mezuki",
-         "Pyramid Turtle",
-         "Zombie Master"
-      ],
+      "cardsMissing": [],
       "cardsInCollection": [
          "Anti-Spell Fragrance",
          "Anti-Spell Fragrance",
@@ -4190,8 +4185,10 @@
          "Marionette Mite",
          "Marionette Mite",
          "Mask of Restrict",
+         "Mask of Restrict",
          "Metaverse",
          "Metaverse",
+         "Mezuki",
          "Mezuki",
          "Monster Gate",
          "Necroworld Banshee",
@@ -4202,6 +4199,7 @@
          "Overpowering Eye",
          "Paladin of the Cursed Dragon",
          "Paladin of the Cursed Dragon",
+         "Pyramid Turtle",
          "Pyramid Turtle",
          "Red-Eyes Zombie Dragon",
          "Red-Eyes Zombie Dragon",
@@ -4226,6 +4224,7 @@
          "Uni-Zombie",
          "Uni-Zombie",
          "Zombie Master",
+         "Zombie Master",
          "Zombie Necronize",
          "Zombie Necronize",
          "Zombie Power Struggle",
@@ -4233,7 +4232,7 @@
          "Zombie World",
          "Zombie World"
       ],
-      "numberOfCardsMissing": 4
+      "numberOfCardsMissing": 0
    },
    {
       "deck": "Structure Deck: Soulburner",
