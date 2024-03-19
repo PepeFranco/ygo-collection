@@ -5,9 +5,20 @@ const axios = require("axios");
 const missingData = require("../cardsFor3Sets.json");
 
 const missingCards = _.sortBy(
-  missingData.reduce((cards, deck) => [...cards, ...deck.cardsMissing], []),
-  (card) => card
+  missingData.reduce(
+    (cards, deck) => [
+      ...cards,
+      ...deck.cardsMissing.map((cardMissing) => ({
+        card: cardMissing,
+        deck: deck.deck,
+      })),
+    ],
+    []
+  ),
+  ({ card }) => card
 );
+
+console.log(missingCards[0]);
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 const getCardInfo = async (cardName) => {
@@ -61,15 +72,19 @@ const mainFunction = async () => {
   const cardsFound = [];
   const cardsNotFound = [];
   for (let i = 0; i < missingCards.length; i++) {
-    const currentCard = missingCards[i];
+    const currentCard = missingCards[i].card;
     const cardInfo = await getCardInfo(currentCard);
     const reprintSetsForCard = getReprintSetsForCard(cardInfo);
     if (reprintSetsForCard.length > 0) {
       console.log(reprintSetsForCard[0]);
-      console.log(`✅ ${currentCard} can be found in ${reprintSetsForCard[0]}`);
-      cardsFound.push(`${currentCard} - ${reprintSetsForCard[0]}`);
+      console.log(
+        `✅ ${currentCard} <${missingCards[i].deck}> - ${reprintSetsForCard[0]}`
+      );
+      cardsFound.push(
+        `${currentCard} <${missingCards[i].deck}> - ${reprintSetsForCard[0]}`
+      );
     } else {
-      console.log(`❌ ${currentCard} can not be found in reprint sets`);
+      console.log(`❌ ${currentCard} not found in reprint sets`);
       cardsNotFound.push(currentCard);
     }
   }
@@ -77,9 +92,10 @@ const mainFunction = async () => {
   console.log(
     `Cards NOT found: ${cardsNotFound.length}/${missingCards.length}`
   );
+  const cardsSortedBySet = _.sortBy(cardsFound, (card) => card.split("-")[1]);
   fs.writeFile(
     "./structureDecks/sdCardsInReprintSets.json",
-    JSON.stringify(cardsFound, null, 3),
+    JSON.stringify(cardsSortedBySet, null, 3),
     function (err) {
       if (err) console.error(err);
     }
