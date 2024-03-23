@@ -152,23 +152,13 @@ const getDeckFilteredByBanlist = (
 const removeCardsFromCollection = (
   deck: StructureDeckWithLimitedAndCollectionCards,
   collection: CollectionRow[],
-  onlyRemoveIfSameSet: Boolean
+  onlyRemoveIfSameSet: Boolean,
+  onlyRemoveIfSameDeck: Boolean
 ): {
   collection: CollectionRow[];
   deck: StructureDeckWithLimitedAndCollectionCards;
 } => {
-  const filteredCollection = _.sortBy([...collection], (collectionCard) => {
-    if (
-      collectionCard["In Deck"]?.toLowerCase().trim() ===
-      deck.deck.toLowerCase().trim()
-    ) {
-      return 0;
-    }
-    if (collectionCard["In Deck"]?.toLowerCase().trim() === "") {
-      return 1;
-    }
-    return 2;
-  });
+  const filteredCollection = [...collection];
   const cardsMissing =
     deck.cardsInCollection.length > 0
       ? [...deck.cardsMissing]
@@ -181,12 +171,19 @@ const removeCardsFromCollection = (
     const collectionIndex = filteredCollection.findIndex((collectionCard) => {
       const sameName =
         collectionCard["Name"].toLowerCase() === card.toLowerCase();
-
-      if (!onlyRemoveIfSameSet) {
-        return sameName;
-      }
       const sameSet = deck.deck.includes(collectionCard["Set"] || "");
-      return sameName && sameSet;
+      const sameDeck =
+        deck.deck.toLowerCase().trim() === collectionCard["In Deck"];
+
+      if (onlyRemoveIfSameDeck) {
+        return sameName && sameDeck;
+      }
+
+      if (onlyRemoveIfSameSet) {
+        return sameName && sameSet;
+      }
+
+      return sameName;
     });
 
     if (collectionIndex >= 0) {
@@ -341,10 +338,12 @@ const getCardsMissingForStructureDecks = async ({
       setToReduce,
       collectionToRemoveCardsFrom,
       onlyRemoveIfSameSet,
+      onlyRemoveIfSameDeck,
     }: {
       setToReduce: StructureDeckResult[];
       collectionToRemoveCardsFrom: CollectionRow[];
       onlyRemoveIfSameSet: Boolean;
+      onlyRemoveIfSameDeck: Boolean;
     }) => {
       const resultSet: StructureDeckResult[] = [];
       const { collection: collectionWithCardsRemoved } = setToReduce.reduce(
@@ -355,7 +354,8 @@ const getCardsMissingForStructureDecks = async ({
           const { collection, deck } = removeCardsFromCollection(
             { ...structureDeck },
             accumulator.collection,
-            onlyRemoveIfSameSet
+            onlyRemoveIfSameSet,
+            onlyRemoveIfSameDeck
           );
           if (process.env.NODE_ENV !== "test") {
             console.log(
@@ -387,26 +387,27 @@ const getCardsMissingForStructureDecks = async ({
     };
 
     const getResultSet = () => {
-      if (prioritiseOriginalSet) {
-        const firstReduceResult = getMissingCardsFromCollection({
-          setToReduce: structureDeckSet,
-          collectionToRemoveCardsFrom: collectionCopy,
-          onlyRemoveIfSameSet: true,
-        });
-        const secondReduceResult = getMissingCardsFromCollection({
-          setToReduce: firstReduceResult.resultSet,
-          collectionToRemoveCardsFrom:
-            firstReduceResult.collectionWithCardsRemoved,
-          onlyRemoveIfSameSet: false,
-        });
-        return secondReduceResult.resultSet;
-      }
       const firstReduceResult = getMissingCardsFromCollection({
         setToReduce: structureDeckSet,
         collectionToRemoveCardsFrom: collectionCopy,
-        onlyRemoveIfSameSet: false,
+        onlyRemoveIfSameSet: prioritiseOriginalSet,
+        onlyRemoveIfSameDeck: false,
       });
-      return firstReduceResult.resultSet;
+      const secondReduceResult = getMissingCardsFromCollection({
+        setToReduce: firstReduceResult.resultSet,
+        collectionToRemoveCardsFrom:
+          firstReduceResult.collectionWithCardsRemoved,
+        onlyRemoveIfSameSet: prioritiseOriginalSet,
+        onlyRemoveIfSameDeck: false,
+      });
+      const thirdReduceResult = getMissingCardsFromCollection({
+        setToReduce: secondReduceResult.resultSet,
+        collectionToRemoveCardsFrom:
+          secondReduceResult.collectionWithCardsRemoved,
+        onlyRemoveIfSameSet: false,
+        onlyRemoveIfSameDeck: false,
+      });
+      return thirdReduceResult.resultSet;
     };
     setResult[set] = getResultSet().map((structureDeckSetResult) => {
       structureDeckSetResult.cardsInCollection =
