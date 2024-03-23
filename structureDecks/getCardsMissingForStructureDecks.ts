@@ -195,7 +195,7 @@ const removeCardsFromCollection = (
       const collectionCard = { ...filteredCollection[collectionIndex] };
       filteredCollection.splice(collectionIndex, 1);
       cardsInCollection.push(
-        `${collectionCard.Name} (${collectionCard.Rarity}) <${collectionCard["In Deck"]}>`
+        `${collectionCard.Name} [${collectionCard.Code}] (${collectionCard.Rarity}) <${collectionCard["In Deck"]}>`
       );
       cardsFound.push(card);
     }
@@ -251,7 +251,12 @@ const excludeDecksFromCollection = ({
   collection: CollectionRow[];
 }) => {
   return collection.filter((card) => {
-    return !decksToExclude.includes(card["In Deck"] || "");
+    return !decksToExclude.some((deckToExclude) =>
+      card["In Deck"]
+        ?.toLowerCase()
+        .trim()
+        .includes(deckToExclude.toLowerCase().trim())
+    );
   });
 };
 
@@ -307,7 +312,11 @@ const getCardsMissingForStructureDecks = async ({
       // "Speed Duel Starter Decks: Ultimate Predators",
     ];
 
-    const decksToExclude = ["Edison Quickdraw", "Edison Diva Hero"];
+    const decksToExclude = [
+      "Edison Quickdraw",
+      "Edison Diva Hero",
+      "Speed Duel",
+    ];
 
     const collectionCopyWithSetsExcluded = excludeSetsFromCollection({
       setsToExclude: setsToExcludeTwoOf,
