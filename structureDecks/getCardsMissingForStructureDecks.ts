@@ -170,10 +170,15 @@ const removeCardsFromCollection = (
   cardsMissing?.map((card) => {
     const collectionIndex = filteredCollection.findIndex((collectionCard) => {
       const sameName =
-        collectionCard["Name"].toLowerCase() === card.toLowerCase();
-      const sameSet = deck.deck.includes(collectionCard["Set"] || "");
+        collectionCard["Name"].toLowerCase().trim() ===
+        card.toLowerCase().trim();
+      const sameSet = deck.deck
+        .toLowerCase()
+        .trim()
+        .includes(collectionCard["Set"]?.toLowerCase().trim() || "");
       const sameDeck =
-        deck.deck.toLowerCase().trim() === collectionCard["In Deck"];
+        deck.deck.toLowerCase().trim() ===
+        collectionCard["In Deck"]?.toLowerCase().trim();
 
       if (onlyRemoveIfSameDeck) {
         return sameName && sameDeck;
@@ -294,19 +299,19 @@ const getCardsMissingForStructureDecks = async ({
       // "Speed Duel GX: Midterm Paradox",
       // "Speed Duel Starter Decks: Duelists of Tomorrow",
       // "Speed Duel: Battle City Box",
-      //special case, there are 3 sets
+      // //special case, there are 3 sets
       // "Speed Duel Starter Decks: Destiny Masters",
-      // one copy only
-      // "Speed Duel Starter Decks: Match of the Millennium"
-      // "Speed Duel Starter Decks: Twisted Nightmares"
-      // "Speed Duel Starter Decks: Ultimate Predators"
+      // // one copy only
+      // "Speed Duel Starter Decks: Match of the Millennium",
+      // "Speed Duel Starter Decks: Twisted Nightmares",
+      // "Speed Duel Starter Decks: Ultimate Predators",
     ];
 
     const decksToExclude = ["Edison Quickdraw", "Edison Diva Hero"];
 
     const collectionCopyWithSetsExcluded = excludeSetsFromCollection({
       setsToExclude: setsToExcludeTwoOf,
-      numberOfCopiesToExclude: 2,
+      numberOfCopiesToExclude: 1,
       collection: [...collection],
     });
 
@@ -390,8 +395,8 @@ const getCardsMissingForStructureDecks = async ({
       const firstReduceResult = getMissingCardsFromCollection({
         setToReduce: structureDeckSet,
         collectionToRemoveCardsFrom: collectionCopy,
-        onlyRemoveIfSameSet: prioritiseOriginalSet,
-        onlyRemoveIfSameDeck: false,
+        onlyRemoveIfSameSet: false,
+        onlyRemoveIfSameDeck: true,
       });
       const secondReduceResult = getMissingCardsFromCollection({
         setToReduce: firstReduceResult.resultSet,
