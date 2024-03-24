@@ -15,43 +15,55 @@ const mainFunction = async () => {
       (set) => set.deck === deckNameToUpdate
     );
     deckToUpdate?.cardsInCollection.map((cardToUpdate) => {
+      console.log();
+      console.log(`> ${cardToUpdate}`);
       const cardInDeck = cardToUpdate.split("<")[1].split(">")[0];
       if (cardInDeck) {
+        console.log(" > SKIP");
         return;
       }
 
-      console.log(cardToUpdate);
       const cardName = cardToUpdate.split("[")[0].trim();
-      console.log(cardName);
+      // console.log(cardName);
 
       const cardCode = cardToUpdate.split("[")[1].split("]")[0];
-      console.log(cardCode);
+      // console.log(cardCode);
 
       const cardRarity = cardToUpdate.split("(")[1].split(")")[0];
-      console.log(cardRarity);
+      // console.log(cardRarity);
 
-      console.log(cardInDeck);
+      // console.log(cardInDeck);
 
-      const cardInCollection = collectionCopy.find(
-        (collectionCard) =>
+      const cardInCollection = collectionCopy.find((collectionCard) => {
+        const sameCard =
           collectionCard.Name === cardName &&
           collectionCard.Code === cardCode &&
           collectionCard.Rarity === cardRarity &&
-          collectionCard["In Deck"] === cardInDeck
-      );
-
-      cardInCollection?.["In Deck"] === deckNameToUpdate;
+          collectionCard["In Deck"] === cardInDeck;
+        return sameCard;
+      });
+      if (cardInCollection) {
+        console.log(" >> Before update");
+        console.log(
+          ` >>> ${cardInCollection?.Name} [${cardInCollection?.Code}] (${cardInCollection?.Rarity}) <${cardInCollection?.["In Deck"]}>`
+        );
+        cardInCollection["In Deck"] = deckNameToUpdate;
+        console.log(" >> After update");
+        console.log(
+          ` >>> ${cardInCollection?.Name} [${cardInCollection?.Code}] (${cardInCollection?.Rarity}) <${cardInCollection?.["In Deck"]}>`
+        );
+      }
     });
   } catch (e) {
     console.error(e);
   } finally {
-    // fs.writeFile(
-    //   "./data/collection.json",
-    //   JSON.stringify(collectionCopy, null, 3),
-    //   function (err) {
-    //     if (err) console.error(err);
-    //   }
-    // );
+    fs.writeFile(
+      "./data/collection.json",
+      JSON.stringify(collectionCopy, null, 3),
+      function (err) {
+        if (err) console.error(err);
+      }
+    );
   }
 };
 
