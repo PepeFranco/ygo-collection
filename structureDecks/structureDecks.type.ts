@@ -15,3 +15,15 @@ export type StructureDeckWithLimitedAndCollectionCards =
     cardsMissing: string[];
     cardsInCollection: string[];
   };
+
+export type CardForXSet = {
+  deck: string;
+  cards: string[];
+  date: string;
+  forbiddenCards: string[];
+  limitedCards: string[];
+  semiLimitedCards: string[];
+  cardsMissing: string[];
+  cardsInCollection: string[];
+  numberOfCardsMissing: number;
+};
