@@ -618,9 +618,7 @@
       "semiLimitedCards": [
          "Reinforcement of the Army"
       ],
-      "cardsMissing": [
-         "Return from the Different Dimension"
-      ],
+      "cardsMissing": [],
       "cardsInCollection": [
          "Banisher of the Radiance [SDDE-EN016] (Common) <The Dark Emperor Structure Deck>",
          "Bazoo the Soul-Eater [BP02-EN012] (Common) <The Dark Emperor Structure Deck>",
@@ -653,12 +651,13 @@
          "Mystical Space Typhoon [SDDE-EN019] (Common) <The Dark Emperor Structure Deck>",
          "Nobleman of Crossout [SDDE-EN020] (Common) <The Dark Emperor Structure Deck>",
          "Reinforcement of the Army [SDDE-EN022] (Common) <The Dark Emperor Structure Deck>",
+         "Return from the Different Dimension [SDLS-EN034] (Common) <>",
          "Sakuretsu Armor [YS14-EN032] (Common) <The Dark Emperor Structure Deck>",
          "Samsara Kaiser [SDDE-EN003] (Common) <The Dark Emperor Structure Deck>",
          "Soul Release [SDP-036] (Common) <The Dark Emperor Structure Deck>",
          "Torrential Tribute [SDRE-EN036] (Common) <>"
       ],
-      "numberOfCardsMissing": 1
+      "numberOfCardsMissing": 0
    },
    {
       "deck": "Zombie World Structure Deck",
@@ -692,7 +691,7 @@
          "Magical Stone Excavation [SDMA-EN027] (Common) <Zombie World Structure Deck>",
          "Malevolent Mech - Goku En [LCJW-SP207] (Common) <Zombie World Structure Deck>",
          "Marionette Mite [STON-EN023] (Common) <Zombie World Structure Deck>",
-         "Master Kyonshee [SDZW-EN008] (Common) <Structure Deck: Zombie Madness>",
+         "Master Kyonshee [SDZW-EN008] (Common) <>",
          "Paladin of the Cursed Dragon [SDZW-EN003] (Common) <Zombie World Structure Deck>",
          "Patrician of Darkness [GLD5-EN002] (Common) <Zombie World Structure Deck>",
          "Plague Wolf [SDZW-EN015] (Common) <Zombie World Structure Deck>",
