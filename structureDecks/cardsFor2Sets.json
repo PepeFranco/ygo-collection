@@ -1277,9 +1277,7 @@
          "Cyber Dragon",
          "Swords of Revealing Light"
       ],
-      "semiLimitedCards": [
-         "Green Gadget"
-      ],
+      "semiLimitedCards": [],
       "cardsMissing": [
          "Commander Covington",
          "Rare Metalmorph",
@@ -3474,7 +3472,6 @@
       "date": "2017-11-02",
       "forbiddenCards": [],
       "limitedCards": [
-         "Glow-Up Bulb",
          "Mathematician",
          "Mind Control",
          "Soul Charge"
@@ -3495,6 +3492,7 @@
          "Dual Assembwurm",
          "Encode Talker",
          "Ghosts From the Past",
+         "Glow-Up Bulb",
          "Jester Confit",
          "Moon Mirror Shield",
          "Powerful Rebirth",
@@ -3568,7 +3566,7 @@
          "Where Arf Thou? [REDU-EN062] (Common) <>",
          "Where Arf Thou? [SDCL-EN031] (Common) <Structure Deck: Cyberse Link>"
       ],
-      "numberOfCardsMissing": 20
+      "numberOfCardsMissing": 21
    },
    {
       "deck": "Structure Deck: Wave of Light",
@@ -3677,7 +3675,9 @@
          "Eradicator Epidemic Virus",
          "Tour Guide From the Underworld"
       ],
-      "semiLimitedCards": [],
+      "semiLimitedCards": [
+         "Mind Crush"
+      ],
       "cardsMissing": [
          "Archfiend Cavalry",
          "Boogie Trap",
@@ -5155,7 +5155,9 @@
          "Card Destruction",
          "Danger!? Tsuchinoko?"
       ],
-      "semiLimitedCards": [],
+      "semiLimitedCards": [
+         "Mind Crush"
+      ],
       "cardsMissing": [],
       "cardsInCollection": [
          "Absolute King Back Jack [SR13-EN024] (Common) <Structure Deck: Dark World>",

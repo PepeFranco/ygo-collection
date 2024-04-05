@@ -837,9 +837,7 @@
          "Cyber Dragon",
          "Swords of Revealing Light"
       ],
-      "semiLimitedCards": [
-         "Green Gadget"
-      ],
+      "semiLimitedCards": [],
       "cardsMissing": [],
       "cardsInCollection": [
          "Armored Cybern [PTDN-EN009] (Common) <Machina Mayhem Structure Deck>",
@@ -2157,7 +2155,6 @@
       "date": "2017-11-02",
       "forbiddenCards": [],
       "limitedCards": [
-         "Glow-Up Bulb",
          "Mathematician",
          "Mind Control",
          "Soul Charge"
@@ -2278,7 +2275,9 @@
          "Eradicator Epidemic Virus",
          "Tour Guide From the Underworld"
       ],
-      "semiLimitedCards": [],
+      "semiLimitedCards": [
+         "Mind Crush"
+      ],
       "cardsMissing": [],
       "cardsInCollection": [
          "Absolute King Back Jack [SR06-EN020] (Common) <Structure Deck: Lair of Darkness>",
@@ -3153,7 +3152,9 @@
          "Card Destruction",
          "Danger!? Tsuchinoko?"
       ],
-      "semiLimitedCards": [],
+      "semiLimitedCards": [
+         "Mind Crush"
+      ],
       "cardsMissing": [],
       "cardsInCollection": [
          "Absolute King Back Jack [SR13-EN024] (Common) <Structure Deck: Dark World>",

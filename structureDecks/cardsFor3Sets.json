@@ -1692,9 +1692,7 @@
          "Cyber Dragon",
          "Swords of Revealing Light"
       ],
-      "semiLimitedCards": [
-         "Green Gadget"
-      ],
+      "semiLimitedCards": [],
       "cardsMissing": [
          "Blast Sphere",
          "Card Trader",
@@ -1704,6 +1702,7 @@
          "Commander Covington",
          "Dimensional Prison",
          "Frontline Base",
+         "Green Gadget",
          "Green Gadget",
          "Heavy Mech Support Platform",
          "Inferno Reckless Summon",
@@ -1803,7 +1802,7 @@
          "Time Machine [SDMM-EN031] (Common) <>",
          "Yellow Gadget [SDMM-EN017] (Common) <Machina Mayhem Structure Deck>"
       ],
-      "numberOfCardsMissing": 41
+      "numberOfCardsMissing": 42
    },
    {
       "deck": "Structure Deck: Marik (TCG)",
@@ -4728,7 +4727,6 @@
       "date": "2017-11-02",
       "forbiddenCards": [],
       "limitedCards": [
-         "Glow-Up Bulb",
          "Mathematician",
          "Mind Control",
          "Soul Charge"
@@ -4764,6 +4762,8 @@
          "Encode Talker",
          "Ghosts From the Past",
          "Ghosts From the Past",
+         "Glow-Up Bulb",
+         "Glow-Up Bulb",
          "Jester Confit",
          "Jester Confit",
          "Kinka-byo",
@@ -4860,7 +4860,7 @@
          "Where Arf Thou? [REDU-EN062] (Common) <>",
          "Where Arf Thou? [SDCL-EN031] (Common) <Structure Deck: Cyberse Link>"
       ],
-      "numberOfCardsMissing": 47
+      "numberOfCardsMissing": 49
    },
    {
       "deck": "Structure Deck: Wave of Light",
@@ -5010,7 +5010,9 @@
          "Eradicator Epidemic Virus",
          "Tour Guide From the Underworld"
       ],
-      "semiLimitedCards": [],
+      "semiLimitedCards": [
+         "Mind Crush"
+      ],
       "cardsMissing": [
          "Absolute King Back Jack",
          "Allure of Darkness",
@@ -5054,8 +5056,6 @@
          "Lich Lord, King of the Underworld",
          "Lich Lord, King of the Underworld",
          "Lilith, Lady of Lament",
-         "Mind Crush",
-         "Mind Crush",
          "Plague Wolf",
          "Plague Wolf",
          "Prometheus, King of the Shadows",
@@ -5114,6 +5114,7 @@
          "Lilith, Lady of Lament [SR06-EN000] (Ultra) <Structure Deck: Lair of Darkness>",
          "Lilith, Lady of Lament [SR13-EN022] (Common) <>",
          "Mind Crush [SR06-EN037] (Common) <Structure Deck: Lair of Darkness>",
+         "Mind Crush [SR13-EN037] (Common) <>",
          "Mist Archfiend [SGX3-ENE10] (Common) <>",
          "Mist Archfiend [SGX3-ENE10] (Common) <>",
          "Mist Archfiend [SR06-EN011] (Common) <Structure Deck: Lair of Darkness>",
@@ -5137,7 +5138,7 @@
          "Veil of Darkness [SGX3-ENG12] (Common) <>",
          "Veil of Darkness [SR06-EN029] (Common) <Structure Deck: Lair of Darkness>"
       ],
-      "numberOfCardsMissing": 62
+      "numberOfCardsMissing": 60
    },
    {
       "deck": "Structure Deck: Powercode Link",
@@ -7086,7 +7087,9 @@
          "Card Destruction",
          "Danger!? Tsuchinoko?"
       ],
-      "semiLimitedCards": [],
+      "semiLimitedCards": [
+         "Mind Crush"
+      ],
       "cardsMissing": [],
       "cardsInCollection": [
          "Absolute King Back Jack [SR13-EN024] (Common) <>",
@@ -7181,7 +7184,6 @@
          "Lucent, Netherlord of Dark World [SR13-EN005] (Common) <>",
          "Lucent, Netherlord of Dark World [SR13-EN005] (Common) <Structure Deck: Dark World>",
          "Lucent, Netherlord of Dark World [SR13-EN005] (Common) <Structure Deck: Dark World>",
-         "Mind Crush [SR13-EN037] (Common) <>",
          "Mind Crush [SR13-EN037] (Common) <Structure Deck: Dark World>",
          "Mind Crush [SR13-EN037] (Common) <Structure Deck: Dark World>",
          "Paleozoic Dinomischus [SR13-EN039] (Common) <>",

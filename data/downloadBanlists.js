@@ -11,8 +11,9 @@ const mainFunction = async () => {
   doc.useApiKey(api_key);
   await doc.useServiceAccountAuth(creds);
   await doc.loadInfo();
-  for (let b = 1; b <= 3; b++) {
+  for (let b = 1; b <= 1; b++) {
     const b1SheetTitle = `Banlist ${b}`;
+    console.log(b1SheetTitle);
     const b1Sheet = doc.sheetsByTitle[b1SheetTitle];
     await b1Sheet.loadCells();
     const columnCount = b1Sheet.columnCount;
@@ -24,17 +25,23 @@ const mainFunction = async () => {
       }
       const month = b1Sheet.getCell(1, c).value;
       const date = `${year}-${month}`;
-      // console.log(date);
+      console.log(date);
       const cardsInThisList = [];
       for (let r = 2; r < rowCount; r++) {
         const card = b1Sheet.getCell(r, 0).value;
-        const number = b1Sheet.getCell(r, c).value;
-        if (number !== null && number !== 3) {
-          const limitedCard = {
-            card,
-            number,
-          };
-          cardsInThisList.push(limitedCard);
+        if (card) {
+          const number = b1Sheet.getCell(r, c).value;
+
+          if (card.includes("Gadget") && number) {
+            console.log({ card, number });
+          }
+          if (number !== null && number !== 3) {
+            const limitedCard = {
+              card,
+              number,
+            };
+            cardsInThisList.push(limitedCard);
+          }
         }
       }
       const thisBanlist = {
