@@ -1,5 +1,4 @@
 import _ from "lodash";
-import axios from "axios";
 
 import type { Banlist, CollectionRow, YGOProSet } from "../data/data.types";
 import type {
@@ -7,24 +6,6 @@ import type {
   StructureDeckWithLimitedCards,
   StructureDeckWithLimitedAndCollectionCards,
 } from "./structureDecks.type";
-
-const getCardSets = async () => {
-  const result = await axios
-    .get("https://db.ygoprodeck.com/api/v7/cardsets.php")
-    .catch(() => {
-      // console.error(e);
-    });
-
-  if (!result) {
-    return null;
-  }
-
-  if (result.data) {
-    return result.data as YGOProSet[];
-  }
-
-  return null;
-};
 
 const collectionFile: CollectionRow[] = _.sortBy(
   [...require("../data/collection.json")],
@@ -37,24 +18,6 @@ const banListsFile: Banlist[] = _.sortBy(
 );
 
 const cardsInStructureDecks: StructureDeck[] = require("./cardsInStructureDecks.json");
-
-const getStructureDeckSets = (
-  cardSets: Pick<YGOProSet, "set_name" | "tcg_date">[]
-) => {
-  const filteredSets = cardSets.filter((cardSet) => {
-    const setName = cardSet["set_name"].toLowerCase();
-    return (
-      setName.includes("structure") &&
-      !setName.includes("special") &&
-      !setName.includes("deluxe")
-    );
-  });
-  const sortedSets = _.sortBy(filteredSets, (sd) => sd["tcg_date"]);
-  return sortedSets.map((cardSet) => ({
-    deck: cardSet["set_name"],
-    date: cardSet["tcg_date"],
-  }));
-};
 
 const getClosestMatchingBanList = (date: Date, banLists = banListsFile) => {
   const foundBanlist = banLists.find((banlist, index) => {
@@ -172,10 +135,14 @@ const removeCardsFromCollection = (
       const sameName =
         collectionCard["Name"].toLowerCase().trim() ===
         card.toLowerCase().trim();
-      const sameSet = deck.deck
+      const exactSameSetName = deck.deck
         .toLowerCase()
         .trim()
         .includes(collectionCard["Set"]?.toLowerCase().trim() || "");
+      const setMatchesLegendaryHeroDecks =
+        deck.deck.toLocaleLowerCase().trim().includes("legendary hero") &&
+        collectionCard.Set?.toLowerCase().trim().includes("legendary hero");
+      const sameSet = exactSameSetName || setMatchesLegendaryHeroDecks;
       const sameDeck =
         deck.deck.toLowerCase().trim() ===
         collectionCard["In Deck"]?.toLowerCase().trim();
@@ -271,15 +238,6 @@ const getCardsMissingForStructureDecks = async ({
 }) => {
   console.log(`📚 There are ${collection.length} cards in the collection`);
 
-  const cardSets = await getCardSets();
-  if (cardSets === null) {
-    console.error(`⚠️ Card sets could not be obtained`);
-    return;
-  }
-  const structureDeckSets = getStructureDeckSets(cardSets);
-  if (process.env.NODE_ENV !== "test") {
-    console.log(`🔢 There are ${structureDeckSets.length} structure decks`);
-  }
   const dataForCSV: {
     set: number;
     deck: string;
@@ -451,8 +409,6 @@ const getCardsMissingForStructureDecks = async ({
 
 export {
   getCardsMissingForStructureDecks,
-  getStructureDeckSets,
-  getCardSets,
   getClosestMatchingBanList,
   getSetsOfCardsInStructureDeck,
   getDeckFilteredByBanlist,
