@@ -2992,6 +2992,7 @@
          "Machina Armored Unit",
          "Megamorph",
          "Megamorph",
+         "Power Bond",
          "Satellite Cannon",
          "Trap Stun",
          "Trap Stun",
@@ -3063,7 +3064,6 @@
          "Mystical Space Typhoon [STAX-EN024] (Common) <>",
          "Power Bond [LED3-EN022] (Common) <>",
          "Power Bond [SDCR-EN022] (Common) <Cyber Dragon Revolution Structure Deck>",
-         "Power Bond [SGX2-ENS08] (Common) <>",
          "Proto-Cyber Dragon [SDCR-EN005] (Common) <Cyber Dragon Revolution Structure Deck>",
          "Proto-Cyber Dragon [SDCR-EN005] (Common) <Cyber Dragon Revolution Structure Deck>",
          "Proto-Cyber Dragon [SGX1-ENG03] (Common) <>",
@@ -3090,7 +3090,7 @@
          "Trap Stun [SDCR-EN032] (Common) <Cyber Dragon Revolution Structure Deck>",
          "Waboku [SDCR-EN035] (Common) <Cyber Dragon Revolution Structure Deck>"
       ],
-      "numberOfCardsMissing": 21
+      "numberOfCardsMissing": 22
    },
    {
       "deck": "Realm of Light Structure Deck",
