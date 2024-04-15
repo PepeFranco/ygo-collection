@@ -7,7 +7,7 @@ const cardsFor3Sets: CardForXSet[] = require("./cardsFor3Sets.json");
 const collection: CollectionRow[] = require("../data/collection.json");
 const collectionCopy = [...collection];
 
-const deckNameToUpdate = "Emperor of Darkness Structure Deck";
+const deckNameToUpdate = "Rise of the True Dragons Structure Deck";
 
 const mainFunction = async () => {
   try {
