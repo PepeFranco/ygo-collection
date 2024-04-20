@@ -7,7 +7,7 @@ const cardsFor3Sets: CardForXSet[] = require("./cardsFor3Sets.json");
 const collection: CollectionRow[] = require("../data/collection.json");
 const collectionCopy = [...collection];
 
-const deckNameToUpdate = "Legendary Hero Decks - Phantom Knights";
+const deckNameToUpdate = "Structure Deck: Zombie Horde";
 
 const mainFunction = async () => {
   try {
