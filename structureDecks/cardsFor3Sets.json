@@ -3973,7 +3973,7 @@
          "Breakthrough Skill [SR02-EN038] (Common) <Rise of the True Dragons Structure Deck>",
          "Burst Breath [SR02-EN036] (Common) <Rise of the True Dragons Structure Deck>",
          "Call of the Haunted [SD4-EN027] (Common) <Rise of the True Dragons Structure Deck>",
-         "Call of the Haunted [SDCS-EN038] (Common) <Rise of the True Dragons Structure Deck>",
+         "Call of the Haunted [SDOK-EN039] (Common) <>",
          "Call of the Haunted [SR02-EN039] (Common) <Rise of the True Dragons Structure Deck>",
          "Card Trooper [SR02-EN023] (Common) <Rise of the True Dragons Structure Deck>",
          "Card Trooper [STAS-EN030] (Common) <Rise of the True Dragons Structure Deck>",
@@ -5157,6 +5157,7 @@
          "Blazing Mirror Force",
          "Blazing Mirror Force",
          "Call of the Haunted",
+         "Call of the Haunted",
          "Cyberse Gadget",
          "Cyberse Gadget",
          "Cynet Storm",
@@ -5203,7 +5204,6 @@
       "cardsInCollection": [
          "Antialian [SDPL-EN006] (Common) <Structure Deck: Powercode Link>",
          "Blazing Mirror Force [SDPL-EN034] (Common) <Structure Deck: Powercode Link>",
-         "Call of the Haunted [SDOK-EN039] (Common) <>",
          "Call of the Haunted [SDPL-EN037] (Common) <Structure Deck: Powercode Link>",
          "Cosmic Compass [SDPL-EN019] (Common) <Structure Deck: Powercode Link>",
          "Cosmic Compass [STOR-EN001] (Common) <Structure Deck: Powercode Link>",
@@ -5275,7 +5275,7 @@
          "Wild Tornado [SS01-ENC17] (Common) <Structure Deck: Powercode Link>",
          "Wild Tornado [SS01-ENC17] (Common) <Structure Deck: Powercode Link>"
       ],
-      "numberOfCardsMissing": 47
+      "numberOfCardsMissing": 48
    },
    {
       "date": "2018-10-04",
@@ -6971,13 +6971,12 @@
       "forbiddenCards": [],
       "limitedCards": [],
       "semiLimitedCards": [],
-      "cardsMissing": [
-         "Call of the Haunted"
-      ],
+      "cardsMissing": [],
       "cardsInCollection": [
          "Attachment Cybern [SDCS-EN001] (Common) <>",
          "Attachment Cybern [SDCS-EN001] (Common) <>",
          "Attachment Cybern [SDCS-EN001] (Common) <Structure Deck: Cyber Strike>",
+         "Call of the Haunted [SDCS-EN038] (Common) <>",
          "Call of the Haunted [SDCS-EN038] (Common) <>",
          "Call of the Haunted [SDCS-EN038] (Common) <Structure Deck: Cyber Strike>",
          "Chimeratech Overdragon [SDCS-EN042] (Common) <>",
@@ -7119,7 +7118,7 @@
          "Power Wall [SDCS-EN037] (Common) <>",
          "Power Wall [SDCS-EN037] (Common) <Structure Deck: Cyber Strike>"
       ],
-      "numberOfCardsMissing": 1
+      "numberOfCardsMissing": 0
    },
    {
       "deck": "Structure Deck: Albaz Strike",
