@@ -199,16 +199,12 @@
       ],
       "cardsMissing": [
          "Dark Room of Nightmare",
-         "Dark Room of Nightmare",
          "Great Angus",
-         "Little Chimera",
          "Meteor of Destruction",
-         "Molten Zombie",
          "Necklace of Command",
          "Necklace of Command",
          "Reload",
          "Reload",
-         "Tribute to the Doomed",
          "Ultimate Baseball Kid"
       ],
       "cardsInCollection": [
@@ -219,6 +215,7 @@
          "Blazing Inpachi [IOC-061] (Common) <Structure Deck: Blaze of Destruction>",
          "Blazing Inpachi [SGX1-ENH02] (Common) <Structure Deck: Blaze of Destruction>",
          "Call of the Haunted [YS12-EN036] (Common) <Structure Deck: Blaze of Destruction>",
+         "Dark Room of Nightmare [DR1-EN030] (Common) <>",
          "Dark Room of Nightmare [SDMA-EN024] (Common) <Structure Deck: Blaze of Destruction>",
          "Dust Tornado [SD3-EN027] (Common) <Structure Deck: Blaze of Destruction>",
          "Dust Tornado [YS12-EN033] (Common) <Structure Deck: Blaze of Destruction>",
@@ -244,6 +241,7 @@
          "Level Limit - Area B [SD3-EN024] (Common) <Structure Deck: Blaze of Destruction>",
          "Level Limit - Area B [SD3-EN024] (Common) <Structure Deck: Blaze of Destruction>",
          "Little Chimera [DB2-EN067] (Common) <Structure Deck: Blaze of Destruction>",
+         "Little Chimera [MRD-117] (Rare) <>",
          "Little Chimera [SDOK-EN020] (Common) <Structure Deck: Blaze of Destruction>",
          "Meteor of Destruction [SD3-EN026] (Common) <Structure Deck: Blaze of Destruction>",
          "Meteor of Destruction [SD3-EN026] (Common) <Structure Deck: Blaze of Destruction>",
@@ -251,6 +249,7 @@
          "Molten Destruction [SD3-EN016] (Common) <Structure Deck: Blaze of Destruction>",
          "Molten Destruction [SD3-EN016] (Common) <Structure Deck: Blaze of Destruction>",
          "Molten Zombie [DR2-EN065] (Common) <Structure Deck: Blaze of Destruction>",
+         "Molten Zombie [IOC-064] (Common) <>",
          "Molten Zombie [SD3-EN007] (Common) <Structure Deck: Blaze of Destruction>",
          "Mystical Space Typhoon [SD3-EN015] (Common) <Structure Deck: Blaze of Destruction>",
          "Necklace of Command [RDS-EN040] (Rare) <Structure Deck: Blaze of Destruction>",
@@ -273,6 +272,7 @@
          "Thestalos the Firestorm Monarch [RDS-EN021] (Super) <Structure Deck: Blaze of Destruction>",
          "Thestalos the Firestorm Monarch [SR01-EN008] (Common) <Structure Deck: Blaze of Destruction>",
          "Tribute to the Doomed [MRD-057] (Super) <Structure Deck: Blaze of Destruction>",
+         "Tribute to the Doomed [YSKR-EN030] (Common) <>",
          "Tribute to the Doomed [YSKR-EN030] (Common) <Structure Deck: Blaze of Destruction>",
          "UFO Turtle [SD3-EN004] (Common) <Structure Deck: Blaze of Destruction>",
          "UFO Turtle [SD3-EN004] (Common) <Structure Deck: Blaze of Destruction>",
@@ -280,7 +280,7 @@
          "Ultimate Baseball Kid [SD3-EN009] (Common) <Structure Deck: Blaze of Destruction>",
          "Ultimate Baseball Kid [SOD-SP01] (Common) <Structure Deck: Blaze of Destruction>"
       ],
-      "numberOfCardsMissing": 12
+      "numberOfCardsMissing": 8
    },
    {
       "deck": "Structure Deck: Fury from the Deep",
@@ -307,7 +307,6 @@
          "Dust Tornado",
          "Dust Tornado",
          "Reload",
-         "Spell Shield Type-8",
          "Spell Shield Type-8",
          "Star Boy",
          "Unshaven Angler",
@@ -370,6 +369,7 @@
          "Space Mambo [FET-EN001] (Common) <Structure Deck: Fury from the Deep>",
          "Space Mambo [FET-EN001] (Common) <Structure Deck: Fury from the Deep>",
          "Space Mambo [FET-EN001] (Common) <Structure Deck: Fury from the Deep>",
+         "Spell Shield Type-8 [SD3-EN030] (Common) <>",
          "Spell Shield Type-8 [SD4-EN031] (Common) <Structure Deck: Fury from the Deep>",
          "Star Boy [MRD-109] (Rare) <Structure Deck: Fury from the Deep>",
          "Star Boy [SD4-EN006] (Common) <Structure Deck: Fury from the Deep>",
@@ -383,7 +383,7 @@
          "Xing Zhen Hu [GLD4-EN048] (Common) <Structure Deck: Fury from the Deep>",
          "Xing Zhen Hu [RDS-EN051] (Common) <Structure Deck: Fury from the Deep>"
       ],
-      "numberOfCardsMissing": 10
+      "numberOfCardsMissing": 9
    },
    {
       "deck": "Structure Deck: Warrior's Triumph",
@@ -411,9 +411,7 @@
          "Gearfried the Swordmaster",
          "Gearfried the Swordmaster",
          "Gilford the Legend",
-         "Magic Jammer",
          "Mataza the Zapper",
-         "Mystic Swordsman LV4",
          "Mystic Swordsman LV4",
          "Ninja Grandmaster Sasuke",
          "Obnoxious Celtic Guard",
@@ -460,6 +458,7 @@
          "Lightning Blade [SBCB-EN158] (Common) <Structure Deck: Warrior's Triumph>",
          "Lightning Blade [SD5-EN022] (Common) <Structure Deck: Warrior's Triumph>",
          "Lightning Vortex [SD5-EN030] (Common) <Structure Deck: Warrior's Triumph>",
+         "Magic Jammer [SS01-ENA17] (Common) <>",
          "Magic Jammer [YS14-EN039] (Common) <Structure Deck: Warrior's Triumph>",
          "Magic Jammer [YSDJ-EN035] (Common) <Structure Deck: Warrior's Triumph>",
          "Marauding Captain [SBC1-ENB02] (Common) <Structure Deck: Warrior's Triumph>",
@@ -471,6 +470,7 @@
          "Mystic Swordsman LV2 [SD5-EN013] (Common) <Structure Deck: Warrior's Triumph>",
          "Mystic Swordsman LV2 [SD5-EN013] (Common) <Structure Deck: Warrior's Triumph>",
          "Mystic Swordsman LV4 [LCYW-SP201] (Common) <Structure Deck: Warrior's Triumph>",
+         "Mystic Swordsman LV4 [SOD-EN012] (Ultimate) <>",
          "Mystical Space Typhoon [SD5-EN020] (Common) <Structure Deck: Warrior's Triumph>",
          "Ninja Grandmaster Sasuke [BP02-EN029] (Common) <Structure Deck: Warrior's Triumph>",
          "Ninja Grandmaster Sasuke [SOD-EN019] (Rare) <Structure Deck: Warrior's Triumph>",
@@ -499,7 +499,7 @@
          "Wicked-Breaking Flamberge - Baou [SBLS-EN040] (Common) <Structure Deck: Warrior's Triumph>",
          "Wicked-Breaking Flamberge - Baou [SD5-EN027] (Common) <Structure Deck: Warrior's Triumph>"
       ],
-      "numberOfCardsMissing": 19
+      "numberOfCardsMissing": 17
    },
    {
       "deck": "Structure Deck: Spellcaster's Judgment",
@@ -534,11 +534,9 @@
          "Mystic Box",
          "Mythical Beast Cerberus",
          "Mythical Beast Cerberus",
-         "Nightmare's Steelcage",
          "Pitch-Black Power Stone",
          "Rapid-Fire Magician",
-         "Rapid-Fire Magician",
-         "Royal Magical Library"
+         "Rapid-Fire Magician"
       ],
       "cardsInCollection": [
          "Apprentice Magician [SDSC-EN008] (Common) <Structure Deck: Spellcaster's Judgment>",
@@ -583,6 +581,7 @@
          "Mystical Space Typhoon [WIRA-EN051] (Common) <Structure Deck: Spellcaster's Judgment>",
          "Mythical Beast Cerberus [BP02-EN042] (Common) <Structure Deck: Spellcaster's Judgment>",
          "Nightmare's Steelcage [BP02-EN148] (Common) <Structure Deck: Spellcaster's Judgment>",
+         "Nightmare's Steelcage [SD6-EN031] (Common) <>",
          "Nightmare's Steelcage [SD6-EN031] (Common) <Structure Deck: Spellcaster's Judgment>",
          "Nobleman of Crossout [DL14-SP015] (Rare) <Structure Deck: Spellcaster's Judgment>",
          "Pitch-Black Power Stone [SBC1-ENA18] (Common) <Structure Deck: Spellcaster's Judgment>",
@@ -594,6 +593,7 @@
          "Reload [SD6-EN025] (Common) <Structure Deck: Spellcaster's Judgment>",
          "Royal Magical Library [DR1-EN129] (Common) <Structure Deck: Spellcaster's Judgment>",
          "Royal Magical Library [MFC-074] (Common) <Structure Deck: Spellcaster's Judgment>",
+         "Royal Magical Library [SYE-023] (Common) <>",
          "Skilled Dark Magician [SBC1-ENA02] (Common) <Structure Deck: Spellcaster's Judgment>",
          "Skilled Dark Magician [SDSC-EN007] (Common) <Structure Deck: Spellcaster's Judgment>",
          "Skilled Dark Magician [YGLD-ENC19] (Common) <Structure Deck: Spellcaster's Judgment>",
@@ -609,7 +609,7 @@
          "White Magician Pikeru [SGX2-ENE02] (Common) <Structure Deck: Spellcaster's Judgment>",
          "White Magician Pikeru [SGX2-ENE02] (Common) <Structure Deck: Spellcaster's Judgment>"
       ],
-      "numberOfCardsMissing": 17
+      "numberOfCardsMissing": 15
    },
    {
       "deck": "Structure Deck: Invincible Fortress",
@@ -628,13 +628,10 @@
          "Canyon",
          "Criosphinx",
          "Criosphinx",
-         "Ectoplasmer",
          "Exxod, Master of The Guard",
          "Golem Sentry",
          "Golem Sentry",
          "Great Spirit",
-         "Great Spirit",
-         "Guardian Sphinx",
          "Guardian Sphinx",
          "Guardian Statue",
          "Hammer Shot",
@@ -645,7 +642,6 @@
          "Megarock Dragon",
          "Megarock Dragon",
          "Moai Interceptor Cannons",
-         "Robbin' Goblin",
          "Robbin' Goblin",
          "Shifting Shadows",
          "Stone Statue of the Aztecs",
@@ -661,6 +657,7 @@
          "Compulsory Evacuation Device [SD7-EN032] (Common) <Structure Deck: Invincible Fortress>",
          "Criosphinx [SD7-EN010] (Common) <Structure Deck: Invincible Fortress>",
          "Ectoplasmer [SD7-EN023] (Common) <Structure Deck: Invincible Fortress>",
+         "Ectoplasmer [YGLD-ENB24] (Common) <>",
          "Ectoplasmer [YGLD-ENB24] (Common) <Structure Deck: Invincible Fortress>",
          "Exxod, Master of the Guard [SD7-EN001] (Ultra) <Structure Deck: Invincible Fortress>",
          "Exxod, Master of the Guard [SD7-EN001] (Ultra) <Structure Deck: Invincible Fortress>",
@@ -671,8 +668,10 @@
          "Gigantes [OP12-EN013] (Common) <Structure Deck: Invincible Fortress>",
          "Gigantes [SD7-EN006] (Common) <Structure Deck: Invincible Fortress>",
          "Golem Sentry [FET-EN025] (Common) <Structure Deck: Invincible Fortress>",
+         "Great Spirit [SD7-EN002] (Common) <>",
          "Great Spirit [SD7-EN002] (Common) <Structure Deck: Invincible Fortress>",
          "Guardian Sphinx [PGD-025] (Rare) <Structure Deck: Invincible Fortress>",
+         "Guardian Sphinx [PGD-025] (Ultra) <>",
          "Guardian Statue [DR3-SP201] (Common) <Structure Deck: Invincible Fortress>",
          "Guardian Statue [SD7-EN013] (Common) <Structure Deck: Invincible Fortress>",
          "Hammer Shot [CP05-EN017] (Common) <Structure Deck: Invincible Fortress>",
@@ -697,6 +696,7 @@
          "Ordeal of a Traveler [SD7-EN030] (Common) <Structure Deck: Invincible Fortress>",
          "Premature Burial [SDRL-EN024] (Common) <Structure Deck: Invincible Fortress>",
          "Reckless Greed [BP02-EN175] (Rare) <Structure Deck: Invincible Fortress>",
+         "Robbin' Goblin [MRD-135] (Rare) <>",
          "Robbin' Goblin [SDP-047] (Common) <Structure Deck: Invincible Fortress>",
          "Sand Moth [SD7-EN015] (Common) <Structure Deck: Invincible Fortress>",
          "Sand Moth [SGX3-ENA09] (Common) <Structure Deck: Invincible Fortress>",
@@ -715,7 +715,7 @@
          "Waboku [SDY-040] (Common) <Structure Deck: Invincible Fortress>",
          "Waboku [YSYR-EN039] (Common) <Structure Deck: Invincible Fortress>"
       ],
-      "numberOfCardsMissing": 26
+      "numberOfCardsMissing": 22
    },
    {
       "deck": "Structure Deck: Lord of the Storm",
@@ -750,7 +750,6 @@
          "Reload",
          "Reload",
          "Sakuretsu Armor",
-         "Silpheed",
          "Slate Warrior",
          "Sonic Shooter",
          "Swift Birdman Joe"
@@ -814,6 +813,7 @@
          "Roc from the Valley of Haze [SD8-EN012] (Common) <Structure Deck: Lord of the Storm>",
          "Sakuretsu Armor [DCR-102] (Common) <Structure Deck: Lord of the Storm>",
          "Sakuretsu Armor [YSKR-EN043] (Common) <Structure Deck: Lord of the Storm>",
+         "Silpheed [IOC-022] (Common) <>",
          "Silpheed [IOC-EN022] (Common) <Structure Deck: Lord of the Storm>",
          "Silpheed [SD8-EN010] (Common) <Structure Deck: Lord of the Storm>",
          "Simorgh, Bird of Divinity [SD8-EN001] (Ultra) <Structure Deck: Lord of the Storm>",
@@ -832,7 +832,7 @@
          "Triangle Ecstasy Spark [SD8-EN025] (Common) <Structure Deck: Lord of the Storm>",
          "Triangle Ecstasy Spark [SS02-ENC11] (Common) <Structure Deck: Lord of the Storm>"
       ],
-      "numberOfCardsMissing": 20
+      "numberOfCardsMissing": 19
    },
    {
       "deck": "Structure Deck: Dinosaur's Rage",
@@ -989,7 +989,6 @@
          "Boot-Up Soldier - Dread Dynamo",
          "Cannon Soldier",
          "Cannon Soldier",
-         "Gear Golem the Moving Fortress",
          "Micro Ray",
          "Micro Ray",
          "Rare Metalmorph",
@@ -1035,6 +1034,7 @@
          "Enemy Controller [DPBC-EN019] (Common) <Structure Deck: Machine Re-Volt>",
          "Enemy Controller [DPBC-EN019] (Common) <Structure Deck: Machine Re-Volt>",
          "Gear Golem the Moving Fortress [SBC1-ENF02] (Common) <Structure Deck: Machine Re-Volt>",
+         "Gear Golem the Moving Fortress [SD10-EN010] (Common) <>",
          "Gear Golem the Moving Fortress [SD10-EN010] (Common) <Structure Deck: Machine Re-Volt>",
          "Green Gadget [SD10-EN006] (Common) <Structure Deck: Machine Re-Volt>",
          "Green Gadget [YGLD-ENC16] (Common) <Structure Deck: Machine Re-Volt>",
@@ -1072,7 +1072,7 @@
          "Yellow Gadget [YGLD-ENC18] (Common) <Structure Deck: Machine Re-Volt>",
          "Yellow Gadget [YSYR-EN021] (Common) <Structure Deck: Machine Re-Volt>"
       ],
-      "numberOfCardsMissing": 28
+      "numberOfCardsMissing": 27
    },
    {
       "deck": "Rise of the Dragon Lords Structure Deck",
@@ -1101,14 +1101,11 @@
          "Felgrand Dragon",
          "Flame Ruler",
          "Flame Ruler",
-         "Gilford the Lightning",
-         "Gilford the Lightning",
          "Guardian Angel Joan",
          "Horus the Black Flame Dragon LV6",
          "Lightning Vortex",
          "Lightning Vortex",
          "Magic Jammer",
-         "Majestic Mech - Goryu",
          "Majestic Mech - Goryu",
          "Masked Dragon",
          "Mystik Wok",
@@ -1137,6 +1134,8 @@
          "Foolish Burial [DPBC-EN025] (Rare) <Rise of the Dragon Lords Structure Deck>",
          "Giant Trunade [SDJ-032] (Common) <Rise of the Dragon Lords Structure Deck>",
          "Gilford the Lightning [LCJW-EN041] (Common) <Rise of the Dragon Lords Structure Deck>",
+         "Gilford the Lightning [MIL1-EN006] (Common) <>",
+         "Gilford the Lightning [SDRL-EN006] (Common) <>",
          "Guardian Angel Joan [SBCB-EN134] (Common) <Rise of the Dragon Lords Structure Deck>",
          "Guardian Angel Joan [SDRL-EN011] (Common) <Rise of the Dragon Lords Structure Deck>",
          "Herald of Creation [BP02-EN053] (Common) <Rise of the Dragon Lords Structure Deck>",
@@ -1150,6 +1149,7 @@
          "Lightning Vortex [YS14-EN023] (Common) <Rise of the Dragon Lords Structure Deck>",
          "Magic Jammer [DLG1-EN047] (Common) <Rise of the Dragon Lords Structure Deck>",
          "Magic Jammer [SDRL-EN035] (Common) <Rise of the Dragon Lords Structure Deck>",
+         "Majestic Mech - Goryu [EOJ-EN016] (Super) <>",
          "Majestic Mech - Goryu [SDRL-EN017] (Common) <Rise of the Dragon Lords Structure Deck>",
          "Malevolent Catastrophe [DPBC-EN036] (Common) <Rise of the Dragon Lords Structure Deck>",
          "Malevolent Catastrophe [DPBC-EN036] (Common) <Rise of the Dragon Lords Structure Deck>",
@@ -1190,7 +1190,7 @@
          "Tyrant Dragon [LCJW-EN149] (Common) <Rise of the Dragon Lords Structure Deck>",
          "Tyrant Dragon [SS02-ENA07] (Common) <Rise of the Dragon Lords Structure Deck>"
       ],
-      "numberOfCardsMissing": 25
+      "numberOfCardsMissing": 22
    },
    {
       "deck": "The Dark Emperor Structure Deck",
@@ -1209,12 +1209,10 @@
       ],
       "cardsMissing": [
          "Big Bang Shot",
-         "Big Bang Shot",
          "By Order of the Emperor",
          "By Order of the Emperor",
          "Caius the Shadow Monarch",
          "Caius the Shadow Monarch",
-         "D.D. Warrior",
          "D.D. Warrior",
          "Dark Core",
          "Dark Core",
@@ -1237,6 +1235,7 @@
          "Bazoo the Soul-Eater [BP01-EN119] (Common) <The Dark Emperor Structure Deck>",
          "Bazoo the Soul-Eater [BP02-EN012] (Common) <The Dark Emperor Structure Deck>",
          "Bazoo the Soul-Eater [LON-064] (Super) <The Dark Emperor Structure Deck>",
+         "Big Bang Shot [SDDE-EN024] (Common) <>",
          "Big Bang Shot [SDDE-EN024] (Common) <The Dark Emperor Structure Deck>",
          "Bottomless Trap Hole [SDDE-EN032] (Common) <The Dark Emperor Structure Deck>",
          "Bottomless Trap Hole [SDDE-EN032] (Common) <The Dark Emperor Structure Deck>",
@@ -1260,6 +1259,7 @@
          "D.D. Survivor [SDDE-EN014] (Common) <The Dark Emperor Structure Deck>",
          "D.D. Survivor [SDDE-EN014] (Common) <The Dark Emperor Structure Deck>",
          "D.D. Warrior Lady [SD5-EN011] (Common) <The Dark Emperor Structure Deck>",
+         "D.D. Warrior [SDDE-EN006] (Common) <>",
          "D.D. Warrior [SDDE-EN006] (Common) <The Dark Emperor Structure Deck>",
          "D.D.M. - Different Dimension Master [SDDE-EN015] (Common) <The Dark Emperor Structure Deck>",
          "D.D.M. - Different Dimension Master [SGX3-ENF08] (Common) <The Dark Emperor Structure Deck>",
@@ -1308,7 +1308,7 @@
          "Soul Release [SGX3-ENF14] (Common) <The Dark Emperor Structure Deck>",
          "Torrential Tribute [SR14-EN037] (Common) <The Dark Emperor Structure Deck>"
       ],
-      "numberOfCardsMissing": 21
+      "numberOfCardsMissing": 19
    },
    {
       "deck": "Zombie World Structure Deck",
@@ -1351,8 +1351,6 @@
          "Spell Shattering Arrow",
          "Tutan Mask",
          "Tutan Mask",
-         "Waboku",
-         "Waboku",
          "Zombie Master",
          "Zombie World",
          "Zombie World"
@@ -1427,12 +1425,14 @@
          "Terraforming [PGD-088] (Common) <Zombie World Structure Deck>",
          "Terraforming [SDZW-EN025] (Common) <Zombie World Structure Deck>",
          "Tutan Mask [BP03-EN195] (Common) <Zombie World Structure Deck>",
+         "Waboku [BP02-EN170] (Common) <>",
          "Waboku [SDZW-EN036] (Common) <Zombie World Structure Deck>",
+         "Waboku [YSYR-EN039] (Common) <>",
          "Zombie Master [SDZW-EN016] (Common) <Zombie World Structure Deck>",
          "Zombie Master [SDZW-EN016] (Common) <Zombie World Structure Deck>",
          "Zombie World [DL13-SP017] (Rare) <Zombie World Structure Deck>"
       ],
-      "numberOfCardsMissing": 32
+      "numberOfCardsMissing": 30
    },
    {
       "deck": "Spellcaster's Command Structure Deck",
@@ -1451,9 +1451,6 @@
       ],
       "cardsMissing": [
          "Blast Magician",
-         "Blast Magician",
-         "Dark Red Enchanter",
-         "Defender, the Magical Knight",
          "Defender, the Magical Knight",
          "Disenchanter",
          "Disenchanter",
@@ -1461,10 +1458,7 @@
          "Field Barrier",
          "Field Barrier",
          "Magical Citadel of Endymion",
-         "Magical Citadel of Endymion",
          "Magical Dimension",
-         "Magical Exemplar",
-         "Magical Exemplar",
          "Magical Plant Mandragola",
          "Magical Plant Mandragola",
          "Malevolent Nuzzler",
@@ -1476,13 +1470,13 @@
          "Mythical Beast Cerberus",
          "Pitch-Black Power Stone",
          "Royal Magical Library",
-         "Royal Magical Library",
-         "Tower of Babel"
+         "Royal Magical Library"
       ],
       "cardsInCollection": [
          "Apprentice Magician [SDSC-EN008] (Common) <Spellcaster's Command Structure Deck>",
          "Apprentice Magician [SDSC-EN008] (Common) <Spellcaster's Command Structure Deck>",
          "Apprentice Magician [SGX1-ENI05] (Secret) <Spellcaster's Command Structure Deck>",
+         "Blast Magician [SDSC-EN014] (Common) <>",
          "Blast Magician [SDSC-EN014] (Common) <Spellcaster's Command Structure Deck>",
          "Book of Moon [BP01-EN072] (Common) <Spellcaster's Command Structure Deck>",
          "Book of Moon [STAX-EN025] (Common) <Spellcaster's Command Structure Deck>",
@@ -1492,7 +1486,9 @@
          "Crystal Seer [SDSC-EN017] (Common) <Spellcaster's Command Structure Deck>",
          "Crystal Seer [SDSC-EN017] (Common) <Spellcaster's Command Structure Deck>",
          "Dark Red Enchanter [SBC1-ENF05] (Common) <Spellcaster's Command Structure Deck>",
+         "Dark Red Enchanter [SBSC-EN002] (Super) <>",
          "Dark Red Enchanter [SDSC-EN006] (Common) <Spellcaster's Command Structure Deck>",
+         "Defender, the Magical Knight [SDSC-EN003] (Common) <>",
          "Defender, the Magical Knight [SDSC-EN003] (Common) <Spellcaster's Command Structure Deck>",
          "Disenchanter [SDSC-EN002] (Common) <Spellcaster's Command Structure Deck>",
          "Endymion, The Master Magician [SDSC-EN001] (Ultra) <Spellcaster's Command Structure Deck>",
@@ -1514,8 +1510,11 @@
          "Magical Blast [SDSC-EN031] (Common) <Spellcaster's Command Structure Deck>",
          "Magical Blast [SDSC-EN031] (Common) <Spellcaster's Command Structure Deck>",
          "Magical Citadel of Endymion [OP07-EN008] (Super) <Spellcaster's Command Structure Deck>",
+         "Magical Citadel of Endymion [SDSC-EN019] (Common) <>",
          "Magical Dimension [LCYW-EN075] (Common) <Spellcaster's Command Structure Deck>",
          "Magical Dimension [YGLD-ENB21] (Common) <Spellcaster's Command Structure Deck>",
+         "Magical Exemplar [SDSC-EN018] (Common) <>",
+         "Magical Exemplar [SDSC-EN018] (Common) <>",
          "Magical Exemplar [SDSC-EN018] (Common) <Spellcaster's Command Structure Deck>",
          "Magical Marionette [SBC1-ENI08] (Common) <Spellcaster's Command Structure Deck>",
          "Magical Marionette [SBC1-ENI08] (Common) <Spellcaster's Command Structure Deck>",
@@ -1550,13 +1549,14 @@
          "Terraforming [SDPL-EN030] (Common) <Spellcaster's Command Structure Deck>",
          "Terraforming [SR02-EN034] (Common) <Spellcaster's Command Structure Deck>",
          "Terraforming [SR02-EN034] (Common) <Spellcaster's Command Structure Deck>",
+         "Tower of Babel [IOC-050] (Common) <>",
          "Tower of Babel [IOC-050] (Common) <Spellcaster's Command Structure Deck>",
          "Tower of Babel [SDSC-EN037] (Common) <Spellcaster's Command Structure Deck>",
          "Twister [DP07-EN012] (Common) <Spellcaster's Command Structure Deck>",
          "Twister [DP07-EN012] (Common) <Spellcaster's Command Structure Deck>",
          "Twister [DP07-EN012] (Common) <Spellcaster's Command Structure Deck>"
       ],
-      "numberOfCardsMissing": 28
+      "numberOfCardsMissing": 21
    },
    {
       "deck": "Warriors' Strike Structure Deck",
@@ -1571,7 +1571,6 @@
       ],
       "semiLimitedCards": [],
       "cardsMissing": [
-         "Big Bang Shot",
          "D.D. Warrior",
          "D.D. Warrior",
          "Dark Valkyria",
@@ -1579,7 +1578,6 @@
          "Divine Sword - Phoenix Blade",
          "Ekibyo Drakmord",
          "Ekibyo Drakmord",
-         "Evocator Chevalier",
          "Featherizer",
          "Featherizer",
          "Field-Commander Rahz",
@@ -1604,6 +1602,7 @@
       ],
       "cardsInCollection": [
          "Big Bang Shot [BP02-EN141] (Common) <Warriors' Strike Structure Deck>",
+         "Big Bang Shot [SDWS-EN026] (Common) <>",
          "Big Bang Shot [SDWS-EN026] (Common) <Warriors' Strike Structure Deck>",
          "Birthright [SBC1-ENG18] (Common) <Warriors' Strike Structure Deck>",
          "Birthright [SDWS-EN037] (Common) <Warriors' Strike Structure Deck>",
@@ -1630,6 +1629,7 @@
          "Double Summon [SGX2-END18] (Common) <Warriors' Strike Structure Deck>",
          "Ekibyo Drakmord [LON-099] (Common) <Warriors' Strike Structure Deck>",
          "Evocator Chevalier [BP02-EN085] (Common) <Warriors' Strike Structure Deck>",
+         "Evocator Chevalier [SDWS-EN002] (Super) <>",
          "Evocator Chevalier [SDWS-EN002] (Super) <Warriors' Strike Structure Deck>",
          "Exiled Force [5DS1-EN019] (Common) <Warriors' Strike Structure Deck>",
          "Exiled Force [5DS1-EN019] (Common) <Warriors' Strike Structure Deck>",
@@ -1680,7 +1680,7 @@
          "Symbols of Duty [SDWS-EN029] (Common) <Warriors' Strike Structure Deck>",
          "Unleash Your Power! [PTDN-EN056] (Common) <Warriors' Strike Structure Deck>"
       ],
-      "numberOfCardsMissing": 30
+      "numberOfCardsMissing": 28
    },
    {
       "deck": "Machina Mayhem Structure Deck",
@@ -1705,7 +1705,6 @@
          "Green Gadget",
          "Heavy Mech Support Platform",
          "Inferno Reckless Summon",
-         "Inferno Reckless Summon",
          "Machina Armored Unit",
          "Machina Defender",
          "Machina Defender",
@@ -1725,14 +1724,11 @@
          "Red Gadget",
          "Red Gadget",
          "Roll Out!",
-         "Scrap Recycler",
-         "Scrap Recycler",
          "Shrink",
          "Solidarity",
          "Solidarity",
          "The Big Saturn",
          "The Big Saturn",
-         "Time Machine",
          "Yellow Gadget",
          "Yellow Gadget"
       ],
@@ -1765,6 +1761,7 @@
          "Hand Destruction [SDOK-EN028] (Common) <Machina Mayhem Structure Deck>",
          "Heavy Mech Support Platform [RDS-EN011] (Common) <Machina Mayhem Structure Deck>",
          "Heavy Mech Support Platform [RDS-EN011] (Common) <Machina Mayhem Structure Deck>",
+         "Inferno Reckless Summon [SR03-EN030] (Common) <>",
          "Inferno Reckless Summon [SR03-EN030] (Common) <Machina Mayhem Structure Deck>",
          "Machina Armored Unit [SDMM-EN021] (Common) <Machina Mayhem Structure Deck>",
          "Machina Armored Unit [SDMM-EN021] (Common) <Machina Mayhem Structure Deck>",
@@ -1792,17 +1789,20 @@
          "Red Gadget [SDMM-EN016] (Common) <Machina Mayhem Structure Deck>",
          "Roll Out! [EEN-EN056] (Common) <Machina Mayhem Structure Deck>",
          "Roll Out! [EEN-EN056] (Common) <Machina Mayhem Structure Deck>",
+         "Scrap Recycler [MAGO-EN117] (Rare) <>",
          "Scrap Recycler [SDMM-EN004] (Common) <Machina Mayhem Structure Deck>",
+         "Scrap Recycler [SR10-EN017] (Common) <>",
          "Shrink [STON-ENSE2] (Super) <Machina Mayhem Structure Deck>",
          "Shrink [YSKR-EN037] (Common) <Machina Mayhem Structure Deck>",
          "Solidarity [SDMM-EN030] (Common) <Machina Mayhem Structure Deck>",
          "Swords of Revealing Light [YS12-EN023] (Common) <Machina Mayhem Structure Deck>",
          "The Big Saturn [SDMM-EN020] (Common) <Machina Mayhem Structure Deck>",
          "Time Machine [BP02-EN200] (Common) <Machina Mayhem Structure Deck>",
+         "Time Machine [SBTK-EN039] (Ultra) <>",
          "Time Machine [SDMM-EN031] (Common) <Machina Mayhem Structure Deck>",
          "Yellow Gadget [SDMM-EN017] (Common) <Machina Mayhem Structure Deck>"
       ],
-      "numberOfCardsMissing": 41
+      "numberOfCardsMissing": 37
    },
    {
       "deck": "Structure Deck: Marik (TCG)",
@@ -1826,16 +1826,12 @@
          "Dark Illusion",
          "Dark Jeroid",
          "Dark Room of Nightmare",
-         "Dark Room of Nightmare",
-         "Drillago",
          "Drillago",
          "Gravekeeper's Guard",
          "Gravekeeper's Visionary",
          "Lava Golem",
          "Legendary Fiend",
          "Legendary Fiend",
-         "Malevolent Catastrophe",
-         "Malevolent Catastrophe",
          "Mystical Beast of Serket",
          "Newdoria",
          "Newdoria"
@@ -1859,7 +1855,9 @@
          "Dark Illusion [SDMA-EN036] (Common) <Structure Deck: Marik (TCG)>",
          "Dark Jeroid [SDMA-EN005] (Common) <Structure Deck: Marik (TCG)>",
          "Dark Jeroid [SDMA-EN005] (Common) <Structure Deck: Marik (TCG)>",
+         "Dark Room of Nightmare [SDMA-EN024] (Common) <>",
          "Dark Room of Nightmare [SDMA-EN024] (Common) <Structure Deck: Marik (TCG)>",
+         "Drillago [SDMA-EN015] (Common) <>",
          "Drillago [SDMA-EN015] (Common) <Structure Deck: Marik (TCG)>",
          "Foolish Burial [SDMA-EN026] (Common) <Structure Deck: Marik (TCG)>",
          "Gil Garth [SDMA-EN001] (Common) <Structure Deck: Marik (TCG)>",
@@ -1898,6 +1896,8 @@
          "Legendary Fiend [SDMA-EN004] (Common) <Structure Deck: Marik (TCG)>",
          "Magical Stone Excavation [LEHD-ENA24] (Common) <Structure Deck: Marik (TCG)>",
          "Magical Stone Excavation [SDMA-EN027] (Common) <Structure Deck: Marik (TCG)>",
+         "Malevolent Catastrophe [SDCR-EN034] (Common) <>",
+         "Malevolent Catastrophe [SDCR-EN034] (Common) <>",
          "Malevolent Catastrophe [SDMA-EN035] (Common) <Structure Deck: Marik (TCG)>",
          "Metal Reflect Slime [BP02-EN193] (Common) <Structure Deck: Marik (TCG)>",
          "Metal Reflect Slime [EGS1-EN036] (Common) <Structure Deck: Marik (TCG)>",
@@ -1927,7 +1927,7 @@
          "Viser Des [SDMA-EN003] (Common) <Structure Deck: Marik (TCG)>",
          "Viser Des [SDMA-EN003] (Common) <Structure Deck: Marik (TCG)>"
       ],
-      "numberOfCardsMissing": 18
+      "numberOfCardsMissing": 14
    },
    {
       "deck": "Dragunity Legion Structure Deck",
@@ -1946,7 +1946,6 @@
       "cardsMissing": [
          "Armed Dragon LV5",
          "Creature Swap",
-         "Creature Swap",
          "Dragon Mastery",
          "Dragon Mastery",
          "Dragon Ravine",
@@ -1960,19 +1959,14 @@
          "Dragunity Brandistock",
          "Dragunity Darkspear",
          "Dragunity Darkspear",
-         "Dragunity Dux",
          "Dragunity Javelin",
          "Dragunity Javelin",
-         "Dragunity Legionnaire",
-         "Dragunity Legionnaire",
          "Dragunity Militum",
          "Dragunity Primus Pilus",
          "Dragunity Primus Pilus",
          "Dragunity Tribus",
          "Dragunity Tribus",
          "Flying Kamakiri #1",
-         "Flying Kamakiri #1",
-         "Hunter Owl",
          "Hunter Owl",
          "Icarus Attack",
          "Legacy of Yata-Garasu",
@@ -1995,6 +1989,7 @@
          "Bottomless Trap Hole [DB2-EN201] (Common) <Dragunity Legion Structure Deck>",
          "Bottomless Trap Hole [SDHS-EN038] (Common) <Dragunity Legion Structure Deck>",
          "Card Destruction [SDDL-EN030] (Common) <Dragunity Legion Structure Deck>",
+         "Creature Swap [DP04-EN018] (Common) <>",
          "Creature Swap [SD4-EN021] (Common) <Dragunity Legion Structure Deck>",
          "Dragon Mastery [SDDL-EN022] (Common) <Dragunity Legion Structure Deck>",
          "Dragon Ravine [SDDL-EN021] (Common) <Dragunity Legion Structure Deck>",
@@ -2010,10 +2005,13 @@
          "Dragunity Arma Mystletainn [SDDL-EN002] (Super) <Dragunity Legion Structure Deck>",
          "Dragunity Brandistock [SDDL-EN010] (Common) <Dragunity Legion Structure Deck>",
          "Dragunity Darkspear [SDDL-EN007] (Common) <Dragunity Legion Structure Deck>",
+         "Dragunity Dux [SDDL-EN004] (Common) <>",
          "Dragunity Dux [SDDL-EN004] (Common) <Dragunity Legion Structure Deck>",
          "Dragunity Dux [SDDL-EN004] (Common) <Dragunity Legion Structure Deck>",
          "Dragunity Javelin [SDDL-EN011] (Common) <Dragunity Legion Structure Deck>",
          "Dragunity Legionnaire [HA03-EN032] (Super) <Dragunity Legion Structure Deck>",
+         "Dragunity Legionnaire [SDDL-EN005] (Common) <>",
+         "Dragunity Legionnaire [SDDL-EN005] (Common) <>",
          "Dragunity Militum [SDDL-EN008] (Common) <Dragunity Legion Structure Deck>",
          "Dragunity Militum [SDDL-EN008] (Common) <Dragunity Legion Structure Deck>",
          "Dragunity Primus Pilus [SDDL-EN009] (Common) <Dragunity Legion Structure Deck>",
@@ -2021,11 +2019,13 @@
          "Final Attack Orders [LDK2-ENK34] (Common) <Dragunity Legion Structure Deck>",
          "Final Attack Orders [SGX3-ENG19] (Common) <Dragunity Legion Structure Deck>",
          "Final Attack Orders [SGX3-ENG19] (Common) <Dragunity Legion Structure Deck>",
+         "Flying Kamakiri #1 [DL13-EN003] (Rare) <>",
          "Flying Kamakiri #1 [SDDL-EN015] (Common) <Dragunity Legion Structure Deck>",
          "Foolish Burial [SDDL-EN029] (Common) <Dragunity Legion Structure Deck>",
          "Garuda the Wind Spirit [LON-070] (Common) <Dragunity Legion Structure Deck>",
          "Garuda the Wind Spirit [SGX3-ENI21] (Common) <Dragunity Legion Structure Deck>",
          "Garuda the Wind Spirit [SGX3-ENI21] (Common) <Dragunity Legion Structure Deck>",
+         "Hunter Owl [GX03-EN002] (Super) <>",
          "Hunter Owl [SDDL-EN013] (Common) <Dragunity Legion Structure Deck>",
          "Icarus Attack [EOJ-EN055] (Common) <Dragunity Legion Structure Deck>",
          "Legacy of Yata-Garasu [SDDL-EN033] (Common) <Dragunity Legion Structure Deck>",
@@ -2056,7 +2056,7 @@
          "Windstorm of Etaqua [SGX3-ENA20] (Common) <Dragunity Legion Structure Deck>",
          "Windstorm of Etaqua [SGX3-ENA20] (Common) <Dragunity Legion Structure Deck>"
       ],
-      "numberOfCardsMissing": 41
+      "numberOfCardsMissing": 35
    },
    {
       "deck": "Lost Sanctuary Structure Deck",
@@ -2087,7 +2087,6 @@
          "Master Hyperion",
          "Mausoleum of the Emperor",
          "Miraculous Descent",
-         "Mystical Shine Ball",
          "Solidarity",
          "Solidarity",
          "Soul of Purity and Light",
@@ -2096,15 +2095,10 @@
          "Splendid Venus",
          "Tethys, Goddess of Light",
          "Tethys, Goddess of Light",
-         "The Agent of Creation - Venus",
-         "The Agent of Force - Mars",
          "The Agent of Force - Mars",
          "The Agent of Judgment - Saturn",
          "The Agent of Judgment - Saturn",
          "The Agent of Miracles - Jupiter",
-         "The Agent of Miracles - Jupiter",
-         "The Agent of Mystery - Earth",
-         "The Agent of Mystery - Earth",
          "The Agent of Wisdom - Mercury",
          "The Agent of Wisdom - Mercury",
          "The Fountain in the Sky",
@@ -2141,6 +2135,7 @@
          "Miraculous Descent [SDLS-EN037] (Common) <Lost Sanctuary Structure Deck>",
          "Miraculous Descent [SDLS-EN037] (Common) <Lost Sanctuary Structure Deck>",
          "Mystical Shine Ball [AST-004] (Common) <Lost Sanctuary Structure Deck>",
+         "Mystical Shine Ball [GFP2-EN046] (Ultra) <>",
          "Mystical Shine Ball [GFP2-EN046] (Ultra) <Lost Sanctuary Structure Deck>",
          "Nova Summoner [SDLS-EN018] (Common) <Lost Sanctuary Structure Deck>",
          "Nova Summoner [SDLS-EN018] (Common) <Lost Sanctuary Structure Deck>",
@@ -2160,11 +2155,16 @@
          "Terraforming [SR02-EN034] (Common) <Lost Sanctuary Structure Deck>",
          "Terraforming [YS17-EN031] (Common) <Lost Sanctuary Structure Deck>",
          "Tethys, Goddess of Light [SR05-EN014] (Common) <Lost Sanctuary Structure Deck>",
+         "The Agent of Creation - Venus [GFP2-EN049] (Ultra) <>",
          "The Agent of Creation - Venus [LCYW-EN253] (Super) <Lost Sanctuary Structure Deck>",
          "The Agent of Creation - Venus [SDLS-EN006] (Common) <Lost Sanctuary Structure Deck>",
+         "The Agent of Force - Mars [AST-009] (Super) <>",
          "The Agent of Force - Mars [SDLS-EN007] (Common) <Lost Sanctuary Structure Deck>",
          "The Agent of Judgment - Saturn [SDLS-EN004] (Common) <Lost Sanctuary Structure Deck>",
+         "The Agent of Miracles - Jupiter [GFP2-EN052] (Ultra) <>",
          "The Agent of Miracles - Jupiter [SDLS-EN003] (Super) <Lost Sanctuary Structure Deck>",
+         "The Agent of Mystery - Earth [GFP2-EN050] (Ultra) <>",
+         "The Agent of Mystery - Earth [SDLS-EN002] (Super) <>",
          "The Agent of Mystery - Earth [SDLS-EN002] (Super) <Lost Sanctuary Structure Deck>",
          "The Agent of Wisdom - Mercury [SDLS-EN005] (Common) <Lost Sanctuary Structure Deck>",
          "The Fountain in the Sky [TSHD-EN052] (Rare) <Lost Sanctuary Structure Deck>",
@@ -2178,7 +2178,7 @@
          "Victoria [SDLS-SP011] (Common) <Lost Sanctuary Structure Deck>",
          "Zeradias, Herald of Heaven [SDLS-EN019] (Common) <Lost Sanctuary Structure Deck>"
       ],
-      "numberOfCardsMissing": 40
+      "numberOfCardsMissing": 34
    },
    {
       "deck": "Gates of the Underworld Structure Deck",
@@ -2207,10 +2207,7 @@
          "Deck Devastation Virus",
          "Eradicator Epidemic Virus",
          "Eradicator Epidemic Virus",
-         "Escape from the Dark Dimension",
-         "Escape from the Dark Dimension",
          "Goldd, Wu-Lord of Dark World",
-         "Grapha, Dragon Lord of Dark World",
          "Gren, Tactician of Dark World",
          "Kahkki, Guerilla of Dark World",
          "Newdoria",
@@ -2260,7 +2257,9 @@
          "Deck Devastation Virus [SDGU-EN033] (Common) <Gates of the Underworld Structure Deck>",
          "Deck Devastation Virus [SR13-EN038] (Common) <Gates of the Underworld Structure Deck>",
          "Eradicator Epidemic Virus [SDGU-EN034] (Common) <Gates of the Underworld Structure Deck>",
+         "Escape from the Dark Dimension [SDGU-EN038] (Common) <>",
          "Escape from the Dark Dimension [SDGU-EN038] (Common) <Gates of the Underworld Structure Deck>",
+         "Escape from the Dark Dimension [SDSA-EN036] (Common) <>",
          "Gateway to Dark World [SDGU-EN025] (Common) <Gates of the Underworld Structure Deck>",
          "Gateway to Dark World [SDGU-EN025] (Common) <Gates of the Underworld Structure Deck>",
          "Gateway to Dark World [SR13-EN029] (Common) <Gates of the Underworld Structure Deck>",
@@ -2269,6 +2268,7 @@
          "Goblin King [SGX3-ENG08] (Common) <Gates of the Underworld Structure Deck>",
          "Goldd, Wu-Lord of Dark World [SDGU-EN013] (Common) <Gates of the Underworld Structure Deck>",
          "Goldd, Wu-Lord of Dark World [SR13-EN007] (Common) <Gates of the Underworld Structure Deck>",
+         "Grapha, Dragon Lord of Dark World [MAGO-EN118] (Rare) <>",
          "Grapha, Dragon Lord of Dark World [SDGU-EN001] (Ultra) <Gates of the Underworld Structure Deck>",
          "Grapha, Dragon Lord of Dark World [SR13-EN043] (Common) <Gates of the Underworld Structure Deck>",
          "Grave Squirmer [BP01-EN062] (Rare) <Gates of the Underworld Structure Deck>",
@@ -2306,7 +2306,7 @@
          "Zure, Knight of Dark World [SGX3-ENI12] (Common) <Gates of the Underworld Structure Deck>",
          "Zure, Knight of Dark World [YSDS-EN008] (Common) <Gates of the Underworld Structure Deck>"
       ],
-      "numberOfCardsMissing": 26
+      "numberOfCardsMissing": 23
    },
    {
       "deck": "Dragons Collide Structure Deck",
@@ -2333,8 +2333,6 @@
          "Card Trader",
          "Chaos Zone",
          "Chaos Zone",
-         "D.D.R. - Different Dimension Reincarnation",
-         "D.D.R. - Different Dimension Reincarnation",
          "Darkflare Dragon",
          "Darkflare Dragon",
          "Dragon's Rebirth",
@@ -2356,7 +2354,6 @@
          "Red-Eyes Darkness Metal Dragon",
          "Ryko, Lightsworn Hunter",
          "Ryko, Lightsworn Hunter",
-         "Snipe Hunter",
          "Snipe Hunter",
          "Vice Dragon",
          "Vice Dragon"
@@ -2387,6 +2384,8 @@
          "Chaos Zone [SDDC-EN024] (Common) <Dragons Collide Structure Deck>",
          "Charge of the Light Brigade [SDLI-EN027] (Common) <Dragons Collide Structure Deck>",
          "D.D.R. - Different Dimension Reincarnation [SDDC-EN034] (Common) <Dragons Collide Structure Deck>",
+         "D.D.R. - Different Dimension Reincarnation [SDDE-EN018] (Common) <>",
+         "D.D.R. - Different Dimension Reincarnation [SDDE-EN018] (Common) <>",
          "Dark Armed Dragon [SDDC-EN012] (Common) <Dragons Collide Structure Deck>",
          "Darkflare Dragon [SDDC-EN002] (Ultra) <Dragons Collide Structure Deck>",
          "Dragon's Rebirth [SR02-EN035] (Common) <Dragons Collide Structure Deck>",
@@ -2425,6 +2424,7 @@
          "Red-Eyes Black Dragon [SS02-ENB01] (Common) <Dragons Collide Structure Deck>",
          "Red-Eyes Darkness Metal Dragon [SR02-EN009] (Common) <Dragons Collide Structure Deck>",
          "Ryko, Lightsworn Hunter [LODT-EN022] (Super) <Dragons Collide Structure Deck>",
+         "Snipe Hunter [SDDC-EN018] (Common) <>",
          "Snipe Hunter [SDDC-EN018] (Common) <Dragons Collide Structure Deck>",
          "Summoner Monk [SDDC-EN017] (Common) <Dragons Collide Structure Deck>",
          "Summoner Monk [SDDC-EN017] (Common) <Dragons Collide Structure Deck>",
@@ -2436,7 +2436,7 @@
          "The White Stone of Legend [SDDC-EN006] (Common) <Dragons Collide Structure Deck>",
          "Vice Dragon [HSRD-EN021] (Common) <Dragons Collide Structure Deck>"
       ],
-      "numberOfCardsMissing": 34
+      "numberOfCardsMissing": 31
    },
    {
       "deck": "Samurai Warlords Structure Deck",
@@ -2586,7 +2586,6 @@
       ],
       "cardsMissing": [
          "Abyss Soldier",
-         "Atlantean Dragoons",
          "Deep Sea Diva",
          "Poseidra, the Atlantean Dragon"
       ],
@@ -2608,6 +2607,7 @@
          "Atlantean Attack Squad [SDRE-EN006] (Common) <Realm of the Sea Emperor Structure Deck>",
          "Atlantean Attack Squad [SDRE-EN006] (Common) <Realm of the Sea Emperor Structure Deck>",
          "Atlantean Attack Squad [SDRE-EN006] (Common) <Realm of the Sea Emperor Structure Deck>",
+         "Atlantean Dragoons [OP14-EN013] (Common) <>",
          "Atlantean Dragoons [SDRE-EN002] (Super) <Realm of the Sea Emperor Structure Deck>",
          "Atlantean Dragoons [SDRE-EN002] (Super) <Realm of the Sea Emperor Structure Deck>",
          "Atlantean Heavy Infantry [SDRE-EN004] (Common) <Realm of the Sea Emperor Structure Deck>",
@@ -2702,7 +2702,7 @@
          "Water Hazard [SDRE-EN026] (Common) <Realm of the Sea Emperor Structure Deck>",
          "Water Hazard [SDRE-EN026] (Common) <Realm of the Sea Emperor Structure Deck>"
       ],
-      "numberOfCardsMissing": 4
+      "numberOfCardsMissing": 3
    },
    {
       "deck": "Onslaught of the Fire Kings Structure Deck",
@@ -2714,7 +2714,6 @@
          "Pot of Duality"
       ],
       "cardsMissing": [
-         "Backfire",
          "Blast with Chain",
          "Creature Swap",
          "Little Chimera",
@@ -2722,6 +2721,7 @@
       ],
       "cardsInCollection": [
          "Backfire [AST-SP046] (Common) <Onslaught of the Fire Kings Structure Deck>",
+         "Backfire [SD3-EN031] (Common) <>",
          "Backfire [SDOK-EN031] (Common) <Onslaught of the Fire Kings Structure Deck>",
          "Blast with Chain [SDOK-EN035] (Common) <Onslaught of the Fire Kings Structure Deck>",
          "Blast with Chain [SDOK-EN035] (Common) <Onslaught of the Fire Kings Structure Deck>",
@@ -2833,7 +2833,7 @@
          "Wild Nature's Release [SDOK-EN026] (Common) <Onslaught of the Fire Kings Structure Deck>",
          "Wild Nature's Release [SDOK-EN026] (Common) <Onslaught of the Fire Kings Structure Deck>"
       ],
-      "numberOfCardsMissing": 5
+      "numberOfCardsMissing": 4
    },
    {
       "deck": "Saga of Blue-Eyes White Dragon Structure Deck",
@@ -2983,21 +2983,14 @@
          "Cyber Dragon Drei",
          "Cyber Dragon Nova",
          "Cyber Eltanin",
-         "Cyber Repair Plant",
          "Cyber Twin Dragon",
          "Dimensional Prison",
          "Evolution Burst",
          "Light of Redemption",
          "Machina Armored Unit",
          "Machina Armored Unit",
-         "Megamorph",
-         "Megamorph",
          "Power Bond",
-         "Satellite Cannon",
-         "Trap Stun",
-         "Trap Stun",
-         "Waboku",
-         "Waboku"
+         "Satellite Cannon"
       ],
       "cardsInCollection": [
          "Armored Cybern [SDCR-EN011] (Common) <Cyber Dragon Revolution Structure Deck>",
@@ -3030,6 +3023,7 @@
          "Cyber Phoenix [SDCR-EN008] (Common) <Cyber Dragon Revolution Structure Deck>",
          "Cyber Phoenix [SGX1-ENG04] (Common) <Cyber Dragon Revolution Structure Deck>",
          "Cyber Repair Plant [LED3-EN021] (Common) <Cyber Dragon Revolution Structure Deck>",
+         "Cyber Repair Plant [SDCR-EN019] (Common) <>",
          "Cyber Repair Plant [SDCR-EN019] (Common) <Cyber Dragon Revolution Structure Deck>",
          "Cyber Twin Dragon [LEDD-ENB26] (Common) <Cyber Dragon Revolution Structure Deck>",
          "Cyber Twin Dragon [SDCR-EN037] (Ultra) <Cyber Dragon Revolution Structure Deck>",
@@ -3058,7 +3052,9 @@
          "Malevolent Catastrophe [SDCR-EN034] (Common) <Cyber Dragon Revolution Structure Deck>",
          "Malevolent Catastrophe [SDCR-EN034] (Common) <Cyber Dragon Revolution Structure Deck>",
          "Malevolent Catastrophe [SDCR-EN034] (Common) <Cyber Dragon Revolution Structure Deck>",
+         "Megamorph [SDCR-EN024] (Common) <>",
          "Megamorph [SDCR-EN024] (Common) <Cyber Dragon Revolution Structure Deck>",
+         "Megamorph [SKE-037] (Common) <>",
          "Mystical Space Typhoon [SDCR-EN026] (Common) <Cyber Dragon Revolution Structure Deck>",
          "Mystical Space Typhoon [STAX-EN024] (Common) <Cyber Dragon Revolution Structure Deck>",
          "Mystical Space Typhoon [STAX-EN024] (Common) <Cyber Dragon Revolution Structure Deck>",
@@ -3087,10 +3083,14 @@
          "Three of a Kind [REDU-EN077] (Common) <Cyber Dragon Revolution Structure Deck>",
          "Three of a Kind [REDU-EN077] (Common) <Cyber Dragon Revolution Structure Deck>",
          "Three of a Kind [SDCR-EN031] (Common) <Cyber Dragon Revolution Structure Deck>",
+         "Trap Stun [SDCR-EN032] (Common) <>",
+         "Trap Stun [SDCR-EN032] (Common) <>",
          "Trap Stun [SDCR-EN032] (Common) <Cyber Dragon Revolution Structure Deck>",
-         "Waboku [SDCR-EN035] (Common) <Cyber Dragon Revolution Structure Deck>"
+         "Waboku [SDCR-EN035] (Common) <>",
+         "Waboku [SDCR-EN035] (Common) <Cyber Dragon Revolution Structure Deck>",
+         "Waboku [SDY-040] (Common) <>"
       ],
-      "numberOfCardsMissing": 22
+      "numberOfCardsMissing": 15
    },
    {
       "deck": "Realm of Light Structure Deck",
@@ -3237,7 +3237,6 @@
          "Geargiano Mk-III",
          "Geargiano Mk-III",
          "Geargiarmor",
-         "Geargiarmor",
          "Geargiattacker",
          "Geargiattacker",
          "Geargiauger",
@@ -3257,7 +3256,6 @@
          "Red Gadget",
          "Roll Out!",
          "Roll Out!",
-         "Smashing Ground",
          "Smashing Ground",
          "Stronghold the Moving Fortress",
          "Stronghold the Moving Fortress",
@@ -3290,6 +3288,7 @@
          "Geargiano [GENF-EN030] (Common) <Geargia Rampage Structure Deck>",
          "Geargiano [SDGR-EN004] (Common) <Geargia Rampage Structure Deck>",
          "Geargiano [SDGR-EN004] (Common) <Geargia Rampage Structure Deck>",
+         "Geargiarmor [SDGR-EN008] (Common) <>",
          "Geargiarmor [SDGR-EN008] (Common) <Geargia Rampage Structure Deck>",
          "Geargiarsenal [REDU-EN029] (Rare) <Geargia Rampage Structure Deck>",
          "Geargiarsenal [REDU-EN029] (Rare) <Geargia Rampage Structure Deck>",
@@ -3318,6 +3317,7 @@
          "Red Gadget [SDGR-EN010] (Common) <Geargia Rampage Structure Deck>",
          "Red Gadget [SDGR-EN010] (Common) <Geargia Rampage Structure Deck>",
          "Roll Out! [SDGR-EN033] (Common) <Geargia Rampage Structure Deck>",
+         "Smashing Ground [IOC-093] (Common) <>",
          "Smashing Ground [SDGR-EN025] (Common) <Geargia Rampage Structure Deck>",
          "Stronghold the Moving Fortress [SDGR-EN030] (Common) <Geargia Rampage Structure Deck>",
          "Swift Scarecrow [AP01-SP017] (Common) <Geargia Rampage Structure Deck>",
@@ -3327,7 +3327,7 @@
          "Yellow Gadget [SDGR-EN011] (Common) <Geargia Rampage Structure Deck>",
          "Yellow Gadget [SDGR-EN011] (Common) <Geargia Rampage Structure Deck>"
       ],
-      "numberOfCardsMissing": 40
+      "numberOfCardsMissing": 38
    },
    {
       "deck": "HERO Strike Structure Deck",
@@ -3495,8 +3495,6 @@
          "Fleur Synchron",
          "Fleur Synchron",
          "Imperial Iron Wall",
-         "Jet Synchron",
-         "Jet Synchron",
          "Jet Warrior",
          "Limit Overdrive",
          "Limit Overdrive",
@@ -3543,6 +3541,8 @@
          "Genex Neutron [SDSE-EN019] (Common) <Synchron Extreme Structure Deck>",
          "Imperial Iron Wall [SDSE-EN038] (Common) <Synchron Extreme Structure Deck>",
          "Imperial Iron Wall [SDSE-EN038] (Common) <Synchron Extreme Structure Deck>",
+         "Jet Synchron [MZMI-EN044] (Collector's) <>",
+         "Jet Synchron [MZMI-EN044] (Collector's) <>",
          "Jet Synchron [SDSE-EN001] (Super) <Synchron Extreme Structure Deck>",
          "Jet Warrior [SDSE-EN041] (Ultra) <Synchron Extreme Structure Deck>",
          "Jet Warrior [SDSE-EN041] (Ultra) <Synchron Extreme Structure Deck>",
@@ -3613,7 +3613,7 @@
          "White Dragon Wyverburster [SDSE-EN022] (Common) <Synchron Extreme Structure Deck>",
          "White Dragon Wyverburster [SDSE-EN022] (Common) <Synchron Extreme Structure Deck>"
       ],
-      "numberOfCardsMissing": 28
+      "numberOfCardsMissing": 26
    },
    {
       "deck": "Master of Pendulum Structure Deck",
@@ -3937,7 +3937,6 @@
          "Evilswarm Zahak",
          "Evilswarm Zahak",
          "Felgrand Dragon",
-         "Felgrand Dragon",
          "Guardian of Felgrand",
          "Guardian of Felgrand",
          "Hand Destruction",
@@ -3989,6 +3988,7 @@
          "Eclipse Wyvern [SR02-EN015] (Common) <Rise of the True Dragons Structure Deck>",
          "Ehren, Lightsworn Monk [SR02-EN021] (Common) <Rise of the True Dragons Structure Deck>",
          "Evilswarm Zahak [SR02-EN014] (Common) <Rise of the True Dragons Structure Deck>",
+         "Felgrand Dragon [SR02-EN005] (Common) <>",
          "Felgrand Dragon [SR02-EN005] (Common) <Rise of the True Dragons Structure Deck>",
          "Foolish Burial [SR02-EN029] (Common) <Rise of the True Dragons Structure Deck>",
          "Guardian of Felgrand [SR02-EN004] (Common) <Rise of the True Dragons Structure Deck>",
@@ -4024,7 +4024,7 @@
          "White Night Dragon [BP01-EN016] (Rare) <Rise of the True Dragons Structure Deck>",
          "White Night Dragon [SR02-EN011] (Common) <Rise of the True Dragons Structure Deck>"
       ],
-      "numberOfCardsMissing": 55
+      "numberOfCardsMissing": 54
    },
    {
       "deck": "Structure Deck: Seto Kaiba",
@@ -4041,8 +4041,6 @@
          "A-Assault Core",
          "A-to-Z-Dragon Buster Cannon",
          "A-to-Z-Dragon Buster Cannon",
-         "ABC-Dragon Buster",
-         "ABC-Dragon Buster",
          "B-Buster Drake",
          "B-Buster Drake",
          "Blizzard Dragon",
@@ -4080,6 +4078,8 @@
       "cardsInCollection": [
          "A-Assault Core [SDKS-EN001] (Super) <Structure Deck: Seto Kaiba>",
          "A-to-Z-Dragon Buster Cannon [SDKS-EN040] (Ultra) <Structure Deck: Seto Kaiba>",
+         "ABC-Dragon Buster [OP13-EN006] (Super) <>",
+         "ABC-Dragon Buster [OP13-EN006] (Super) <>",
          "ABC-Dragon Buster [SDKS-EN041] (Ultra) <Structure Deck: Seto Kaiba>",
          "B-Buster Drake [SDKS-EN002] (Super) <Structure Deck: Seto Kaiba>",
          "Blizzard Dragon [BP02-EN075] (Common) <Structure Deck: Seto Kaiba>",
@@ -4168,7 +4168,7 @@
          "Z-Metal Tank [SBCB-EN065] (Common) <Structure Deck: Seto Kaiba>",
          "Z-Metal Tank [SDKS-EN007] (Common) <Structure Deck: Seto Kaiba>"
       ],
-      "numberOfCardsMissing": 39
+      "numberOfCardsMissing": 37
    },
    {
       "deck": "Structure Deck: Yugi Muto",
@@ -4196,14 +4196,12 @@
          "Imperion Magnum the Superconductive Battlebot",
          "Kuribohrn",
          "Kuribohrn",
-         "Magician's Circle",
          "Magnet Conversion",
          "Magnetic Field",
          "Mystic Box",
          "Mystic Box",
          "Obnoxious Celtic Guard",
          "Obnoxious Celtic Guard",
-         "Rock Bombardment",
          "Skilled Dark Magician",
          "Soul Rope",
          "Spell Shattering Arrow",
@@ -4278,6 +4276,7 @@
          "Magic Cylinder [SDMY-EN038] (Common) <Structure Deck: Yugi Muto>",
          "Magic Cylinder [STAS-EN027] (Common) <Structure Deck: Yugi Muto>",
          "Magic Cylinder [STAS-EN027] (Common) <Structure Deck: Yugi Muto>",
+         "Magician's Circle [SDMY-EN036] (Common) <>",
          "Magician's Circle [SDMY-EN036] (Common) <Structure Deck: Yugi Muto>",
          "Magician's Circle [YGLD-ENC37] (Common) <Structure Deck: Yugi Muto>",
          "Magnet Conversion [SBCB-EN041] (Common) <Structure Deck: Yugi Muto>",
@@ -4295,6 +4294,7 @@
          "Queen's Knight [SDMY-EN014] (Common) <Structure Deck: Yugi Muto>",
          "Queen's Knight [STAX-EN001] (Common) <Structure Deck: Yugi Muto>",
          "Queen's Knight [STAX-EN001] (Common) <Structure Deck: Yugi Muto>",
+         "Rock Bombardment [DR3-EN235] (Common) <>",
          "Rock Bombardment [SBCB-EN037] (Common) <Structure Deck: Yugi Muto>",
          "Rock Bombardment [SDMY-EN040] (Common) <Structure Deck: Yugi Muto>",
          "Skilled Dark Magician [SDMY-EN021] (Common) <Structure Deck: Yugi Muto>",
@@ -4316,7 +4316,7 @@
          "Valkyrion the Magna Warrior [SBCB-EN022] (Secret) <Structure Deck: Yugi Muto>",
          "Valkyrion the Magna Warrior [SDMY-EN006] (Common) <Structure Deck: Yugi Muto>"
       ],
-      "numberOfCardsMissing": 32
+      "numberOfCardsMissing": 30
    },
    {
       "deck": "Pendulum Domination Structure Deck",
@@ -4635,7 +4635,6 @@
          "Geargiauger",
          "Geargiauger",
          "Gigantes",
-         "Gigantes",
          "Mausoleum of the Emperor",
          "Mausoleum of the Emperor",
          "Minefieldriller",
@@ -4689,6 +4688,7 @@
          "Geartown [SGX1-END14] (Common) <Machine Reactor Structure Deck>",
          "Geartown [SR03-EN025] (Common) <Machine Reactor Structure Deck>",
          "Geartown [TDGS-EN057] (Common) <Machine Reactor Structure Deck>",
+         "Gigantes [IOC-021] (Common) <>",
          "Gigantes [SR03-EN016] (Common) <Machine Reactor Structure Deck>",
          "Hardened Armed Dragon [BP01-EN214] (Common) <Machine Reactor Structure Deck>",
          "Hardened Armed Dragon [BP01-EN214] (Common) <Machine Reactor Structure Deck>",
@@ -4719,7 +4719,7 @@
          "The Huge Revolution is Over [ORCS-EN078] (Common) <Machine Reactor Structure Deck>",
          "The Huge Revolution is Over [SR03-EN038] (Common) <Machine Reactor Structure Deck>"
       ],
-      "numberOfCardsMissing": 48
+      "numberOfCardsMissing": 47
    },
    {
       "deck": "Structure Deck: Cyberse Link",
@@ -4878,7 +4878,6 @@
          "Athena",
          "Bountiful Artemis",
          "Bountiful Artemis",
-         "Cards from the Sky",
          "Celestial Transformation",
          "Celestial Transformation",
          "D.D. Sprite",
@@ -4935,7 +4934,6 @@
          "Tethys, Goddess of Light",
          "Tethys, Goddess of Light",
          "The Sanctuary in the Sky",
-         "The Sanctuary in the Sky",
          "The Sanctum of Parshath",
          "The Sanctum of Parshath",
          "Ties of the Brethren",
@@ -4952,6 +4950,7 @@
          "Archlord Kristya [SR05-EN011] (Common) <Structure Deck: Wave of Light>",
          "Athena [SR05-EN013] (Common) <Structure Deck: Wave of Light>",
          "Bountiful Artemis [SR05-EN008] (Common) <Structure Deck: Wave of Light>",
+         "Cards from the Sky [SR05-EN027] (Common) <>",
          "Cards from the Sky [SR05-EN027] (Common) <Structure Deck: Wave of Light>",
          "Cards from the Sky [SR05-EN027] (Common) <Structure Deck: Wave of Light>",
          "Celestial Transformation [SR05-EN028] (Common) <Structure Deck: Wave of Light>",
@@ -4993,13 +4992,14 @@
          "Synthetic Seraphim [SR05-EN034] (Common) <Structure Deck: Wave of Light>",
          "Synthetic Seraphim [SR05-EN034] (Common) <Structure Deck: Wave of Light>",
          "Tethys, Goddess of Light [SR05-EN014] (Common) <Structure Deck: Wave of Light>",
+         "The Sanctuary in the Sky [SR05-EN026] (Common) <>",
          "The Sanctuary in the Sky [SR05-EN026] (Common) <Structure Deck: Wave of Light>",
          "The Sanctum of Parshath [SR05-EN025] (Super) <Structure Deck: Wave of Light>",
          "Ties of the Brethren [SR05-EN030] (Common) <Structure Deck: Wave of Light>",
          "Ultimate Providence [SR05-EN038] (Common) <Structure Deck: Wave of Light>",
          "Valhalla, Hall of the Fallen [SR05-EN029] (Common) <Structure Deck: Wave of Light>"
       ],
-      "numberOfCardsMissing": 72
+      "numberOfCardsMissing": 70
    },
    {
       "deck": "Structure Deck: Lair of Darkness",
@@ -5675,8 +5675,6 @@
       "semiLimitedCards": [],
       "cardsMissing": [
          "Book of Life",
-         "Burial from a Different Dimension",
-         "Call of the Mummy",
          "Doomking Balerdroch",
          "Glow-Up Bloom",
          "Gozuki",
@@ -5687,7 +5685,6 @@
          "Malevolent Mech - Goku En",
          "Marionette Mite",
          "Mask of Restrict",
-         "Mezuki",
          "Necroworld Banshee",
          "Needlebug Nest",
          "Paladin of the Cursed Dragon",
@@ -5697,7 +5694,6 @@
          "Return of the Zombies",
          "Shared Ride",
          "Shiranui Solitaire",
-         "Tatsunecro",
          "Trap of the Imperial Tomb",
          "Tristan, Knight of the Underworld",
          "Uni-Zombie",
@@ -5715,8 +5711,10 @@
          "Beast of the Pharaoh [TDGS-EN032] (Common) <Structure Deck: Zombie Horde>",
          "Book of Life [SR07-EN027] (Common) <Structure Deck: Zombie Horde>",
          "Book of Life [SR07-EN027] (Common) <Structure Deck: Zombie Horde>",
+         "Burial from a Different Dimension [SR04-EN025] (Common) <>",
          "Burial from a Different Dimension [SR07-EN032] (Common) <Structure Deck: Zombie Horde>",
          "Burial from a Different Dimension [SR07-EN032] (Common) <Structure Deck: Zombie Horde>",
+         "Call of the Mummy [SD2-EN022] (Common) <>",
          "Call of the Mummy [SR07-EN028] (Common) <Structure Deck: Zombie Horde>",
          "Call of the Mummy [SR07-EN028] (Common) <Structure Deck: Zombie Horde>",
          "Doomking Balerdroch [SR07-EN001] (Ultra) <Structure Deck: Zombie Horde>",
@@ -5752,6 +5750,7 @@
          "Metaverse [SBCB-EN020] (Common) <Structure Deck: Zombie Horde>",
          "Metaverse [SR07-EN038] (Common) <Structure Deck: Zombie Horde>",
          "Metaverse [SR07-EN038] (Common) <Structure Deck: Zombie Horde>",
+         "Mezuki [RYMP-EN073] (Common) <>",
          "Mezuki [SR07-EN012] (Common) <Structure Deck: Zombie Horde>",
          "Mezuki [SR07-EN012] (Common) <Structure Deck: Zombie Horde>",
          "Monster Gate [SR07-EN030] (Common) <Structure Deck: Zombie Horde>",
@@ -5782,6 +5781,7 @@
          "Shutendoji [RYMP-EN076] (Common) <Structure Deck: Zombie Horde>",
          "Shutendoji [SR07-EN014] (Common) <Structure Deck: Zombie Horde>",
          "Shutendoji [SR07-EN014] (Common) <Structure Deck: Zombie Horde>",
+         "Tatsunecro [SR07-EN000] (Super) <>",
          "Tatsunecro [SR07-EN000] (Super) <Structure Deck: Zombie Horde>",
          "Tatsunecro [SR07-EN000] (Super) <Structure Deck: Zombie Horde>",
          "Trap of the Imperial Tomb [SR07-EN036] (Common) <Structure Deck: Zombie Horde>",
@@ -5799,7 +5799,7 @@
          "Zombie World [SR07-EN025] (Common) <Structure Deck: Zombie Horde>",
          "Zombie World [SR07-EN025] (Common) <Structure Deck: Zombie Horde>"
       ],
-      "numberOfCardsMissing": 31
+      "numberOfCardsMissing": 27
    },
    {
       "deck": "Structure Deck: Soulburner",
@@ -5984,7 +5984,6 @@
          "Magical Abductor",
          "Magical Blast",
          "Magical Citadel of Endymion",
-         "Magical Citadel of Endymion",
          "Magical Dimension",
          "Magical Dimension",
          "Magical Exemplar",
@@ -6042,6 +6041,7 @@
          "Magical Abductor [SR08-EN012] (Common) <Structure Deck: Order of the Spellcasters>",
          "Magical Blast [SR08-EN030] (Common) <Structure Deck: Order of the Spellcasters>",
          "Magical Blast [SR08-EN030] (Common) <Structure Deck: Order of the Spellcasters>",
+         "Magical Citadel of Endymion [SR08-EN024] (Common) <>",
          "Magical Citadel of Endymion [SR08-EN024] (Common) <Structure Deck: Order of the Spellcasters>",
          "Magical Dimension [SR08-EN031] (Common) <Structure Deck: Order of the Spellcasters>",
          "Magical Exemplar [SR08-EN011] (Common) <Structure Deck: Order of the Spellcasters>",
@@ -6081,7 +6081,7 @@
          "Terraforming [SR08-EN032] (Common) <Structure Deck: Order of the Spellcasters>",
          "Terraforming [SR08-EN032] (Common) <Structure Deck: Order of the Spellcasters>"
       ],
-      "numberOfCardsMissing": 57
+      "numberOfCardsMissing": 56
    },
    {
       "deck": "Structure Deck: Rokket Revolt",
@@ -6547,7 +6547,6 @@
          "Dark Beckoning Beast",
          "Dark Factory of More Production",
          "Dimension Fusion Destruction",
-         "Escape from the Dark Dimension",
          "Field Barrier",
          "Grave Squirmer",
          "Hyper Blaze",
@@ -6596,6 +6595,7 @@
          "Dark Summoning Beast [SGX3-ENG04] (Common) <Structure Deck: Sacred Beasts>",
          "Dimension Fusion Destruction [SDSA-EN046] (Super) <Structure Deck: Sacred Beasts>",
          "Dimension Fusion Destruction [SDSA-EN046] (Super) <Structure Deck: Sacred Beasts>",
+         "Escape from the Dark Dimension [SDSA-EN036] (Common) <>",
          "Escape from the Dark Dimension [SDSA-EN036] (Common) <Structure Deck: Sacred Beasts>",
          "Escape from the Dark Dimension [SDSA-EN036] (Common) <Structure Deck: Sacred Beasts>",
          "Fallen Paradise [SDSA-EN021] (Common) <Structure Deck: Sacred Beasts>",
@@ -6678,7 +6678,7 @@
          "Uria, Lord of Searing Flames [SDSA-EN042] (Ultra) <Structure Deck: Sacred Beasts>",
          "Uria, Lord of Searing Flames [SDSA-EN042] (Ultra) <Structure Deck: Sacred Beasts>"
       ],
-      "numberOfCardsMissing": 30
+      "numberOfCardsMissing": 29
    },
    {
       "deck": "Structure Deck: Spirit Charmers",
@@ -7184,7 +7184,6 @@
          "Radian, the Multidimensional Kaiju",
          "Radian, the Multidimensional Kaiju",
          "Red-Eyes Darkness Metal Dragon",
-         "Red-Eyes Darkness Metal Dragon",
          "Screams of the Branded",
          "Screams of the Branded",
          "Sprind the Irondash Dragon",
@@ -7249,6 +7248,7 @@
          "Omni Dragon Brotaur [SDAZ-EN019] (Common) <Structure Deck: Albaz Strike>",
          "Pot of Extravagance [SDAZ-EN028] (Common) <Structure Deck: Albaz Strike>",
          "Radian, the Multidimensional Kaiju [SDAZ-EN010] (Common) <Structure Deck: Albaz Strike>",
+         "Red-Eyes Darkness Metal Dragon [SDAZ-EN007] (Common) <>",
          "Red-Eyes Darkness Metal Dragon [SDAZ-EN007] (Common) <Structure Deck: Albaz Strike>",
          "Screams of the Branded [SDAZ-EN033] (Common) <Structure Deck: Albaz Strike>",
          "Sprind the Irondash Dragon [SDAZ-EN045] (Common) <Structure Deck: Albaz Strike>",
@@ -7266,7 +7266,7 @@
          "Warning Point [SDAZ-EN037] (Common) <Structure Deck: Albaz Strike>",
          "White Dragon Wyverburster [SDAZ-EN012] (Common) <Structure Deck: Albaz Strike>"
       ],
-      "numberOfCardsMissing": 74
+      "numberOfCardsMissing": 73
    },
    {
       "deck": "Structure Deck: Legend of the Crystal Beasts",
