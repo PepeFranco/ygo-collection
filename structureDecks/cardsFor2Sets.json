@@ -242,9 +242,7 @@
          "Creature Swap",
          "Gravity Bind"
       ],
-      "cardsMissing": [
-         "Creeping Doom Manta"
-      ],
+      "cardsMissing": [],
       "cardsInCollection": [
          "7 Colored Fish [SD4-EN002] (Common) <Structure Deck: Fury from the Deep>",
          "7 Colored Fish [SDJ-008] (Common) <Structure Deck: Fury from the Deep>",
@@ -257,9 +255,10 @@
          "Call of the Haunted [SD4-EN027] (Common) <Structure Deck: Fury from the Deep>",
          "Creature Swap [SBCB-EN159] (Common) <Structure Deck: Fury from the Deep>",
          "Creature Swap [SD4-EN021] (Common) <Structure Deck: Fury from the Deep>",
+         "Creeping Doom Manta [RDS-EN025] (Common) <>",
          "Creeping Doom Manta [SD4-EN014] (Common) <Structure Deck: Fury from the Deep>",
+         "Dust Tornado [BP01-EN088] (Common) <>",
          "Dust Tornado [SD4-EN026] (Common) <Structure Deck: Fury from the Deep>",
-         "Dust Tornado [YS12-EN033] (Common) <Structure Deck: Blaze of Destruction>",
          "Fenrir [SD4-EN008] (Common) <Structure Deck: Fury from the Deep>",
          "Fenrir [SD4-EN008] (Common) <Structure Deck: Fury from the Deep>",
          "Gravity Bind [SD4-EN028] (Common) <Structure Deck: Fury from the Deep>",
@@ -302,7 +301,7 @@
          "Xing Zhen Hu [GLD4-EN048] (Common) <Structure Deck: Fury from the Deep>",
          "Xing Zhen Hu [RDS-EN051] (Common) <Structure Deck: Fury from the Deep>"
       ],
-      "numberOfCardsMissing": 1
+      "numberOfCardsMissing": 0
    },
    {
       "deck": "Structure Deck: Warrior's Triumph",
@@ -588,7 +587,7 @@
          "Card Destruction [5DS3-EN021] (Common) <Structure Deck: Lord of the Storm>",
          "Dark Coffin [SD8-EN032] (Common) <Structure Deck: Lord of the Storm>",
          "Dust Tornado [YS11-EN033] (Common) <Structure Deck: Lord of the Storm>",
-         "Dust Tornado [YS11-EN033] (Common) <Structure Deck: Zombie Madness>",
+         "Dust Tornado [YS13-EN038] (Common) <>",
          "Elegant Egotist [DPBC-EN039] (Common) <Structure Deck: Lord of the Storm>",
          "Elegant Egotist [DPBC-EN039] (Common) <Structure Deck: Lord of the Storm>",
          "Flying Kamakiri #1 [SD8-EN006] (Common) <Structure Deck: Lord of the Storm>",
@@ -836,7 +835,6 @@
       "cardsMissing": [
          "Darkblaze Dragon",
          "Decoy Dragon",
-         "Dust Tornado",
          "Flame Ruler"
       ],
       "cardsInCollection": [
@@ -851,6 +849,7 @@
          "Draining Shield [AST-054] (Rare) <Rise of the Dragon Lords Structure Deck>",
          "Draining Shield [YS12-EN035] (Common) <Rise of the Dragon Lords Structure Deck>",
          "Dust Tornado [5DS2-EN034] (Common) <Rise of the Dragon Lords Structure Deck>",
+         "Dust Tornado [YS12-EN033] (Common) <Structure Deck: Blaze of Destruction>",
          "Felgrand Dragon [SDRL-EN001] (Common) <Rise of the Dragon Lords Structure Deck>",
          "Felgrand Dragon [SDRL-EN001] (Ultra) <Rise of the Dragon Lords Structure Deck>",
          "Flame Ruler [SDRL-SP016] (Common) <Rise of the Dragon Lords Structure Deck>",
@@ -904,7 +903,7 @@
          "Tyrant Dragon [LCJW-EN149] (Common) <Rise of the Dragon Lords Structure Deck>",
          "Tyrant Dragon [SS02-ENA07] (Common) <Rise of the Dragon Lords Structure Deck>"
       ],
-      "numberOfCardsMissing": 4
+      "numberOfCardsMissing": 3
    },
    {
       "deck": "The Dark Emperor Structure Deck",

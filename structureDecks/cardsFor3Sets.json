@@ -21,7 +21,6 @@
          "Nobleman of Crossout"
       ],
       "cardsMissing": [
-         "Element Dragon",
          "The Dragon's Bead",
          "The Dragon's Bead",
          "The Graveyard in the Fourth Dimension",
@@ -48,6 +47,7 @@
          "Dragon's Rage [LOD-048] (Common) <Structure Deck: Dragon's Roar>",
          "Dragon's Rage [SGX3-ENB17] (Common) <Structure Deck: Dragon's Roar>",
          "Element Dragon [SD1-EN008] (Common) <Structure Deck: Dragon's Roar>",
+         "Element Dragon [SOD-EN023] (Common) <>",
          "Element Dragon [SOD-EN023] (Common) <Structure Deck: Dragon's Roar>",
          "Heavy Storm [BP01-EN038] (Rare) <Structure Deck: Dragon's Roar>",
          "Interdimensional Matter Transporter [DPKB-EN037] (Common) <Structure Deck: Dragon's Roar>",
@@ -86,7 +86,7 @@
          "Trap Jammer [SS02-ENA17] (Common) <Structure Deck: Dragon's Roar>",
          "Twin-Headed Behemoth [SD1-EN004] (Common) <Structure Deck: Dragon's Roar>"
       ],
-      "numberOfCardsMissing": 5
+      "numberOfCardsMissing": 4
    },
    {
       "deck": "Structure Deck: Zombie Madness",
@@ -199,13 +199,10 @@
       ],
       "cardsMissing": [
          "Dark Room of Nightmare",
-         "Great Angus",
-         "Meteor of Destruction",
          "Necklace of Command",
          "Necklace of Command",
          "Reload",
-         "Reload",
-         "Ultimate Baseball Kid"
+         "Reload"
       ],
       "cardsInCollection": [
          "Backfire [AST-SP046] (Common) <Structure Deck: Blaze of Destruction>",
@@ -228,6 +225,7 @@
          "Gaia Soul the Combustible Collective [SD3-EN012] (Common) <Structure Deck: Blaze of Destruction>",
          "Great Angus [MFC-055] (Common) <Structure Deck: Blaze of Destruction>",
          "Great Angus [MFC-055] (Common) <Structure Deck: Blaze of Destruction>",
+         "Great Angus [SD3-EN002] (Common) <>",
          "Heavy Storm [YSD-EN027] (Common) <Structure Deck: Blaze of Destruction>",
          "Infernal Flame Emperor [SD3-EN001] (Ultra) <Structure Deck: Blaze of Destruction>",
          "Infernal Flame Emperor [SD3-EN001] (Ultra) <Structure Deck: Blaze of Destruction>",
@@ -243,6 +241,7 @@
          "Little Chimera [DB2-EN067] (Common) <Structure Deck: Blaze of Destruction>",
          "Little Chimera [MRD-117] (Rare) <Structure Deck: Blaze of Destruction>",
          "Little Chimera [SDOK-EN020] (Common) <Structure Deck: Blaze of Destruction>",
+         "Meteor of Destruction [SD3-EN026] (Common) <>",
          "Meteor of Destruction [SD3-EN026] (Common) <Structure Deck: Blaze of Destruction>",
          "Meteor of Destruction [SD3-EN026] (Common) <Structure Deck: Blaze of Destruction>",
          "Molten Destruction [DB1-EN061] (Common) <Structure Deck: Blaze of Destruction>",
@@ -277,10 +276,11 @@
          "UFO Turtle [SD3-EN004] (Common) <Structure Deck: Blaze of Destruction>",
          "UFO Turtle [SD3-EN004] (Common) <Structure Deck: Blaze of Destruction>",
          "UFO Turtle [SD3-EN004] (Common) <Structure Deck: Blaze of Destruction>",
+         "Ultimate Baseball Kid [SD3-EN009] (Common) <>",
          "Ultimate Baseball Kid [SD3-EN009] (Common) <Structure Deck: Blaze of Destruction>",
          "Ultimate Baseball Kid [SOD-SP01] (Common) <Structure Deck: Blaze of Destruction>"
       ],
-      "numberOfCardsMissing": 8
+      "numberOfCardsMissing": 5
    },
    {
       "deck": "Structure Deck: Fury from the Deep",
@@ -302,14 +302,7 @@
          "Gravity Bind"
       ],
       "cardsMissing": [
-         "Creeping Doom Manta",
-         "Creeping Doom Manta",
-         "Dust Tornado",
-         "Dust Tornado",
          "Reload",
-         "Spell Shield Type-8",
-         "Star Boy",
-         "Unshaven Angler",
          "Xing Zhen Hu"
       ],
       "cardsInCollection": [
@@ -328,8 +321,12 @@
          "Call of the Haunted [SD4-EN027] (Common) <Structure Deck: Fury from the Deep>",
          "Creature Swap [SBCB-EN159] (Common) <Structure Deck: Fury from the Deep>",
          "Creature Swap [SD4-EN021] (Common) <Structure Deck: Fury from the Deep>",
+         "Creeping Doom Manta [RDS-EN025] (Common) <>",
+         "Creeping Doom Manta [RDS-EN025] (Common) <>",
          "Creeping Doom Manta [SD4-EN014] (Common) <Structure Deck: Fury from the Deep>",
+         "Dust Tornado [BP01-EN088] (Common) <>",
          "Dust Tornado [SD4-EN026] (Common) <Structure Deck: Fury from the Deep>",
+         "Dust Tornado [YS13-EN038] (Common) <>",
          "Fenrir [DR2-EN020] (Rare) <Structure Deck: Fury from the Deep>",
          "Fenrir [SD4-EN008] (Common) <Structure Deck: Fury from the Deep>",
          "Fenrir [SD4-EN008] (Common) <Structure Deck: Fury from the Deep>",
@@ -369,8 +366,10 @@
          "Space Mambo [FET-EN001] (Common) <Structure Deck: Fury from the Deep>",
          "Space Mambo [FET-EN001] (Common) <Structure Deck: Fury from the Deep>",
          "Space Mambo [FET-EN001] (Common) <Structure Deck: Fury from the Deep>",
+         "Spell Shield Type-8 [GLD1-EN045] (Common) <>",
          "Spell Shield Type-8 [SD3-EN030] (Common) <Structure Deck: Fury from the Deep>",
          "Spell Shield Type-8 [SD4-EN031] (Common) <Structure Deck: Fury from the Deep>",
+         "Star Boy [MRD-109] (Rare) <>",
          "Star Boy [MRD-109] (Rare) <Structure Deck: Fury from the Deep>",
          "Star Boy [SD4-EN006] (Common) <Structure Deck: Fury from the Deep>",
          "Tornado Wall [LON-023] (Common) <Structure Deck: Fury from the Deep>",
@@ -379,11 +378,12 @@
          "Torrential Tribute [SD4-EN030] (Common) <Structure Deck: Fury from the Deep>",
          "Tribe-Infecting Virus [SD4-EN007] (Common) <Structure Deck: Fury from the Deep>",
          "Unshaven Angler [SD4-EN013] (Common) <Structure Deck: Fury from the Deep>",
+         "Unshaven Angler [SGX2-END13] (Common) <>",
          "Unshaven Angler [SGX2-END13] (Common) <Structure Deck: Fury from the Deep>",
          "Xing Zhen Hu [GLD4-EN048] (Common) <Structure Deck: Fury from the Deep>",
          "Xing Zhen Hu [RDS-EN051] (Common) <Structure Deck: Fury from the Deep>"
       ],
-      "numberOfCardsMissing": 9
+      "numberOfCardsMissing": 2
    },
    {
       "deck": "Structure Deck: Warrior's Triumph",
@@ -1141,8 +1141,8 @@
          "Herald of Creation [SDRL-EN003] (Common) <Rise of the Dragon Lords Structure Deck>",
          "Herald of Creation [SDRL-EN003] (Common) <Rise of the Dragon Lords Structure Deck>",
          "Horus the Black Flame Dragon LV6 [SDRL-EN012] (Common) <Rise of the Dragon Lords Structure Deck>",
+         "Horus the Black Flame Dragon LV6 [SOD-EN007] (Super) <Rise of the Dragon Lords Structure Deck>",
          "Horus the Black Flame Dragon LV6 [YSKR-EN020] (Common) <Rise of the Dragon Lords Structure Deck>",
-         "Horus the Black Flame Dragon LV6 [sod] () <Rise of the Dragon Lords Structure Deck>",
          "Kaiser Sea Horse [DB2-EN115] (Common) <Rise of the Dragon Lords Structure Deck>",
          "Kaiser Sea Horse [DPKB-EN017] (Rare) <Rise of the Dragon Lords Structure Deck>",
          "Kaiser Sea Horse [DPKB-EN017] (Rare) <Rise of the Dragon Lords Structure Deck>",
