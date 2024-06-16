@@ -1465,9 +1465,7 @@
          "Honest"
       ],
       "semiLimitedCards": [],
-      "cardsMissing": [
-         "Ryko, Lightsworn Hunter"
-      ],
+      "cardsMissing": [],
       "cardsInCollection": [
          "Alexandrite Dragon [YS12-EN001] (Common) <Realm of Light Structure Deck>",
          "Aurkus, Lightsworn Druid [SDLI-EN013] (Common) <Realm of Light Structure Deck>",
@@ -1497,6 +1495,7 @@
          "Necro Gardna [PGLD-EN063] (Ultra) <Realm of Light Structure Deck>",
          "Raiden, Hand of the Lightsworn [SR02-EN022] (Common) <Realm of Light Structure Deck>",
          "Realm of Light [SDLI-EN025] (Common) <Realm of Light Structure Deck>",
+         "Ryko, Lightsworn Hunter [SDLI-EN015] (Common) <>",
          "Shire, Lightsworn Spirit [SDLI-EN014] (Common) <Realm of Light Structure Deck>",
          "Skill Successor [BP03-EN214] (Common) <Realm of Light Structure Deck>",
          "Solar Recharge [PGLD-EN046] (Ultra) <Realm of Light Structure Deck>",
@@ -1505,7 +1504,7 @@
          "Vylon Prism [BP02-EN108] (Common) <Realm of Light Structure Deck>",
          "Wulf, Lightsworn Beast [SDLI-EN010] (Common) <Realm of Light Structure Deck>"
       ],
-      "numberOfCardsMissing": 1
+      "numberOfCardsMissing": 0
    },
    {
       "deck": "Geargia Rampage Structure Deck",

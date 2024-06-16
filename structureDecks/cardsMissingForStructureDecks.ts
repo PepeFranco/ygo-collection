@@ -3,7 +3,7 @@ import fs from "fs";
 
 const mainFunction = async () => {
   const result = await getCardsMissingForStructureDecks({
-    prioritiseOriginalSet: true,
+    prioritiseOriginalSet: false,
   });
 
   if (result) {
