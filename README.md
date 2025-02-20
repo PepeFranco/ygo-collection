@@ -24,20 +24,17 @@ yarn collection:upload
 
 # Structure decks
 
-There are 2 approaches to get which cards are missing for 3 sets of structure decks
+There are 2 approaches to get which cards are missing to complete 3 sets of each structure decks
 
 ## For both approaches
 
 ### Download structure deck lists
-Generates `cardsInStructureDecks.json`
 
+Generates `cardsInStructureDecks.json`
 List of each individual card in each deck
 
-
 YGO Pro API may not have complete lists on all decks
-
 This means missing lists may be incomplete
-
 And cards may incorrectly be marked as not to keep
 
 ```
@@ -58,9 +55,7 @@ yarn collection:download-banlists
 
 ### Get cards missing for structure decks
 Generates `missingCardsDataSet.json`
-
 Summarizes how many cards in collection and missing for each deck
-
 
 Generates `cardsForXSets.json`
 

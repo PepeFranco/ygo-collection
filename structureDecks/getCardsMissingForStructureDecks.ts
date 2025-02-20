@@ -407,11 +407,46 @@ const getCardsMissingForStructureDecks = async ({
   };
 };
 
+const getCardSets = async (): Promise<YGOProSet[] | null> => {
+  try {
+    const response = await fetch(
+      "https://db.ygoprodeck.com/api/v7/cardsets.php"
+    );
+    if (!response.ok) {
+      throw new Error(`Failed to download card sets ${response.text()}`);
+    }
+    const data = await response.json();
+    return data as YGOProSet[];
+  } catch (e) {
+    console.error(e);
+    return null;
+  }
+};
+
+const getStructureDeckSets = (cardSets: YGOProSet[]): StructureDeck[] => {
+  return cardSets
+    .filter(
+      (set) =>
+        set.set_name.toLowerCase().includes("structure deck") &&
+        !set.set_name.toLowerCase().includes("special") &&
+        !set.set_name.toLowerCase().includes("deluxe")
+    )
+    .map((set) => {
+      return {
+        date: set.tcg_date,
+        deck: set.set_name,
+        cards: [],
+      };
+    });
+};
+
 export {
+  getCardSets,
   getCardsMissingForStructureDecks,
   getClosestMatchingBanList,
   getSetsOfCardsInStructureDeck,
   getDeckFilteredByBanlist,
+  getStructureDeckSets,
   removeCardsFromCollection,
   excludeSetsFromCollection,
 };
