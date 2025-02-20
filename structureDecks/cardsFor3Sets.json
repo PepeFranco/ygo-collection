@@ -2952,9 +2952,9 @@
          "Swords of Revealing Light [SDBE-EN031] (Common) <Saga of Blue-Eyes White Dragon Structure Deck>",
          "Swords of Revealing Light [SDBE-EN031] (Common) <Saga of Blue-Eyes White Dragon Structure Deck>",
          "Swords of Revealing Light [YS12-EN023] (Common) <Saga of Blue-Eyes White Dragon Structure Deck>",
-         "The White Stone of Legend [SDBE-EN013] (Common) <Dragons Collide Structure Deck>",
-         "The White Stone of Legend [SDBE-EN013] (Common) <Dragons Collide Structure Deck>",
          "The White Stone of Legend [SDDC-EN006] (Common) <Saga of Blue-Eyes White Dragon Structure Deck>",
+         "The White Stone of Legend [SDWD-EN011] (Common) <>",
+         "The White Stone of Legend [SDWD-EN011] (Common) <>",
          "Trade-In [GLD4-EN043] (Common) <Saga of Blue-Eyes White Dragon Structure Deck>",
          "Trade-In [SDBE-EN024] (Common) <Saga of Blue-Eyes White Dragon Structure Deck>",
          "Trade-In [SDBE-EN024] (Common) <Saga of Blue-Eyes White Dragon Structure Deck>",
@@ -4043,7 +4043,6 @@
          "B-Buster Drake",
          "B-Buster Drake",
          "Blizzard Dragon",
-         "Burst Stream of Destruction",
          "C-Crush Wyvern",
          "C-Crush Wyvern",
          "Crush Card Virus",
@@ -4088,6 +4087,7 @@
          "Blue-Eyes White Dragon [SS02-ENA01] (Common) <Structure Deck: Seto Kaiba>",
          "Burst Stream of Destruction [SDBE-EN021] (Common) <Structure Deck: Seto Kaiba>",
          "Burst Stream of Destruction [SDKS-EN022] (Common) <Structure Deck: Seto Kaiba>",
+         "Burst Stream of Destruction [SDWD-EN024] (Common) <>",
          "C-Crush Wyvern [SDKS-EN003] (Super) <Structure Deck: Seto Kaiba>",
          "Call of the Haunted [SDBE-EN037] (Common) <Structure Deck: Seto Kaiba>",
          "Call of the Haunted [SDHS-EN037] (Common) <Structure Deck: Seto Kaiba>",
@@ -4167,7 +4167,7 @@
          "Z-Metal Tank [SBCB-EN065] (Common) <Structure Deck: Seto Kaiba>",
          "Z-Metal Tank [SDKS-EN007] (Common) <Structure Deck: Seto Kaiba>"
       ],
-      "numberOfCardsMissing": 37
+      "numberOfCardsMissing": 36
    },
    {
       "deck": "Structure Deck: Yugi Muto",
@@ -6702,7 +6702,6 @@
          "Dark Doriado",
          "Dark Ruler No More",
          "Dimensional Barrier",
-         "Effect Veiler",
          "Eria the Water Charmer",
          "Fairy Tail - Luna",
          "Fairy Tail - Luna",
@@ -6763,6 +6762,7 @@
          "Dimensional Barrier [SDCH-EN035] (Common) <Structure Deck: Spirit Charmers>",
          "Effect Veiler [ORCS-ENSE1] (Super) <Structure Deck: Spirit Charmers>",
          "Effect Veiler [SDCH-EN017] (Common) <Structure Deck: Spirit Charmers>",
+         "Effect Veiler [SDWD-EN018] (Common) <>",
          "Eria the Water Charmer [DR3-EN207] (Common) <Structure Deck: Spirit Charmers>",
          "Eria the Water Charmer [SDCH-EN002] (Common) <Structure Deck: Spirit Charmers>",
          "Fairy Tail - Luna [SDCH-EN013] (Common) <Structure Deck: Spirit Charmers>",
@@ -6811,7 +6811,7 @@
          "Witchcrafter Golem Aruru [SDCH-EN014] (Common) <Structure Deck: Spirit Charmers>",
          "Wynn the Wind Charmer [SDCH-EN004] (Common) <Structure Deck: Spirit Charmers>"
       ],
-      "numberOfCardsMissing": 52
+      "numberOfCardsMissing": 51
    },
    {
       "deck": "Structure Deck: Freezing Chains",
@@ -7160,8 +7160,6 @@
          "Dimensional Barrier",
          "Dogmatika Fleurdelis, the Knighted",
          "Dogmatika Fleurdelis, the Knighted",
-         "Effect Veiler",
-         "Effect Veiler",
          "Fallen of Albaz",
          "Fallen of Albaz",
          "Fusion Substitute",
@@ -7227,6 +7225,8 @@
          "Dimensional Barrier [SDAZ-EN039] (Common) <Structure Deck: Albaz Strike>",
          "Dogmatika Fleurdelis, the Knighted [SDAZ-EN006] (Common) <Structure Deck: Albaz Strike>",
          "Effect Veiler [SDAZ-EN018] (Common) <Structure Deck: Albaz Strike>",
+         "Effect Veiler [SDWD-EN018] (Common) <>",
+         "Effect Veiler [SDWD-EN018] (Common) <>",
          "Fallen of Albaz [SDAZ-EN004] (Common) <Structure Deck: Albaz Strike>",
          "Fusion Gate [LCYW-SP268] (Super) <Structure Deck: Albaz Strike>",
          "Fusion Gate [SDAZ-EN024] (Common) <Structure Deck: Albaz Strike>",
@@ -7265,7 +7265,7 @@
          "Warning Point [SDAZ-EN037] (Common) <Structure Deck: Albaz Strike>",
          "White Dragon Wyverburster [SDAZ-EN012] (Common) <Structure Deck: Albaz Strike>"
       ],
-      "numberOfCardsMissing": 73
+      "numberOfCardsMissing": 71
    },
    {
       "deck": "Structure Deck: Legend of the Crystal Beasts",
@@ -8027,6 +8027,19 @@
          "True King Agnimazud, the Vanisher [SR14-EN012] (Common) <Structure Deck: Fire Kings>",
          "True King Agnimazud, the Vanisher [SR14-EN012] (Common) <Structure Deck: Fire Kings>"
       ],
+      "numberOfCardsMissing": 0
+   },
+   {
+      "deck": "Structure Deck: Blue-Eyes White Destiny",
+      "cards": [],
+      "date": "2025-02-13",
+      "forbiddenCards": [],
+      "limitedCards": [
+         "Called by the Grave"
+      ],
+      "semiLimitedCards": [],
+      "cardsMissing": [],
+      "cardsInCollection": [],
       "numberOfCardsMissing": 0
    }
 ]

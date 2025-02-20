@@ -3506,5 +3506,18 @@
          "True King Agnimazud, the Vanisher [SR14-EN012] (Common) <Structure Deck: Fire Kings>"
       ],
       "numberOfCardsMissing": 0
+   },
+   {
+      "deck": "Structure Deck: Blue-Eyes White Destiny",
+      "cards": [],
+      "date": "2025-02-13",
+      "forbiddenCards": [],
+      "limitedCards": [
+         "Called by the Grave"
+      ],
+      "semiLimitedCards": [],
+      "cardsMissing": [],
+      "cardsInCollection": [],
+      "numberOfCardsMissing": 0
    }
 ]

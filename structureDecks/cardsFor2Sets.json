@@ -2191,8 +2191,8 @@
          "Stamping Destruction [SDBE-EN022] (Common) <Saga of Blue-Eyes White Dragon Structure Deck>",
          "Swords of Revealing Light [SDBE-EN031] (Common) <Saga of Blue-Eyes White Dragon Structure Deck>",
          "Swords of Revealing Light [YS12-EN023] (Common) <Saga of Blue-Eyes White Dragon Structure Deck>",
-         "The White Stone of Legend [SDBE-EN013] (Common) <Dragons Collide Structure Deck>",
          "The White Stone of Legend [SDDC-EN006] (Common) <Saga of Blue-Eyes White Dragon Structure Deck>",
+         "The White Stone of Legend [SDWD-EN011] (Common) <>",
          "Trade-In [GLD4-EN043] (Common) <Saga of Blue-Eyes White Dragon Structure Deck>",
          "Trade-In [SDBE-EN024] (Common) <Saga of Blue-Eyes White Dragon Structure Deck>",
          "White Elephant's Gift [SDBE-EN026] (Common) <Saga of Blue-Eyes White Dragon Structure Deck>",
@@ -5226,8 +5226,8 @@
          "Dimensional Barrier [DUDE-EN048] (Ultra) <Structure Deck: Cyberse Link>",
          "Dimensional Barrier [SDAZ-EN039] (Common) <Structure Deck: Albaz Strike>",
          "Dogmatika Fleurdelis, the Knighted [SDAZ-EN006] (Common) <Structure Deck: Albaz Strike>",
-         "Effect Veiler [ORCS-ENSE1] (Super) <Legendary Hero Decks - Phantom Knights>",
          "Effect Veiler [SDAZ-EN018] (Common) <Structure Deck: Albaz Strike>",
+         "Effect Veiler [SDWD-EN018] (Common) <>",
          "Fallen of Albaz [SDAZ-EN004] (Common) <Structure Deck: Albaz Strike>",
          "Fusion Gate [LCYW-SP268] (Super) <Structure Deck: Albaz Strike>",
          "Fusion Gate [SDAZ-EN024] (Common) <Structure Deck: Albaz Strike>",
@@ -5799,6 +5799,19 @@
          "True King Agnimazud, the Vanisher [SR14-EN012] (Common) <Structure Deck: Fire Kings>",
          "True King Agnimazud, the Vanisher [SR14-EN012] (Common) <Structure Deck: Fire Kings>"
       ],
+      "numberOfCardsMissing": 0
+   },
+   {
+      "deck": "Structure Deck: Blue-Eyes White Destiny",
+      "cards": [],
+      "date": "2025-02-13",
+      "forbiddenCards": [],
+      "limitedCards": [
+         "Called by the Grave"
+      ],
+      "semiLimitedCards": [],
+      "cardsMissing": [],
+      "cardsInCollection": [],
       "numberOfCardsMissing": 0
    }
 ]
