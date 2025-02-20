@@ -5,7 +5,7 @@ const fs = require("fs");
 const csv = require("csvtojson");
 const collectionSecret = require("../secret/collectionread.json");
 
-const mainFunction = async () => {
+export const downloadCollectionFromGDrive = async () => {
   const result = await axios.get(collectionSecret.url).catch(() => {});
   csv()
     .fromString(result.data)
@@ -37,4 +37,5 @@ const mainFunction = async () => {
       );
     });
 };
-mainFunction();
+
+downloadCollectionFromGDrive();

@@ -4,7 +4,7 @@
   "private": false,
   "scripts": {
     "test": "jest",
-    "collection:download": "npx tsx data/downloadCollection.ts",
+    "collection:download": "npx tsx data/downloadCollectionFromGDrive.ts",
     "collection:fill": "tsx fillCollectionWithData.ts",
     "collection:upload": "node data/uploadCollection.js",
     "collection:update": "yarn collection:download && yarn collection:fill && yarn collection:upload",
