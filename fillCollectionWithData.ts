@@ -137,9 +137,6 @@ const getCardPrice = (card: CollectionRow, cardInfo: YGOProCard) => {
 
 const sleep = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
 
-const collection = require("./data/collection.json");
-const collectionCopy = [...collection];
-
 const cardIsComplete = (card: CollectionRow) => {
   if (card["Type"] === "Skill Card") {
     // console.log("========================");
@@ -180,7 +177,12 @@ const cardIsComplete = (card: CollectionRow) => {
   return Boolean(cardHasEarliestSet);
 };
 
-const mainFunction = async () => {
+export const mainFunction = async () => {
+  const collection = JSON.parse(
+    fs.readFileSync("./data/collection.json", "utf8")
+  );
+  const collectionCopy = [...collection];
+  
   try {
     const cardSets = await getCardSets();
     const cardSetsByDate = _.sortBy(cardSets, ["tcg_date"]);
@@ -188,6 +190,7 @@ const mainFunction = async () => {
       const card = collectionCopy[i];
 
       if (!cardIsComplete(card)) {
+        // Fetch
         const cardInfo = await getCardInfo(card["Name"]);
         console.log(
           `${card["Name"]} (${card["Code"]}). Card info found: ${Boolean(
@@ -229,7 +232,7 @@ const mainFunction = async () => {
       }
     }
   } catch (e) {
-    console.error(e);
+    // console.error(e);
   } finally {
     fs.writeFile(
       "./data/collection.json",
