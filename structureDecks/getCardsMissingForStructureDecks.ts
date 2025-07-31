@@ -174,6 +174,7 @@ const removeCardsFromCollection = (
     collection: filteredCollection,
     deck: {
       ...deck,
+      cards: deck.cards, // Preserve the original cards array
       cardsMissing,
       cardsInCollection,
     },
@@ -297,8 +298,9 @@ const getCardsMissingForStructureDecks = async ({
           deck,
           set
         );
+        const filteredDeck = getDeckFilteredByBanlist(deckWithCardsMultiplied, banlist);
         return {
-          ...getDeckFilteredByBanlist(deckWithCardsMultiplied, banlist),
+          ...filteredDeck,
           cardsMissing: [],
           cardsInCollection: [],
           numberOfCardsMissing: 0,
