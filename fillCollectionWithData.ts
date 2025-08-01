@@ -36,6 +36,37 @@ const getCardSets = async (): Promise<YGOProSet[] | null> => {
   return (result && (result.data as YGOProSet[])) || null;
 };
 
+const getSetCodeFromCardCode = (cardCode: string): string => {
+  // Extract set code from card code (e.g., "LOB" from "LOB-001")
+  return cardCode.split("-")[0];
+};
+
+const getCardsFromSet = async (setCode: string): Promise<YGOProCard[] | null> => {
+  // First get all card sets
+  const cardSets = await getCardSets();
+  if (!cardSets) return null;
+  
+  // Find the set with matching code
+  const matchingSet = cardSets.find(set => set.set_code === setCode);
+  if (!matchingSet) return null;
+  
+  // Get cards from the set using the set name
+  const result = await axios
+    .get(`https://db.ygoprodeck.com/api/v7/cardinfo.php?cardset=${encodeURIComponent(matchingSet.set_name)}`)
+    .catch((e) => {
+      // console.error(e);
+    });
+
+  return (result && (result.data as YGOProCard[])) || null;
+};
+
+const findCardByCodeInSet = (cards: YGOProCard[], cardCode: string): YGOProCard | null => {
+  return cards.find(card => {
+    if (!card.card_sets) return false;
+    return card.card_sets.some(cardSet => cardSet.set_code === cardCode);
+  }) || null;
+};
+
 const getEarliestInfo = (cardInfo: YGOProCard, cardSetsByDate: YGOProSet[]) => {
   if (!cardInfo) {
     return {};
@@ -190,13 +221,20 @@ export const mainFunction = async () => {
       const card = collectionCopy[i];
 
       if (!cardIsComplete(card)) {
-        // Fetch
-        const cardInfo = await getCardInfo(card["Name"]);
-        console.log(
-          `${card["Name"]} (${card["Code"]}). Card info found: ${Boolean(
-            cardInfo
-          )}`
-        );
+        console.log(`${card["Name"]} is incomplete, fetching data...`);
+        // Fetch by code instead of name
+        // let cardInfo = await getCardInfo(card["Name"]);
+        let cardInfo = null;
+        
+        // Code-based lookup
+        if (card["Code"]) {
+          const setCode = getSetCodeFromCardCode(card["Code"]);
+          const setCards = await getCardsFromSet(setCode);
+          if (setCards) {
+            cardInfo = findCardByCodeInSet(setCards, card["Code"]);
+          }
+        }
+        
         if (cardInfo) {
           const set = getCardSet(card, cardInfo);
           card["Name"] = cardInfo.name;

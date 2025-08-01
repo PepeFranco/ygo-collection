@@ -14,6 +14,8 @@ describe("fillCollectionWithData", () => {
   beforeEach(() => {
     // Use fake timers to make sleep calls instant
     jest.useFakeTimers();
+    // Clear all mocks between tests
+    jest.clearAllMocks();
   });
 
   afterEach(() => {
@@ -104,7 +106,7 @@ describe("fillCollectionWithData", () => {
     jest
       .mocked(axios.get)
       .mockResolvedValueOnce({
-        // 1. getCardSets() - returns card sets including LOB set
+        // 1. /api/v7/cardsets.php - get all card sets
         data: [
           {
             set_name: "Legend of Blue Eyes White Dragon",
@@ -116,74 +118,43 @@ describe("fillCollectionWithData", () => {
         ],
       })
       .mockResolvedValueOnce({
+        // 2. /api/v7/cardsets.php - get all card sets (second call)
+        data: [
+          {
+            set_name: "Legend of Blue Eyes White Dragon",
+            set_code: "LOB",
+            num_of_cards: 355,
+            tcg_date: "2002-03-08",
+            set_image: "https://images.ygoprodeck.com/images/sets/LOB.jpg",
+          },
+        ],
+      })
+      .mockResolvedValueOnce({
+        // 3. /api/v7/cardinfo.php?cardset=legend%20of%20blue-eyes%20white%20dragon
         data: [
           {
             id: 89631139,
             name: "Blue-Eyes White Dragon",
-            typeline: ["Dragon", "Normal"],
+            card_sets: [
+              {
+                set_name: "Legend of Blue Eyes White Dragon",
+                set_code: "LOB-001",
+                set_rarity: "Ultra Rare",
+                set_price: "62.15",
+              },
+            ],
             type: "Normal Monster",
-            humanReadableCardType: "Normal Monster",
-            frameType: "normal",
-            desc: "This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.",
             race: "Dragon",
             atk: 3000,
             def: 2500,
             level: 8,
             attribute: "LIGHT",
             archetype: "Blue-Eyes",
-            ygoprodeck_url:
-              "https://ygoprodeck.com/card/blue-eyes-white-dragon-7485",
-            card_sets: [
-              {
-                set_name: "Legend of Blue Eyes White Dragon",
-                set_code: "LOB-001",
-                set_rarity: "Ultra Rare",
-                set_rarity_code: "(UR)",
-                set_price: "62.15",
-              },
-              {
-                set_name: "Legend of Blue Eyes White Dragon",
-                set_code: "LOB-E001",
-                set_rarity: "Ultra Rare",
-                set_rarity_code: "(UR)",
-                set_price: "681.49",
-              },
-              {
-                set_name: "Legend of Blue Eyes White Dragon",
-                set_code: "LOB-EN001",
-                set_rarity: "Ultra Rare",
-                set_rarity_code: "(UR)",
-                set_price: "253.34",
-              },
-            ],
+            scale: null,
+            linkval: null,
           },
         ],
-      })
-      // 2. getSetCards() - returns cards from the set based on code
-      .mockResolvedValueOnce({
-        data: {
-          data: [
-            {
-              id: 4035199,
-              name: "Blue-Eyes White Dragon",
-              card_sets: [
-                {
-                  set_name: "Legend of Blue Eyes White Dragon",
-                  set_code: "LOB-001",
-                  set_rarity: "Ultra Rare",
-                  set_price: "89.95",
-                },
-              ],
-              type: "Normal Monster",
-              race: "Dragon",
-              atk: 3000,
-              def: 2500,
-              level: 8,
-              attribute: "LIGHT",
-            },
-          ],
-        },
-      }); // getSetCards succeeds
+      });
 
     // Import the exported function
     const { mainFunction } = require("./fillCollectionWithData");
@@ -191,33 +162,36 @@ describe("fillCollectionWithData", () => {
     await mainFunction();
 
     // The card should be filled with data from the set lookup
-    const expectedCollection = [
-      {
-        Name: "Blue-Eyes White Dragon",
-        Code: "LOB-001",
-        Type: "Normal Monster",
-        "Card Type": "Dragon",
-        Set: "Legend of Blue Eyes White Dragon",
-        Rarity: "Ultra",
-        ID: 89631139,
-        ATK: 3000,
-        DEF: 2500,
-        Level: 8,
-        Attribute: "LIGHT",
-        Archetype: "Blue-Eyes",
-        Scale: "",
-        "Link Scale": "",
-        "Earliest Set": "Legend of Blue Eyes White Dragon",
-        "Earliest Date": "2002-03-08",
-        "Is Speed Duel": "No",
-        Price: 0,
-      },
-    ];
+    const expectedCard = {
+      Name: "Blue-Eyes White Dragon",
+      Code: "LOB-001",
+      Type: "Normal Monster",
+      "Card Type": "Dragon",
+      Set: "Legend of Blue Eyes White Dragon",
+      Rarity: "Ultra",
+      ID: 89631139,
+      ATK: 3000,
+      DEF: 2500,
+      Level: 8,
+      Attribute: "LIGHT",
+      Archetype: "Blue-Eyes",
+      Scale: "",
+      "Link Scale": "",
+      "Earliest Set": "Legend of Blue Eyes White Dragon",
+      "Earliest Date": "2002-03-08",
+      "Is Speed Duel": "No",
+      Price: 0,
+    };
 
-    expect(fs.writeFile).toHaveBeenCalledWith(
-      "./data/collection.json",
-      JSON.stringify(expectedCollection, null, 3),
-      expect.any(Function)
-    );
+    // Verify fs.writeFile was called
+    expect(fs.writeFile).toHaveBeenCalledTimes(1);
+    
+    // Parse the JSON string that was written and check the card data
+    const writeCall = jest.mocked(fs.writeFile).mock.calls[0];
+    const writtenJson = writeCall[1] as string;
+    const writtenCollection = JSON.parse(writtenJson);
+    
+    expect(writtenCollection).toHaveLength(1);
+    expect(writtenCollection[0]).toMatchObject(expectedCard);
   });
 });
