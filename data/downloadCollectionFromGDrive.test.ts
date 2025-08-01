@@ -1,4 +1,4 @@
-import { downloadCollectionFromGDrive } from "./downloadCollectionFromGDrive";
+import { downloadCollectionFromGDrive } from "./downloadCollectionFromGDriveImpl";
 import { http, HttpResponse } from "msw";
 import { setupServer } from "msw/node";
 import mockFS from "mock-fs";
