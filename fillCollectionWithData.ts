@@ -41,11 +41,7 @@ const getSetCodeFromCardCode = (cardCode: string): string => {
   return cardCode.split("-")[0];
 };
 
-const getCardsFromSet = async (setCode: string): Promise<YGOProCard[] | null> => {
-  // First get all card sets
-  const cardSets = await getCardSets();
-  if (!cardSets) return null;
-  
+const getCardsFromSet = async (setCode: string, cardSets: YGOProSet[]): Promise<YGOProCard[] | null> => {
   // Find the set with matching code
   const matchingSet = cardSets.find(set => set.set_code === setCode);
   if (!matchingSet) return null;
@@ -227,9 +223,9 @@ export const mainFunction = async () => {
         let cardInfo = null;
         
         // Code-based lookup
-        if (card["Code"]) {
+        if (card["Code"] && cardSets) {
           const setCode = getSetCodeFromCardCode(card["Code"]);
-          const setCards = await getCardsFromSet(setCode);
+          const setCards = await getCardsFromSet(setCode, cardSets);
           if (setCards) {
             cardInfo = findCardByCodeInSet(setCards, card["Code"]);
           }

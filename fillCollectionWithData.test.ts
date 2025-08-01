@@ -1,5 +1,6 @@
 import axios from "axios";
 import * as fs from "fs";
+import { CollectionRow } from "./data/data.types";
 
 jest.mock("axios", () => ({
   get: jest.fn(),
@@ -118,19 +119,7 @@ describe("fillCollectionWithData", () => {
         ],
       })
       .mockResolvedValueOnce({
-        // 2. /api/v7/cardsets.php - get all card sets (second call)
-        data: [
-          {
-            set_name: "Legend of Blue Eyes White Dragon",
-            set_code: "LOB",
-            num_of_cards: 355,
-            tcg_date: "2002-03-08",
-            set_image: "https://images.ygoprodeck.com/images/sets/LOB.jpg",
-          },
-        ],
-      })
-      .mockResolvedValueOnce({
-        // 3. /api/v7/cardinfo.php?cardset=legend%20of%20blue-eyes%20white%20dragon
+        // 2. /api/v7/cardinfo.php?cardset=legend%20of%20blue-eyes%20white%20dragon
         data: [
           {
             id: 89631139,
@@ -185,12 +174,12 @@ describe("fillCollectionWithData", () => {
 
     // Verify fs.writeFile was called
     expect(fs.writeFile).toHaveBeenCalledTimes(1);
-    
+
     // Parse the JSON string that was written and check the card data
     const writeCall = jest.mocked(fs.writeFile).mock.calls[0];
     const writtenJson = writeCall[1] as string;
     const writtenCollection = JSON.parse(writtenJson);
-    
+
     expect(writtenCollection).toHaveLength(1);
     expect(writtenCollection[0]).toMatchObject(expectedCard);
   });
