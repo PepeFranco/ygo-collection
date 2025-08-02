@@ -98,7 +98,7 @@ describe("addCardCli", () => {
             Name: "Blue-Eyes White Dragon",
             Code: "LOB-001",
             Set: "Legend of Blue Eyes White Dragon",
-            Rarity: "Ultra",
+            Rarity: "Ultra Rare",
             Edition: "",
             "In Deck": "",
             ID: "89631139",
@@ -191,7 +191,7 @@ describe("addCardCli", () => {
             Name: "Blue-Eyes White Dragon",
             Code: "LOB-001",
             Set: "Legend of Blue Eyes White Dragon",
-            Rarity: "Ultra",
+            Rarity: "Ultra Rare",
             Edition: "",
             "In Deck": "",
             ID: "89631139",
@@ -284,7 +284,7 @@ describe("addCardCli", () => {
             Name: "Blue-Eyes White Dragon",
             Code: "LOB-001",
             Set: "Legend of Blue Eyes White Dragon",
-            Rarity: "Ultra",
+            Rarity: "Ultra Rare",
             Edition: "",
             "In Deck": "",
             ID: "89631139",
@@ -401,5 +401,126 @@ describe("addCardCli", () => {
       rarities: ["Common", "Ultimate Rare"],
     });
     expect(fs.writeFileSync).not.toHaveBeenCalled();
+  });
+
+  it("should save the right rarity when there is more than one rarity for a card code and rarity is provided", async () => {
+    // Mock fs.readFileSync for cardsets and collection
+    jest
+      .mocked(fs.readFileSync)
+      .mockImplementation((filePath: fs.PathOrFileDescriptor) => {
+        if (filePath === path.join(__dirname, "../data/cardsets.json")) {
+          return JSON.stringify([
+            {
+              set_name: "Starter Deck: Kaiba Reloaded",
+              set_code: "YSKR",
+              num_of_cards: 50,
+              tcg_date: "2016-03-25",
+              set_image: "https://images.ygoprodeck.com/images/sets/YSKR.jpg",
+            },
+          ]);
+        }
+        if (filePath === path.join(__dirname, "../data/collection.json")) {
+          return JSON.stringify([]);
+        }
+        throw new Error("Unexpected file read");
+      });
+
+    // Mock axios call for getting cards from set
+    jest.mocked(axios.get).mockResolvedValueOnce({
+      data: {
+        data: [
+          {
+            id: 89631139,
+            name: "Blue-Eyes White Dragon",
+            typeline: ["Dragon", "Normal"],
+            type: "Normal Monster",
+            humanReadableCardType: "Normal Monster",
+            frameType: "normal",
+            desc: "This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.",
+            race: "Dragon",
+            atk: 3000,
+            def: 2500,
+            level: 8,
+            attribute: "LIGHT",
+            archetype: "Blue-Eyes",
+            ygoprodeck_url:
+              "https://ygoprodeck.com/card/blue-eyes-white-dragon-7485",
+            card_sets: [
+              {
+                set_name: "Starter Deck: Kaiba Reloaded",
+                set_code: "YSKR-EN001",
+                set_rarity: "Common",
+                set_rarity_code: "(C)",
+                set_price: "6.79",
+              },
+              {
+                set_name: "Starter Deck: Kaiba Reloaded",
+                set_code: "YSKR-EN001",
+                set_rarity: "Ultimate Rare",
+                set_rarity_code: "(UtR)",
+                set_price: "0",
+              },
+            ],
+            card_images: [
+              {
+                id: 89631139,
+                image_url:
+                  "https://images.ygoprodeck.com/images/cards/89631139.jpg",
+                image_url_small:
+                  "https://images.ygoprodeck.com/images/cards_small/89631139.jpg",
+                image_url_cropped:
+                  "https://images.ygoprodeck.com/images/cards_cropped/89631139.jpg",
+              },
+            ],
+            card_prices: [
+              {
+                cardmarket_price: "0.02",
+                tcgplayer_price: "0.05",
+                ebay_price: "5.95",
+                amazon_price: "3.90",
+                coolstuffinc_price: "0.99",
+              },
+            ],
+          },
+        ],
+      },
+    });
+
+    const result = await addCardToCollection("yskr1", "Ultimate Rare");
+
+    expect(result).toEqual(true);
+    expect(fs.writeFileSync).toHaveBeenCalledWith(
+      path.join(__dirname, "../data/collection.json"),
+      JSON.stringify(
+        [
+          {
+            Name: "Blue-Eyes White Dragon",
+            Code: "YSKR-EN001",
+            Set: "Starter Deck: Kaiba Reloaded",
+            Rarity: "Ultimate Rare",
+            Edition: "",
+            "In Deck": "",
+            ID: "89631139",
+            Type: "Normal Monster",
+            ATK: "3000",
+            DEF: "2500",
+            Level: "8",
+            "Card Type": "Dragon",
+            Attribute: "LIGHT",
+            Archetype: "Blue-Eyes",
+            Scale: "",
+            "Link Scale": "",
+            "Earliest Set": "",
+            "Earliest Date": "",
+            "Is Speed Duel": "No",
+            "Is Speed Duel Legal": "",
+            Keep: "",
+            Price: "0",
+          },
+        ],
+        null,
+        3
+      )
+    );
   });
 });

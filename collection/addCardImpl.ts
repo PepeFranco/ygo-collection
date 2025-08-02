@@ -50,7 +50,8 @@ const normalizeCardCode = (cardCode: string): string => {
 };
 
 export const addCardToCollection = async (
-  cardCode: string
+  cardCode: string,
+  selectedRarity?: string
 ): Promise<boolean | { error: string; rarities: string[] }> => {
   try {
     // Normalize card code for consistency
@@ -82,9 +83,10 @@ export const addCardToCollection = async (
     }
 
     // Check for multiple rarities for this card code
-    const matchingSets = cardInfo.card_sets?.filter((set: any) => 
-      cardCodesMatch(normalizedCardCode, set.set_code)
-    ) || [];
+    const matchingSets =
+      cardInfo.card_sets?.filter((set: any) =>
+        cardCodesMatch(normalizedCardCode, set.set_code)
+      ) || [];
 
     if (matchingSets.length === 0) {
       console.log(
@@ -93,24 +95,38 @@ export const addCardToCollection = async (
       return false;
     }
 
-    // If multiple rarities exist, return them for user selection
+    let cardSet;
+    // If multiple rarities exist
     if (matchingSets.length > 1) {
-      const rarities = matchingSets.map((set: any) => set.set_rarity);
-      return {
-        error: "Multiple rarities found for this card code",
-        rarities: rarities,
-      };
-    }
+      if (!selectedRarity) {
+        const rarities = matchingSets.map((set: any) => set.set_rarity);
+        return {
+          error: "Multiple rarities found for this card code",
+          rarities: rarities,
+        };
+      }
 
-    // Single rarity found, proceed with adding the card
-    const cardSet = matchingSets[0];
+      // If a specific rarity was selected, find the matching set
+      cardSet = matchingSets.find((set: any) =>
+        set.set_rarity.includes(selectedRarity)
+      );
+      if (!cardSet) {
+        console.log(
+          `❌ Selected rarity "${selectedRarity}" not found for this card`
+        );
+        return false;
+      }
+    } else {
+      // Single rarity found, proceed with adding the card
+      cardSet = matchingSets[0];
+    }
 
     // Create collection entry
     const newCard: CollectionRow = {
       Name: cardInfo.name,
       Code: cardSet.set_code,
       Set: cardSet.set_name,
-      Rarity: cardSet.set_rarity?.split(" ")[0] || "",
+      Rarity: cardSet.set_rarity || "",
       // TODO: CLI should also prompt for edition
       Edition: "",
       "In Deck": "",
