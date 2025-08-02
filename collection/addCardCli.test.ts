@@ -1,4 +1,5 @@
 import * as fs from "fs";
+import path from "path";
 import axios from "axios";
 import { addCardToCollection } from "./addCardImpl";
 
@@ -34,8 +35,8 @@ describe("addCardCli", () => {
     // Mock fs.readFileSync for cardsets and collection
     jest
       .mocked(fs.readFileSync)
-      .mockImplementation((path: fs.PathOrFileDescriptor) => {
-        if (path === "../data/cardsets.json") {
+      .mockImplementation((filePath: fs.PathOrFileDescriptor) => {
+        if (filePath === path.join(__dirname, "../data/cardsets.json")) {
           return JSON.stringify([
             {
               set_name: "Legend of Blue Eyes White Dragon",
@@ -46,7 +47,7 @@ describe("addCardCli", () => {
             },
           ]);
         }
-        if (path === "../data/collection.json") {
+        if (filePath === path.join(__dirname, "../data/collection.json")) {
           return JSON.stringify([]);
         }
         throw new Error("Unexpected file read");
@@ -89,7 +90,7 @@ describe("addCardCli", () => {
 
     expect(result).toBe(true);
     expect(fs.writeFileSync).toHaveBeenCalledWith(
-      "../data/collection.json",
+      path.join(__dirname, "../data/collection.json"),
       JSON.stringify(
         [
           {
@@ -127,8 +128,8 @@ describe("addCardCli", () => {
     // Mock fs.readFileSync for cardsets and collection
     jest
       .mocked(fs.readFileSync)
-      .mockImplementation((path: fs.PathOrFileDescriptor) => {
-        if (path === "../data/cardsets.json") {
+      .mockImplementation((filePath: fs.PathOrFileDescriptor) => {
+        if (filePath === path.join(__dirname, "../data/cardsets.json")) {
           return JSON.stringify([
             {
               set_name: "Legend of Blue Eyes White Dragon",
@@ -139,7 +140,7 @@ describe("addCardCli", () => {
             },
           ]);
         }
-        if (path === "../data/collection.json") {
+        if (filePath === path.join(__dirname, "../data/collection.json")) {
           return JSON.stringify([]);
         }
         throw new Error("Unexpected file read");
@@ -182,7 +183,7 @@ describe("addCardCli", () => {
 
     expect(result).toBe(true);
     expect(fs.writeFileSync).toHaveBeenCalledWith(
-      "../data/collection.json",
+      path.join(__dirname, "../data/collection.json"),
       JSON.stringify(
         [
           {
@@ -220,8 +221,8 @@ describe("addCardCli", () => {
     // Mock fs.readFileSync for cardsets and collection
     jest
       .mocked(fs.readFileSync)
-      .mockImplementation((path: fs.PathOrFileDescriptor) => {
-        if (path === "../data/cardsets.json") {
+      .mockImplementation((filePath: fs.PathOrFileDescriptor) => {
+        if (filePath === path.join(__dirname, "../data/cardsets.json")) {
           return JSON.stringify([
             {
               set_name: "Legend of Blue Eyes White Dragon",
@@ -232,7 +233,7 @@ describe("addCardCli", () => {
             },
           ]);
         }
-        if (path === "../data/collection.json") {
+        if (filePath === path.join(__dirname, "../data/collection.json")) {
           return JSON.stringify([]);
         }
         throw new Error("Unexpected file read");
@@ -275,7 +276,7 @@ describe("addCardCli", () => {
 
     expect(result).toBe(true);
     expect(fs.writeFileSync).toHaveBeenCalledWith(
-      "../data/collection.json",
+      path.join(__dirname, "../data/collection.json"),
       JSON.stringify(
         [
           {

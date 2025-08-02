@@ -1,5 +1,6 @@
 import axios from "axios";
 import * as fs from "fs";
+import path from "path";
 import { CollectionRow } from "../data/data.types";
 import { file } from "mock-fs/lib/filesystem";
 
@@ -77,7 +78,7 @@ describe("fillCollectionWithData", () => {
 
     // Verify fs.writeFile was called (since all cards are complete, it should still write the file)
     expect(fs.writeFile).toHaveBeenCalledWith(
-      "../data/collection.json",
+      path.join(__dirname, "../data/collection.json"),
       JSON.stringify(mockCollection, null, 3),
       expect.any(Function)
     );
@@ -102,8 +103,8 @@ describe("fillCollectionWithData", () => {
     // Mock fs.readFileSync to return our mock collection
     jest
       .mocked(fs.readFileSync)
-      .mockImplementation((path: fs.PathOrFileDescriptor) => {
-        if (path === "../data/collection.json") {
+      .mockImplementation((filePath: fs.PathOrFileDescriptor) => {
+        if (filePath === path.join(__dirname, "../data/collection.json")) {
           return JSON.stringify(mockCollection);
         }
         throw new Error("Unexpected file read");
@@ -210,7 +211,7 @@ describe("fillCollectionWithData", () => {
     expect(axios.get).not.toHaveBeenCalled();
     // Verify fs.readFileSync was called to read the card sets
     expect(fs.readFileSync).toHaveBeenCalledWith(
-      "../data/cardsets.json",
+      path.join(__dirname, "../data/cardsets.json"),
       "utf8"
     );
   });
@@ -221,8 +222,8 @@ describe("fillCollectionWithData", () => {
     // Mock fs.readFileSync to return our mock collection
     jest
       .mocked(fs.readFileSync)
-      .mockImplementation((path: fs.PathOrFileDescriptor) => {
-        if (path === "../data/collection.json") {
+      .mockImplementation((filePath: fs.PathOrFileDescriptor) => {
+        if (filePath === path.join(__dirname, "../data/collection.json")) {
           return JSON.stringify(mockCollection);
         }
         throw new Error("Unexpected file read");
@@ -256,7 +257,7 @@ describe("fillCollectionWithData", () => {
 
     // Verify fs.writeFile was called to write the card sets
     expect(fs.writeFile).toHaveBeenCalledWith(
-      "../data/cardsets.json",
+      path.join(__dirname, "../data/cardsets.json"),
       JSON.stringify(mockCardSets, null, 3),
       expect.any(Function)
     );
