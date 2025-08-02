@@ -82,6 +82,29 @@ export const addCardToCollection = async (
       return false;
     }
 
+    console.log(`🃏 Found card: ${cardInfo.name}`);
+
+    // Render the card image on the CLI tool (only if no rarity was pre-selected)
+    if (!selectedRarity && cardInfo.card_images && cardInfo.card_images.length > 0) {
+      try {
+        const imageUrl = cardInfo.card_images[0].image_url_small;
+        console.log(`🖼️  Card Image:`);
+        const image = await terminalImage.buffer(
+          await fetch(imageUrl)
+            .then((res) => res.arrayBuffer())
+            .then((buffer) => Buffer.from(buffer)),
+          { height: 15 }
+        );
+        console.log(image);
+      } catch (error) {
+        console.log(
+          `❌ Could not display card image: ${
+            error instanceof Error ? error.message : "Unknown error"
+          }`
+        );
+      }
+    }
+
     // Check for multiple rarities for this card code
     const matchingSets =
       cardInfo.card_sets?.filter((set: any) =>
@@ -170,27 +193,6 @@ export const addCardToCollection = async (
       path.join(__dirname, "../data/collection.json"),
       JSON.stringify(collection, null, 3)
     );
-
-    // Render the card image on the CLI tool
-    if (cardInfo.card_images && cardInfo.card_images.length > 0) {
-      try {
-        const imageUrl = cardInfo.card_images[0].image_url_small;
-        console.log(`🖼️  Card Image:`);
-        const image = await terminalImage.buffer(
-          await fetch(imageUrl)
-            .then((res) => res.arrayBuffer())
-            .then((buffer) => Buffer.from(buffer)),
-          { height: 15 }
-        );
-        console.log(image);
-      } catch (error) {
-        console.log(
-          `❌ Could not display card image: ${
-            error instanceof Error ? error.message : "Unknown error"
-          }`
-        );
-      }
-    }
 
     console.log(
       `✅ Added card: ${cardInfo.name} (${normalizedCardCode}) to collection`

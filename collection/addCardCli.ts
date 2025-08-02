@@ -31,7 +31,45 @@ const startCli = async () => {
         return;
       }
 
-      await addCardToCollection(trimmedInput);
+      const result = await addCardToCollection(trimmedInput);
+      
+      // Check if multiple rarities were found
+      if (typeof result === 'object' && result.error && result.rarities) {
+        console.log(`\n${result.error}`);
+        console.log("Available rarities:");
+        
+        result.rarities.forEach((rarity, index) => {
+          console.log(`${index + 1}. ${rarity}`);
+        });
+        
+        rl.question("\nSelect rarity number: ", async (rarityInput) => {
+          const rarityIndex = parseInt(rarityInput.trim()) - 1;
+          
+          if (isNaN(rarityIndex) || rarityIndex < 0 || rarityIndex >= result.rarities.length) {
+            console.log("❌ Invalid selection. Please try again.\n");
+            promptForCard();
+            return;
+          }
+          
+          const selectedRarity = result.rarities[rarityIndex];
+          console.log(`\n🎯 Selected: ${selectedRarity}`);
+          
+          const finalResult = await addCardToCollection(trimmedInput, selectedRarity);
+          if (!finalResult) {
+            console.log("❌ Failed to add card with selected rarity");
+          }
+          
+          console.log(); // Empty line for readability
+          promptForCard();
+        });
+        return;
+      }
+      
+      // Handle boolean result (success/failure)
+      if (!result) {
+        console.log("❌ Failed to add card");
+      }
+      
       console.log(); // Empty line for readability
       promptForCard();
     });
