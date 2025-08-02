@@ -1,6 +1,7 @@
 import axios from "axios";
 import * as fs from "fs";
 import { CollectionRow } from "./data/data.types";
+import { file } from "mock-fs/lib/filesystem";
 
 jest.mock("axios", () => ({
   get: jest.fn(),
@@ -48,7 +49,7 @@ describe("fillCollectionWithData", () => {
         "Earliest Date": "2002-03-08",
       },
       {
-        Name: "Lightning Bolt",
+        Name: "Raigeki",
         Type: "Spell Card",
         "Card Type": "Normal",
         Set: "Legend of Blue Eyes White Dragon",
@@ -101,7 +102,12 @@ describe("fillCollectionWithData", () => {
     // Mock fs.readFileSync to return our mock collection
     jest
       .mocked(fs.readFileSync)
-      .mockReturnValue(JSON.stringify(mockCollection));
+      .mockImplementation((path: fs.PathOrFileDescriptor) => {
+        if (path === "./data/collection.json") {
+          return JSON.stringify(mockCollection);
+        }
+        throw new Error("Unexpected file read");
+      });
 
     // Mock axios calls:
     jest
@@ -182,5 +188,26 @@ describe("fillCollectionWithData", () => {
 
     expect(writtenCollection).toHaveLength(1);
     expect(writtenCollection[0]).toMatchObject(expectedCard);
+  });
+
+  it("should only get card sets if sets file does not exist", async () => {
+    // Mock fs.readFileSync to return our mock collection and mock card sets
+    jest.mocked(fs.readFileSync).mockReturnValue(JSON.stringify([]));
+
+    // Mock axios calls:
+    jest.mocked(axios.get);
+
+    // Import the exported function
+    const { mainFunction } = require("./fillCollectionWithData");
+
+    await mainFunction();
+
+    // Verify no network calls were made
+    expect(axios.get).not.toHaveBeenCalled();
+    // Verify fs.readFileSync was called to read the card sets
+    expect(fs.readFileSync).toHaveBeenCalledWith(
+      "./data/cardsets.json",
+      "utf8"
+    );
   });
 });

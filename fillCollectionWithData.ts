@@ -27,13 +27,23 @@ const getCardInfo = async (cardName: string): Promise<YGOProCard | null> => {
 };
 
 const getCardSets = async (): Promise<YGOProSet[] | null> => {
-  const result = await axios
-    .get("https://db.ygoprodeck.com/api/v7/cardsets.php")
-    .catch((e) => {
-      // console.error(e);
-    });
+  // First try to read from local file
+  try {
+    const localSets = fs.readFileSync("./data/cardsets.json", "utf8");
+    const cardSets = JSON.parse(localSets) as YGOProSet[];
+    console.log(`📁 Using cached cardsets from local file (${cardSets.length} sets)`);
+    return cardSets;
+  } catch (error) {
+    // If file doesn't exist or can't be read, fall back to API
+    console.log("🌐 Fetching cardsets from API (local file not found)");
+    const result = await axios
+      .get("https://db.ygoprodeck.com/api/v7/cardsets.php")
+      .catch((e) => {
+        // console.error(e);
+      });
 
-  return (result && (result.data as YGOProSet[])) || null;
+    return (result && (result.data as YGOProSet[])) || null;
+  }
 };
 
 const getSetCodeFromCardCode = (cardCode: string): string => {
