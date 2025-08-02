@@ -6,6 +6,7 @@ import {
   getCardsFromSet,
   findCardByCodeInSet,
   getCardSets,
+  cardCodesMatch,
 } from "./fillCollectionWithDataImpl";
 import { CollectionRow } from "../data/data.types";
 
@@ -81,8 +82,8 @@ export const addCardToCollection = async (
     }
 
     // Check for multiple rarities for this card code
-    const matchingSets = cardInfo.card_sets?.filter(
-      (set: any) => set.set_code === normalizedCardCode
+    const matchingSets = cardInfo.card_sets?.filter((set: any) => 
+      cardCodesMatch(normalizedCardCode, set.set_code)
     ) || [];
 
     if (matchingSets.length === 0) {

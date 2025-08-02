@@ -356,14 +356,14 @@ describe("addCardCli", () => {
             card_sets: [
               {
                 set_name: "Starter Deck: Kaiba Reloaded",
-                set_code: "YSKR-001",
+                set_code: "YSKR-EN001",
                 set_rarity: "Common",
                 set_rarity_code: "(C)",
                 set_price: "6.79",
               },
               {
                 set_name: "Starter Deck: Kaiba Reloaded",
-                set_code: "YSKR-001",
+                set_code: "YSKR-EN001",
                 set_rarity: "Ultimate Rare",
                 set_rarity_code: "(UtR)",
                 set_price: "0",

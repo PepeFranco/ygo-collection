@@ -66,6 +66,22 @@ export const getSetCodeFromCardCode = (cardCode: string): string => {
   return cardCode.split("-")[0];
 };
 
+export const cardCodesMatch = (searchCode: string, actualCode: string): boolean => {
+  // Handle optional language code between set prefix and numbers
+  // "YSKR-001" should match "YSKR-EN001" or "YSKR-001"
+  const parts = searchCode.split('-');
+  if (parts.length === 2) {
+    const [setPrefix, cardNumber] = parts;
+    // Create pattern: YSKR-([A-Z]{2})?001 - language code is inserted without extra dash
+    const pattern = `^${setPrefix}-(?:[A-Z]{2})?${cardNumber}$`;
+    const regex = new RegExp(pattern);
+    return regex.test(actualCode);
+  }
+  
+  // Fallback to exact match
+  return actualCode === searchCode;
+};
+
 export const getCardsFromSet = async (setCode: string, cardSets: YGOProSet[]): Promise<YGOProCard[] | null> => {
   // Find the set with matching code
   const matchingSet = cardSets.find(set => set.set_code === setCode);
@@ -84,7 +100,7 @@ export const getCardsFromSet = async (setCode: string, cardSets: YGOProSet[]): P
 export const findCardByCodeInSet = (cards: YGOProCard[], cardCode: string): YGOProCard | null => {
   return cards.find(card => {
     if (!card.card_sets) return false;
-    return card.card_sets.some(cardSet => cardSet.set_code === cardCode);
+    return card.card_sets.some(cardSet => cardCodesMatch(cardCode, cardSet.set_code));
   }) || null;
 };
 
