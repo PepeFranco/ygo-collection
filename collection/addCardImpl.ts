@@ -51,7 +51,8 @@ const normalizeCardCode = (cardCode: string): string => {
 
 export const addCardToCollection = async (
   cardCode: string,
-  selectedRarity?: string
+  selectedRarity?: string,
+  edition?: string
 ): Promise<boolean | { error: string; rarities: string[] }> => {
   try {
     // Normalize card code for consistency
@@ -153,8 +154,7 @@ export const addCardToCollection = async (
       Code: cardSet.set_code,
       Set: cardSet.set_name,
       Rarity: cardSet.set_rarity || "",
-      // TODO: CLI should also prompt for edition
-      Edition: "",
+      Edition: edition || "",
       "In Deck": "",
       ID: cardInfo.id?.toString() || "",
       Type: cardInfo.type || "",
