@@ -56,6 +56,6 @@ const mainFunction = async () => {
       banLists[banLists.length - 1].date
     }`
   );
-  fs.writeFileSync("./data/banlists.json", JSON.stringify(banLists, null, 3));
+  fs.writeFileSync("../data/banlists.json", JSON.stringify(banLists, null, 3));
 };
 mainFunction();

@@ -1,9 +1,9 @@
-import { CollectionRow } from "./data.types";
+import { CollectionRow } from "../../data/data.types";
 import fs from "node:fs";
 import csv from "csvtojson";
 import path from "path";
 
-import collectionSecret from "../secret/collectionread.json";
+import collectionSecret from "../../secret/collectionread.json";
 
 export const downloadCollectionFromGDrive = async () => {
   try {
@@ -15,7 +15,7 @@ export const downloadCollectionFromGDrive = async () => {
         .split(",")
         .map((h: any) => h.replace(/"/g, ""));
       fs.writeFileSync(
-        path.join(__dirname, "headers.json"),
+        path.join(__dirname, "../../data/headers.json"),
 
         JSON.stringify({ headers }, null, 3)
       );
@@ -23,7 +23,7 @@ export const downloadCollectionFromGDrive = async () => {
       const collection: CollectionRow[] = await csv().fromString(rawData);
       console.log(`⬇️ Downloaded ${collection.length} items`);
       fs.writeFileSync(
-        "./data/collection.json",
+        path.join(__dirname, "../../data/collection.json"),
         JSON.stringify(collection, null, 3)
       );
     }

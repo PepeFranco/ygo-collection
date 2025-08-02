@@ -1,3 +1,4 @@
+// TODO: Standardise how reading and writing files are mocked in tests, cause we use mockfs in download collection but just mock the actual fs in fillcollectionwithdata
 import { downloadCollectionFromGDrive } from "./downloadCollectionFromGDriveImpl";
 import { http, HttpResponse } from "msw";
 import { setupServer } from "msw/node";
@@ -5,7 +6,7 @@ import mockFS from "mock-fs";
 import fs from "node:fs";
 import path from "path";
 
-jest.mock("../secret/collectionread.json", () => ({
+jest.mock("../../secret/collectionread.json", () => ({
   url: "http://fake-gdrive-url",
 }));
 
@@ -25,7 +26,9 @@ describe("downloadCollectionFromGDrive", () => {
     const server = setupServer(...handlers);
     server.listen();
 
-    mockFS({ data: {} });
+    mockFS({
+      [path.join(__dirname, "../../data")]: {},
+    });
   });
 
   afterEach(() => {
@@ -36,7 +39,7 @@ describe("downloadCollectionFromGDrive", () => {
     await downloadCollectionFromGDrive();
 
     const headerFile = fs.readFileSync(
-      path.join(__dirname, "headers.json"),
+      path.join(__dirname, "../../data/headers.json"),
       "utf8"
     );
     expect(headerFile).toMatchInlineSnapshot(`
@@ -72,7 +75,7 @@ describe("downloadCollectionFromGDrive", () => {
     `);
 
     const collectionFile = fs.readFileSync(
-      path.join(__dirname, "collection.json"),
+      path.join(__dirname, "../../data/collection.json"),
       "utf8"
     );
     expect(collectionFile).toMatchInlineSnapshot(`
