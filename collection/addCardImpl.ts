@@ -12,20 +12,20 @@ import { CollectionRow } from "../data/data.types";
 const normalizeCardCode = (cardCode: string): string => {
   // Convert to uppercase and remove extra spaces
   let normalized = cardCode.toUpperCase().trim();
-  
+
   // Handle improperly formatted codes like "LOB 1" -> "LOB-001"
-  if (!normalized.includes('-')) {
+  if (!normalized.includes("-")) {
     // Split by space and assume last part is the card number
     const parts = normalized.split(/\s+/);
     if (parts.length === 2) {
       const setCode = parts[0];
       const cardNumber = parts[1];
       // Pad card number to 3 digits
-      const paddedNumber = cardNumber.padStart(3, '0');
+      const paddedNumber = cardNumber.padStart(3, "0");
       normalized = `${setCode}-${paddedNumber}`;
     }
   }
-  
+
   return normalized;
 };
 
@@ -69,7 +69,9 @@ export const addCardToCollection = async (
     );
 
     if (!cardSet) {
-      console.log(`❌ Set information not found for code: ${normalizedCardCode}`);
+      console.log(
+        `❌ Set information not found for code: ${normalizedCardCode}`
+      );
       return false;
     }
 
@@ -105,7 +107,10 @@ export const addCardToCollection = async (
     // Read existing collection
     let collection: CollectionRow[] = [];
     try {
-      const collectionData = fs.readFileSync(path.join(__dirname, "../data/collection.json"), "utf8");
+      const collectionData = fs.readFileSync(
+        path.join(__dirname, "../data/collection.json"),
+        "utf8"
+      );
       collection = JSON.parse(collectionData);
     } catch (error) {
       console.log("📝 Creating new collection file");
@@ -126,15 +131,24 @@ export const addCardToCollection = async (
         const imageUrl = cardInfo.card_images[0].image_url_small;
         console.log(`🖼️  Card Image:`);
         const image = await terminalImage.buffer(
-          await fetch(imageUrl).then(res => res.arrayBuffer()).then(buffer => Buffer.from(buffer))
+          await fetch(imageUrl)
+            .then((res) => res.arrayBuffer())
+            .then((buffer) => Buffer.from(buffer)),
+          { height: 15 }
         );
         console.log(image);
       } catch (error) {
-        console.log(`❌ Could not display card image: ${error instanceof Error ? error.message : 'Unknown error'}`);
+        console.log(
+          `❌ Could not display card image: ${
+            error instanceof Error ? error.message : "Unknown error"
+          }`
+        );
       }
     }
 
-    console.log(`✅ Added card: ${cardInfo.name} (${normalizedCardCode}) to collection`);
+    console.log(
+      `✅ Added card: ${cardInfo.name} (${normalizedCardCode}) to collection`
+    );
     console.log(`📊 Collection now has ${collection.length} cards`);
 
     return true;
