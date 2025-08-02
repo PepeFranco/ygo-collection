@@ -1,3 +1,4 @@
+// TODO: Revisit format deck builder
 const _ = require("lodash");
 const fs = require("fs");
 const axios = require("axios");
@@ -6,6 +7,7 @@ const { parse } = require("node-html-parser");
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
 const getDeckLinks = async (page) => {
+  // TODO: Save set files instead of downloading every time
   const result = await axios
     .get(`https://ygoprodeck.com/category/decks/speed-duel-decks/page/${page}/`)
     .catch((e) => {
