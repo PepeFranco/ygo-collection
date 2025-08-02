@@ -42,7 +42,20 @@ const getCardSets = async (): Promise<YGOProSet[] | null> => {
         // console.error(e);
       });
 
-    return (result && (result.data as YGOProSet[])) || null;
+    if (result && result.data) {
+      const cardSets = result.data as YGOProSet[];
+      // Write fetched cardsets to local file for future caching
+      fs.writeFile(
+        "./data/cardsets.json",
+        JSON.stringify(cardSets, null, 3),
+        (err) => {
+          if (err) console.error(err);
+        }
+      );
+      return cardSets;
+    }
+
+    return null;
   }
 };
 

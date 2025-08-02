@@ -178,11 +178,8 @@ describe("fillCollectionWithData", () => {
       Price: 0,
     };
 
-    // Verify fs.writeFile was called
-    expect(fs.writeFile).toHaveBeenCalledTimes(1);
-
     // Parse the JSON string that was written and check the card data
-    const writeCall = jest.mocked(fs.writeFile).mock.calls[0];
+    const writeCall = jest.mocked(fs.writeFile).mock.calls[1];
     const writtenJson = writeCall[1] as string;
     const writtenCollection = JSON.parse(writtenJson);
 
@@ -190,7 +187,7 @@ describe("fillCollectionWithData", () => {
     expect(writtenCollection[0]).toMatchObject(expectedCard);
   });
 
-  it("should only get card sets if sets file does not exist", async () => {
+  it("should not get card sets from api if sets file exists", async () => {
     // Mock fs.readFileSync to return our mock collection and mock card sets
     jest.mocked(fs.readFileSync).mockReturnValue(JSON.stringify([]));
 
@@ -208,6 +205,53 @@ describe("fillCollectionWithData", () => {
     expect(fs.readFileSync).toHaveBeenCalledWith(
       "./data/cardsets.json",
       "utf8"
+    );
+  });
+
+  it("should get sets from the api when file does not exist, and write the file", async () => {
+    const mockCollection: CollectionRow[] = [];
+
+    // Mock fs.readFileSync to return our mock collection
+    jest
+      .mocked(fs.readFileSync)
+      .mockImplementation((path: fs.PathOrFileDescriptor) => {
+        if (path === "./data/collection.json") {
+          return JSON.stringify(mockCollection);
+        }
+        throw new Error("Unexpected file read");
+      });
+
+    const mockCardSets = [
+      [
+        {
+          set_name: "Legend of Blue Eyes White Dragon",
+          set_code: "LOB",
+          num_of_cards: 355,
+          tcg_date: "2002-03-08",
+          set_image: "https://images.ygoprodeck.com/images/sets/LOB.jpg",
+        },
+      ],
+    ];
+    // Mock axios calls:
+    jest.mocked(axios.get).mockResolvedValueOnce({
+      // 1. /api/v7/cardsets.php - get all card sets
+      data: mockCardSets,
+    });
+
+    // Import the exported function
+    const { mainFunction } = require("./fillCollectionWithData");
+    await mainFunction();
+
+    // Verify one network call was made to get card sets
+    expect(axios.get).toHaveBeenCalledWith(
+      "https://db.ygoprodeck.com/api/v7/cardsets.php"
+    );
+
+    // Verify fs.writeFile was called to write the card sets
+    expect(fs.writeFile).toHaveBeenCalledWith(
+      "./data/cardsets.json",
+      JSON.stringify(mockCardSets, null, 3),
+      expect.any(Function)
     );
   });
 });
