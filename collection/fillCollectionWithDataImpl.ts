@@ -95,41 +95,51 @@ export const getCardsFromSet = async (
   const matchingSet = cardSets.find((set) => set.set_code === setCode);
   if (!matchingSet) return null;
 
-  // Get cards from the set using the set name
-  const result = await axios
-    .get(
-      `https://db.ygoprodeck.com/api/v7/cardinfo.php?cardset=${encodeURIComponent(
-        matchingSet.set_name
-      )}`
-    )
-    .catch((e) => {
-      // console.error(e);
-    });
+  // Create filename for cache
+  const fileName = matchingSet.set_name
+    .toLowerCase()
+    .replace(/\s+/g, " ")
+    .trim();
+  const filePath = path.join(
+    __dirname,
+    "../data/cardsets",
+    `${fileName}.json`
+  );
 
-  if (result && result.data && result.data.data) {
-    const cards = result.data.data as YGOProCard[];
+  // First try to read from local cache file
+  try {
+    const localCards = fs.readFileSync(filePath, "utf8");
+    const cards = JSON.parse(localCards) as YGOProCard[];
+    console.log(`📁 Using cached cards for set "${matchingSet.set_name}" from local file`);
+    return cards;
+  } catch (error) {
+    // If file doesn't exist or can't be read, fall back to API
+    console.log(`🌐 Fetching cards for set "${matchingSet.set_name}" from API (local file not found)`);
+    const result = await axios
+      .get(
+        `https://db.ygoprodeck.com/api/v7/cardinfo.php?cardset=${encodeURIComponent(
+          matchingSet.set_name
+        )}`
+      )
+      .catch((e) => {
+        // console.error(e);
+      });
 
-    // Write fetched cards to local file for caching
-    const fileName = matchingSet.set_name
-      .toLowerCase()
-      .replace(/\s+/g, " ")
-      .trim();
-    const filePath = path.join(
-      __dirname,
-      "../data/cardsets",
-      `${fileName}.json`
-    );
+    if (result && result.data && result.data.data) {
+      const cards = result.data.data as YGOProCard[];
 
-    try {
-      fs.writeFileSync(filePath, JSON.stringify(cards, null, 3));
-    } catch (err) {
-      console.error(err);
+      // Write fetched cards to local file for caching
+      try {
+        fs.writeFileSync(filePath, JSON.stringify(cards, null, 3));
+      } catch (err) {
+        console.error(err);
+      }
+
+      return cards;
     }
 
-    return cards;
+    return null;
   }
-
-  return null;
 };
 
 export const findCardByCodeInSet = (
