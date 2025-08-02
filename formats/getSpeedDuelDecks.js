@@ -1,4 +1,5 @@
 // TODO: Revisit format deck builder
+// TODO: Move everything to TypeScript
 const _ = require("lodash");
 const fs = require("fs");
 const axios = require("axios");

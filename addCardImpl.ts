@@ -60,6 +60,7 @@ export const addCardToCollection = async (
     }
 
     // TODO: Some cards have different rarities per set, when that is the case the CLI should prompt which rarity and user types a letter matching the corresponding rarity
+    // TODO: Add types where missing
     // Get the card set info for this specific card
     const cardSet = cardInfo.card_sets?.find(
       (set: any) => set.set_code === normalizedCardCode
