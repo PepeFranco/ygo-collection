@@ -147,6 +147,11 @@ describe("fillCollectionWithData", () => {
             archetype: "Blue-Eyes",
             scale: null,
             linkval: null,
+            card_images: [
+              {
+                image_url_small: "https://images.ygoprodeck.com/images/cards_small/89631139.jpg",
+              },
+            ],
           },
         ],
       });

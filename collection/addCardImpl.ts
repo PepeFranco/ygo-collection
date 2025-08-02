@@ -1,4 +1,5 @@
 import fs from "fs";
+import terminalImage from "terminal-image";
 import {
   getSetCodeFromCardCode,
   getCardsFromSet,
@@ -118,7 +119,20 @@ export const addCardToCollection = async (
       JSON.stringify(collection, null, 3)
     );
 
-    // TODO: Render the card image on the CLI tool
+    // Render the card image on the CLI tool
+    if (cardInfo.card_images && cardInfo.card_images.length > 0) {
+      try {
+        const imageUrl = cardInfo.card_images[0].image_url_small;
+        console.log(`🖼️  Card Image:`);
+        const image = await terminalImage.buffer(
+          await fetch(imageUrl).then(res => res.arrayBuffer()).then(buffer => Buffer.from(buffer))
+        );
+        console.log(image);
+      } catch (error) {
+        console.log(`❌ Could not display card image: ${error instanceof Error ? error.message : 'Unknown error'}`);
+      }
+    }
+
     console.log(`✅ Added card: ${cardInfo.name} (${normalizedCardCode}) to collection`);
     console.log(`📊 Collection now has ${collection.length} cards`);
 

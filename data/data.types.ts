@@ -61,6 +61,10 @@ export type YGOProCardSet = {
   set_price: string;
 };
 
+export type YGOProCardImage = {
+  image_url_small: string;
+};
+
 export type YGOProCard = {
   name: string;
   id: string;
@@ -74,4 +78,5 @@ export type YGOProCard = {
   scale?: number;
   linkval?: number;
   card_sets: YGOProCardSet[];
+  card_images: YGOProCardImage[];
 };

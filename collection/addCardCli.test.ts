@@ -11,6 +11,20 @@ jest.mock("fs", () => ({
   writeFileSync: jest.fn(),
 }));
 
+jest.mock("terminal-image", () => ({
+  __esModule: true,
+  default: {
+    buffer: jest.fn().mockResolvedValue("🖼️ [Mocked Card Image]"),
+  },
+}));
+
+// Mock fetch for image downloading
+global.fetch = jest.fn(() =>
+  Promise.resolve({
+    arrayBuffer: () => Promise.resolve(new ArrayBuffer(8)),
+  })
+) as jest.Mock;
+
 describe("addCardCli", () => {
   beforeEach(() => {
     jest.clearAllMocks();
@@ -59,6 +73,11 @@ describe("addCardCli", () => {
           level: 8,
           attribute: "LIGHT",
           archetype: "Blue-Eyes",
+          card_images: [
+            {
+              image_url_small: "https://images.ygoprodeck.com/images/cards_small/89631139.jpg",
+            },
+          ],
         },
       ],
     });
@@ -144,6 +163,11 @@ describe("addCardCli", () => {
           level: 8,
           attribute: "LIGHT",
           archetype: "Blue-Eyes",
+          card_images: [
+            {
+              image_url_small: "https://images.ygoprodeck.com/images/cards_small/89631139.jpg",
+            },
+          ],
         },
       ],
     });
@@ -229,6 +253,11 @@ describe("addCardCli", () => {
           level: 8,
           attribute: "LIGHT",
           archetype: "Blue-Eyes",
+          card_images: [
+            {
+              image_url_small: "https://images.ygoprodeck.com/images/cards_small/89631139.jpg",
+            },
+          ],
         },
       ],
     });
