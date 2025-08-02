@@ -7,12 +7,32 @@ import {
 } from "./fillCollectionWithDataImpl";
 import { CollectionRow } from "./data/data.types";
 
+const normalizeCardCode = (cardCode: string): string => {
+  // Convert to uppercase and remove extra spaces
+  let normalized = cardCode.toUpperCase().trim();
+  
+  // Handle improperly formatted codes like "LOB 1" -> "LOB-001"
+  if (!normalized.includes('-')) {
+    // Split by space and assume last part is the card number
+    const parts = normalized.split(/\s+/);
+    if (parts.length === 2) {
+      const setCode = parts[0];
+      const cardNumber = parts[1];
+      // Pad card number to 3 digits
+      const paddedNumber = cardNumber.padStart(3, '0');
+      normalized = `${setCode}-${paddedNumber}`;
+    }
+  }
+  
+  return normalized;
+};
+
 export const addCardToCollection = async (
   cardCode: string
 ): Promise<boolean> => {
   try {
-    // Convert card code to uppercase for consistency
-    const normalizedCardCode = cardCode.toUpperCase();
+    // Normalize card code for consistency
+    const normalizedCardCode = normalizeCardCode(cardCode);
     console.log(`🔍 Looking up card with code: ${normalizedCardCode}`);
 
     // Get card sets (from cache or API)
