@@ -21,7 +21,7 @@ describe("addCardCli", () => {
     jest
       .mocked(fs.readFileSync)
       .mockImplementation((path: fs.PathOrFileDescriptor) => {
-        if (path === "./data/cardsets.json") {
+        if (path === "../data/cardsets.json") {
           return JSON.stringify([
             {
               set_name: "Legend of Blue Eyes White Dragon",
@@ -32,7 +32,7 @@ describe("addCardCli", () => {
             },
           ]);
         }
-        if (path === "./data/collection.json") {
+        if (path === "../data/collection.json") {
           return JSON.stringify([]);
         }
         throw new Error("Unexpected file read");
@@ -67,7 +67,7 @@ describe("addCardCli", () => {
 
     expect(result).toBe(true);
     expect(fs.writeFileSync).toHaveBeenCalledWith(
-      "./data/collection.json",
+      "../data/collection.json",
       JSON.stringify(
         [
           {
@@ -106,7 +106,7 @@ describe("addCardCli", () => {
     jest
       .mocked(fs.readFileSync)
       .mockImplementation((path: fs.PathOrFileDescriptor) => {
-        if (path === "./data/cardsets.json") {
+        if (path === "../data/cardsets.json") {
           return JSON.stringify([
             {
               set_name: "Legend of Blue Eyes White Dragon",
@@ -117,7 +117,7 @@ describe("addCardCli", () => {
             },
           ]);
         }
-        if (path === "./data/collection.json") {
+        if (path === "../data/collection.json") {
           return JSON.stringify([]);
         }
         throw new Error("Unexpected file read");
@@ -152,7 +152,7 @@ describe("addCardCli", () => {
 
     expect(result).toBe(true);
     expect(fs.writeFileSync).toHaveBeenCalledWith(
-      "./data/collection.json",
+      "../data/collection.json",
       JSON.stringify(
         [
           {
@@ -191,7 +191,7 @@ describe("addCardCli", () => {
     jest
       .mocked(fs.readFileSync)
       .mockImplementation((path: fs.PathOrFileDescriptor) => {
-        if (path === "./data/cardsets.json") {
+        if (path === "../data/cardsets.json") {
           return JSON.stringify([
             {
               set_name: "Legend of Blue Eyes White Dragon",
@@ -202,7 +202,7 @@ describe("addCardCli", () => {
             },
           ]);
         }
-        if (path === "./data/collection.json") {
+        if (path === "../data/collection.json") {
           return JSON.stringify([]);
         }
         throw new Error("Unexpected file read");
@@ -237,7 +237,7 @@ describe("addCardCli", () => {
 
     expect(result).toBe(true);
     expect(fs.writeFileSync).toHaveBeenCalledWith(
-      "./data/collection.json",
+      "../data/collection.json",
       JSON.stringify(
         [
           {

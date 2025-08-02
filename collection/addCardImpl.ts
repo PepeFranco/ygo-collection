@@ -5,7 +5,7 @@ import {
   findCardByCodeInSet,
   getCardSets,
 } from "./fillCollectionWithDataImpl";
-import { CollectionRow } from "./data/data.types";
+import { CollectionRow } from "../data/data.types";
 
 const normalizeCardCode = (cardCode: string): string => {
   // Convert to uppercase and remove extra spaces
@@ -103,7 +103,7 @@ export const addCardToCollection = async (
     // Read existing collection
     let collection: CollectionRow[] = [];
     try {
-      const collectionData = fs.readFileSync("./data/collection.json", "utf8");
+      const collectionData = fs.readFileSync("../data/collection.json", "utf8");
       collection = JSON.parse(collectionData);
     } catch (error) {
       console.log("📝 Creating new collection file");
@@ -114,7 +114,7 @@ export const addCardToCollection = async (
 
     // Write back to file
     fs.writeFileSync(
-      "./data/collection.json",
+      "../data/collection.json",
       JSON.stringify(collection, null, 3)
     );
 

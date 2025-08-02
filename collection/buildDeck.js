@@ -158,7 +158,7 @@ const main = async () => {
   }
   // console.log(builtDecks);
 
-  const collection = require("./data/collection.json");
+  const collection = require("../data/collection.json");
   const allCollectionCards = collection.map((card) => ({
     id: card["ID"],
     name: card["Name"],

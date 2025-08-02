@@ -1,6 +1,6 @@
 import axios from "axios";
 import * as fs from "fs";
-import { CollectionRow } from "./data/data.types";
+import { CollectionRow } from "../data/data.types";
 import { file } from "mock-fs/lib/filesystem";
 
 jest.mock("axios", () => ({
@@ -77,7 +77,7 @@ describe("fillCollectionWithData", () => {
 
     // Verify fs.writeFile was called (since all cards are complete, it should still write the file)
     expect(fs.writeFile).toHaveBeenCalledWith(
-      "./data/collection.json",
+      "../data/collection.json",
       JSON.stringify(mockCollection, null, 3),
       expect.any(Function)
     );
@@ -103,7 +103,7 @@ describe("fillCollectionWithData", () => {
     jest
       .mocked(fs.readFileSync)
       .mockImplementation((path: fs.PathOrFileDescriptor) => {
-        if (path === "./data/collection.json") {
+        if (path === "../data/collection.json") {
           return JSON.stringify(mockCollection);
         }
         throw new Error("Unexpected file read");
@@ -203,7 +203,7 @@ describe("fillCollectionWithData", () => {
     expect(axios.get).not.toHaveBeenCalled();
     // Verify fs.readFileSync was called to read the card sets
     expect(fs.readFileSync).toHaveBeenCalledWith(
-      "./data/cardsets.json",
+      "../data/cardsets.json",
       "utf8"
     );
   });
@@ -215,7 +215,7 @@ describe("fillCollectionWithData", () => {
     jest
       .mocked(fs.readFileSync)
       .mockImplementation((path: fs.PathOrFileDescriptor) => {
-        if (path === "./data/collection.json") {
+        if (path === "../data/collection.json") {
           return JSON.stringify(mockCollection);
         }
         throw new Error("Unexpected file read");
@@ -249,7 +249,7 @@ describe("fillCollectionWithData", () => {
 
     // Verify fs.writeFile was called to write the card sets
     expect(fs.writeFile).toHaveBeenCalledWith(
-      "./data/cardsets.json",
+      "../data/cardsets.json",
       JSON.stringify(mockCardSets, null, 3),
       expect.any(Function)
     );

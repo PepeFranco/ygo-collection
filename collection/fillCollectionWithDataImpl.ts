@@ -7,7 +7,7 @@ import type {
   YGOProCard,
   YGOProCardSet,
   YGOProSet,
-} from "./data/data.types";
+} from "../data/data.types";
 
 const getCardInfo = async (cardName: string): Promise<YGOProCard | null> => {
   const name = `${cardName.trim()}`;
@@ -30,7 +30,7 @@ const getCardInfo = async (cardName: string): Promise<YGOProCard | null> => {
 export const getCardSets = async (): Promise<YGOProSet[] | null> => {
   // First try to read from local file
   try {
-    const localSets = fs.readFileSync("./data/cardsets.json", "utf8");
+    const localSets = fs.readFileSync("../data/cardsets.json", "utf8");
     const cardSets = JSON.parse(localSets) as YGOProSet[];
     console.log(`📁 Using cached cardsets from local file (${cardSets.length} sets)`);
     return cardSets;
@@ -47,7 +47,7 @@ export const getCardSets = async (): Promise<YGOProSet[] | null> => {
       const cardSets = result.data as YGOProSet[];
       // Write fetched cardsets to local file for future caching
       fs.writeFile(
-        "./data/cardsets.json",
+        "../data/cardsets.json",
         JSON.stringify(cardSets, null, 3),
         (err) => {
           if (err) console.error(err);
@@ -230,7 +230,7 @@ const cardIsComplete = (card: CollectionRow) => {
 
 export const mainFunction = async () => {
   const collection = JSON.parse(
-    fs.readFileSync("./data/collection.json", "utf8")
+    fs.readFileSync("../data/collection.json", "utf8")
   );
   const collectionCopy = [...collection];
   
@@ -293,7 +293,7 @@ export const mainFunction = async () => {
     // console.error(e);
   } finally {
     fs.writeFile(
-      "./data/collection.json",
+      "../data/collection.json",
       JSON.stringify(collectionCopy, null, 3),
       function (err) {
         if (err) console.error(err);

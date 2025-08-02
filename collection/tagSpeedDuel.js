@@ -1,7 +1,7 @@
 const _ = require("lodash");
 const fs = require("fs");
 
-const collection = require("./data/collection.json");
+const collection = require("../data/collection.json");
 const collectionCopy = [...collection];
 const speedDuelLegal = collectionCopy
   .filter((c) => c["Is Speed Duel"] === "Yes")
@@ -23,7 +23,7 @@ const mainFunction = async () => {
     console.error(e);
   } finally {
     fs.writeFile(
-      "./data/collection.json",
+      "../data/collection.json",
       JSON.stringify(collectionCopy, null, 3),
       function (err) {
         if (err) console.error(err);

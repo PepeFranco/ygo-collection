@@ -11,7 +11,7 @@ const setsToKeep = ["speed duel"];
 const decksToKeep = ["edison"];
 
 const collection = _.reverse(
-  _.sortBy([...require("./data/collection.json")], (card) => {
+  _.sortBy([...require("../data/collection.json")], (card) => {
     const rarityMap = {
       Ghost: 0,
       Ultimate: 1,
@@ -125,7 +125,7 @@ const markCardsToKeep = async () => {
   );
 
   fs.writeFile(
-    "./data/collection.json",
+    "../data/collection.json",
     JSON.stringify(collection, null, 3),
     function (err) {
       if (err) console.error(err);

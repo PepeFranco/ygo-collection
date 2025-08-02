@@ -1,6 +1,6 @@
-const cardsForSds = require("./structureDecks/cardsIAlreadyOwnToComplete2Sets.json");
-const cardsForBattlePack = require("./battlePack/cardsIAlreadyOwnForBattlePacks.json");
-const collection = require("./data/collection.json");
+const cardsForSds = require("../structureDecks/cardsIAlreadyOwnToComplete2Sets.json");
+const cardsForBattlePack = require("../battlePack/cardsIAlreadyOwnForBattlePacks.json");
+const collection = require("../data/collection.json");
 
 const cardsInSpeedDuel = collection
   .filter((c) => c["Is Speed Duel"] === "Yes")
