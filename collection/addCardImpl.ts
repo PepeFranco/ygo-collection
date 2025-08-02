@@ -50,7 +50,7 @@ const normalizeCardCode = (cardCode: string): string => {
 
 export const addCardToCollection = async (
   cardCode: string
-): Promise<boolean> => {
+): Promise<boolean | { error: string; rarities: string[] }> => {
   try {
     // Normalize card code for consistency
     const normalizedCardCode = normalizeCardCode(cardCode);
@@ -80,19 +80,29 @@ export const addCardToCollection = async (
       return false;
     }
 
-    // TODO: Some cards have different rarities per set, when that is the case the CLI should prompt which rarity and user types a letter matching the corresponding rarity
-    // TODO: Add types where missing
-    // Get the card set info for this specific card
-    const cardSet = cardInfo.card_sets?.find(
+    // Check for multiple rarities for this card code
+    const matchingSets = cardInfo.card_sets?.filter(
       (set: any) => set.set_code === normalizedCardCode
-    );
+    ) || [];
 
-    if (!cardSet) {
+    if (matchingSets.length === 0) {
       console.log(
         `❌ Set information not found for code: ${normalizedCardCode}`
       );
       return false;
     }
+
+    // If multiple rarities exist, return them for user selection
+    if (matchingSets.length > 1) {
+      const rarities = matchingSets.map((set: any) => set.set_rarity);
+      return {
+        error: "Multiple rarities found for this card code",
+        rarities: rarities,
+      };
+    }
+
+    // Single rarity found, proceed with adding the card
+    const cardSet = matchingSets[0];
 
     // Create collection entry
     const newCard: CollectionRow = {
