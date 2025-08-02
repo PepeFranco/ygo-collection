@@ -7,9 +7,13 @@ import {
 } from "./fillCollectionWithDataImpl";
 import { CollectionRow } from "./data/data.types";
 
-export const addCardToCollection = async (cardCode: string): Promise<boolean> => {
+export const addCardToCollection = async (
+  cardCode: string
+): Promise<boolean> => {
   try {
-    console.log(`🔍 Looking up card with code: ${cardCode}`);
+    // Convert card code to uppercase for consistency
+    const normalizedCardCode = cardCode.toUpperCase();
+    console.log(`🔍 Looking up card with code: ${normalizedCardCode}`);
 
     // Get card sets (from cache or API)
     const cardSets = await getCardSets();
@@ -19,7 +23,7 @@ export const addCardToCollection = async (cardCode: string): Promise<boolean> =>
     }
 
     // Extract set code and get cards from that set
-    const setCode = getSetCodeFromCardCode(cardCode);
+    const setCode = getSetCodeFromCardCode(normalizedCardCode);
     const setCards = await getCardsFromSet(setCode, cardSets);
 
     if (!setCards) {
@@ -28,20 +32,20 @@ export const addCardToCollection = async (cardCode: string): Promise<boolean> =>
     }
 
     // Find the specific card by code
-    const cardInfo = findCardByCodeInSet(setCards, cardCode);
+    const cardInfo = findCardByCodeInSet(setCards, normalizedCardCode);
 
     if (!cardInfo) {
-      console.log(`❌ Card not found with code: ${cardCode}`);
+      console.log(`❌ Card not found with code: ${normalizedCardCode}`);
       return false;
     }
 
     // Get the card set info for this specific card
     const cardSet = cardInfo.card_sets?.find(
-      (set: any) => set.set_code === cardCode
+      (set: any) => set.set_code === normalizedCardCode
     );
 
     if (!cardSet) {
-      console.log(`❌ Set information not found for code: ${cardCode}`);
+      console.log(`❌ Set information not found for code: ${normalizedCardCode}`);
       return false;
     }
 
@@ -91,7 +95,7 @@ export const addCardToCollection = async (cardCode: string): Promise<boolean> =>
       JSON.stringify(collection, null, 3)
     );
 
-    console.log(`✅ Added card: ${cardInfo.name} (${cardCode}) to collection`);
+    console.log(`✅ Added card: ${cardInfo.name} (${normalizedCardCode}) to collection`);
     console.log(`📊 Collection now has ${collection.length} cards`);
 
     return true;
