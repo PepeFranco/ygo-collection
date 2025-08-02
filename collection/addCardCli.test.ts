@@ -57,32 +57,32 @@ describe("addCardCli", () => {
     jest.mocked(axios.get).mockResolvedValueOnce({
       data: {
         data: [
-        {
-          id: 89631139,
-          name: "Blue-Eyes White Dragon",
-          card_sets: [
-            {
-              set_name: "Legend of Blue Eyes White Dragon",
-              set_code: "LOB-001",
-              set_rarity: "Ultra Rare",
-              set_price: "62.15",
-            },
-          ],
-          type: "Normal Monster",
-          race: "Dragon",
-          atk: 3000,
-          def: 2500,
-          level: 8,
-          attribute: "LIGHT",
-          archetype: "Blue-Eyes",
-          card_images: [
-            {
-              image_url_small:
-                "https://images.ygoprodeck.com/images/cards_small/89631139.jpg",
-            },
-          ],
-        },
-      ],
+          {
+            id: 89631139,
+            name: "Blue-Eyes White Dragon",
+            card_sets: [
+              {
+                set_name: "Legend of Blue Eyes White Dragon",
+                set_code: "LOB-001",
+                set_rarity: "Ultra Rare",
+                set_price: "62.15",
+              },
+            ],
+            type: "Normal Monster",
+            race: "Dragon",
+            atk: 3000,
+            def: 2500,
+            level: 8,
+            attribute: "LIGHT",
+            archetype: "Blue-Eyes",
+            card_images: [
+              {
+                image_url_small:
+                  "https://images.ygoprodeck.com/images/cards_small/89631139.jpg",
+              },
+            ],
+          },
+        ],
       },
     });
 
@@ -150,32 +150,32 @@ describe("addCardCli", () => {
     jest.mocked(axios.get).mockResolvedValueOnce({
       data: {
         data: [
-        {
-          id: 89631139,
-          name: "Blue-Eyes White Dragon",
-          card_sets: [
-            {
-              set_name: "Legend of Blue Eyes White Dragon",
-              set_code: "LOB-001",
-              set_rarity: "Ultra Rare",
-              set_price: "62.15",
-            },
-          ],
-          type: "Normal Monster",
-          race: "Dragon",
-          atk: 3000,
-          def: 2500,
-          level: 8,
-          attribute: "LIGHT",
-          archetype: "Blue-Eyes",
-          card_images: [
-            {
-              image_url_small:
-                "https://images.ygoprodeck.com/images/cards_small/89631139.jpg",
-            },
-          ],
-        },
-      ],
+          {
+            id: 89631139,
+            name: "Blue-Eyes White Dragon",
+            card_sets: [
+              {
+                set_name: "Legend of Blue Eyes White Dragon",
+                set_code: "LOB-001",
+                set_rarity: "Ultra Rare",
+                set_price: "62.15",
+              },
+            ],
+            type: "Normal Monster",
+            race: "Dragon",
+            atk: 3000,
+            def: 2500,
+            level: 8,
+            attribute: "LIGHT",
+            archetype: "Blue-Eyes",
+            card_images: [
+              {
+                image_url_small:
+                  "https://images.ygoprodeck.com/images/cards_small/89631139.jpg",
+              },
+            ],
+          },
+        ],
       },
     });
 
@@ -243,36 +243,36 @@ describe("addCardCli", () => {
     jest.mocked(axios.get).mockResolvedValueOnce({
       data: {
         data: [
-        {
-          id: 89631139,
-          name: "Blue-Eyes White Dragon",
-          card_sets: [
-            {
-              set_name: "Legend of Blue Eyes White Dragon",
-              set_code: "LOB-001",
-              set_rarity: "Ultra Rare",
-              set_price: "62.15",
-            },
-          ],
-          type: "Normal Monster",
-          race: "Dragon",
-          atk: 3000,
-          def: 2500,
-          level: 8,
-          attribute: "LIGHT",
-          archetype: "Blue-Eyes",
-          card_images: [
-            {
-              image_url_small:
-                "https://images.ygoprodeck.com/images/cards_small/89631139.jpg",
-            },
-          ],
-        },
-      ],
+          {
+            id: 89631139,
+            name: "Blue-Eyes White Dragon",
+            card_sets: [
+              {
+                set_name: "Legend of Blue Eyes White Dragon",
+                set_code: "LOB-001",
+                set_rarity: "Ultra Rare",
+                set_price: "62.15",
+              },
+            ],
+            type: "Normal Monster",
+            race: "Dragon",
+            atk: 3000,
+            def: 2500,
+            level: 8,
+            attribute: "LIGHT",
+            archetype: "Blue-Eyes",
+            card_images: [
+              {
+                image_url_small:
+                  "https://images.ygoprodeck.com/images/cards_small/89631139.jpg",
+              },
+            ],
+          },
+        ],
       },
     });
 
-    const result = await addCardToCollection("lob 1");
+    const result = await addCardToCollection("lob1");
 
     expect(result).toBe(true);
     expect(fs.writeFileSync).toHaveBeenCalledWith(

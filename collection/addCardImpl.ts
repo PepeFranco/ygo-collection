@@ -13,7 +13,7 @@ const normalizeCardCode = (cardCode: string): string => {
   // Convert to uppercase and remove extra spaces
   let normalized = cardCode.toUpperCase().trim();
 
-  // Handle improperly formatted codes like "LOB 1" -> "LOB-001"
+  // Handle improperly formatted codes like "LOB 1" -> "LOB-001" or "LOB1" -> "LOB-001"
   if (!normalized.includes("-")) {
     // Split by space and assume last part is the card number
     const parts = normalized.split(/\s+/);
@@ -23,6 +23,25 @@ const normalizeCardCode = (cardCode: string): string => {
       // Pad card number to 3 digits
       const paddedNumber = cardNumber.padStart(3, "0");
       normalized = `${setCode}-${paddedNumber}`;
+    } else if (parts.length === 1) {
+      // Handle cases like "LOB1" where there's no space or dash
+      // Find where letters end and numbers begin
+      let setCode = "";
+      let cardNumber = "";
+      for (let i = 0; i < normalized.length; i++) {
+        const char = normalized[i];
+        if (char >= "A" && char <= "Z") {
+          setCode += char;
+        } else if (char >= "0" && char <= "9") {
+          cardNumber = normalized.substring(i);
+          break;
+        }
+      }
+      if (setCode && cardNumber) {
+        // Pad card number to 3 digits
+        const paddedNumber = cardNumber.padStart(3, "0");
+        normalized = `${setCode}-${paddedNumber}`;
+      }
     }
   }
 
