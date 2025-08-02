@@ -12,6 +12,7 @@ const structureDeckSet = cardsInStructureDecks.map((deck) => {
   return getDeckFilteredByBanlist(deckWithCardsMultiplied, banlist);
 });
 
+// TODO: Replace fs.writeFile with fs.writeFileSync for consistency
 fs.writeFile(
   `./structureDecks/cardsInStructureDecksEnhanced.json`,
   JSON.stringify(structureDeckSet),
@@ -23,6 +24,7 @@ fs.writeFile(
 structureDeckSet.map((structureDeck) => {
   console.log(`"${structureDeck.deck}",`);
 
+  // TODO: Replace fs.writeFile with fs.writeFileSync for consistency
   fs.writeFile(
     `./formats/structure/${structureDeck.deck}`,
     structureDeck.cards.join("\n"),

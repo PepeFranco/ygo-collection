@@ -179,6 +179,7 @@ const mainFunction = async () => {
     await sleep(100);
   });
 
+  // TODO: Replace fs.writeFile with fs.writeFileSync for consistency
   fs.writeFile(
     "./structureDecks/cardsInStructureDecks.json",
     JSON.stringify(_.sortBy(cardsInStructureDeckSet, ["date"]), null, 3),

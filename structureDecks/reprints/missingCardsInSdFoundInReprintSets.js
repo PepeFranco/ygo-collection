@@ -91,6 +91,7 @@ const mainFunction = async () => {
     `Cards NOT found: ${cardsNotFound.length}/${missingCards.length}`
   );
   const cardsSortedBySet = _.sortBy(cardsFound, (card) => card.split("-")[1]);
+  // TODO: Replace fs.writeFile with fs.writeFileSync for consistency
   fs.writeFile(
     "./structureDecks/sdCardsInReprintSets.json",
     JSON.stringify(cardsSortedBySet, null, 3),

@@ -22,6 +22,7 @@ const mainFunction = async () => {
   } catch (e) {
     console.error(e);
   } finally {
+    // TODO: Replace fs.writeFile with fs.writeFileSync for consistency
     fs.writeFile(
       "../data/collection.json",
       JSON.stringify(collectionCopy, null, 3),

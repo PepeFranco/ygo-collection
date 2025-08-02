@@ -103,6 +103,7 @@ console.log(
   cardsToBuildCube.length + cardsInCube.length
 );
 
+// TODO: Replace fs.writeFile with fs.writeFileSync for consistency
 fs.writeFile(
   "./battlePack/cardsIAlreadyOwnForBattlePacks.json",
   JSON.stringify(
@@ -115,6 +116,7 @@ fs.writeFile(
   }
 );
 
+// TODO: Replace fs.writeFile with fs.writeFileSync for consistency
 fs.writeFile(
   "./battlePack/cardsINeedForBattlePacks.json",
   JSON.stringify(

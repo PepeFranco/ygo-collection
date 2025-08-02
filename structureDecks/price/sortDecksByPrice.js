@@ -10,6 +10,7 @@ const mainFunction = async () => {
     );
   });
 
+  // TODO: Replace fs.writeFile with fs.writeFileSync for consistency
   fs.writeFile(
     "./structureDecks/cardsNeededToComplete3Sets.json",
     JSON.stringify(sortedUniqueCardsTimes3, null, 3),

@@ -9,6 +9,7 @@ const mainFunction = async () => {
 
   if (result) {
     const { cardsFor1Sets, cardsFor2Sets, cardsFor3Sets, dataForCSV } = result;
+    // TODO: Replace fs.writeFile with fs.writeFileSync for consistency
     fs.writeFile(
       `./structureDecks/cardsFor1Sets.json`,
       JSON.stringify(cardsFor1Sets, null, 3),
@@ -17,6 +18,7 @@ const mainFunction = async () => {
       }
     );
 
+    // TODO: Replace fs.writeFile with fs.writeFileSync for consistency
     fs.writeFile(
       `./structureDecks/cardsFor2Sets.json`,
       JSON.stringify(cardsFor2Sets, null, 3),
@@ -25,6 +27,7 @@ const mainFunction = async () => {
       }
     );
 
+    // TODO: Replace fs.writeFile with fs.writeFileSync for consistency
     fs.writeFile(
       `./structureDecks/cardsFor3Sets.json`,
       JSON.stringify(cardsFor3Sets, null, 3),
@@ -33,6 +36,7 @@ const mainFunction = async () => {
       }
     );
 
+    // TODO: Replace fs.writeFile with fs.writeFileSync for consistency
     fs.writeFile(
       `./structureDecks/missingCardsDataSet.json`,
       JSON.stringify(dataForCSV),

@@ -46,6 +46,7 @@ const mainFunction = async () => {
     );
   });
 
+  // TODO: Replace fs.writeFile with fs.writeFileSync for consistency
   fs.writeFile(
     "./structureDecks/cardsFor2Sets.json",
     JSON.stringify(sortedDecks, null, 3),

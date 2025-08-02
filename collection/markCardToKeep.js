@@ -124,6 +124,7 @@ const markCardsToKeep = async () => {
     `cards to keep`
   );
 
+  // TODO: Replace fs.writeFile with fs.writeFileSync for consistency
   fs.writeFile(
     "../data/collection.json",
     JSON.stringify(collection, null, 3),
