@@ -400,7 +400,10 @@ describe("addCardCli", () => {
       error: "Multiple rarities found for this card code",
       rarities: ["Common", "Ultimate Rare"],
     });
-    expect(fs.writeFileSync).not.toHaveBeenCalled();
+    expect(fs.writeFileSync).not.toHaveBeenCalledWith(
+      path.join(__dirname, "../data/collection.json"),
+      expect.any(String)
+    );
   });
 
   it("should save the right rarity when there is more than one rarity for a card code and rarity is provided", async () => {

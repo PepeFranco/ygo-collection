@@ -85,10 +85,13 @@ export const addCardToCollection = async (
     console.log(`🃏 Found card: ${cardInfo.name}`);
 
     // Render the card image on the CLI tool (only if no rarity was pre-selected)
-    if (!selectedRarity && cardInfo.card_images && cardInfo.card_images.length > 0) {
+    if (
+      !selectedRarity &&
+      cardInfo.card_images &&
+      cardInfo.card_images.length > 0
+    ) {
       try {
         const imageUrl = cardInfo.card_images[0].image_url_small;
-        console.log(`🖼️  Card Image:`);
         const image = await terminalImage.buffer(
           await fetch(imageUrl)
             .then((res) => res.arrayBuffer())

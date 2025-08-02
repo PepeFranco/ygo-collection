@@ -31,9 +31,14 @@ const getCardInfo = async (cardName: string): Promise<YGOProCard | null> => {
 export const getCardSets = async (): Promise<YGOProSet[] | null> => {
   // First try to read from local file
   try {
-    const localSets = fs.readFileSync(path.join(__dirname, "../data/cardsets.json"), "utf8");
+    const localSets = fs.readFileSync(
+      path.join(__dirname, "../data/cardsets.json"),
+      "utf8"
+    );
     const cardSets = JSON.parse(localSets) as YGOProSet[];
-    console.log(`📁 Using cached cardsets from local file (${cardSets.length} sets)`);
+    console.log(
+      `📁 Using cached cardsets from local file (${cardSets.length} sets)`
+    );
     return cardSets;
   } catch (error) {
     // If file doesn't exist or can't be read, fall back to API
@@ -47,12 +52,9 @@ export const getCardSets = async (): Promise<YGOProSet[] | null> => {
     if (result && result.data) {
       const cardSets = result.data as YGOProSet[];
       // Write fetched cardsets to local file for future caching
-      fs.writeFile(
+      fs.writeFileSync(
         path.join(__dirname, "../data/cardsets.json"),
-        JSON.stringify(cardSets, null, 3),
-        (err) => {
-          if (err) console.error(err);
-        }
+        JSON.stringify(cardSets, null, 3)
       );
       return cardSets;
     }
@@ -66,10 +68,13 @@ export const getSetCodeFromCardCode = (cardCode: string): string => {
   return cardCode.split("-")[0];
 };
 
-export const cardCodesMatch = (searchCode: string, actualCode: string): boolean => {
+export const cardCodesMatch = (
+  searchCode: string,
+  actualCode: string
+): boolean => {
   // Handle optional language code between set prefix and numbers
   // "YSKR-001" should match "YSKR-EN001" or "YSKR-001"
-  const parts = searchCode.split('-');
+  const parts = searchCode.split("-");
   if (parts.length === 2) {
     const [setPrefix, cardNumber] = parts;
     // Create pattern: YSKR-([A-Z]{2})?001 - language code is inserted without extra dash
@@ -77,31 +82,68 @@ export const cardCodesMatch = (searchCode: string, actualCode: string): boolean 
     const regex = new RegExp(pattern);
     return regex.test(actualCode);
   }
-  
+
   // Fallback to exact match
   return actualCode === searchCode;
 };
 
-export const getCardsFromSet = async (setCode: string, cardSets: YGOProSet[]): Promise<YGOProCard[] | null> => {
+export const getCardsFromSet = async (
+  setCode: string,
+  cardSets: YGOProSet[]
+): Promise<YGOProCard[] | null> => {
   // Find the set with matching code
-  const matchingSet = cardSets.find(set => set.set_code === setCode);
+  const matchingSet = cardSets.find((set) => set.set_code === setCode);
   if (!matchingSet) return null;
-  
+
   // Get cards from the set using the set name
   const result = await axios
-    .get(`https://db.ygoprodeck.com/api/v7/cardinfo.php?cardset=${encodeURIComponent(matchingSet.set_name)}`)
+    .get(
+      `https://db.ygoprodeck.com/api/v7/cardinfo.php?cardset=${encodeURIComponent(
+        matchingSet.set_name
+      )}`
+    )
     .catch((e) => {
       // console.error(e);
     });
 
-  return (result && result.data && (result.data.data as YGOProCard[])) || null;
+  if (result && result.data && result.data.data) {
+    const cards = result.data.data as YGOProCard[];
+
+    // Write fetched cards to local file for caching
+    const fileName = matchingSet.set_name
+      .toLowerCase()
+      .replace(/\s+/g, " ")
+      .trim();
+    const filePath = path.join(
+      __dirname,
+      "../data/cardsets",
+      `${fileName}.json`
+    );
+
+    try {
+      fs.writeFileSync(filePath, JSON.stringify(cards, null, 3));
+    } catch (err) {
+      console.error(err);
+    }
+
+    return cards;
+  }
+
+  return null;
 };
 
-export const findCardByCodeInSet = (cards: YGOProCard[], cardCode: string): YGOProCard | null => {
-  return cards.find(card => {
-    if (!card.card_sets) return false;
-    return card.card_sets.some(cardSet => cardCodesMatch(cardCode, cardSet.set_code));
-  }) || null;
+export const findCardByCodeInSet = (
+  cards: YGOProCard[],
+  cardCode: string
+): YGOProCard | null => {
+  return (
+    cards.find((card) => {
+      if (!card.card_sets) return false;
+      return card.card_sets.some((cardSet) =>
+        cardCodesMatch(cardCode, cardSet.set_code)
+      );
+    }) || null
+  );
 };
 
 const getEarliestInfo = (cardInfo: YGOProCard, cardSetsByDate: YGOProSet[]) => {
@@ -250,7 +292,7 @@ export const mainFunction = async () => {
     fs.readFileSync(path.join(__dirname, "../data/collection.json"), "utf8")
   );
   const collectionCopy = [...collection];
-  
+
   try {
     const cardSets = await getCardSets();
     const cardSetsByDate = _.sortBy(cardSets, ["tcg_date"]);
@@ -262,7 +304,7 @@ export const mainFunction = async () => {
         // Fetch by code instead of name
         // let cardInfo = await getCardInfo(card["Name"]);
         let cardInfo = null;
-        
+
         // Code-based lookup
         if (card["Code"] && cardSets) {
           const setCode = getSetCodeFromCardCode(card["Code"]);
@@ -271,7 +313,7 @@ export const mainFunction = async () => {
             cardInfo = findCardByCodeInSet(setCards, card["Code"]);
           }
         }
-        
+
         if (cardInfo) {
           const set = getCardSet(card, cardInfo);
           card["Name"] = cardInfo.name;
@@ -309,12 +351,9 @@ export const mainFunction = async () => {
   } catch (e) {
     // console.error(e);
   } finally {
-    fs.writeFile(
+    fs.writeFileSync(
       path.join(__dirname, "../data/collection.json"),
-      JSON.stringify(collectionCopy, null, 3),
-      function (err) {
-        if (err) console.error(err);
-      }
+      JSON.stringify(collectionCopy, null, 3)
     );
   }
 };
