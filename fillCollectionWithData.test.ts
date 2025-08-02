@@ -71,7 +71,7 @@ describe("fillCollectionWithData", () => {
     });
 
     // Import the exported function
-    const { mainFunction } = require("./fillCollectionWithData");
+    const { mainFunction } = require("./fillCollectionWithDataImpl");
 
     await mainFunction();
 
@@ -152,7 +152,7 @@ describe("fillCollectionWithData", () => {
       });
 
     // Import the exported function
-    const { mainFunction } = require("./fillCollectionWithData");
+    const { mainFunction } = require("./fillCollectionWithDataImpl");
 
     await mainFunction();
 
@@ -195,7 +195,7 @@ describe("fillCollectionWithData", () => {
     jest.mocked(axios.get);
 
     // Import the exported function
-    const { mainFunction } = require("./fillCollectionWithData");
+    const { mainFunction } = require("./fillCollectionWithDataImpl");
 
     await mainFunction();
 
@@ -239,7 +239,7 @@ describe("fillCollectionWithData", () => {
     });
 
     // Import the exported function
-    const { mainFunction } = require("./fillCollectionWithData");
+    const { mainFunction } = require("./fillCollectionWithDataImpl");
     await mainFunction();
 
     // Verify one network call was made to get card sets
