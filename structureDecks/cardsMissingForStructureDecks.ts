@@ -1,3 +1,4 @@
+// TODO: Add tests and refactor cardsMissingForStructureDecks
 import { getCardsMissingForStructureDecks } from "./getCardsMissingForStructureDecks.js";
 import fs from "fs";
 

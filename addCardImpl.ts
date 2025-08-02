@@ -59,6 +59,7 @@ export const addCardToCollection = async (
       return false;
     }
 
+    // TODO: Some cards have different rarities per set, when that is the case the CLI should prompt which rarity and user types a letter matching the corresponding rarity
     // Get the card set info for this specific card
     const cardSet = cardInfo.card_sets?.find(
       (set: any) => set.set_code === normalizedCardCode
@@ -75,6 +76,7 @@ export const addCardToCollection = async (
       Code: cardSet.set_code,
       Set: cardSet.set_name,
       Rarity: cardSet.set_rarity?.split(" ")[0] || "",
+      // TODO: CLI should also prompt for edition
       Edition: "",
       "In Deck": "",
       ID: cardInfo.id?.toString() || "",
@@ -115,6 +117,7 @@ export const addCardToCollection = async (
       JSON.stringify(collection, null, 3)
     );
 
+    // TODO: Render the card image on the CLI tool
     console.log(`✅ Added card: ${cardInfo.name} (${normalizedCardCode}) to collection`);
     console.log(`📊 Collection now has ${collection.length} cards`);
 
