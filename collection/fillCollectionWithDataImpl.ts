@@ -77,7 +77,7 @@ export const getCardsFromSet = async (setCode: string, cardSets: YGOProSet[]): P
       // console.error(e);
     });
 
-  return (result && (result.data as YGOProCard[])) || null;
+  return (result && result.data && (result.data.data as YGOProCard[])) || null;
 };
 
 export const findCardByCodeInSet = (cards: YGOProCard[], cardCode: string): YGOProCard | null => {

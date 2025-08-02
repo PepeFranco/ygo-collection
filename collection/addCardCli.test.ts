@@ -30,7 +30,7 @@ describe("addCardCli", () => {
     jest.clearAllMocks();
   });
 
-  it("should call addCardToCollection function", async () => {
+  it("should add a card to the collection", async () => {
     // Mock fs.readFileSync for cardsets and collection
     jest
       .mocked(fs.readFileSync)
@@ -54,7 +54,8 @@ describe("addCardCli", () => {
 
     // Mock axios call for getting cards from set
     jest.mocked(axios.get).mockResolvedValueOnce({
-      data: [
+      data: {
+        data: [
         {
           id: 89631139,
           name: "Blue-Eyes White Dragon",
@@ -75,11 +76,13 @@ describe("addCardCli", () => {
           archetype: "Blue-Eyes",
           card_images: [
             {
-              image_url_small: "https://images.ygoprodeck.com/images/cards_small/89631139.jpg",
+              image_url_small:
+                "https://images.ygoprodeck.com/images/cards_small/89631139.jpg",
             },
           ],
         },
       ],
+      },
     });
 
     const result = await addCardToCollection("LOB-001");
@@ -144,7 +147,8 @@ describe("addCardCli", () => {
 
     // Mock axios call for getting cards from set
     jest.mocked(axios.get).mockResolvedValueOnce({
-      data: [
+      data: {
+        data: [
         {
           id: 89631139,
           name: "Blue-Eyes White Dragon",
@@ -165,11 +169,13 @@ describe("addCardCli", () => {
           archetype: "Blue-Eyes",
           card_images: [
             {
-              image_url_small: "https://images.ygoprodeck.com/images/cards_small/89631139.jpg",
+              image_url_small:
+                "https://images.ygoprodeck.com/images/cards_small/89631139.jpg",
             },
           ],
         },
       ],
+      },
     });
 
     const result = await addCardToCollection("lob-001");
@@ -234,7 +240,8 @@ describe("addCardCli", () => {
 
     // Mock axios call for getting cards from set
     jest.mocked(axios.get).mockResolvedValueOnce({
-      data: [
+      data: {
+        data: [
         {
           id: 89631139,
           name: "Blue-Eyes White Dragon",
@@ -255,11 +262,13 @@ describe("addCardCli", () => {
           archetype: "Blue-Eyes",
           card_images: [
             {
-              image_url_small: "https://images.ygoprodeck.com/images/cards_small/89631139.jpg",
+              image_url_small:
+                "https://images.ygoprodeck.com/images/cards_small/89631139.jpg",
             },
           ],
         },
       ],
+      },
     });
 
     const result = await addCardToCollection("lob 1");

@@ -126,7 +126,8 @@ describe("fillCollectionWithData", () => {
       })
       .mockResolvedValueOnce({
         // 2. /api/v7/cardinfo.php?cardset=legend%20of%20blue-eyes%20white%20dragon
-        data: [
+        data: {
+          data: [
           {
             id: 89631139,
             name: "Blue-Eyes White Dragon",
@@ -154,6 +155,7 @@ describe("fillCollectionWithData", () => {
             ],
           },
         ],
+        },
       });
 
     // Import the exported function
