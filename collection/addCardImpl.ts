@@ -156,11 +156,11 @@ export const addCardToCollection = async (
       Rarity: cardSet.set_rarity || "",
       Edition: edition || "",
       "In Deck": "",
-      ID: cardInfo.id || "",
+      ID: cardInfo.id || 0,
       Type: cardInfo.type || "",
-      ATK: cardInfo.atk?.toString() || "",
-      DEF: cardInfo.def?.toString() || "",
-      Level: cardInfo.level?.toString() || "",
+      ATK: cardInfo.atk || 0,
+      DEF: cardInfo.def || 0,
+      Level: cardInfo.level || 0,
       "Card Type": cardInfo.race || "",
       Attribute: cardInfo.attribute || "",
       Archetype: cardInfo.archetype || "",
@@ -173,7 +173,7 @@ export const addCardToCollection = async (
         : "No",
       "Is Speed Duel Legal": "",
       Keep: "",
-      Price: cardSet.set_price || "0",
+      Price: parseFloat(cardSet.set_price) || 0,
     };
 
     // Read existing collection

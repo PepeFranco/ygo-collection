@@ -5,26 +5,26 @@
 // the Google Drive spreadsheet column structure
 
 export type CollectionRow = {
-  Name: string;
-  Code?: string;
-  Set?: string;
-  Rarity?: string;
-  Edition?: string;
-  "In Deck"?: string;
-  ID?: string;
-  Type?: string;
-  ATK?: string;
-  DEF?: string;
-  Level?: string;
-  "Card Type"?: string;
-  Attribute?: string;
-  Archetype?: string;
-  Scale?: string;
-  "Link Scale"?: string;
-  "Earliest Set"?: string;
-  "Earliest Date"?: string;
-  "Is Speed Duel"?: string;
-  "Is Speed Duel Legal"?: string;
-  Keep?: string;
-  Price?: string;
+  Name: string | number;
+  Code?: string | number;
+  Set?: string | number;
+  Rarity?: string | number;
+  Edition?: string | number;
+  "In Deck"?: string | number;
+  ID?: string | number;
+  Type?: string | number;
+  ATK?: string | number;
+  DEF?: string | number;
+  Level?: string | number;
+  "Card Type"?: string | number;
+  Attribute?: string | number;
+  Archetype?: string | number;
+  Scale?: string | number;
+  "Link Scale"?: string | number;
+  "Earliest Set"?: string | number;
+  "Earliest Date"?: string | number;
+  "Is Speed Duel"?: string | number;
+  "Is Speed Duel Legal"?: string | number;
+  Keep?: string | number;
+  Price?: string | number;
 };

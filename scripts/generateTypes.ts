@@ -33,7 +33,7 @@ const generateCollectionRowType = (headers: string[]): string => {
     const fieldName = sanitizeFieldName(header);
     // First field (Name) is required, all others optional
     const optional = header === "Name" ? "" : "?";
-    return `  ${fieldName}${optional}: string;`;
+    return `  ${fieldName}${optional}: string | number;`;
   }).join("\n");
 
   return `export type CollectionRow = {
