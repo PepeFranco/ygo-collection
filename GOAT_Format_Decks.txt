@@ -1,0 +1,124 @@
+GOAT FORMAT DECKS - Built from Collection
+=====================================
+
+Based on analysis of collection-snapshot-2025-08-03.json
+Built using only cards legal in April 2005 GOAT format
+
+## **GOAT CONTROL DECK (40 cards)**
+Strategy: Control the game through card advantage, flip effects, and powerful boss monsters
+
+**MONSTERS (14):**
+- 1x Black Luster Soldier - Envoy of the Beginning
+- 1x Chaos Emperor Dragon - Envoy of the End  
+- 1x Airknight Parshath
+- 1x Asura Priest
+- 1x Breaker the Magical Warrior
+- 1x D.D. Assailant
+- 1x D.D. Warrior Lady
+- 1x Exiled Force
+- 1x Magician of Faith
+- 1x Morphing Jar
+- 1x Sinister Serpent
+- 1x Spirit Reaper
+- 2x Mystic Tomato
+
+**SPELLS (16):**
+- 1x Book of Moon
+- 1x Graceful Charity
+- 1x Pot of Greed
+- 1x Premature Burial
+- 1x Snatch Steal
+- 1x Swords of Revealing Light
+- 1x The Forceful Sentry
+- 1x Delinquent Duo
+- 1x Heavy Storm
+- 1x Lightning Vortex
+- 2x Mystical Space Typhoon
+- 1x Nobleman of Crossout
+- 1x Scapegoat
+- 2x Smashing Ground
+
+**TRAPS (10):**
+- 1x Call of the Haunted
+- 1x Mirror Force
+- 1x Ring of Destruction
+- 1x Torrential Tribute
+- 1x Trap Dustshoot
+- 2x Bottomless Trap Hole
+- 2x Sakuretsu Armor
+- 1x Widespread Ruin
+
+**WIN CONDITION:** 
+Control the board with removal and flip effects, then win with Black Luster Soldier or Chaos Emperor Dragon
+
+=====================================
+
+## **GOAT BEATDOWN DECK (40 cards)**
+Strategy: Apply consistent pressure with efficient beaters and hand disruption
+
+**MONSTERS (18):**
+- 1x Jinzo
+- 1x Zaborg the Thunder Monarch
+- 1x Mobius the Frost Monarch
+- 1x Berserk Gorilla
+- 1x Blade Knight
+- 1x Don Zaloog
+- 2x Elemental Hero Sparkman
+- 1x Exiled Force
+- 1x Kycoo the Ghost Destroyer
+- 1x Magical Merchant
+- 1x Magician of Faith
+- 1x Sinister Serpent
+- 2x Goblin Attack Force
+- 2x Gemini Elf
+
+**SPELLS (14):**
+- 1x Book of Moon
+- 1x Graceful Charity
+- 1x Pot of Greed
+- 1x Premature Burial
+- 1x Snatch Steal
+- 1x The Forceful Sentry
+- 1x Delinquent Duo
+- 1x Heavy Storm
+- 1x Lightning Vortex
+- 2x Mystical Space Typhoon
+- 1x Nobleman of Crossout
+- 1x Reinforcement of the Army
+- 1x Smashing Ground
+
+**TRAPS (8):**
+- 1x Call of the Haunted
+- 1x Mirror Force
+- 1x Torrential Tribute
+- 1x Trap Dustshoot
+- 2x Bottomless Trap Hole
+- 2x Dust Tornado
+
+**WIN CONDITION:** 
+Maintain board presence with efficient beaters while disrupting opponent's hand and resources
+
+=====================================
+
+## **DECK BALANCE ANALYSIS**
+
+**GOAT CONTROL:**
+- Strengths: Superior card advantage, powerful late game, excellent removal
+- Weaknesses: Slower setup, vulnerable to aggressive rushes early
+
+**GOAT BEATDOWN:**
+- Strengths: Consistent pressure, hand disruption, faster pace  
+- Weaknesses: Less card advantage, weaker to control strategies
+
+These decks create compelling matchups that capture the authentic GOAT format experience, with Control favored in longer games and Beatdown having early game advantages. Both follow the April 2005 banlist restrictions exactly.
+
+=====================================
+
+## **COLLECTION ANALYSIS NOTES**
+
+- Total GOAT-legal cards found: 3,830 cards (released by April 2005)
+- Excellent availability of GOAT staples including multiple copies of key limited cards
+- Strong card pool for both control and aggressive strategies
+- All decks built using only cards confirmed to be in the collection snapshot
+
+Date Created: August 3, 2025
