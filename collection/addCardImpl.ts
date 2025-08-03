@@ -156,7 +156,7 @@ export const addCardToCollection = async (
       Rarity: cardSet.set_rarity || "",
       Edition: edition || "",
       "In Deck": "",
-      ID: cardInfo.id?.toString() || "",
+      ID: cardInfo.id || "",
       Type: cardInfo.type || "",
       ATK: cardInfo.atk?.toString() || "",
       DEF: cardInfo.def?.toString() || "",

@@ -101,7 +101,7 @@ describe("addCardCli", () => {
             Rarity: "Ultra Rare",
             Edition: "",
             "In Deck": "",
-            ID: "89631139",
+            ID: 89631139,
             Type: "Normal Monster",
             ATK: "3000",
             DEF: "2500",
@@ -180,7 +180,11 @@ describe("addCardCli", () => {
       },
     });
 
-    const result = await addCardToCollection("LOB-001", undefined, "1st Edition");
+    const result = await addCardToCollection(
+      "LOB-001",
+      undefined,
+      "1st Edition"
+    );
 
     expect(result).toBe(true);
     expect(fs.writeFileSync).toHaveBeenCalledWith(
@@ -194,7 +198,7 @@ describe("addCardCli", () => {
             Rarity: "Ultra Rare",
             Edition: "1st Edition",
             "In Deck": "",
-            ID: "89631139",
+            ID: 89631139,
             Type: "Normal Monster",
             ATK: "3000",
             DEF: "2500",
@@ -287,7 +291,7 @@ describe("addCardCli", () => {
             Rarity: "Ultra Rare",
             Edition: "",
             "In Deck": "",
-            ID: "89631139",
+            ID: 89631139,
             Type: "Normal Monster",
             ATK: "3000",
             DEF: "2500",
@@ -380,7 +384,7 @@ describe("addCardCli", () => {
             Rarity: "Ultra Rare",
             Edition: "",
             "In Deck": "",
-            ID: "89631139",
+            ID: 89631139,
             Type: "Normal Monster",
             ATK: "3000",
             DEF: "2500",
@@ -596,7 +600,7 @@ describe("addCardCli", () => {
             Rarity: "Ultimate Rare",
             Edition: "",
             "In Deck": "",
-            ID: "89631139",
+            ID: 89631139,
             Type: "Normal Monster",
             ATK: "3000",
             DEF: "2500",
