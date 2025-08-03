@@ -1,6 +1,6 @@
 import _ from "lodash";
 import fs from "fs";
-import type { CollectionRow } from "../data/data.types";
+import type { CollectionRow } from "../data/collection.types";
 import type { CardForXSet } from "./structureDecks.type";
 
 const cardsFor3Sets: CardForXSet[] = require("./cardsFor3Sets.json");

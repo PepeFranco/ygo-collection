@@ -8,7 +8,7 @@ import {
   getCardSets,
   cardCodesMatch,
 } from "./fillCollectionWithDataImpl";
-import { CollectionRow } from "../data/data.types";
+import { CollectionRow } from "../data/collection.types";
 
 const normalizeCardCode = (cardCode: string): string => {
   // Convert to uppercase and remove extra spaces

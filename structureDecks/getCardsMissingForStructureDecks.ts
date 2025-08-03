@@ -1,6 +1,7 @@
 import _ from "lodash";
 
-import type { Banlist, CollectionRow, YGOProSet } from "../data/data.types";
+import type { Banlist, YGOProSet } from "../data/data.types";
+import type { CollectionRow } from "../data/collection.types";
 import type {
   StructureDeck,
   StructureDeckWithLimitedCards,

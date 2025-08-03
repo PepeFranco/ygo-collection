@@ -1,4 +1,4 @@
-import { CollectionRow } from "../../data/data.types";
+import { CollectionRow } from "../../data/collection.types";
 import fs from "node:fs";
 import csv from "csvtojson";
 import path from "path";

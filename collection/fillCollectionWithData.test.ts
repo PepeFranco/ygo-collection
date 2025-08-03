@@ -1,7 +1,7 @@
 import axios from "axios";
 import * as fs from "fs";
 import path from "path";
-import { CollectionRow } from "../data/data.types";
+import { CollectionRow } from "../data/collection.types";
 
 jest.mock("axios", () => ({
   get: jest.fn(),
