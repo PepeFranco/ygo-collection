@@ -46,7 +46,7 @@ describe("addCardCliImpl - Clean Async/Await Version", () => {
     });
   });
 
-  describe("Individual Mode - Extended Edge Cases", () => {
+  describe("Individual Mode", () => {
     it("can save individual card", async () => {
       (addCardToCollection as jest.Mock).mockResolvedValue(true);
 
@@ -123,26 +123,6 @@ describe("addCardCliImpl - Clean Async/Await Version", () => {
   });
 
   describe("Batch Mode", () => {
-    it("should set up batch mode correctly", async () => {
-      (addCardToCollection as jest.Mock).mockResolvedValue(true);
-
-      mockQuestion
-        .mockResolvedValueOnce("2") // Mode selection
-        .mockResolvedValueOnce("LOB") // Set code
-        .mockResolvedValueOnce("1") // 1st Edition
-        .mockResolvedValueOnce("1") // Card number
-        .mockResolvedValueOnce("done"); // Finish
-
-      const cli = createCLI(mockRL);
-      await cli.startCli();
-
-      expect(addCardToCollection).toHaveBeenCalledWith(
-        "LOB-001",
-        undefined,
-        "1st"
-      );
-    });
-
     it("should handle multiple card numbers", async () => {
       (addCardToCollection as jest.Mock).mockResolvedValue(true);
 
@@ -151,7 +131,7 @@ describe("addCardCliImpl - Clean Async/Await Version", () => {
         .mockResolvedValueOnce("SGX1") // Set code
         .mockResolvedValueOnce("2") // LIMITED edition
         .mockResolvedValueOnce("1") // First card
-        .mockResolvedValueOnce("25") // Second card
+        .mockResolvedValueOnce("A25") // Second card
         .mockResolvedValueOnce("done"); // Finish
 
       const cli = createCLI(mockRL);
@@ -163,14 +143,76 @@ describe("addCardCliImpl - Clean Async/Await Version", () => {
         "LIMITED"
       );
       expect(addCardToCollection).toHaveBeenCalledWith(
-        "SGX1-025",
+        "SGX1-A25",
         undefined,
         "LIMITED"
       );
     });
-  });
 
-  describe("Batch Mode", () => {
-    // TODO: Add comprehensive batch mode edge case tests
+    it("handles multiple rarities on cards in batch mode", async () => {
+      const mockMultipleRarities = {
+        error: "Multiple rarities found for this card code",
+        rarities: ["Common", "Super Rare"],
+      };
+
+      (addCardToCollection as jest.Mock)
+        .mockResolvedValueOnce(true) // First card succeeds
+        .mockResolvedValueOnce(mockMultipleRarities) // Second card has multiple rarities
+        .mockResolvedValueOnce(true); // Final save succeeds
+
+      mockQuestion
+        .mockResolvedValueOnce("2") // Mode selection
+        .mockResolvedValueOnce("TEST") // Set code
+        .mockResolvedValueOnce("1") // 1st Edition
+        .mockResolvedValueOnce("5") // First card number
+        .mockResolvedValueOnce("12") // Second card number
+        .mockResolvedValueOnce("2") // Select Super Rare (2nd option)
+        .mockResolvedValueOnce("done"); // Finish
+
+      const cli = createCLI(mockRL);
+      await cli.startCli();
+
+      expect(addCardToCollection).toHaveBeenCalledWith(
+        "TEST-005",
+        undefined,
+        "1st"
+      );
+      expect(addCardToCollection).toHaveBeenCalledWith(
+        "TEST-012",
+        undefined,
+        "1st"
+      );
+      expect(addCardToCollection).toHaveBeenCalledWith(
+        "TEST-012",
+        "Super Rare",
+        "1st"
+      );
+      expect(consoleSpy).toHaveBeenCalledWith("\n🎯 Selected: Super Rare");
+    });
+
+    it("handles card failure in batch mode", async () => {
+      (addCardToCollection as jest.Mock)
+        .mockResolvedValueOnce(true)  // First card succeeds
+        .mockResolvedValueOnce(false) // Second card fails
+        .mockResolvedValueOnce(true); // Third card succeeds
+
+      mockQuestion
+        .mockResolvedValueOnce("2")     // Mode selection
+        .mockResolvedValueOnce("FAIL")  // Set code
+        .mockResolvedValueOnce("")      // No edition
+        .mockResolvedValueOnce("1")     // First card number (succeeds)
+        .mockResolvedValueOnce("99")    // Second card number (fails)
+        .mockResolvedValueOnce("3")     // Third card number (succeeds)
+        .mockResolvedValueOnce("done"); // Finish
+
+      const cli = createCLI(mockRL);
+      await cli.startCli();
+
+      expect(addCardToCollection).toHaveBeenCalledWith("FAIL-001", undefined, "");
+      expect(addCardToCollection).toHaveBeenCalledWith("FAIL-099", undefined, "");
+      expect(addCardToCollection).toHaveBeenCalledWith("FAIL-003", undefined, "");
+      expect(consoleSpy).toHaveBeenCalledWith("❌ Failed to add card");
+      expect(consoleSpy).toHaveBeenCalledWith("🏷️ No edition selected");
+    });
   });
 });
