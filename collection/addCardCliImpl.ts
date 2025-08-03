@@ -1,6 +1,22 @@
 import * as readline from "readline";
 import { addCardToCollection } from "./addCardImpl";
 
+// ANSI color codes
+const colors = {
+  reset: '\x1b[0m',
+  blue: '\x1b[34m',      // Mode selection
+  green: '\x1b[32m',     // Individual card codes
+  cyan: '\x1b[36m',      // Batch set codes
+  yellow: '\x1b[33m',    // Rarity selection
+  magenta: '\x1b[35m',   // Edition selection
+  brightGreen: '\x1b[92m' // Batch card numbers
+};
+
+// Helper function to colorize prompts
+const colorPrompt = (text: string, color: string): string => {
+  return `${color}${text}${colors.reset}`;
+};
+
 export interface CLIInterface {
   question: (prompt: string) => Promise<string>;
   close: () => void;
@@ -22,13 +38,56 @@ export const createCLI = (rlInterface?: CLIInterface) => {
     output: process.stdout,
   }));
 
+  // Shared utility functions
+  const promptForEdition = async (): Promise<string> => {
+    console.log("\nEdition options:");
+    console.log("1. 1st Edition");
+    console.log("2. Limited Edition");
+    console.log("Press Enter for no edition");
+
+    const editionInput = await rl.question(colorPrompt("Select edition (1/2 or Enter): ", colors.magenta));
+    const trimmedEditionInput = editionInput.trim();
+    let selectedEdition = "";
+
+    if (trimmedEditionInput === "1") {
+      selectedEdition = "1st";
+      console.log("🏷️ Selected: 1st Edition");
+    } else if (trimmedEditionInput === "2") {
+      selectedEdition = "LIMITED";
+      console.log("🏷️ Selected: Limited Edition");
+    } else {
+      console.log("🏷️ No edition selected");
+    }
+
+    return selectedEdition;
+  };
+
+  const promptForRarity = async (rarities: string[]): Promise<string | null> => {
+    console.log("Available rarities:");
+    rarities.forEach((rarity, index) => {
+      console.log(`${index + 1}. ${rarity}`);
+    });
+
+    const rarityInput = await rl.question(colorPrompt("\nSelect rarity number: ", colors.yellow));
+    const rarityIndex = parseInt(rarityInput.trim()) - 1;
+
+    if (isNaN(rarityIndex) || rarityIndex < 0 || rarityIndex >= rarities.length) {
+      console.log("❌ Invalid selection. Please try again.\n");
+      return null;
+    }
+
+    const selectedRarity = rarities[rarityIndex];
+    console.log(`\n🎯 Selected: ${selectedRarity}`);
+    return selectedRarity;
+  };
+
   const startCli = async () => {
     console.log("🎴 Yu-Gi-Oh Card Collection CLI Tool");
     console.log("Choose your mode:\n");
     console.log("1. Individual mode - Add cards one by one with full code");
     console.log("2. Batch mode - Add multiple cards from the same set\n");
 
-    const modeInput = await rl.question("Select mode (1/2): ");
+    const modeInput = await rl.question(colorPrompt("Select mode (1/2): ", colors.blue));
     const trimmedModeInput = modeInput.trim();
 
     if (trimmedModeInput === "1") {
@@ -50,31 +109,9 @@ export const createCLI = (rlInterface?: CLIInterface) => {
   };
 
 const startIndividualMode = async () => {
-  const promptForEdition = async (): Promise<string> => {
-    console.log("\nEdition options:");
-    console.log("1. 1st Edition");
-    console.log("2. Limited Edition");
-    console.log("Press Enter for no edition");
-
-    const editionInput = await rl.question("Select edition (1/2 or Enter): ");
-    const trimmedEditionInput = editionInput.trim();
-    let selectedEdition = "";
-
-    if (trimmedEditionInput === "1") {
-      selectedEdition = "1st";
-      console.log("🏷️ Selected: 1st Edition");
-    } else if (trimmedEditionInput === "2") {
-      selectedEdition = "LIMITED";
-      console.log("🏷️ Selected: Limited Edition");
-    } else {
-      console.log("🏷️ No edition selected");
-    }
-
-    return selectedEdition;
-  };
 
   const promptForCard = async (): Promise<void> => {
-    const input = await rl.question("Enter card code (e.g., LOB-001): ");
+    const input = await rl.question(colorPrompt("Enter card code (e.g., LOB-001): ", colors.green));
     const trimmedInput = input.trim();
 
     if (
@@ -110,27 +147,12 @@ const startIndividualMode = async () => {
     // Check if multiple rarities were found
     if (typeof result === "object" && result.error && result.rarities) {
       console.log(`\n${result.error}`);
-      console.log("Available rarities:");
-
-      result.rarities.forEach((rarity, index) => {
-        console.log(`${index + 1}. ${rarity}`);
-      });
-
-      const rarityInput = await rl.question("\nSelect rarity number: ");
-      const rarityIndex = parseInt(rarityInput.trim()) - 1;
-
-      if (
-        isNaN(rarityIndex) ||
-        rarityIndex < 0 ||
-        rarityIndex >= result.rarities.length
-      ) {
-        console.log("❌ Invalid selection. Please try again.\n");
+      
+      const selectedRarity = await promptForRarity(result.rarities);
+      if (!selectedRarity) {
         await promptForCard();
         return;
       }
-
-      const selectedRarity = result.rarities[rarityIndex];
-      console.log(`\n🎯 Selected: ${selectedRarity}`);
 
       const finalResult = await addCardToCollection(
         trimmedInput,
@@ -162,7 +184,7 @@ const startBatchMode = async () => {
   console.log("\n🔧 Setting up batch mode...");
 
   // First prompt for set code
-  const setInput = await rl.question("Enter set code (e.g., LOB, SGX1): ");
+  const setInput = await rl.question(colorPrompt("Enter set code (e.g., LOB, SGX1): ", colors.cyan));
   const setCode = setInput.trim().toUpperCase();
 
   if (!setCode) {
@@ -180,30 +202,7 @@ const startBatchMode = async () => {
   console.log(`\n📦 Set: ${setCode}`);
 
   // Then prompt for edition
-  const promptForBatchEdition = async (): Promise<string> => {
-    console.log("\nEdition options:");
-    console.log("1. 1st Edition");
-    console.log("2. Limited Edition");
-    console.log("Press Enter for no edition");
-
-    const editionInput = await rl.question("Select edition (1/2 or Enter): ");
-    const trimmedEditionInput = editionInput.trim();
-    let selectedEdition = "";
-
-    if (trimmedEditionInput === "1") {
-      selectedEdition = "1st";
-      console.log("🏷️ Selected: 1st Edition");
-    } else if (trimmedEditionInput === "2") {
-      selectedEdition = "LIMITED";
-      console.log("🏷️ Selected: Limited Edition");
-    } else {
-      console.log("🏷️ No edition selected");
-    }
-
-    return selectedEdition;
-  };
-
-  const selectedEdition = await promptForBatchEdition();
+  const selectedEdition = await promptForEdition();
   
   console.log(
     `\n🎯 Batch setup complete: ${setCode} ${
@@ -214,7 +213,7 @@ const startBatchMode = async () => {
   console.log('Type "exit", "quit", or "done" to finish batch\n');
 
   const promptForCardNumber = async (): Promise<void> => {
-    const numberInput = await rl.question(`Enter card number for ${setCode}: `);
+    const numberInput = await rl.question(colorPrompt(`Enter card number for ${setCode}: `, colors.brightGreen));
     const trimmedNumberInput = numberInput.trim();
 
     if (
@@ -253,27 +252,12 @@ const startBatchMode = async () => {
     // Check if multiple rarities were found
     if (typeof result === "object" && result.error && result.rarities) {
       console.log(`\n${result.error}`);
-      console.log("Available rarities:");
-
-      result.rarities.forEach((rarity, index) => {
-        console.log(`${index + 1}. ${rarity}`);
-      });
-
-      const rarityInput = await rl.question("\nSelect rarity number: ");
-      const rarityIndex = parseInt(rarityInput.trim()) - 1;
-
-      if (
-        isNaN(rarityIndex) ||
-        rarityIndex < 0 ||
-        rarityIndex >= result.rarities.length
-      ) {
-        console.log("❌ Invalid selection. Please try again.\n");
+      
+      const selectedRarity = await promptForRarity(result.rarities);
+      if (!selectedRarity) {
         await promptForCardNumber();
         return;
       }
-
-      const selectedRarity = result.rarities[rarityIndex];
-      console.log(`\n🎯 Selected: ${selectedRarity}`);
 
       const finalResult = await addCardToCollection(
         fullCardCode,
