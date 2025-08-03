@@ -192,25 +192,37 @@ describe("addCardCliImpl - Clean Async/Await Version", () => {
 
     it("handles card failure in batch mode", async () => {
       (addCardToCollection as jest.Mock)
-        .mockResolvedValueOnce(true)  // First card succeeds
+        .mockResolvedValueOnce(true) // First card succeeds
         .mockResolvedValueOnce(false) // Second card fails
         .mockResolvedValueOnce(true); // Third card succeeds
 
       mockQuestion
-        .mockResolvedValueOnce("2")     // Mode selection
-        .mockResolvedValueOnce("FAIL")  // Set code
-        .mockResolvedValueOnce("")      // No edition
-        .mockResolvedValueOnce("1")     // First card number (succeeds)
-        .mockResolvedValueOnce("99")    // Second card number (fails)
-        .mockResolvedValueOnce("3")     // Third card number (succeeds)
+        .mockResolvedValueOnce("2") // Mode selection
+        .mockResolvedValueOnce("FAIL") // Set code
+        .mockResolvedValueOnce("") // No edition
+        .mockResolvedValueOnce("1") // First card number (succeeds)
+        .mockResolvedValueOnce("99") // Second card number (fails)
+        .mockResolvedValueOnce("3") // Third card number (succeeds)
         .mockResolvedValueOnce("done"); // Finish
 
       const cli = createCLI(mockRL);
       await cli.startCli();
 
-      expect(addCardToCollection).toHaveBeenCalledWith("FAIL-001", undefined, "");
-      expect(addCardToCollection).toHaveBeenCalledWith("FAIL-099", undefined, "");
-      expect(addCardToCollection).toHaveBeenCalledWith("FAIL-003", undefined, "");
+      expect(addCardToCollection).toHaveBeenCalledWith(
+        "FAIL-001",
+        undefined,
+        ""
+      );
+      expect(addCardToCollection).toHaveBeenCalledWith(
+        "FAIL-099",
+        undefined,
+        ""
+      );
+      expect(addCardToCollection).toHaveBeenCalledWith(
+        "FAIL-003",
+        undefined,
+        ""
+      );
       expect(consoleSpy).toHaveBeenCalledWith("❌ Failed to add card");
       expect(consoleSpy).toHaveBeenCalledWith("🏷️ No edition selected");
     });
