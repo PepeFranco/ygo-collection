@@ -2050,5 +2050,29 @@
       "field23": "",
       "field24": "",
       "field25": ""
+   },
+   {
+      "Name": "Cyber Blader",
+      "Code": "SGX1-ENE21",
+      "Set": "Speed Duel GX: Duel Academy Box",
+      "Rarity": "Common",
+      "Edition": "1st",
+      "In Deck": "",
+      "ID": 10248389,
+      "Type": "Fusion Monster",
+      "ATK": "2100",
+      "DEF": "800",
+      "Level": "7",
+      "Card Type": "Warrior",
+      "Attribute": "EARTH",
+      "Archetype": "",
+      "Scale": "",
+      "Link Scale": "",
+      "Earliest Set": "",
+      "Earliest Date": "",
+      "Is Speed Duel": "Yes",
+      "Is Speed Duel Legal": "",
+      "Keep": "",
+      "Price": "0"
    }
 ]
