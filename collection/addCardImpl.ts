@@ -7,6 +7,8 @@ import {
   findCardByCodeInSet,
   getCardSets,
   cardCodesMatch,
+  getEarliestInfo,
+  getSpeedDuelInfo,
 } from "./fillCollectionWithDataImpl";
 import { CollectionRow } from "../data/collection.types";
 
@@ -148,34 +150,11 @@ export const addCardToCollection = async (
       cardSet = matchingSets[0];
     }
 
-    // Find earliest set information
-    let earliestSet = "";
-    let earliestDate = "";
-    let earliestCardSetInfo = null;
-    
-    if (cardInfo.card_sets && cardInfo.card_sets.length > 0) {
-      // Get unique set names that this card appears in
-      const cardSetNames = [...new Set(cardInfo.card_sets.map((cs: any) => cs.set_name))];
-      
-      // Filter cardSets to only include sets this card appears in
-      const relevantCardSets = cardSets.filter((cs: any) => 
-        cardSetNames.includes(cs.set_name)
-      );
-      
-      // Sort by date and pick the earliest
-      const sortedBySets = relevantCardSets
-        .filter((cs: any) => cs.tcg_date) // Only include sets with dates
-        .sort((a: any, b: any) => new Date(a.tcg_date).getTime() - new Date(b.tcg_date).getTime());
-      
-      if (sortedBySets.length > 0) {
-        const earliest = sortedBySets[0];
-        earliestSet = earliest.set_name;
-        earliestDate = earliest.tcg_date;
-        
-        // Find the card set info from the earliest set
-        earliestCardSetInfo = cardInfo.card_sets.find((cs: any) => cs.set_name === earliest.set_name);
-      }
-    }
+    // Get earliest set information using shared utility
+    const earliestInfo = getEarliestInfo(cardInfo, cardSets);
+
+    // Get Speed Duel information using shared utility
+    const speedDuelInfo = getSpeedDuelInfo(cardInfo, cardSet);
 
     // Create collection entry
     const newCard: CollectionRow = {
@@ -195,14 +174,10 @@ export const addCardToCollection = async (
       Archetype: cardInfo.archetype || "",
       Scale: cardInfo.scale?.toString() || "",
       "Link Scale": cardInfo.linkval?.toString() || "",
-      "Earliest Set": earliestSet,
-      "Earliest Date": earliestDate,
-      "Is Speed Duel": cardSet.set_name?.toLowerCase().includes("speed duel")
-        ? "Yes"
-        : "No",
-      "Is Speed Duel Legal": cardInfo.card_sets?.some((cs: any) => 
-        cs.set_name?.toLowerCase().includes("speed duel")
-      ) ? "Yes" : "",
+      "Earliest Set": earliestInfo.earliestSet,
+      "Earliest Date": earliestInfo.earliestDate,
+      "Is Speed Duel": speedDuelInfo.isSpeedDuel,
+      "Is Speed Duel Legal": speedDuelInfo.isSpeedDuelLegal,
       Keep: "",
       Price: parseFloat(cardSet.set_price) || 0,
     };

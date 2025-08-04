@@ -156,24 +156,64 @@ export const findCardByCodeInSet = (
   );
 };
 
-const getEarliestInfo = (cardInfo: YGOProCard, cardSetsByDate: YGOProSet[]) => {
-  if (!cardInfo) {
-    return {};
+export const getEarliestInfo = (cardInfo: YGOProCard, cardSets: YGOProSet[]) => {
+  if (!cardInfo || !cardInfo.card_sets || cardInfo.card_sets.length === 0) {
+    return {
+      earliestSet: "",
+      earliestDate: "",
+      earliestCardSetInfo: null,
+    };
   }
-  const earliestSet = cardSetsByDate.find((currentSet) => {
-    if (!cardInfo.card_sets) {
-      return false;
-    }
-    const found = cardInfo.card_sets.find(
-      (cardSet) => cardSet.set_name === currentSet.set_name
-    );
-    if (found) {
-      return true;
-    }
-  });
+
+  // Get unique set names that this card appears in
+  const cardSetNames = [...new Set(cardInfo.card_sets.map((cs: any) => cs.set_name))];
+  
+  // Filter cardSets to only include sets this card appears in
+  const relevantCardSets = cardSets.filter((cs: any) => 
+    cardSetNames.includes(cs.set_name)
+  );
+  
+  // Sort by date and pick the earliest
+  const sortedBySets = relevantCardSets
+    .filter((cs: any) => cs.tcg_date) // Only include sets with dates
+    .sort((a: any, b: any) => new Date(a.tcg_date).getTime() - new Date(b.tcg_date).getTime());
+  
+  if (sortedBySets.length > 0) {
+    const earliest = sortedBySets[0];
+    const earliestCardSetInfo = cardInfo.card_sets.find((cs: any) => cs.set_name === earliest.set_name);
+    
+    return {
+      earliestSet: earliest.set_name,
+      earliestDate: earliest.tcg_date,
+      earliestCardSetInfo,
+    };
+  }
+
   return {
-    earliestSet: (earliestSet && earliestSet.set_name) || "",
-    earliestDate: (earliestSet && earliestSet.tcg_date) || "",
+    earliestSet: "",
+    earliestDate: "",
+    earliestCardSetInfo: null,
+  };
+};
+
+export const isSpeedDuelSet = (setName: string): boolean => {
+  return setName?.toLowerCase().includes("speed duel") || false;
+};
+
+export const isCardSpeedDuelLegal = (cardInfo: YGOProCard): boolean => {
+  if (!cardInfo.card_sets) return false;
+  return cardInfo.card_sets.some((cs: any) => 
+    isSpeedDuelSet(cs.set_name)
+  );
+};
+
+export const getSpeedDuelInfo = (cardInfo: YGOProCard, cardSet: any) => {
+  const isSpeedDuel = isSpeedDuelSet(cardSet.set_name) ? "Yes" : "No";
+  const isSpeedDuelLegal = isCardSpeedDuelLegal(cardInfo) ? "Yes" : "";
+  
+  return {
+    isSpeedDuel,
+    isSpeedDuelLegal,
   };
 };
 
@@ -305,7 +345,11 @@ export const mainFunction = async () => {
 
   try {
     const cardSets = await getCardSets();
-    const cardSetsByDate = _.sortBy(cardSets, ["tcg_date"]);
+    if (!cardSets) {
+      console.log("❌ Unable to fetch card sets");
+      return;
+    }
+    
     for (let i = 0; i < collectionCopy.length; i++) {
       const card = collectionCopy[i];
 
@@ -316,7 +360,7 @@ export const mainFunction = async () => {
         let cardInfo = null;
 
         // Code-based lookup
-        if (card["Code"] && cardSets) {
+        if (card["Code"]) {
           const setCode = getSetCodeFromCardCode(card["Code"]);
           const setCards = await getCardsFromSet(setCode, cardSets);
           if (setCards) {
@@ -342,14 +386,12 @@ export const mainFunction = async () => {
           card["Archetype"] = cardInfo.archetype || "";
           card["Scale"] = cardInfo.scale || "";
           card["Link Scale"] = cardInfo.linkval || "";
-          const earliestSet = getEarliestInfo(cardInfo, cardSetsByDate);
-          card["Earliest Set"] = earliestSet.earliestSet || "";
-          card["Earliest Date"] = earliestSet.earliestDate || "";
-          const isSpeedDuel =
-            (set &&
-              set["set_name"] &&
-              set["set_name"].toLowerCase().includes("speed duel")) ||
-            card["Type"] === "Skill"
+          const earliestInfo = getEarliestInfo(cardInfo, cardSets);
+          card["Earliest Set"] = earliestInfo.earliestSet || "";
+          card["Earliest Date"] = earliestInfo.earliestDate || "";
+          const speedDuelInfo = getSpeedDuelInfo(cardInfo, set || {});
+          const isSpeedDuel = 
+            speedDuelInfo.isSpeedDuel === "Yes" || card["Type"] === "Skill"
               ? "Yes"
               : "No";
           card["Is Speed Duel"] = isSpeedDuel;
