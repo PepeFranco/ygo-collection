@@ -5,6 +5,12 @@ import { setupServer } from "msw/node";
 import mockFS from "mock-fs";
 import fs from "node:fs";
 import path from "path";
+import { execSync } from "node:child_process";
+
+// Mock execSync to prevent type generation during tests
+jest.mock("node:child_process", () => ({
+  execSync: jest.fn(),
+}));
 
 jest.mock("../../secret/collectionread.json", () => ({
   url: "http://fake-gdrive-url",
@@ -12,6 +18,8 @@ jest.mock("../../secret/collectionread.json", () => ({
 
 describe("downloadCollectionFromGDrive", () => {
   beforeEach(() => {
+    // Clear the mock between tests
+    jest.clearAllMocks();
     const handlers = [
       http.get("http://fake-gdrive-url", () => {
         return HttpResponse.text(
@@ -163,5 +171,11 @@ describe("downloadCollectionFromGDrive", () => {
          }
       ]"
     `);
+
+    // Verify that execSync was called (but mocked out)
+    expect(execSync).toHaveBeenCalledWith("yarn generate:types", {
+      cwd: path.join(__dirname, "../.."),
+      stdio: "inherit"
+    });
   });
 });
