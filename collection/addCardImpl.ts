@@ -7,8 +7,7 @@ import {
   findCardByCodeInSet,
   getCardSets,
   cardCodesMatch,
-  getEarliestInfo,
-  getSpeedDuelInfo,
+  getCardForCollection,
 } from "./fillCollectionWithDataImpl";
 import { CollectionRow } from "../data/collection.types";
 
@@ -150,37 +149,18 @@ export const addCardToCollection = async (
       cardSet = matchingSets[0];
     }
 
-    // Get earliest set information using shared utility
-    const earliestInfo = getEarliestInfo(cardInfo, cardSets);
-
-    // Get Speed Duel information using shared utility
-    const speedDuelInfo = getSpeedDuelInfo(cardInfo, cardSet);
-
-    // Create collection entry
-    const newCard: CollectionRow = {
-      Name: cardInfo.name,
-      Code: cardSet.set_code,
-      Set: cardSet.set_name,
-      Rarity: cardSet.set_rarity || "",
-      Edition: edition || "",
-      "In Deck": "",
-      ID: cardInfo.id || 0,
-      Type: cardInfo.type || "",
-      ATK: cardInfo.atk || 0,
-      DEF: cardInfo.def || 0,
-      Level: cardInfo.level || 0,
-      "Card Type": cardInfo.race || "",
-      Attribute: cardInfo.attribute || "",
-      Archetype: cardInfo.archetype || "",
-      Scale: cardInfo.scale?.toString() || "",
-      "Link Scale": cardInfo.linkval?.toString() || "",
-      "Earliest Set": earliestInfo.earliestSet,
-      "Earliest Date": earliestInfo.earliestDate,
-      "Is Speed Duel": speedDuelInfo.isSpeedDuel,
-      "Is Speed Duel Legal": speedDuelInfo.isSpeedDuelLegal,
-      Keep: "",
-      Price: parseFloat(cardSet.set_price) || 0,
-    };
+    // Create collection entry using shared function
+    const newCard = getCardForCollection(
+      cardInfo,
+      cardSet.set_code,
+      cardSet.set_name,
+      cardSet.set_rarity || "",
+      edition || "",
+      cardSets
+    );
+    
+    // Set the price based on the specific card set
+    (newCard.Price as unknown as number) = parseFloat(cardSet.set_price) || 0;
 
     // Read existing collection
     let collection: CollectionRow[] = [];

@@ -217,6 +217,53 @@ export const getSpeedDuelInfo = (cardInfo: YGOProCard, cardSet: any) => {
   };
 };
 
+export const getCardForCollection = (
+  cardInfo: YGOProCard,
+  setCode: string,
+  setName: string,
+  setRarity: string,
+  edition: string = "",
+  cardSets: YGOProSet[]
+): CollectionRow => {
+  // Get earliest set information
+  const earliestInfo = getEarliestInfo(cardInfo, cardSets);
+  
+  // Create cardSet object for Speed Duel info
+  const cardSet = { set_name: setName, set_code: setCode, set_rarity: setRarity };
+  const speedDuelInfo = getSpeedDuelInfo(cardInfo, cardSet);
+  
+  // Handle special case for Skill cards in fillCollectionWithDataImpl
+  const isSpeedDuel = 
+    speedDuelInfo.isSpeedDuel === "Yes" || cardInfo.type === "Skill"
+      ? "Yes"
+      : "No";
+
+  return {
+    Name: cardInfo.name,
+    Code: setCode,
+    Set: setName,
+    Rarity: setRarity,
+    Edition: edition,
+    "In Deck": "",
+    ID: cardInfo.id || 0,
+    Type: cardInfo.type || "",
+    ATK: cardInfo.atk || 0,
+    DEF: cardInfo.def || 0,
+    Level: cardInfo.level || 0,
+    "Card Type": cardInfo.race || "",
+    Attribute: cardInfo.attribute || "",
+    Archetype: cardInfo.archetype || "",
+    Scale: cardInfo.scale?.toString() || "",
+    "Link Scale": cardInfo.linkval?.toString() || "",
+    "Earliest Set": earliestInfo.earliestSet,
+    "Earliest Date": earliestInfo.earliestDate,
+    "Is Speed Duel": isSpeedDuel,
+    "Is Speed Duel Legal": speedDuelInfo.isSpeedDuelLegal,
+    Keep: "",
+    Price: 0, // Will be set separately based on the specific card set pricing logic
+  } as unknown as CollectionRow;
+};
+
 const getCardSet = (
   card: CollectionRow,
   cardInfo: YGOProCard
@@ -370,32 +417,28 @@ export const mainFunction = async () => {
 
         if (cardInfo) {
           const set = getCardSet(card, cardInfo);
-          card["Name"] = cardInfo.name;
-          card["Set"] = card["Set"] || (set && set["set_name"]) || "";
-          card["Code"] = (set && set["set_code"]) || card["Code"] || "";
-          card["Rarity"] =
-            card["Rarity"] ||
-            (set && set["set_rarity"] && set["set_rarity"].split(" ")[0]);
-          card["ID"] = cardInfo.id || "";
-          card["Type"] = cardInfo.type || "";
-          card["ATK"] = cardInfo.atk || "";
-          card["DEF"] = cardInfo.def || "";
-          card["Level"] = cardInfo.level || "";
-          card["Card Type"] = cardInfo.race || "";
-          card["Attribute"] = cardInfo.attribute || "";
-          card["Archetype"] = cardInfo.archetype || "";
-          card["Scale"] = cardInfo.scale || "";
-          card["Link Scale"] = cardInfo.linkval || "";
-          const earliestInfo = getEarliestInfo(cardInfo, cardSets);
-          card["Earliest Set"] = earliestInfo.earliestSet || "";
-          card["Earliest Date"] = earliestInfo.earliestDate || "";
-          const speedDuelInfo = getSpeedDuelInfo(cardInfo, set || {});
-          const isSpeedDuel = 
-            speedDuelInfo.isSpeedDuel === "Yes" || card["Type"] === "Skill"
-              ? "Yes"
-              : "No";
-          card["Is Speed Duel"] = isSpeedDuel;
-          card["Price"] = getCardPrice(card, cardInfo);
+          
+          // Use shared function to get card data, then merge with existing data
+          const newCardData = getCardForCollection(
+            cardInfo,
+            (set && set["set_code"]) || String(card["Code"]) || "",
+            card["Set"] || (set && set["set_name"]) || "",
+            card["Rarity"] || (set && set["set_rarity"] && set["set_rarity"].split(" ")[0]) || "",
+            String(card["Edition"]) || "",
+            cardSets
+          );
+          
+          // Merge the new data with existing card, preserving existing values where appropriate
+          Object.keys(newCardData).forEach(key => {
+            const typedKey = key as keyof CollectionRow;
+            if (typedKey === "Price") {
+              // Handle price separately using existing logic
+              card[typedKey] = getCardPrice(card, cardInfo);
+            } else if (card[typedKey] === undefined || card[typedKey] === "" || card[typedKey] === 0) {
+              // Only update if the existing value is empty/undefined/zero
+              card[typedKey] = newCardData[typedKey];
+            }
+          });
         }
         sleep(100);
       }
