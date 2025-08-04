@@ -134,19 +134,19 @@ const removeCardsFromCollection = (
   cardsMissing?.map((card) => {
     const collectionIndex = filteredCollection.findIndex((collectionCard) => {
       const sameName =
-        collectionCard["Name"].toLowerCase().trim() ===
+        String(collectionCard["Name"]).toLowerCase().trim() ===
         card.toLowerCase().trim();
       const exactSameSetName = deck.deck
         .toLowerCase()
         .trim()
-        .includes(collectionCard["Set"]?.toLowerCase().trim() || "");
+        .includes(String(collectionCard["Set"] || "").toLowerCase().trim());
       const setMatchesLegendaryHeroDecks =
         deck.deck.toLocaleLowerCase().trim().includes("legendary hero") &&
-        collectionCard.Set?.toLowerCase().trim().includes("legendary hero");
+        String(collectionCard.Set || "").toLowerCase().trim().includes("legendary hero");
       const sameSet = exactSameSetName || setMatchesLegendaryHeroDecks;
       const sameDeck =
         deck.deck.toLowerCase().trim() ===
-        collectionCard["In Deck"]?.toLowerCase().trim();
+        String(collectionCard["In Deck"] || "").toLowerCase().trim();
 
       if (onlyRemoveIfSameDeck) {
         return sameName && sameDeck;
@@ -193,7 +193,7 @@ const excludeSetsFromCollection = ({
 }) => {
   const counterOfCardsToExclude: Record<string, number> = {};
   return collection.filter((card) => {
-    if (!card.Set || !setsToExclude.includes(card.Set)) {
+    if (!card.Set || !setsToExclude.includes(String(card.Set))) {
       return true;
     }
     const keyForCounter = `${card.Name}-${card.Set}`;
@@ -221,8 +221,8 @@ const excludeDecksFromCollection = ({
 }) => {
   return collection.filter((card) => {
     return !decksToExclude.some((deckToExclude) =>
-      card["In Deck"]
-        ?.toLowerCase()
+      String(card["In Deck"] || "")
+        .toLowerCase()
         .trim()
         .includes(deckToExclude.toLowerCase().trim())
     );
