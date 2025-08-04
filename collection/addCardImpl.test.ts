@@ -232,6 +232,113 @@ describe("addCardCli", () => {
     );
   });
 
+  it("should mark a card as speed duel if it comes from a speed duel set", async () => {
+    // Mock fs.readFileSync for cardsets and collection
+    jest
+      .mocked(fs.readFileSync)
+      .mockImplementation((filePath: fs.PathOrFileDescriptor) => {
+        if (filePath === path.join(__dirname, "../data/cardsets.json")) {
+          return JSON.stringify([
+            {
+              set_name: "Speed Duel Starter Decks: Duelists of Tomorrow",
+              set_code: "SS02",
+              num_of_cards: 69,
+              tcg_date: "2019-01-24",
+              set_image: "https://images.ygoprodeck.com/images/sets/SS02.jpg",
+            },
+            {
+              set_name: "Legend of Blue Eyes White Dragon",
+              set_code: "LOB",
+              num_of_cards: 355,
+              tcg_date: "2002-03-08",
+              set_image: "https://images.ygoprodeck.com/images/sets/LOB.jpg",
+            },
+          ]);
+        }
+        if (filePath === path.join(__dirname, "../data/collection.json")) {
+          return JSON.stringify([]);
+        }
+        throw new Error("Unexpected file read");
+      });
+
+    // Mock axios call for getting cards from set
+    jest.mocked(axios.get).mockResolvedValueOnce({
+      data: {
+        data: [
+          {
+            id: 89631139,
+            name: "Blue-Eyes White Dragon",
+            card_sets: [
+              {
+                set_name: "Legend of Blue Eyes White Dragon",
+                set_code: "LOB-001",
+                set_rarity: "Ultra Rare",
+                set_price: "62.15",
+              },
+              {
+                set_name: "Speed Duel Starter Decks: Duelists of Tomorrow",
+                set_code: "SS02-ENA01",
+                set_rarity: "Common",
+                set_rarity_code: "(C)",
+                set_price: "6.79",
+              },
+            ],
+            type: "Normal Monster",
+            race: "Dragon",
+            atk: 3000,
+            def: 2500,
+            level: 8,
+            attribute: "LIGHT",
+            archetype: "Blue-Eyes",
+            card_images: [
+              {
+                image_url_small:
+                  "https://images.ygoprodeck.com/images/cards_small/89631139.jpg",
+              },
+            ],
+          },
+        ],
+      },
+    });
+
+    const result = await addCardToCollection("ss02 a01");
+
+    expect(result).toBe(true);
+    expect(fs.writeFileSync).toHaveBeenCalledWith(
+      path.join(__dirname, "../data/collection.json"),
+      JSON.stringify(
+        [
+          {
+            Name: "Blue-Eyes White Dragon",
+            Code: "SS02-ENA01",
+            Set: "Speed Duel Starter Decks: Duelists of Tomorrow",
+            Rarity: "Common",
+            Edition: "",
+            "In Deck": "",
+            ID: 89631139,
+            Type: "Normal Monster",
+            ATK: 3000,
+            DEF: 2500,
+            Level: 8,
+            "Card Type": "Dragon",
+            Attribute: "LIGHT",
+            Archetype: "Blue-Eyes",
+            Scale: "",
+            "Link Scale": "",
+            "Earliest Set": "Legend of Blue Eyes White Dragon",
+            "Earliest Date": "2002-03-08",
+            "Is Speed Duel": "Yes",
+            "Is Speed Duel Legal": "Yes",
+            Keep: "",
+            Price: 6.79,
+          },
+        ],
+        null,
+        3
+      )
+    );
+  });
+
   it("should mark a card as speed duel legal if it has appeared in a speed duel set", async () => {
     // Mock fs.readFileSync for cardsets and collection
     jest

@@ -151,6 +151,7 @@ export const addCardToCollection = async (
     // Find earliest set information
     let earliestSet = "";
     let earliestDate = "";
+    let earliestCardSetInfo = null;
     
     if (cardInfo.card_sets && cardInfo.card_sets.length > 0) {
       // Get unique set names that this card appears in
@@ -170,6 +171,9 @@ export const addCardToCollection = async (
         const earliest = sortedBySets[0];
         earliestSet = earliest.set_name;
         earliestDate = earliest.tcg_date;
+        
+        // Find the card set info from the earliest set
+        earliestCardSetInfo = cardInfo.card_sets.find((cs: any) => cs.set_name === earliest.set_name);
       }
     }
 
