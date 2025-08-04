@@ -1,8 +1,7 @@
 import * as fs from "fs";
 import path from "path";
 import axios from "axios";
-import { addCardToCollection } from "./addCardImpl";
-import { error } from "console";
+import { addCardToCollection, normalizeCardCode } from "./addCardImpl";
 
 jest.mock("axios", () => ({
   get: jest.fn(),
@@ -943,5 +942,25 @@ describe("addCardCli", () => {
         3
       )
     );
+  });
+});
+
+describe("normalizeCardCode", () => {
+  it("should normalize card codes correctly", () => {
+    expect(normalizeCardCode("LOB-001")).toBe("LOB-001");
+    expect(normalizeCardCode("LOB1")).toBe("LOB-001");
+    expect(normalizeCardCode("lob1")).toBe("LOB-001");
+    expect(normalizeCardCode("lob-1")).toBe("LOB-001");
+    expect(normalizeCardCode("lob 1")).toBe("LOB-001");
+
+    expect(normalizeCardCode("ct14 2")).toBe("CT14-002");
+    expect(normalizeCardCode("ct14 0")).toBe("CT14-000");
+    expect(normalizeCardCode("ct1 47")).toBe("CT1-047");
+    expect(normalizeCardCode("ct14 114")).toBe("CT14-114");
+
+    expect(normalizeCardCode("sgx1a1")).toBe("SGX1-A01");
+    expect(normalizeCardCode("sgx1b99")).toBe("SGX1-B99");
+
+    expect(normalizeCardCode("yskr1")).toBe("YSKR-001");
   });
 });

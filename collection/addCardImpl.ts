@@ -11,42 +11,94 @@ import {
 } from "./fillCollectionWithDataImpl";
 import { CollectionRow } from "../data/collection.types";
 
-const normalizeCardCode = (cardCode: string): string => {
-  // Convert to uppercase and remove extra spaces
-  let normalized = cardCode.toUpperCase().trim();
+export const normalizeCardCode = (cardCode: string): string => {
+  // A normalized card code has 2 parts: set code and card number
+  // Card number is always 3 digits, or one letter and 2 digits
+  // Set code can be 3 or 4 alphanumeric characters
 
-  // Handle improperly formatted codes like "LOB 1" -> "LOB-001" or "LOB1" -> "LOB-001"
-  if (!normalized.includes("-")) {
-    // Split by space and assume last part is the card number
-    const parts = normalized.split(/\s+/);
+  // Remove extra spaces but preserve case for later processing
+  let input = cardCode.trim();
+  // Convert to uppercase for pattern matching, but keep original for letter extraction
+  let normalized = input.toUpperCase();
+
+  // If already properly formatted with dash, return as is
+  if (normalized.includes("-") && normalized.match(/^[A-Z0-9]+-[A-Z0-9]+$/)) {
+    // Still need to pad the card number part
+    const parts = normalized.split("-");
+    const setCode = parts[0];
+    const cardNumber = parts[1];
+
+    // If card number is all digits, pad to 3 digits
+    if (/^\d+$/.test(cardNumber)) {
+      return `${setCode}-${cardNumber.padStart(3, "0")}`;
+    }
+    // If card number starts with letter, keep as is but ensure 2 digits after letter
+    if (/^[A-Z]\d+$/.test(cardNumber)) {
+      const letter = cardNumber[0];
+      const digits = cardNumber.substring(1);
+      return `${setCode}-${letter}${digits.padStart(2, "0")}`;
+    }
+    return normalized;
+  }
+
+  // Remove spaces and handle different input formats
+  const spacedInput = normalized.replace(/\s+/g, " ").trim();
+
+  // Handle space-separated format like "ct14 2" or "sgx1 a1"
+  if (spacedInput.includes(" ")) {
+    const parts = spacedInput.split(" ");
     if (parts.length === 2) {
       const setCode = parts[0];
       const cardNumber = parts[1];
-      // Pad card number to 3 digits
-      const paddedNumber = cardNumber.padStart(3, "0");
-      normalized = `${setCode}-${paddedNumber}`;
-    } else if (parts.length === 1) {
-      // Handle cases like "LOB1" where there's no space or dash
-      // Find where letters end and numbers begin
-      let setCode = "";
-      let cardNumber = "";
-      for (let i = 0; i < normalized.length; i++) {
-        const char = normalized[i];
-        if (char >= "A" && char <= "Z") {
-          setCode += char;
-        } else if (char >= "0" && char <= "9") {
-          cardNumber = normalized.substring(i);
-          break;
-        }
+
+      // If card number is all digits, pad to 3 digits
+      if (/^\d+$/.test(cardNumber)) {
+        return `${setCode}-${cardNumber.padStart(3, "0")}`;
       }
-      if (setCode && cardNumber) {
-        // Pad card number to 3 digits
-        const paddedNumber = cardNumber.padStart(3, "0");
-        normalized = `${setCode}-${paddedNumber}`;
+      // If card number starts with letter, keep as is but ensure 2 digits after letter
+      if (/^[A-Z]\d+$/.test(cardNumber)) {
+        const letter = cardNumber[0];
+        const digits = cardNumber.substring(1);
+        return `${setCode}-${letter}${digits.padStart(2, "0")}`;
       }
     }
   }
 
+  // Handle concatenated format without spaces or dashes
+  const cleanNormalized = normalized.replace(/\s+/g, "");
+  const cleanInput = input.replace(/\s+/g, "");
+
+  // Pattern for numeric card numbers like "lob1" -> "LOB-001"
+  // Set code should be 3 or 4 letters, card number should be digits only
+  // Check this BEFORE alphanumeric to avoid conflicts like "yskr1" being parsed as "ysk" + "r1"
+  const numericMatch = cleanNormalized.match(/^([A-Z]{3,4})(\d+)$/);
+  if (numericMatch) {
+    const setCode = numericMatch[1];
+    const cardNumber = numericMatch[2];
+    return `${setCode}-${cardNumber.padStart(3, "0")}`;
+  }
+
+  // Pattern for alphanumeric card numbers like "sgx1a1" -> "SGX1-A01"
+  // Set code should be 3 or 4 alphanumeric characters
+  const alphaNumMatch = cleanNormalized.match(/^([A-Z0-9]{3,4})([A-Z]\d+)$/);
+  if (alphaNumMatch) {
+    const setCode = alphaNumMatch[1];
+    // Extract the original letter from the input to preserve case
+    const originalMatch = cleanInput.match(/^([A-Za-z0-9]{3,4})([A-Za-z]\d+)$/);
+    if (originalMatch) {
+      const originalCardNumber = originalMatch[2];
+      const letter = originalCardNumber[0].toUpperCase(); // Always uppercase the letter
+      const digits = originalCardNumber.substring(1);
+      return `${setCode}-${letter}${digits.padStart(2, "0")}`;
+    }
+    // Fallback
+    const cardNumber = alphaNumMatch[2];
+    const letter = cardNumber[0];
+    const digits = cardNumber.substring(1);
+    return `${setCode}-${letter}${digits.padStart(2, "0")}`;
+  }
+
+  // If we can't parse it, return as is
   return normalized;
 };
 
@@ -158,7 +210,7 @@ export const addCardToCollection = async (
       edition || "",
       cardSets
     );
-    
+
     // Set the price based on the specific card set
     (newCard.Price as unknown as number) = parseFloat(cardSet.set_price) || 0;
 
