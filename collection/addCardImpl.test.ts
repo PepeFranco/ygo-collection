@@ -945,7 +945,7 @@ describe("addCardCli", () => {
   });
 });
 
-describe.only("normalizeCardCode", () => {
+describe("normalizeCardCode", () => {
   it("should normalize card codes correctly", () => {
     expect(normalizeCardCode("LOB-001")).toBe("LOB-001");
     expect(normalizeCardCode("LOB1")).toBe("LOB-001");

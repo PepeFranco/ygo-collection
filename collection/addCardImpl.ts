@@ -19,7 +19,7 @@ export const normalizeCardCode = (cardCode: string): string => {
   const normalized = cardCode.trim().toUpperCase();
 
   const getPaddedCardNumber = (cardNumber: string): string => {
-    if (cardNumber.length === 3) {
+    if (cardNumber.length >= 3) {
       return cardNumber;
     }
     if (cardNumber.length === 2) {
