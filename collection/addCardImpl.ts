@@ -196,7 +196,9 @@ export const addCardToCollection = async (
       "Is Speed Duel": cardSet.set_name?.toLowerCase().includes("speed duel")
         ? "Yes"
         : "No",
-      "Is Speed Duel Legal": "",
+      "Is Speed Duel Legal": cardInfo.card_sets?.some((cs: any) => 
+        cs.set_name?.toLowerCase().includes("speed duel")
+      ) ? "Yes" : "",
       Keep: "",
       Price: parseFloat(cardSet.set_price) || 0,
     };
