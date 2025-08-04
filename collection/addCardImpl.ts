@@ -148,6 +148,31 @@ export const addCardToCollection = async (
       cardSet = matchingSets[0];
     }
 
+    // Find earliest set information
+    let earliestSet = "";
+    let earliestDate = "";
+    
+    if (cardInfo.card_sets && cardInfo.card_sets.length > 0) {
+      // Get unique set names that this card appears in
+      const cardSetNames = [...new Set(cardInfo.card_sets.map((cs: any) => cs.set_name))];
+      
+      // Filter cardSets to only include sets this card appears in
+      const relevantCardSets = cardSets.filter((cs: any) => 
+        cardSetNames.includes(cs.set_name)
+      );
+      
+      // Sort by date and pick the earliest
+      const sortedBySets = relevantCardSets
+        .filter((cs: any) => cs.tcg_date) // Only include sets with dates
+        .sort((a: any, b: any) => new Date(a.tcg_date).getTime() - new Date(b.tcg_date).getTime());
+      
+      if (sortedBySets.length > 0) {
+        const earliest = sortedBySets[0];
+        earliestSet = earliest.set_name;
+        earliestDate = earliest.tcg_date;
+      }
+    }
+
     // Create collection entry
     const newCard: CollectionRow = {
       Name: cardInfo.name,
@@ -166,8 +191,8 @@ export const addCardToCollection = async (
       Archetype: cardInfo.archetype || "",
       Scale: cardInfo.scale?.toString() || "",
       "Link Scale": cardInfo.linkval?.toString() || "",
-      "Earliest Set": "", // Will be filled by existing logic if needed
-      "Earliest Date": "",
+      "Earliest Set": earliestSet,
+      "Earliest Date": earliestDate,
       "Is Speed Duel": cardSet.set_name?.toLowerCase().includes("speed duel")
         ? "Yes"
         : "No",
