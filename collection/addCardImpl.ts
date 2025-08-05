@@ -143,30 +143,36 @@ export const addCardToCollection = async (
       return false;
     }
 
-    let cardSet;
     // If multiple rarities exist
-    if (matchingSets.length > 1) {
-      if (!selectedRarity) {
-        const rarities = matchingSets.map((set: any) => set.set_rarity);
-        return {
-          error: "Multiple rarities found for this card code",
-          rarities: rarities,
-        };
+    if (matchingSets.length > 1 && !selectedRarity) {
+      const rarities = matchingSets.map((set: any) => set.set_rarity);
+      return {
+        error: "Multiple rarities found for this card code",
+        rarities: rarities,
+      };
+    }
+
+    const getCardSet = () => {
+      if (matchingSets.length === 1) {
+        // Single rarity found, proceed with adding the card
+        return matchingSets[0];
       }
 
       // If a specific rarity was selected, find the matching set
-      cardSet = matchingSets.find((set: any) =>
+      const cardSet = matchingSets.find((set: any) =>
         set.set_rarity.includes(selectedRarity)
       );
       if (!cardSet) {
         console.log(
           `❌ Selected rarity "${selectedRarity}" not found for this card`
         );
-        return false;
       }
-    } else {
-      // Single rarity found, proceed with adding the card
-      cardSet = matchingSets[0];
+      return cardSet;
+    };
+
+    const cardSet = getCardSet();
+    if (!cardSet) {
+      return false;
     }
 
     // Create collection entry using shared function
