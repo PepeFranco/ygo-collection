@@ -1,3 +1,4 @@
+const path = require("path");
 const { GoogleSpreadsheet } = require("google-spreadsheet");
 const creds = require("../secret/spreadsheet-credentials.json");
 const { id } = require("../secret/collectionwrite.json");
@@ -56,6 +57,9 @@ const mainFunction = async () => {
       banLists[banLists.length - 1].date
     }`
   );
-  fs.writeFileSync("../data/banlists.json", JSON.stringify(banLists, null, 3));
+  fs.writeFileSync(
+    path.join(__dirname, "../data/banlists.json"),
+    JSON.stringify(banLists, null, 3)
+  );
 };
 mainFunction();

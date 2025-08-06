@@ -15,7 +15,7 @@
     "structure:get-missing": "tsx structureDecks/cardsMissingForStructureDecks.ts",
     "structure:update": "yarn collection:download && yarn collection:download-banlists && yarn structure:download-lists && yarn structure:get-missing && yarn structure:move-cards && yarn collection:upload",
     "structure:move-cards": "yarn tsx ./structureDecks/moveCardsInCollectionToDeck.ts",
-    "update-all": "yarn collection:download && yarn collection:fill &&  yarn collection:download-banlists && yarn structure:download-lists && yarn structure:get-missing && yarn collection:upload"
+    "update-all": "yarn collection:download && yarn collection:fill &&  yarn data:download-banlists && yarn structure:download-lists && yarn structure:get-missing && yarn collection:upload"
   },
   "dependencies": {
     "axios": "^0.21.1",
