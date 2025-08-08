@@ -91,55 +91,64 @@ export const getCardsFromSet = async (
   setCode: string,
   cardSets: YGOProSet[]
 ): Promise<YGOProCard[] | null> => {
-  // Find the set with matching code
-  const matchingSet = cardSets.find((set) => set.set_code === setCode);
-  if (!matchingSet) return null;
+  // Find all sets with matching code (handles cases like collectible tins with multiple waves)
+  const matchingSets = cardSets.filter((set) => set.set_code === setCode);
+  if (matchingSets.length === 0) return null;
 
-  // Create filename for cache
-  const fileName = matchingSet.set_name
-    .toLowerCase()
-    .replace(/\s+/g, " ")
-    .trim();
-  const filePath = path.join(
-    __dirname,
-    "../data/cardsets",
-    `${fileName}.json`
-  );
+  const allCards: YGOProCard[] = [];
+  
+  // Get cards from all matching sets
+  for (const matchingSet of matchingSets) {
+    // Create filename for cache
+    const fileName = matchingSet.set_name
+      .toLowerCase()
+      .replace(/\s+/g, " ")
+      .trim();
+    const filePath = path.join(
+      __dirname,
+      "../data/cardsets",
+      `${fileName}.json`
+    );
 
-  // First try to read from local cache file
-  try {
-    const localCards = fs.readFileSync(filePath, "utf8");
-    const cards = JSON.parse(localCards) as YGOProCard[];
-    console.log(`📁 Using cached cards for set "${matchingSet.set_name}" from local file`);
-    return cards;
-  } catch (error) {
-    // If file doesn't exist or can't be read, fall back to API
-    console.log(`🌐 Fetching cards for set "${matchingSet.set_name}" from API (local file not found)`);
-    const result = await axios
-      .get(
-        `https://db.ygoprodeck.com/api/v7/cardinfo.php?cardset=${encodeURIComponent(
-          matchingSet.set_name
-        )}`
-      )
-      .catch((e) => {
-        // console.error(e);
-      });
+    let cards: YGOProCard[] | null = null;
 
-    if (result && result.data && result.data.data) {
-      const cards = result.data.data as YGOProCard[];
+    // First try to read from local cache file
+    try {
+      const localCards = fs.readFileSync(filePath, "utf8");
+      cards = JSON.parse(localCards) as YGOProCard[];
+      console.log(`📁 Using cached cards for set "${matchingSet.set_name}" from local file`);
+    } catch (error) {
+      // If file doesn't exist or can't be read, fall back to API
+      console.log(`🌐 Fetching cards for set "${matchingSet.set_name}" from API (local file not found)`);
+      const result = await axios
+        .get(
+          `https://db.ygoprodeck.com/api/v7/cardinfo.php?cardset=${encodeURIComponent(
+            matchingSet.set_name
+          )}`
+        )
+        .catch((e) => {
+          // console.error(e);
+        });
 
-      // Write fetched cards to local file for caching
-      try {
-        fs.writeFileSync(filePath, JSON.stringify(cards, null, 3));
-      } catch (err) {
-        console.error(err);
+      if (result && result.data && result.data.data) {
+        cards = result.data.data as YGOProCard[];
+
+        // Write fetched cards to local file for caching
+        try {
+          fs.writeFileSync(filePath, JSON.stringify(cards, null, 3));
+        } catch (err) {
+          console.error(err);
+        }
       }
-
-      return cards;
     }
 
-    return null;
+    // Add cards from this set to the combined collection
+    if (cards) {
+      allCards.push(...cards);
+    }
   }
+
+  return allCards.length > 0 ? allCards : null;
 };
 
 export const findCardByCodeInSet = (

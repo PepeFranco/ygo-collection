@@ -231,6 +231,118 @@ describe("addCardCli", () => {
     );
   });
 
+  it("should add card when more than one set file share the same code", async () => {
+    // Mock fs.readFileSync for cardsets and collection
+    jest
+      .mocked(fs.readFileSync)
+      .mockImplementation((filePath: fs.PathOrFileDescriptor) => {
+        if (filePath === path.join(__dirname, "../data/cardsets.json")) {
+          return JSON.stringify([
+            {
+              set_name: "Collectible Tins 2012 Wave 1",
+              set_code: "CT09",
+              num_of_cards: 9,
+              tcg_date: "2012-08-10",
+              set_image: "https://images.ygoprodeck.com/images/sets/CT09.jpg",
+            },
+            {
+              set_name: "Collectible Tins 2012 Wave 2",
+              set_code: "CT09",
+              num_of_cards: 9,
+              tcg_date: "2012-10-26",
+              set_image: "https://images.ygoprodeck.com/images/sets/CT09.jpg",
+            },
+          ]);
+        }
+        if (filePath === path.join(__dirname, "../data/collection.json")) {
+          return JSON.stringify([]);
+        }
+        if (
+          filePath ===
+          path.join(
+            __dirname,
+            "../data/cardsets/collectible tins 2012 wave 1.json"
+          )
+        ) {
+          return JSON.stringify([]);
+        }
+        throw new Error("Unexpected file read");
+      });
+
+    // Mock axios call for collectible tins wave 2
+    jest.mocked(axios.get).mockResolvedValueOnce({
+      data: {
+        data: [
+          {
+            id: 95027497,
+            name: "Ninja Grandmaster Hanzo",
+            typeline: ["Warrior", "Effect"],
+            type: "Effect Monster",
+            humanReadableCardType: "Effect Monster",
+            frameType: "effect",
+            desc: 'When this card is Normal Summoned: You can add 1 "Ninjitsu Art" card from your Deck to your hand. When this card is Flip or Special Summoned: You can add 1 "Ninja" monster from your Deck to your hand, except "Ninja Grandmaster Hanzo".',
+            race: "Warrior",
+            atk: 1800,
+            def: 1000,
+            level: 4,
+            attribute: "DARK",
+            archetype: "Ninja",
+            ygoprodeck_url:
+              "https://ygoprodeck.com/card/ninja-grandmaster-hanzo-7910",
+            card_sets: [
+              {
+                set_name: "Collectible Tins 2012 Wave 2",
+                set_code: "CT09-EN003",
+                set_rarity: "Secret Rare",
+                set_rarity_code: "(ScR)",
+                set_price: "3.33",
+              },
+            ],
+            card_images: [],
+            card_prices: [,],
+          },
+        ],
+      },
+    });
+
+    const result = await addCardToCollection("CT09-EN003");
+
+    expect(result).toBe(true);
+    expect(fs.writeFileSync).toHaveBeenCalledWith(
+      path.join(__dirname, "../data/collection.json"),
+      JSON.stringify(
+        [
+          {
+            Name: "Ninja Grandmaster Hanzo",
+            Code: "CT09-EN003",
+            Set: "Collectible Tins 2012 Wave 2",
+            Rarity: "Secret Rare",
+            Edition: "",
+            "In Deck": "",
+            ID: 95027497,
+            Type: "Effect Monster",
+            ATK: 1800,
+            DEF: 1000,
+            Level: 4,
+            "Card Type": "Warrior",
+            Attribute: "DARK",
+            Archetype: "Ninja",
+            Scale: "",
+            "Link Scale": "",
+            "Earliest Set": "Collectible Tins 2012 Wave 2",
+            "Earliest Date": "2012-10-26",
+            "Is Speed Duel": "No",
+            "Is Speed Duel Legal": "",
+            Keep: "",
+            Price: 3.33,
+          },
+        ],
+        null,
+        3
+      )
+    );
+  });
+
   it("should mark a card as speed duel if it comes from a speed duel set", async () => {
     // Mock fs.readFileSync for cardsets and collection
     jest

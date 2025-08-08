@@ -88,8 +88,6 @@ export const addCardToCollection = async (
     }
 
     // Extract set code and get cards from that set
-    // TODO: Handle sets that share the same set code (e.g., collectible tins with multiple waves)
-    // Currently this may return cards from multiple sets with the same code
     const setCode = getSetCodeFromCardCode(normalizedCardCode);
     const setCards = await getCardsFromSet(setCode, cardSets);
 
