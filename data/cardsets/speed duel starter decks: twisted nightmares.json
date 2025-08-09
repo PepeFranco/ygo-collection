@@ -1,0 +1,5181 @@
+[
+   {
+      "id": 1475311,
+      "name": "Allure of Darkness",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Draw 2 cards, then banish 1 DARK monster from your hand, or, if you do not have any in your hand, send your entire hand to the GY.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/allure-of-darkness-127",
+      "card_sets": [
+         {
+            "set_name": "Brothers of Legend",
+            "set_code": "BROL-EN088",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.53"
+         },
+         {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN028",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Saviors",
+            "set_code": "DASA-EN054",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "4.05"
+         },
+         {
+            "set_name": "Destiny Soldiers",
+            "set_code": "DESO-EN044",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gates of the Underworld Structure Deck",
+            "set_code": "SDGU-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.63"
+         },
+         {
+            "set_name": "OTS Tournament Pack 1",
+            "set_code": "OP01-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Pendulum Domination Structure Deck",
+            "set_code": "SDPD-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Phantom Darkness",
+            "set_code": "PTDN-EN084",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Phantom Darkness",
+            "set_code": "PTDN-EN084",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN055",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN055",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN055",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN055",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN055",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN055",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN055",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Raging Battle: Special Edition",
+            "set_code": "RGBT-ENSE2",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "7.08"
+         },
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENI30",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENI30",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA26",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "11.76"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 3",
+            "set_code": "STP3-EN005",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENF12",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Marik (TCG)",
+            "set_code": "SDMA-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.9"
+         },
+         {
+            "set_name": "Structure Deck: Shaddoll Showdown",
+            "set_code": "SDSH-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.4"
+         },
+         {
+            "set_name": "Wild Survivors",
+            "set_code": "WISU-EN054",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         }
+      ],
+      "banlist_info": {
+         "ban_ocg": "Limited"
+      },
+      "card_images": [
+         {
+            "id": 1475311,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1475311.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1475311.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1475311.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "2.49",
+            "amazon_price": "2.98",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 52090844,
+      "name": "Bowganian",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Once per turn, during your Standby Phase: Inflict 600 damage to your opponent.",
+      "race": "Machine",
+      "atk": 1300,
+      "def": 1000,
+      "level": 3,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/bowganian-4435",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 2",
+            "set_code": "DR2-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Invasion of Chaos",
+            "set_code": "IOC-029",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "2.26"
+         },
+         {
+            "set_name": "Invasion of Chaos",
+            "set_code": "IOC-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Invasion of Chaos",
+            "set_code": "IOC-EN029",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN144",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENB20",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.25"
+         },
+         {
+            "set_name": "Structure Deck: Marik (TCG)",
+            "set_code": "SDMA-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.28"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 52090844,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52090844.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52090844.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52090844.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "1.00",
+            "amazon_price": "1.25",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 74277583,
+      "name": "Brave Scizzar",
+      "typeline": [
+         "Machine",
+         "Normal"
+      ],
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "desc": "Armed with a mass of scissors, this monster can clip an enemy into any desired shape and size.",
+      "race": "Machine",
+      "atk": 1300,
+      "def": 1000,
+      "level": 4,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/brave-scizzar-6243",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENB03",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.26"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 74277583,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74277583.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74277583.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74277583.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.24",
+            "tcgplayer_price": "0.38",
+            "ebay_price": "1.80",
+            "amazon_price": "0.39",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 17597059,
+      "name": "Byser Shock",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is Summoned: Return all Set cards on the field to the hand.",
+      "race": "Fiend",
+      "atk": 800,
+      "def": 600,
+      "level": 5,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/byser-shock-1530",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 1",
+            "set_code": "DR1-EN052",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 24",
+            "set_code": "OP24-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Pharaonic Guardian",
+            "set_code": "PGD-103",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "4.61"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENB12",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.24"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 17597059,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17597059.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17597059.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17597059.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.29",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "2.21",
+            "amazon_price": "11.98",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   },
+   {
+      "id": 65830223,
+      "name": "Coffin Seller",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "Each time a monster(s) is sent to your opponent's GY: Inflict 300 damage to your opponent.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/coffin-seller-5542",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 1",
+            "set_code": "DR1-EN041",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN132",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Pharaonic Guardian",
+            "set_code": "PGD-093",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "4.21"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENB28",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.27"
+         },
+         {
+            "set_name": "Structure Deck: Marik (TCG)",
+            "set_code": "SDMA-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.37"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 65830223,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65830223.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65830223.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65830223.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.29",
+            "tcgplayer_price": "0.58",
+            "ebay_price": "1.88",
+            "amazon_price": "3.77",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 40465719,
+      "name": "Common Charity",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Draw 2 cards, then banish 1 Normal Monster from your hand, or, if you do not have any in your hand, send your entire hand to the GY.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/common-charity-3442",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA29",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Arena of Lost Souls",
+            "set_code": "SBLS-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.05"
+         },
+         {
+            "set_name": "Tactical Evolution",
+            "set_code": "TAEV-EN072",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "2.67"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 40465719,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40465719.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40465719.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40465719.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 15305240,
+      "name": "Creature Seizure",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Each player gives their opponent control of 1 of their monsters (controller's choice). You must choose a face-up Normal Monster.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/creature-seizure-1314",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENB23",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.1"
+         },
+         {
+            "set_name": "Tactical Evolution",
+            "set_code": "TAEV-EN058",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 15305240,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15305240.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15305240.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15305240.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 78811937,
+      "name": "Creeping Darkness",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Banish 2 DARK monsters from your GY; add 1 Level 4 DARK monster from your Deck to your hand.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/creeping-darkness-6622",
+      "card_sets": [
+         {
+            "set_name": "Destiny Soldiers",
+            "set_code": "DESO-EN058",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Order of Chaos",
+            "set_code": "ORCS-EN059",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA27",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.23"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 78811937,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78811937.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78811937.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78811937.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "1.40",
+            "amazon_price": "0.79",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 674561,
+      "name": "Dark Eruption",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Target 1 DARK monster with 1500 or less ATK in your GY; add that target to your hand.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dark-eruption-62",
+      "card_sets": [
+         {
+            "set_name": "Destiny Soldiers",
+            "set_code": "DESO-EN054",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gates of the Underworld Structure Deck",
+            "set_code": "SDGU-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.06"
+         },
+         {
+            "set_name": "Legendary Hero Decks",
+            "set_code": "LEHD-ENC19",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.46"
+         },
+         {
+            "set_name": "Pendulum Domination Structure Deck",
+            "set_code": "SDPD-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Phantom Darkness",
+            "set_code": "PTDN-EN054",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA24",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.12"
+         },
+         {
+            "set_name": "Synchron Extreme Structure Deck",
+            "set_code": "SDSE-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.12"
+         },
+         {
+            "set_name": "Turbo Pack: Booster Three",
+            "set_code": "TU03-EN010",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 674561,
+            "image_url": "https://images.ygoprodeck.com/images/cards/674561.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/674561.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/674561.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 90980792,
+      "name": "Dark Jeroid",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is Summoned: Target 1 face-up monster on the field; it loses 800 ATK.",
+      "race": "Fiend",
+      "atk": 1200,
+      "def": 1500,
+      "level": 4,
+      "attribute": "DARK",
+      "archetype": "Roid",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dark-jeroid-7601",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 1",
+            "set_code": "DR1-EN004",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN114",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Pharaonic Guardian",
+            "set_code": "PGD-056",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "2.83"
+         },
+         {
+            "set_name": "Retro Pack 2",
+            "set_code": "RP02-EN072",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENB18",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.24"
+         },
+         {
+            "set_name": "Structure Deck: Marik (TCG)",
+            "set_code": "SDMA-EN005",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.26"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 90980792,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90980792.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90980792.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90980792.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "1.49",
+            "amazon_price": "1.32",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 85313220,
+      "name": "Dark Lucius LV4",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Negate the effects of your opponent's monsters destroyed by battle with this card. Once per turn, during the Standby Phase of your next turn after this card has destroyed a monster by battle: You can send this card to the GY; Special Summon 1 \"Dark Lucius LV6\" from your hand or Deck.",
+      "race": "Fiend",
+      "atk": 1000,
+      "def": 300,
+      "level": 4,
+      "attribute": "EARTH",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dark-lucius-lv4-7152",
+      "card_sets": [
+         {
+            "set_name": "Cyberdark Impact",
+            "set_code": "CDIP-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENB10",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.12"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 85313220,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85313220.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85313220.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85313220.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 12817939,
+      "name": "Dark Lucius LV6",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card was Special Summoned by the effect of \"Dark Lucius LV4\", negate the effects of your opponent's monsters destroyed by battle with this card. Once per turn, during the Standby Phase of your next turn after this card negated your opponent's monster effect by this effect: You can send this card to the GY; Special Summon 1 \"Dark Lucius LV8\" from your hand or Deck.",
+      "race": "Fiend",
+      "atk": 1700,
+      "def": 600,
+      "level": 6,
+      "attribute": "EARTH",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dark-lucius-lv6-1103",
+      "card_sets": [
+         {
+            "set_name": "Cyberdark Impact",
+            "set_code": "CDIP-EN010",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Cyberdark Impact",
+            "set_code": "CDIP-EN010",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENB09",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.2"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 12817939,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12817939.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12817939.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12817939.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "25.00",
+            "amazon_price": "1.19",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 58206034,
+      "name": "Dark Lucius LV8",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card was Special Summoned by the effect of \"Dark Lucius LV6\", banish your opponent's monsters destroyed by battle with this card, also negate their effects.",
+      "race": "Fiend",
+      "atk": 2800,
+      "def": 900,
+      "level": 8,
+      "attribute": "EARTH",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dark-lucius-lv8-4954",
+      "card_sets": [
+         {
+            "set_name": "Cyberdark Impact",
+            "set_code": "CDIP-EN011",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Cyberdark Impact",
+            "set_code": "CDIP-EN011",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENB08",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.16"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 58206034,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58206034.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58206034.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58206034.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.31",
+            "ebay_price": "6.00",
+            "amazon_price": "59.49",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 74713516,
+      "name": "Dark Mimic LV1",
+      "typeline": [
+         "Fiend",
+         "Flip",
+         "Effect"
+      ],
+      "type": "Flip Effect Monster",
+      "humanReadableCardType": "Flip Effect Monster",
+      "frameType": "effect",
+      "desc": "FLIP: Draw 1 card.\nOnce per turn, during your Standby Phase: You can send this card to the GY; Special Summon 1 \"Dark Mimic LV3\" from your hand or Deck.",
+      "race": "Fiend",
+      "atk": 100,
+      "def": 1000,
+      "level": 1,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dark-mimic-lv1-6285",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 3",
+            "set_code": "DR3-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gold Series: Haunted Mine",
+            "set_code": "GLD5-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Soul of the Duelist",
+            "set_code": "SOD-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA18",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.08"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 74713516,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74713516.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74713516.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74713516.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.37",
+            "tcgplayer_price": "0.47",
+            "ebay_price": "1.49",
+            "amazon_price": "2.47",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   },
+   {
+      "id": 1102515,
+      "name": "Dark Mimic LV3",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is destroyed by battle and sent to the GY: Draw 1 card, but if this card was Special Summoned by the effect of \"Dark Mimic LV1\", draw 2 cards instead.",
+      "race": "Fiend",
+      "atk": 1000,
+      "def": 1000,
+      "level": 3,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dark-mimic-lv3-100",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 3",
+            "set_code": "DR3-EN010",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gold Series: Haunted Mine",
+            "set_code": "GLD5-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Soul of the Duelist",
+            "set_code": "SOD-EN010",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Soul of the Duelist",
+            "set_code": "SOD-EN010",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA17",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.28"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 1102515,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1102515.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1102515.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1102515.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.41",
+            "tcgplayer_price": "0.47",
+            "ebay_price": "6.99",
+            "amazon_price": "4.99",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 31829185,
+      "name": "Dark Necrofear",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 3 Fiend monsters from your GY. During the End Phase, if this card is in your GY because it was destroyed in your Monster Zone by an opponent's card and sent there this turn: Target 1 face-up monster your opponent controls; equip this card to that target. While this card is equipped to a monster by this effect, take control of that monster.",
+      "race": "Fiend",
+      "atk": 2200,
+      "def": 2800,
+      "level": 8,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dark-necrofear-2703",
+      "card_sets": [
+         {
+            "set_name": "Champion Pack: Game Five",
+            "set_code": "CP05-EN006",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB-EN72",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB2-EN004",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Terminal 2",
+            "set_code": "DT02-EN056",
+            "set_rarity": "Duel Terminal Rare Parallel Rare",
+            "set_rarity_code": "(DRPR)",
+            "set_price": "7.39"
+         },
+         {
+            "set_name": "Duelist League Series 2 participation cards",
+            "set_code": "DL2-002",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.69"
+         },
+         {
+            "set_name": "Duelist League Series 2 participation cards",
+            "set_code": "DL2-EN002",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.28"
+         },
+         {
+            "set_name": "Duelist Pack: Battle City",
+            "set_code": "DPBC-EN033",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Pack: Rivals of the Pharaoh",
+            "set_code": "DPRP-EN040",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-065",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "6.59"
+         },
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-E065",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "10.39"
+         },
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-EN065",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World",
+            "set_code": "LC03-EN002",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "3.68"
+         },
+         {
+            "set_name": "Legendary Duelists: Immortal Destiny",
+            "set_code": "LED5-EN006",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Season 3",
+            "set_code": "LDS3-EN002",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Master Collection Volume 1",
+            "set_code": "MC1-EN005",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "6.09"
+         },
+         {
+            "set_name": "Retro Pack 2",
+            "set_code": "RP02-EN042",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA01",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.23"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 31829185,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31829185.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31829185.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31829185.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "1.50",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 89558090,
+      "name": "Dark Prisoner",
+      "typeline": [
+         "Fiend",
+         "Normal"
+      ],
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "desc": "This monster bends light to hide its image from the eyes of opponents.",
+      "race": "Fiend",
+      "atk": 600,
+      "def": 1000,
+      "level": 3,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dark-prisoner-7479",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENB06",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.21"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 89558090,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89558090.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89558090.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89558090.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.40",
+            "ebay_price": "1.40",
+            "amazon_price": "0.59",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 53982768,
+      "name": "Dark Ruler Ha Des",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Special Summoned from the GY. Negate the effects of monsters destroyed by battle with Fiend monsters you control.",
+      "race": "Fiend",
+      "atk": 2450,
+      "def": 1600,
+      "level": 6,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dark-ruler-ha-des-4599",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN122",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN122",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Champion Pack: Game Five",
+            "set_code": "CP05-EN008",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB2-EN124",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "4.85"
+         },
+         {
+            "set_name": "Legacy of Darkness",
+            "set_code": "LOD-001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "5.78"
+         },
+         {
+            "set_name": "Legacy of Darkness",
+            "set_code": "LOD-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "121.9"
+         },
+         {
+            "set_name": "Master Collection Volume 1",
+            "set_code": "MC1-EN006",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "4.92"
+         },
+         {
+            "set_name": "Retro Pack 2",
+            "set_code": "RP02-EN052",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENA11",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA11",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.33"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 3",
+            "set_code": "STP3-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Lost Art Promotion (series)",
+            "set_code": "LART-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Lost Art Promotion J",
+            "set_code": "LART-EN010",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 53982768,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53982768.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53982768.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53982768.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "6.50",
+            "amazon_price": "0.59",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   },
+   {
+      "id": 30325729,
+      "name": "Dokuroyaiba",
+      "typeline": [
+         "Fiend",
+         "Normal"
+      ],
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "desc": "A boomerang with brains that will pursue a target to the ends of the earth.",
+      "race": "Fiend",
+      "atk": 1000,
+      "def": 400,
+      "level": 3,
+      "attribute": "FIRE",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dokuroyaiba-2569",
+      "card_sets": [
+         {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-099",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.56"
+         },
+         {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-E099",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.42"
+         },
+         {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-EN099",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENB07",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.12"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 30325729,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30325729.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30325729.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30325729.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "1.00",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 99050989,
+      "name": "Drillago",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If the only cards your opponent controls are face-up monsters with 1600 or more ATK, this card can attack your opponent directly.",
+      "race": "Machine",
+      "atk": 1600,
+      "def": 1100,
+      "level": 4,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/drillago-8227",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 2",
+            "set_code": "DR2-EN026",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Invasion of Chaos",
+            "set_code": "IOC-026",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "2.71"
+         },
+         {
+            "set_name": "Invasion of Chaos",
+            "set_code": "IOC-EN026",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN118",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENB19",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.31"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 5",
+            "set_code": "STP5-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Marik (TCG)",
+            "set_code": "SDMA-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.25"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 99050989,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99050989.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99050989.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99050989.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "2.95",
+            "amazon_price": "1.25",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 67105242,
+      "name": "Earthbound Spirit",
+      "typeline": [
+         "Fiend",
+         "Normal"
+      ],
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "desc": "A vengeful creature formed by the spirits of fallen warriors, it drags any who dare approach it into the deepest bowels of the earth.",
+      "race": "Fiend",
+      "atk": 500,
+      "def": 2000,
+      "level": 4,
+      "attribute": "EARTH",
+      "archetype": "Earthbound",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/earthbound-spirit-5638",
+      "card_sets": [
+         {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB1-EN249",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-055",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "2.13"
+         },
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-E055",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-EN055",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-EN055",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA08",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.27"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 67105242,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67105242.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67105242.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67105242.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.25",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "5.00",
+            "amazon_price": "1.74",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 68396778,
+      "name": "Faustian Bargain",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Target 1 Special Summoned monster on either field; send it to the GY, and if you do, Special Summon 1 Level 4 or lower Normal Monster from your hand.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/faustian-bargain-5748",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENB24",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.56"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 5",
+            "set_code": "STP5-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Stardust Overdrive",
+            "set_code": "SOVR-EN062",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 68396778,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68396778.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68396778.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68396778.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.35",
+            "ebay_price": "5.00",
+            "amazon_price": "9.09",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 37955049,
+      "name": "Gaap the Divine Soldier",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "All monsters are changed to Attack Position, also their battle positions cannot be changed. (Flip Effects are not activated.) Once per turn: You can reveal any number of Fiend monsters in your hand; this card gains 300 ATK for each, until the end of this turn.",
+      "race": "Fiend",
+      "atk": 2200,
+      "def": 2000,
+      "level": 6,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/gaap-the-divine-soldier-3211",
+      "card_sets": [
+         {
+            "set_name": "Ancient Prophecy",
+            "set_code": "ANPR-EN096",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN150",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN150",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA10",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.29"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 37955049,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37955049.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37955049.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37955049.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "1.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 38445524,
+      "name": "Gil Garth",
+      "typeline": [
+         "Fiend",
+         "Normal"
+      ],
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "desc": "This steel-armored terror machine ruthlessly strikes down enemies with its giant katana.",
+      "race": "Fiend",
+      "atk": 1800,
+      "def": 1200,
+      "level": 4,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/gil-garth-3255",
+      "card_sets": [
+         {
+            "set_name": "2-Player Starter Set",
+            "set_code": "STAS-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Demo Deck 2015",
+            "set_code": "DEM2-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.33"
+         },
+         {
+            "set_name": "Gladiator's Assault",
+            "set_code": "GLAS-EN091",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN143",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENB05",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.32"
+         },
+         {
+            "set_name": "Structure Deck: Marik (TCG)",
+            "set_code": "SDMA-EN001",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.27"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 38445524,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38445524.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38445524.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38445524.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "599.99",
+            "amazon_price": "7.50",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 5434080,
+      "name": "Headless Knight",
+      "typeline": [
+         "Fiend",
+         "Normal"
+      ],
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "desc": "A haunted spirit of a falsely accused knight who wanders in search of truth and justice.",
+      "race": "Fiend",
+      "atk": 1450,
+      "def": 1700,
+      "level": 4,
+      "attribute": "EARTH",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/headless-knight-480",
+      "card_sets": [
+         {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB1-EN248",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-054",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.5"
+         },
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-E054",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.25"
+         },
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-EN054",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.99"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA07",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.26"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 5434080,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5434080.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5434080.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5434080.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "4.00",
+            "amazon_price": "1.48",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 76052811,
+      "name": "Helpoemer",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Special Summoned from the GY. At the end of your opponent's Battle Phase, if this card is in the GY because it was destroyed by battle: Make your opponent discard 1 random card. This card must be in the GY to activate and to resolve this effect.",
+      "race": "Fiend",
+      "atk": 2000,
+      "def": 1400,
+      "level": 5,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/helpoemer-6401",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 1",
+            "set_code": "DR1-EN006",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Pack: Rivals of the Pharaoh",
+            "set_code": "DPRP-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gold Series: Haunted Mine",
+            "set_code": "GLD5-EN006",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN116",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Pharaonic Guardian",
+            "set_code": "PGD-058",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "24.58"
+         },
+         {
+            "set_name": "Retro Pack 2",
+            "set_code": "RP02-EN074",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENB13",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.25"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 76052811,
+            "image_url": "https://images.ygoprodeck.com/images/cards/76052811.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76052811.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76052811.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "12.49",
+            "amazon_price": "1.41",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 300205001,
+      "name": "Inner Conflict",
+      "type": "Skill Card",
+      "humanReadableCardType": "Skill - Yami Bakura",
+      "frameType": "skill",
+      "desc": "[Flip this card over when you activate this Skill.]\r\n\r\nActivate this Skill during your Main Phase. Once per Duel, you can pay half your LP and take control of 1 monster your opponent controls until the End Phase, but it cannot attack directly this turn.",
+      "race": "Yami Bakura",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/inner-conflict-11194",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENS01",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.65"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 3",
+            "set_code": "STP3-ENS02",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.1"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 300205001,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300205001.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300205001.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300205001.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.31",
+            "ebay_price": "2.02",
+            "amazon_price": "19.99",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 300205002,
+      "name": "Into the Darkness Below",
+      "type": "Skill Card",
+      "humanReadableCardType": "Skill - Yami Bakura",
+      "frameType": "skill",
+      "desc": "[Flip this card over when you activate this Skill.]\r\n\r\nActivate this Skill during your Main Phase. Once per turn, you can discard 1 Normal Fiend Monster, then use 1 of the following Skills.\r\n● Draw 1 card, also flip this card over.\r\n● If you have 4 or more Fiend Normal Monsters with different names in your GY, add 1 monster from your Deck to your hand, also flip this card over.",
+      "race": "Yami Bakura",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/into-the-darkness-below-11195",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENS02",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.24"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 300205002,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300205002.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300205002.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300205002.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "1.53",
+            "amazon_price": "1.29",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 90147755,
+      "name": "Lady Assailant of Flames",
+      "typeline": [
+         "Pyro",
+         "Flip",
+         "Effect"
+      ],
+      "type": "Flip Effect Monster",
+      "humanReadableCardType": "Flip Effect Monster",
+      "frameType": "effect",
+      "desc": "FLIP: Banish the top 3 cards of your Deck; inflict 800 damage to your opponent.",
+      "race": "Pyro",
+      "atk": 1500,
+      "def": 1000,
+      "level": 4,
+      "attribute": "FIRE",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/lady-assailant-of-flames-7529",
+      "card_sets": [
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.68"
+         },
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-E035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "7.16"
+         },
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-EN035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.45"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENB15",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.09"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 90147755,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90147755.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90147755.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90147755.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.10",
+            "amazon_price": "1.18",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 79418153,
+      "name": "Lancer Archfiend",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Once per turn, when your monster declares an attack on your opponent's Defense Position monster: You can activate this effect; during that battle, if that monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+      "race": "Fiend",
+      "atk": 1600,
+      "def": 1400,
+      "level": 4,
+      "attribute": "DARK",
+      "archetype": "Archfiend",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/lancer-archfiend-6661",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA16",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.33"
+         },
+         {
+            "set_name": "Starstrike Blast",
+            "set_code": "STBL-EN009",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 79418153,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79418153.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79418153.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79418153.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.28",
+            "ebay_price": "1.99",
+            "amazon_price": "1.38",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   },
+   {
+      "id": 102380,
+      "name": "Lava Golem",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) to your opponent's field by Tributing 2 monsters they control. You cannot Normal Summon/Set the turn you Special Summon this card. Once per turn, during your Standby Phase: Take 1000 damage.",
+      "race": "Fiend",
+      "atk": 3000,
+      "def": 2500,
+      "level": 8,
+      "attribute": "FIRE",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/lava-golem-8",
+      "card_sets": [
+         {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN001",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Revelation Volume 1",
+            "set_code": "DR1-EN051",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Terminal 3",
+            "set_code": "DT03-EN006",
+            "set_rarity": "Duel Terminal Super Parallel Rare",
+            "set_rarity_code": "(DSPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Pack: Battle City",
+            "set_code": "DPBC-EN034",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN008",
+            "set_rarity": "Duel Terminal Ultra Parallel Rare",
+            "set_rarity_code": "(DUPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Invasion of Chaos: Special Edition",
+            "set_code": "IOC-SE4",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "9.06"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN117",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Pharaonic Guardian",
+            "set_code": "PGD-107",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "26.57"
+         },
+         {
+            "set_name": "Retro Pack 2",
+            "set_code": "RP02-EN082",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENB01",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "5.17"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 3",
+            "set_code": "STP3-EN002",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Marik (TCG)",
+            "set_code": "SDMA-EN014",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "5.79"
+         },
+         {
+            "set_name": "Structure Deck: Shaddoll Showdown",
+            "set_code": "SDSH-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.15"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 102380,
+            "image_url": "https://images.ygoprodeck.com/images/cards/102380.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/102380.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/102380.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "1.25",
+            "amazon_price": "3.75",
+            "coolstuffinc_price": "3.99"
+         }
+      ]
+   },
+   {
+      "id": 99747800,
+      "name": "Legendary Fiend",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Once per turn, during your Standby Phase: This card gains 700 ATK.",
+      "race": "Fiend",
+      "atk": 1500,
+      "def": 1800,
+      "level": 6,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/legendary-fiend-8283",
+      "card_sets": [
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN122",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Phantom Darkness",
+            "set_code": "PTDN-EN093",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENB11",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.23"
+         },
+         {
+            "set_name": "Structure Deck: Marik (TCG)",
+            "set_code": "SDMA-EN004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.24"
+         },
+         {
+            "set_name": "War of the Giants Reinforcements",
+            "set_code": "WGRT-EN021",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "6.73"
+         },
+         {
+            "set_name": "War of the Giants: Round 2",
+            "set_code": "BPW2-EN021",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "4.31"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 99747800,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99747800.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99747800.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99747800.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.37",
+            "ebay_price": "3.75",
+            "amazon_price": "3.99",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 16475472,
+      "name": "Lesser Fiend",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "(This card is always treated as an \"Archfiend\" card.)\nBanish any monster destroyed by battle with this card.",
+      "race": "Fiend",
+      "atk": 2100,
+      "def": 1000,
+      "level": 5,
+      "attribute": "DARK",
+      "archetype": "Archfiend",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/lesser-fiend-1418",
+      "card_sets": [
+         {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB2-EN126",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.25"
+         },
+         {
+            "set_name": "Legacy of Darkness",
+            "set_code": "LOD-003",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.89"
+         },
+         {
+            "set_name": "Legacy of Darkness",
+            "set_code": "LOD-EN003",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN238",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA13",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.08"
+         },
+         {
+            "set_name": "The Lost Art Promotion (series)",
+            "set_code": "LART-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Lost Art Promotion H",
+            "set_code": "LART-EN008",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 16475472,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16475472.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16475472.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16475472.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "1.14",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 25290459,
+      "name": "Level Up!",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Send 1 face-up \"LV\" monster you control to the GY; Special Summon 1 monster from your hand or Deck that is listed in the sent monster's text, ignoring its Summoning conditions.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/level-up-2174",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 3",
+            "set_code": "DR3-EN041",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN207",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.69"
+         },
+         {
+            "set_name": "Soul of the Duelist",
+            "set_code": "SOD-EN041",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENB22",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.43"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 25290459,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25290459.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25290459.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25290459.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.93",
+            "tcgplayer_price": "0.75",
+            "ebay_price": "1.89",
+            "amazon_price": "1.86",
+            "coolstuffinc_price": "1.99"
+         }
+      ]
+   },
+   {
+      "id": 31034919,
+      "name": "Mad Reloader",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is destroyed by battle and sent to the GY: Send 2 cards from your hand to the GY, and if you do, draw 2 cards.",
+      "race": "Fiend",
+      "atk": 0,
+      "def": 0,
+      "level": 1,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/mad-reloader-2630",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN195",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN195",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENG05",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA20",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.09"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.04"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! GX Tag Force 2 promotional cards",
+            "set_code": "GX04-EN001",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.56"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 31034919,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31034919.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31034919.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31034919.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "3.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 98494543,
+      "name": "Magical Stone Excavation",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Discard 2 cards, then target 1 Spell in your GY; add it to your hand.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/magical-stone-excavation-8184",
+      "card_sets": [
+         {
+            "set_name": "Champion Pack: Game Two",
+            "set_code": "CP02-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "134.83"
+         },
+         {
+            "set_name": "Dragons Collide Structure Deck",
+            "set_code": "SDDC-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Pack: Battle City",
+            "set_code": "DPBC-EN035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN127",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Hero Decks",
+            "set_code": "LEHD-ENA24",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.4"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENV02",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.4"
+         },
+         {
+            "set_name": "Structure Deck: Marik (TCG)",
+            "set_code": "SDMA-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.45"
+         },
+         {
+            "set_name": "Turbo Pack: Booster Two",
+            "set_code": "TU02-EN008",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Zombie World Structure Deck",
+            "set_code": "SDZW-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 98494543,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98494543.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98494543.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98494543.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.27",
+            "ebay_price": "0.99",
+            "amazon_price": "0.84",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 28933734,
+      "name": "Mask of Darkness",
+      "typeline": [
+         "Fiend",
+         "Flip",
+         "Effect"
+      ],
+      "type": "Flip Effect Monster",
+      "humanReadableCardType": "Flip Effect Monster",
+      "frameType": "effect",
+      "desc": "FLIP: Target 1 Trap in your GY; add that target to your hand.",
+      "race": "Fiend",
+      "atk": 900,
+      "def": 400,
+      "level": 2,
+      "attribute": "DARK",
+      "archetype": "Mask",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/mask-of-darkness-2456",
+      "card_sets": [
+         {
+            "set_name": "2-Player Starter Set",
+            "set_code": "STAS-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN172",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN172",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB1-EN150",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Legends",
+            "set_code": "DLG1-EN028",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "2.75"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-014",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "2.08"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-E014",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "5.1"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-EN014",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "2.49"
+         },
+         {
+            "set_name": "Retro Pack",
+            "set_code": "RP01-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.45"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA19",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 4",
+            "set_code": "STP4-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN033",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "6.4"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENF09",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Jaden Yuki",
+            "set_code": "YSDJ-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.25"
+         },
+         {
+            "set_name": "Starter Deck: Pegasus",
+            "set_code": "SDP-013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.44"
+         },
+         {
+            "set_name": "Starter Deck: Syrus Truesdale",
+            "set_code": "YSDS-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.03"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 28933734,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28933734.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28933734.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28933734.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "6.00",
+            "amazon_price": "1.99",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 46820049,
+      "name": "Mefist the Infernal General",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card attacks a Defense Position monster, inflict piercing battle damage. If this card inflicts battle damage to your opponent: Make your opponent discard 1 random card.",
+      "race": "Fiend",
+      "atk": 1800,
+      "def": 1700,
+      "level": 5,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/mefist-the-infernal-general-3988",
+      "card_sets": [
+         {
+            "set_name": "Dark Crisis",
+            "set_code": "DCR-066",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "2.24"
+         },
+         {
+            "set_name": "Dark Crisis",
+            "set_code": "DCR-EN066",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "4.27"
+         },
+         {
+            "set_name": "Dark Revelation Volume 1",
+            "set_code": "DR1-EN228",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENB14",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.16"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 46820049,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46820049.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46820049.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46820049.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.37",
+            "ebay_price": "2.99",
+            "amazon_price": "1.79",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 86569121,
+      "name": "Melchid the Four-Face Beast",
+      "typeline": [
+         "Fiend",
+         "Normal"
+      ],
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "desc": "This monster has four different masks for four different attacks.",
+      "race": "Fiend",
+      "atk": 1500,
+      "def": 1200,
+      "level": 4,
+      "attribute": "DARK",
+      "archetype": "Mask",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/melchid-the-four-face-beast-7252",
+      "card_sets": [
+         {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB1-EN215",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.32"
+         },
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-E012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.81"
+         },
+         {
+            "set_name": "Retro Pack 2",
+            "set_code": "RP02-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENB04",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.17"
+         },
+         {
+            "set_name": "Speed Duel: Battle City Box",
+            "set_code": "SBCB-EN110",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.12"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 86569121,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86569121.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86569121.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86569121.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "0.99",
+            "amazon_price": "1.27",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 26905245,
+      "name": "Metal Reflect Slime",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "Special Summon this card in Defense Position as an Effect Monster (Aqua/WATER/Level 10/ATK 0/DEF 3000). (This card is also still a Trap.) This card cannot attack.",
+      "race": "Continuous",
+      "archetype": "Slime",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/metal-reflect-slime-2303",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN193",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN193",
+            "set_rarity": "Mosaic Rare",
+            "set_rarity_code": "(MSR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN052",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN052",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Pack: Rivals of the Pharaoh",
+            "set_code": "DPRP-EN033",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Egyptian God Deck: Slifer the Sky Dragon",
+            "set_code": "EGS1-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.6"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN138",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Magnificent Mavens",
+            "set_code": "MAMA-EN093",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Phantom Darkness",
+            "set_code": "PTDN-EN094",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Phantom Darkness",
+            "set_code": "PTDN-EN094",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENB29",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.51"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENI32",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Marik (TCG)",
+            "set_code": "SDMA-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.37"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 26905245,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26905245.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26905245.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26905245.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 70084224,
+      "name": "Neck Hunter",
+      "typeline": [
+         "Fiend",
+         "Normal"
+      ],
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "desc": "A fiend that wields a mean sickle and fires devastating beams from its eyes.",
+      "race": "Fiend",
+      "atk": 1750,
+      "def": 1900,
+      "level": 6,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/neck-hunter-5896",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA02",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.26"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 70084224,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70084224.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70084224.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70084224.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.47",
+            "ebay_price": "4.99",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 4335645,
+      "name": "Newdoria",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is destroyed by battle and sent to the GY: Target 1 monster on the field; destroy that target.",
+      "race": "Fiend",
+      "atk": 1200,
+      "def": 800,
+      "level": 4,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/newdoria-392",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 1",
+            "set_code": "DR1-EN005",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Demo Deck 2015",
+            "set_code": "DEM2-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.5"
+         },
+         {
+            "set_name": "Duel Terminal 3",
+            "set_code": "DT03-EN005",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gates of the Underworld Structure Deck",
+            "set_code": "SDGU-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.86"
+         },
+         {
+            "set_name": "Gold Series",
+            "set_code": "GLD1-EN011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN115",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Pharaonic Guardian",
+            "set_code": "PGD-057",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "3.27"
+         },
+         {
+            "set_name": "Retro Pack 2",
+            "set_code": "RP02-EN073",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENB17",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.5"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 4",
+            "set_code": "STP4-EN007",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Marik (TCG)",
+            "set_code": "SDMA-EN006",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.4"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 4335645,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4335645.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4335645.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4335645.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "5.00",
+            "amazon_price": "1.17",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 54704216,
+      "name": "Nightmare Wheel",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "Activate this card by targeting 1 monster your opponent controls; it cannot attack or change its battle position. When it leaves the field, destroy this card. Once per turn, during your Standby Phase: Inflict 500 damage to your opponent. That monster must be on the field to activate and to resolve this effect.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/nightmare-wheel-4661",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN096",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN096",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Revelation Volume 1",
+            "set_code": "DR1-EN055",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN134",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Millennium Pack",
+            "set_code": "MIL1-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.88"
+         },
+         {
+            "set_name": "Onslaught of the Fire Kings Structure Deck",
+            "set_code": "SDOK-EN038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.02"
+         },
+         {
+            "set_name": "Pharaonic Guardian",
+            "set_code": "PGD-106",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "13.53"
+         },
+         {
+            "set_name": "Retro Pack 2",
+            "set_code": "RP02-EN081",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENI37",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENB27",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.82"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 3",
+            "set_code": "STP3-EN012",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Marik (TCG)",
+            "set_code": "SDMA-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.84"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 54704216,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54704216.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54704216.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54704216.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.25",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "6.99",
+            "amazon_price": "4.42",
+            "coolstuffinc_price": "0.99"
+         }
+      ]
+   },
+   {
+      "id": 19230408,
+      "name": "Offerings to the Doomed",
+      "type": "Spell Card",
+      "humanReadableCardType": "Quick-Play Spell",
+      "frameType": "spell",
+      "desc": "Target 1 face-up monster on the field; destroy that target, also skip your next Draw Phase.",
+      "race": "Quick-Play",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/offerings-to-the-doomed-1658",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN138",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN138",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN070",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN070",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Terminal 2",
+            "set_code": "DT02-EN039",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Gold Series",
+            "set_code": "GLD1-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-051",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.98"
+         },
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-E051",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.43"
+         },
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-EN051",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "OTS Tournament Pack 1",
+            "set_code": "OP01-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA22",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.42"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 3",
+            "set_code": "STP3-EN010",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Kaiba Reloaded",
+            "set_code": "YSKR-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.44"
+         },
+         {
+            "set_name": "Structure Deck: Powercode Link",
+            "set_code": "SDPL-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Lost Art Promotion (series)",
+            "set_code": "LART-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Lost Art Promotion 2020 E",
+            "set_code": "LART-EN017",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 19230408,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19230408.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19230408.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19230408.jpg"
+         },
+         {
+            "id": 19230407,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19230407.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19230407.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19230407.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "7.95",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 66518841,
+      "name": "Prideful Roar",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "During damage calculation, if your monster battles an opponent's monster with a higher ATK: Pay LP equal to the difference in ATK; your monster gains ATK equal to that difference +300, during damage calculation only.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/prideful-roar-5585",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN199",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN199",
+            "set_rarity": "Mosaic Rare",
+            "set_rarity_code": "(MSR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN100",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN100",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Crossroads of Chaos",
+            "set_code": "CSOC-EN067",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Terminal 2",
+            "set_code": "DT02-EN097",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "2.9"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENB30",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.11"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 66518841,
+            "image_url": "https://images.ygoprodeck.com/images/cards/66518841.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66518841.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66518841.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 82213171,
+      "name": "Prometheus, King of the Shadows",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is Normal Summoned: Banish 1 or more DARK monsters from your GY, and if you do, this card gains 400 ATK for each, until the end of this turn.",
+      "race": "Fiend",
+      "atk": 1200,
+      "def": 800,
+      "level": 4,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/prometheus-king-of-the-shadows-6909",
+      "card_sets": [
+         {
+            "set_name": "Destiny Soldiers",
+            "set_code": "DESO-EN047",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Force of the Breaker",
+            "set_code": "FOTB-EN063",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gold Series",
+            "set_code": "GLD1-EN027",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gold Series 4: Pyramids Edition",
+            "set_code": "GLD4-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA15",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.1"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN006",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 82213171,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82213171.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82213171.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82213171.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "20.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 41442341,
+      "name": "Puppet Master",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card is Tribute Summoned: You can pay 2000 LP, then target 2 Fiend monsters in your GY; Special Summon those targets, but they cannot attack this turn.",
+      "race": "Fiend",
+      "atk": 0,
+      "def": 0,
+      "level": 6,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/puppet-master-3543",
+      "card_sets": [
+         {
+            "set_name": "Crossroads of Chaos",
+            "set_code": "CSOC-EN090",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Terminal 5b",
+            "set_code": "DT05-EN054",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN122",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.78"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA12",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.08"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.08"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 41442341,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41442341.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41442341.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41442341.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "2.59",
+            "amazon_price": "1.40",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 93382620,
+      "name": "Rope of Life",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "When a monster(s) is destroyed by battle and sent to your GY: Discard your entire hand (min.1), then target 1 of those monsters; Special Summon it, and if you do, it gains 800 ATK.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/rope-of-life-7775",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN176",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN176",
+            "set_rarity": "Mosaic Rare",
+            "set_rarity_code": "(MSR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Revelation Volume 1",
+            "set_code": "DR1-EN054",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN147",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN133",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Pharaonic Guardian",
+            "set_code": "PGD-105",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "5.04"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENB26",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.18"
+         },
+         {
+            "set_name": "Speed Duel: Battle City Box",
+            "set_code": "SBCB-EN144",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.05"
+         },
+         {
+            "set_name": "Starter Deck: Duelist Toolbox",
+            "set_code": "5DS3-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.37"
+         },
+         {
+            "set_name": "Structure Deck: Deluxe Edition",
+            "set_code": "SD2-ENDE1",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "27.53"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 93382620,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93382620.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93382620.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93382620.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 46565218,
+      "name": "Santa Claws",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can Special Summon this card (from your hand) to your opponent's field in Defense Position, by Tributing 1 monster they control. If Summoned this way, once, during the End Phase of this turn: You can draw 1 card.",
+      "race": "Fiend",
+      "atk": 1200,
+      "def": 2500,
+      "level": 6,
+      "attribute": "LIGHT",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/santa-claws-3970",
+      "card_sets": [
+         {
+            "set_name": "Premium Gold: Return of the Bling",
+            "set_code": "PGL2-EN021",
+            "set_rarity": "Gold Secret Rare",
+            "set_rarity_code": "(GScR)",
+            "set_price": "4.18"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENV01",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "4.41"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 3",
+            "set_code": "STP3-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! Advent Calendar (2018)",
+            "set_code": "AC18-EN012",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.97"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 46565218,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46565218.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46565218.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46565218.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "1.41",
+            "ebay_price": "14.45",
+            "amazon_price": "4.93",
+            "coolstuffinc_price": "1.49"
+         }
+      ]
+   },
+   {
+      "id": 300205003,
+      "name": "Shadow Reborn",
+      "type": "Skill Card",
+      "humanReadableCardType": "Skill - Yami Marik",
+      "frameType": "skill",
+      "desc": "[Flip this card over when you activate this Skill.]\r\n\r\nActivate this Skill during your Main Phase. Once per Duel, you can pay half your LP and Special Summon 1 monster from either GY, but your opponent takes no battle damage this turn.",
+      "race": "Yami Marik",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/shadow-reborn-11196",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENS03",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.4"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 300205003,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300205003.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300205003.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300205003.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "30.00",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   },
+   {
+      "id": 17626381,
+      "name": "Supply Squad",
+      "type": "Spell Card",
+      "humanReadableCardType": "Continuous Spell",
+      "frameType": "spell",
+      "desc": "Once per turn, if a monster(s) you control is destroyed by battle or card effect: Draw 1 card.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/supply-squad-1532",
+      "card_sets": [
+         {
+            "set_name": "2-Player Starter Set",
+            "set_code": "STAS-EN037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Egyptian God Deck: Obelisk the Tormentor",
+            "set_code": "EGO1-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.33"
+         },
+         {
+            "set_name": "Egyptian God Deck: Slifer the Sky Dragon",
+            "set_code": "EGS1-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.36"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENB25",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.33"
+         },
+         {
+            "set_name": "Starter Deck: Codebreaker",
+            "set_code": "YS18-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Link Strike",
+            "set_code": "YS17-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Super Starter: Space-Time Showdown",
+            "set_code": "YS14-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Valiant Smashers",
+            "set_code": "VASM-EN014",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 17626381,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17626381.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17626381.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17626381.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.90",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 37120512,
+      "name": "Sword of Dark Destruction",
+      "type": "Spell Card",
+      "humanReadableCardType": "Equip Spell",
+      "frameType": "spell",
+      "desc": "Equip only to a DARK monster. It gains 400 ATK and loses 200 DEF.",
+      "race": "Equip",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/sword-of-dark-destruction-3141",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA21",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Attack from the Deep",
+            "set_code": "SBAD-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.02"
+         },
+         {
+            "set_name": "Starter Deck: Yugi",
+            "set_code": "SDY-020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.97"
+         },
+         {
+            "set_name": "Starter Deck: Yugi",
+            "set_code": "SDY-E018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.78"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 37120512,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37120512.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37120512.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37120512.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "0.99",
+            "amazon_price": "0.72",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 52367652,
+      "name": "That Which Feeds on Life",
+      "typeline": [
+         "Fiend",
+         "Normal"
+      ],
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "desc": "A monster that feeds on the energy of other creatures.",
+      "race": "Fiend",
+      "atk": 1200,
+      "def": 1000,
+      "level": 4,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/that-which-feeds-on-life-4463",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA04",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.2"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 52367652,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52367652.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52367652.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52367652.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.40",
+            "ebay_price": "3.00",
+            "amazon_price": "0.92",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 66989694,
+      "name": "The Earl of Demise",
+      "typeline": [
+         "Fiend",
+         "Normal"
+      ],
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "desc": "This gentlemanly creature is extremely wicked, feared by man and fiend alike.",
+      "race": "Fiend",
+      "atk": 2000,
+      "def": 700,
+      "level": 5,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/the-earl-of-demise-5628",
+      "card_sets": [
+         {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB1-EN250",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-056",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.55"
+         },
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-E056",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.96"
+         },
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-EN056",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.48"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA03",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.24"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 66989694,
+            "image_url": "https://images.ygoprodeck.com/images/cards/66989694.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66989694.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66989694.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "1.99",
+            "amazon_price": "2.68",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 94861297,
+      "name": "The Forceful Checkpoint",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "When an opponent's monster declares an attack: Look at your opponent's hand, and if there is a Monster Card, negate the attack, then discard 1 monster from their hand (your choice).",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/the-forceful-checkpoint-7895",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENC19",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA30",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Attack from the Deep",
+            "set_code": "SBAD-EN045",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "3.21"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENF19",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Dark Illusion",
+            "set_code": "TDIL-EN080",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 94861297,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94861297.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94861297.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94861297.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 68049471,
+      "name": "The Gross Ghost of Fled Dreams",
+      "typeline": [
+         "Fiend",
+         "Normal"
+      ],
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "desc": "This monster feeds on the dreams of an unwary sleeper, dragging the victim into eternal slumber.",
+      "race": "Fiend",
+      "atk": 1300,
+      "def": 1800,
+      "level": 4,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/the-gross-ghost-of-fled-dreams-5718",
+      "card_sets": [
+         {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB1-EN247",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-053",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.34"
+         },
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-E053",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.65"
+         },
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-EN053",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.2"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA06",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.17"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 68049471,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68049471.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68049471.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68049471.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.25",
+            "ebay_price": "1.00",
+            "amazon_price": "1.16",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 63125616,
+      "name": "The Shadow Who Controls the Dark",
+      "typeline": [
+         "Fiend",
+         "Normal"
+      ],
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "desc": "A shadow that dwells in the dark, paralyzing its opponents and rendering them harmless.",
+      "race": "Fiend",
+      "atk": 800,
+      "def": 700,
+      "level": 3,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/the-shadow-who-controls-the-dark-5330",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA09",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.22"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 63125616,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63125616.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63125616.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63125616.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.48",
+            "ebay_price": "3.90",
+            "amazon_price": "6.53",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 79759861,
+      "name": "Tribute to the Doomed",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Discard 1 card, then target 1 monster on the field; destroy it.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/tribute-to-the-doomed-6685",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN066",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN066",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB1-EN165",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-057",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.44"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-E057",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "10.29"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-EN057",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "8.1"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENB21",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.47"
+         },
+         {
+            "set_name": "Starter Deck 2006",
+            "set_code": "YSD-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Kaiba Evolution",
+            "set_code": "SKE-035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.73"
+         },
+         {
+            "set_name": "Starter Deck: Kaiba Reloaded",
+            "set_code": "YSKR-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.28"
+         },
+         {
+            "set_name": "Starter Deck: Yu-Gi-Oh! 5D's 2009",
+            "set_code": "5DS2-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Blaze of Destruction",
+            "set_code": "SD3-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "War of the Giants Reinforcements",
+            "set_code": "WGRT-EN065",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.77"
+         },
+         {
+            "set_name": "War of the Giants: Round 2",
+            "set_code": "BPW2-EN065",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "4.53"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 79759861,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79759861.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79759861.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79759861.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "2.59",
+            "amazon_price": "0.64",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 88132637,
+      "name": "Twin-Headed Wolf",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "While you control another Fiend monster, negate the effects of Flip monsters destroyed by battle with this card.",
+      "race": "Fiend",
+      "atk": 1500,
+      "def": 1000,
+      "level": 4,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/twin-headed-wolf-7370",
+      "card_sets": [
+         {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB2-EN130",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.25"
+         },
+         {
+            "set_name": "Legacy of Darkness",
+            "set_code": "LOD-008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.66"
+         },
+         {
+            "set_name": "Legacy of Darkness",
+            "set_code": "LOD-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.9"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA14",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.09"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 88132637,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88132637.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88132637.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88132637.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 300205004,
+      "name": "Twisted Personality",
+      "type": "Skill Card",
+      "humanReadableCardType": "Skill - Yami Marik",
+      "frameType": "skill",
+      "desc": "[At the start of the Duel, flip this card over.]\r\n\r\nEach time a player loses LP, place 1 counter on this card (max. 3). Once per turn, during your Main Phase, you can use 1 of the following Skills.\r\n● Remove 2 counters from this card, then discard 1 random card from your opponent's hand.\r\n● Remove 3 counters from this card, then destroy 1 face-up card your opponent controls.",
+      "race": "Yami Marik",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/twisted-personality-11197",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENS04",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.49"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 3",
+            "set_code": "STP3-ENS03",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.67"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 300205004,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300205004.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300205004.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300205004.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.44",
+            "ebay_price": "3.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 45939841,
+      "name": "Twister",
+      "type": "Spell Card",
+      "humanReadableCardType": "Quick-Play Spell",
+      "frameType": "spell",
+      "desc": "Pay 500 LP, then target 1 face-up Spell/Trap on the field; destroy that target.",
+      "race": "Quick-Play",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/twister-3912",
+      "card_sets": [
+         {
+            "set_name": "Astral Pack Seven",
+            "set_code": "AP07-EN011",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Pack: Jesse Anderson",
+            "set_code": "DP07-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENH13",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Midterm Paradox",
+            "set_code": "SGX2-ENB17",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Match of the Millennium",
+            "set_code": "SS04-ENA22",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA23",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Arena of Lost Souls",
+            "set_code": "SBLS-EN042",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.59"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENF13",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Spellcaster's Command Structure Deck",
+            "set_code": "SDSC-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.1"
+         },
+         {
+            "set_name": "Starter Deck: Yu-Gi-Oh! 5D's",
+            "set_code": "5DS1-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Yu-Gi-Oh! 5D's 2009",
+            "set_code": "5DS2-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Strike of Neos",
+            "set_code": "STON-EN042",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Strike of Neos",
+            "set_code": "STON-EN042",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 45939841,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45939841.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45939841.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45939841.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "999.99",
+            "amazon_price": "1.20",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 90434926,
+      "name": "Veil of Darkness",
+      "type": "Spell Card",
+      "humanReadableCardType": "Continuous Spell",
+      "frameType": "spell",
+      "desc": "During your Draw Phase, if you draw a DARK monster(s): You can reveal any number of them; send them to the GY, then you can draw 1 more card.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/veil-of-darkness-7554",
+      "card_sets": [
+         {
+            "set_name": "Destiny Soldiers",
+            "set_code": "DESO-EN052",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gladiator's Assault",
+            "set_code": "GLAS-EN088",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gold Series 2009",
+            "set_code": "GLD2-EN043",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Premium Gold: Return of the Bling",
+            "set_code": "PGL2-EN071",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENG12",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA25",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Arena of Lost Souls",
+            "set_code": "SBLS-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.04"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 90434926,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90434926.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90434926.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90434926.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 56043447,
+      "name": "Viser Des",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is Normal Summoned: Target 1 monster your opponent controls; during your third Standby Phase after this effect's activation, destroy that monster. This card cannot be destroyed by battle while the targeted monster is on the field.",
+      "race": "Fiend",
+      "atk": 500,
+      "def": 1200,
+      "level": 4,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/viser-des-4769",
+      "card_sets": [
+         {
+            "set_name": "Absolute Powerforce",
+            "set_code": "ABPF-EN093",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Millennium Pack",
+            "set_code": "MIL1-EN037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.08"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENB16",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.1"
+         },
+         {
+            "set_name": "Structure Deck: Marik (TCG)",
+            "set_code": "SDMA-EN003",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.16"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 56043447,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56043447.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56043447.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56043447.jpg"
+         },
+         {
+            "id": 56043446,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56043446.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56043446.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56043446.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "4.53",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 91996584,
+      "name": "Whiptail Crow",
+      "typeline": [
+         "Fiend",
+         "Normal"
+      ],
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "desc": "Attacks from the skies with a whip-like tail.",
+      "race": "Fiend",
+      "atk": 1650,
+      "def": 1600,
+      "level": 4,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/whiptail-crow-7670",
+      "card_sets": [
+         {
+            "set_name": "Magic Ruler",
+            "set_code": "MRL-027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.31"
+         },
+         {
+            "set_name": "Magic Ruler",
+            "set_code": "MRL-E027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "6.56"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA05",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Arena of Lost Souls",
+            "set_code": "SBLS-EN002",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.02"
+         },
+         {
+            "set_name": "Spell Ruler",
+            "set_code": "SRL-027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.16"
+         },
+         {
+            "set_name": "Spell Ruler",
+            "set_code": "SRL-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.66"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 91996584,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91996584.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91996584.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91996584.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "1.00",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 10315429,
+      "name": "Yaiba Robo",
+      "typeline": [
+         "Machine",
+         "Normal"
+      ],
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "desc": "A cubical machine equipped with cutting blades for shredding an opponent to mincemeat.",
+      "race": "Machine",
+      "atk": 1000,
+      "def": 1300,
+      "level": 4,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/yaiba-robo-892",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENB02",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.27"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 10315429,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10315429.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10315429.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10315429.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.47",
+            "ebay_price": "5.00",
+            "amazon_price": "1.22",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 79852326,
+      "name": "Zoma the Spirit",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "Special Summon this card in Defense Position as an Effect Monster (Zombie/DARK/Level 4/ATK 1800/DEF 500). (This card is also still a Trap.) If this card Summoned this way is destroyed by battle: Inflict damage to your opponent equal to the ATK of the monster that destroyed it.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/zoma-the-spirit-6696",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN194",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN194",
+            "set_rarity": "Mosaic Rare",
+            "set_rarity_code": "(MSR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gold Series: Haunted Mine",
+            "set_code": "GLD5-EN049",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Immortal Destiny",
+            "set_code": "LED5-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Season 3",
+            "set_code": "LDS3-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.16"
+         },
+         {
+            "set_name": "Phantom Darkness",
+            "set_code": "PTDN-EN095",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENI38",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA28",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "8.29"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 3",
+            "set_code": "STP3-EN013",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Turbo Pack: Booster Five",
+            "set_code": "TU05-EN011",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 79852326,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79852326.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79852326.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79852326.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "2.94",
+            "amazon_price": "0.94",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   }
+]

@@ -1,0 +1,4133 @@
+[
+   {
+      "id": 26304459,
+      "name": "Ancient Flamvell Deity",
+      "typeline": [
+         "Pyro",
+         "Synchro",
+         "Effect"
+      ],
+      "type": "Synchro Monster",
+      "humanReadableCardType": "Synchro Effect Monster",
+      "frameType": "synchro",
+      "desc": "1 FIRE Tuner + 1 or more non-Tuner Pyro-Type monsters\nWhen this card is Synchro Summoned, remove from play cards from your opponent's Graveyard up to the number of cards in their hand. This card gains 200 ATK for each card removed from play by this effect.",
+      "race": "Pyro",
+      "atk": 2500,
+      "def": 200,
+      "level": 7,
+      "attribute": "FIRE",
+      "archetype": "Flamvell",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/ancient-flamvell-deity-2261",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN088",
+            "set_rarity": "Duel Terminal Ultra Parallel Rare",
+            "set_rarity_code": "(DUPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN056",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN075",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN075",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.03"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 26304459,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26304459.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26304459.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26304459.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "1.06",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 82498947,
+      "name": "Defender of the Ice Barrier",
+      "typeline": [
+         "Aqua",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "While you control another face-up \"Ice Barrier\" monster, monsters your opponent controls cannot declare an attack if their ATK is greater than or equal to this card's DEF.",
+      "race": "Aqua",
+      "atk": 200,
+      "def": 1600,
+      "level": 3,
+      "attribute": "WATER",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/defender-of-the-ice-barrier-6935",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN032",
+            "set_rarity": "Duel Terminal Rare Parallel Rare",
+            "set_rarity_code": "(DRPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN022",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN043",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN043",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "2.11"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.08"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 82498947,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82498947.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82498947.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82498947.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "2.53",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 88361177,
+      "name": "Dragunity Angusticlavii",
+      "typeline": [
+         "Winged Beast",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "While this card is equipped with a Dragon-Type \"Dragunity\" monster, during battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this monster, inflict the difference as Battle Damage to your opponent.",
+      "race": "Winged Beast",
+      "atk": 2100,
+      "def": 1000,
+      "level": 5,
+      "attribute": "WIND",
+      "archetype": "Dragunity",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dragunity-angusticlavii-7393",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN077",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN047",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN161",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN161",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.02"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 88361177,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88361177.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88361177.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88361177.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 54455664,
+      "name": "Dragunity Brandistock",
+      "typeline": [
+         "Dragon",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "While this card is equipped to a monster, that monster can attack twice during each Battle Phase.",
+      "race": "Dragon",
+      "atk": 600,
+      "def": 400,
+      "level": 1,
+      "attribute": "WIND",
+      "archetype": "Dragunity",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dragunity-brandistock-4635",
+      "card_sets": [
+         {
+            "set_name": "Dragunity Legion Structure Deck",
+            "set_code": "SDDL-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN023",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN013",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN156",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN156",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.02"
+         },
+         {
+            "set_name": "OTS Tournament Pack 8 (POR)",
+            "set_code": "OP08-PT027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 54455664,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54455664.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54455664.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54455664.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "2.49",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 99594764,
+      "name": "Dragunity Corsesca",
+      "typeline": [
+         "Dragon",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "This effect can only be activated while this card is equipped to a monster. If the equipped monster destroys an opponent's monster by battle, you can add 1 Level 4 or lower monster from your Deck to your hand with the same Type and Attribute as the monster this card is equipped to.",
+      "race": "Dragon",
+      "atk": 800,
+      "def": 700,
+      "level": 1,
+      "attribute": "WIND",
+      "archetype": "Dragunity",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dragunity-corsesca-8269",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN074",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN044",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN158",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN158",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.02"
+         },
+         {
+            "set_name": "OTS Tournament Pack 8 (POR)",
+            "set_code": "OP08-PT028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 99594764,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99594764.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99594764.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99594764.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 80549379,
+      "name": "Dragunity Javelin",
+      "typeline": [
+         "Dragon",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "If this face-up card is destroyed while in the Monster Card Zone, you can equip it to 1 face-up Winged Beast-Type \"Dragunity\" monster you control, instead of sending it to the Graveyard.",
+      "race": "Dragon",
+      "atk": 1200,
+      "def": 800,
+      "level": 2,
+      "attribute": "WIND",
+      "archetype": "Dragunity",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dragunity-javelin-6753",
+      "card_sets": [
+         {
+            "set_name": "Dragunity Legion Structure Deck",
+            "set_code": "SDDL-EN011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN024",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN014",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN157",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN157",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.05"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 80549379,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80549379.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80549379.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80549379.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 25682811,
+      "name": "Dragunity Knight - Barcha",
+      "typeline": [
+         "Dragon",
+         "Synchro",
+         "Effect"
+      ],
+      "type": "Synchro Monster",
+      "humanReadableCardType": "Synchro Effect Monster",
+      "frameType": "synchro",
+      "desc": "1 Dragon-Type Tuner + 1 or more non-Tuner Winged Beast-Type monsters\nWhen this card is Synchro Summoned, you can select any number of Dragon-Type \"Dragunity\" monsters in your Graveyard, and equip them to this card. This card gains 300 ATK for each \"Dragunity\" card equipped to this card.",
+      "race": "Dragon",
+      "atk": 2000,
+      "def": 1200,
+      "level": 8,
+      "attribute": "WIND",
+      "archetype": "Dragunity",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dragunity-knight-barcha-2209",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN091",
+            "set_rarity": "Duel Terminal Super Parallel Rare",
+            "set_rarity_code": "(DSPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN059",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN165",
+            "set_rarity": "Duel Terminal Ultra Parallel Rare",
+            "set_rarity_code": "(DUPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 8 (POR)",
+            "set_code": "OP08-PT036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 25682811,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25682811.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25682811.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25682811.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.36",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "1.50",
+            "amazon_price": "24.35",
+            "coolstuffinc_price": "0.99"
+         }
+      ]
+   },
+   {
+      "id": 80159717,
+      "name": "Dragunity Knight - Trident",
+      "typeline": [
+         "Dragon",
+         "Synchro",
+         "Effect"
+      ],
+      "type": "Synchro Monster",
+      "humanReadableCardType": "Synchro Effect Monster",
+      "frameType": "synchro",
+      "desc": "1 Dragon-Type Tuner + 1 or more non-Tuner Winged Beast-Type monsters\nOnce per turn, you can send up to 3 cards you control to the Graveyard to look at your opponent's Extra Deck and send an equal number of cards from there to the Graveyard.",
+      "race": "Dragon",
+      "atk": 2400,
+      "def": 1700,
+      "level": 7,
+      "attribute": "WIND",
+      "archetype": "Dragunity",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dragunity-knight-trident-6719",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN040",
+            "set_rarity": "Duel Terminal Ultra Parallel Rare",
+            "set_rarity_code": "(DUPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN028",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN164",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN164",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.02"
+         },
+         {
+            "set_name": "OTS Tournament Pack 8 (POR)",
+            "set_code": "OP08-PT035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 80159717,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80159717.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80159717.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80159717.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "9.98",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 81661951,
+      "name": "Dragunity Militum",
+      "typeline": [
+         "Winged Beast",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Once per turn, you can select 1 \"Dragunity\" card in your Spell & Trap Card Zone, and Special Summon it.",
+      "race": "Winged Beast",
+      "atk": 1700,
+      "def": 1200,
+      "level": 4,
+      "attribute": "WIND",
+      "archetype": "Dragunity",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dragunity-militum-6854",
+      "card_sets": [
+         {
+            "set_name": "Dragunity Legion Structure Deck",
+            "set_code": "SDDL-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN021",
+            "set_rarity": "Duel Terminal Rare Parallel Rare",
+            "set_rarity_code": "(DRPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN011",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN154",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN154",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.03"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 81661951,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81661951.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81661951.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81661951.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "1.17",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 25988873,
+      "name": "Dragunity Partisan",
+      "typeline": [
+         "Dragon",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card is Normal Summoned, you can Special Summon 1 Winged Beast-Type \"Dragunity\" monster from your hand, then equip it with this card. While this card is equipped to a monster, that monster is treated as a Tuner monster.",
+      "race": "Dragon",
+      "atk": 1200,
+      "def": 800,
+      "level": 2,
+      "attribute": "WIND",
+      "archetype": "Dragunity",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dragunity-partisan-2238",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN075",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN045",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN159",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN159",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.04"
+         },
+         {
+            "set_name": "OTS Tournament Pack 8 (POR)",
+            "set_code": "OP08-PT029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 25988873,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25988873.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25988873.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25988873.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "1.01",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 52977572,
+      "name": "Dragunity Pilum",
+      "typeline": [
+         "Dragon",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card is Normal Summoned, you can Special Summon 1 Winged Beast-Type \"Dragunity\" monster from your hand, then equip it with this card. While this card is equipped to a monster, that monster can attack your opponent directly. When you do, Battle Damage inflicted to your opponent (by the equipped monster) is halved.",
+      "race": "Dragon",
+      "atk": 1400,
+      "def": 1000,
+      "level": 3,
+      "attribute": "WIND",
+      "archetype": "Dragunity",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dragunity-pilum-4513",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN076",
+            "set_rarity": "Duel Terminal Rare Parallel Rare",
+            "set_rarity_code": "(DRPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN046",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN160",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN160",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "2.1"
+         },
+         {
+            "set_name": "OTS Tournament Pack 8 (POR)",
+            "set_code": "OP08-PT030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 52977572,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52977572.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52977572.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52977572.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "2.88",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 18060565,
+      "name": "Dragunity Primus Pilus",
+      "typeline": [
+         "Winged Beast",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card is Normal or Special Summoned, you can select 1 face-up Winged Beast-Type \"Dragunity\" monster you control. Equip it with 1 Level 3 or lower Dragon-Type \"Dragunity\" monster from your Deck.",
+      "race": "Winged Beast",
+      "atk": 2200,
+      "def": 1600,
+      "level": 5,
+      "attribute": "WIND",
+      "archetype": "Dragunity",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dragunity-primus-pilus-1568",
+      "card_sets": [
+         {
+            "set_name": "Dragunity Legion Structure Deck",
+            "set_code": "SDDL-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN022",
+            "set_rarity": "Duel Terminal Super Parallel Rare",
+            "set_rarity_code": "(DSPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN012",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN155",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN155",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.03"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 18060565,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18060565.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18060565.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18060565.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "4.69",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 53199020,
+      "name": "Fabled Dianaira",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can Tribute Summon this card in face-up Attack Position by Tributing 1 \"Fabled\" monster. Once per turn, the effect of the first Normal Spell Card your opponent activates becomes \"Your opponent discards 1 card\". (\"Your opponent\" means the controller of this monster.)",
+      "race": "Fiend",
+      "atk": 2800,
+      "def": 100,
+      "level": 8,
+      "attribute": "LIGHT",
+      "archetype": "Fabled",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/fabled-dianaira-4533",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN073",
+            "set_rarity": "Duel Terminal Rare Parallel Rare",
+            "set_rarity_code": "(DRPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN043",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN143",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN143",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.02"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 53199020,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53199020.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53199020.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53199020.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 53921056,
+      "name": "General Gantala of the Ice Barrier",
+      "typeline": [
+         "Warrior",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Once per turn, during your End Phase, you can select 1 \"Ice Barrier\" monster in your Graveyard, except \"General Gantala of the Ice Barrier\", and Special Summon it.",
+      "race": "Warrior",
+      "atk": 2700,
+      "def": 2000,
+      "level": 7,
+      "attribute": "WATER",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/general-gantala-of-the-ice-barrier-4594",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN084",
+            "set_rarity": "Duel Terminal Super Parallel Rare",
+            "set_rarity_code": "(DSPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN054",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN049",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN049",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.03"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.04"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 53921056,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53921056.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53921056.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53921056.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "3.00",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 81275309,
+      "name": "General Raiho of the Ice Barrier",
+      "typeline": [
+         "Warrior",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When an effect resolves that was activated by an Effect Monster that was on your opponent's side of the field, they must discard 1 card or the effect is negated (their choice).",
+      "race": "Warrior",
+      "atk": 2100,
+      "def": 2300,
+      "level": 6,
+      "attribute": "WATER",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/general-raiho-of-the-ice-barrier-6823",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN035",
+            "set_rarity": "Duel Terminal Super Parallel Rare",
+            "set_rarity_code": "(DSPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN025",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN046",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN046",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.03"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.29"
+         },
+         {
+            "set_name": "War of the Giants Reinforcements",
+            "set_code": "WGRT-EN039",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.64"
+         },
+         {
+            "set_name": "War of the Giants: Round 2",
+            "set_code": "BPW2-EN039",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.4"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 81275309,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81275309.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81275309.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81275309.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 91438994,
+      "name": "Genex Ally Bellflame",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Each time a monster(s) you control is sent to the Graveyard, place 1 Genex Counter on this card. Each time a card(s) in your opponent's Graveyard is banished, place 2 Genex Counters on this card. This card gains 100 ATK for each Genex Counter on the field. If this card is destroyed by battle and sent to the Graveyard: Inflict 300 damage to your opponent for each Genex Counter that was on this card.",
+      "race": "Machine",
+      "atk": 1700,
+      "def": 1000,
+      "level": 4,
+      "attribute": "DARK",
+      "archetype": "Genex",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/genex-ally-bellflame-7624",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN082",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN082",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN068",
+            "set_rarity": "Duel Terminal Rare Parallel Rare",
+            "set_rarity_code": "(DRPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN038",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 91438994,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91438994.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91438994.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91438994.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 64034255,
+      "name": "Genex Ally Birdman",
+      "typeline": [
+         "Machine",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "You can return 1 face-up monster you control to the hand; Special Summon this card from your hand, but banish it when it leaves the field, also it gains 500 ATK if the returned monster was WIND on the field.",
+      "race": "Machine",
+      "atk": 1400,
+      "def": 400,
+      "level": 3,
+      "attribute": "DARK",
+      "archetype": "Genex",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/genex-ally-birdman-5403",
+      "card_sets": [
+         {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN057",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN058",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN067",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN037",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN247",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN247",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Powercode Link",
+            "set_code": "SDPL-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Synchron Extreme Structure Deck",
+            "set_code": "SDSE-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.38"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 64034255,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64034255.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64034255.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64034255.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "1.90",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 20127343,
+      "name": "Genex Ally Changer",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Once per turn, you can select 1 face-up monster on the field and declare 1 Attribute. The selected monster's Attribute becomes the declared Attribute until the End Phase.",
+      "race": "Machine",
+      "atk": 1200,
+      "def": 1800,
+      "level": 3,
+      "attribute": "DARK",
+      "archetype": "Genex",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/genex-ally-changer-1727",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN013",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN003",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 20127343,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20127343.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20127343.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20127343.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 38049541,
+      "name": "Genex Ally Chemistrer",
+      "typeline": [
+         "Machine",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "You can declare 1 Attribute and discard this card to select 1 face-up \"Genex\" monster you control. That monster becomes that Attribute. This effect can be activated during either player's turn.",
+      "race": "Machine",
+      "atk": 200,
+      "def": 500,
+      "level": 2,
+      "attribute": "DARK",
+      "archetype": "Genex",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/genex-ally-chemistrer-3227",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN066",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN036",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 38049541,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38049541.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38049541.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38049541.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 27827903,
+      "name": "Genex Ally Crusher",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Once per turn, when a monster with the same Attribute as this card is Normal Summoned to your side of the field, you can select 1 card your opponent controls, and destroy it.",
+      "race": "Machine",
+      "atk": 1000,
+      "def": 2000,
+      "level": 4,
+      "attribute": "DARK",
+      "archetype": "Genex",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/genex-ally-crusher-2369",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN069",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN039",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 27827903,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27827903.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27827903.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27827903.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 94622638,
+      "name": "Genex Ally Powercell",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Other face-up monsters you control with the same Attribute as this card gain 500 ATK.",
+      "race": "Machine",
+      "atk": 1700,
+      "def": 0,
+      "level": 4,
+      "attribute": "DARK",
+      "archetype": "Genex",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/genex-ally-powercell-7869",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN012",
+            "set_rarity": "Duel Terminal Super Parallel Rare",
+            "set_rarity_code": "(DSPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN002",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 94622638,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94622638.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94622638.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94622638.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.34",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 63211608,
+      "name": "Genex Ally Reliever",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If you negate the activation of a Spell Card, Trap Card, or Effect Monster's effect activated by your opponent, you can Special Summon this card from your hand.",
+      "race": "Machine",
+      "atk": 2200,
+      "def": 1000,
+      "level": 5,
+      "attribute": "DARK",
+      "archetype": "Genex",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/genex-ally-reliever-5337",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN070",
+            "set_rarity": "Duel Terminal Super Parallel Rare",
+            "set_rarity_code": "(DSPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN040",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 63211608,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63211608.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63211608.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63211608.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "1.16",
+            "amazon_price": "0.29",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 57238939,
+      "name": "Genex Ally Remote",
+      "typeline": [
+         "Machine",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "Once per turn, you can select 1 face-up Tuner monster on the field. The selected monster's name is treated as \"Genex Controller\" until the End Phase.",
+      "race": "Machine",
+      "atk": 500,
+      "def": 1800,
+      "level": 3,
+      "attribute": "DARK",
+      "archetype": "Genex",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/genex-ally-remote-4875",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN011",
+            "set_rarity": "Duel Terminal Rare Parallel Rare",
+            "set_rarity_code": "(DRPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN001",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 57238939,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57238939.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57238939.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57238939.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 83500096,
+      "name": "Genex Ally Solid",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Once per turn, you can send 1 face-up WATER \"Genex\" monster you control to the Graveyard to draw 2 cards.",
+      "race": "Machine",
+      "atk": 500,
+      "def": 1200,
+      "level": 2,
+      "attribute": "DARK",
+      "archetype": "Genex",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/genex-ally-solid-7008",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN015",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN005",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 83500096,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83500096.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83500096.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83500096.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 17760003,
+      "name": "Genex Ally Triarm",
+      "typeline": [
+         "Machine",
+         "Synchro",
+         "Effect"
+      ],
+      "type": "Synchro Monster",
+      "humanReadableCardType": "Synchro Effect Monster",
+      "frameType": "synchro",
+      "desc": "\"Genex Controller\" + 1 or more non-Tuner monsters\nThis card's effects depend on the Attribute(s) of its non-Tuner Synchro Material Monsters. Once per turn, you can discard 1 card to activate one of its effects: ● WIND: Send 1 random card from your opponent's hand to the Graveyard. ● WATER: Select 1 Spell/Trap Card on the field, and destroy it. ● DARK: Select 1 face-up LIGHT monster on the field, destroy it and draw 1 card.",
+      "race": "Machine",
+      "atk": 2400,
+      "def": 1600,
+      "level": 6,
+      "attribute": "DARK",
+      "archetype": "Genex",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/genex-ally-triarm-1544",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN038",
+            "set_rarity": "Duel Terminal Ultra Parallel Rare",
+            "set_rarity_code": "(DUPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN026",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 17760003,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17760003.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17760003.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17760003.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "1.50",
+            "amazon_price": "0.50",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 52709508,
+      "name": "Genex Ally Triforce",
+      "typeline": [
+         "Machine",
+         "Synchro",
+         "Effect"
+      ],
+      "type": "Synchro Monster",
+      "humanReadableCardType": "Synchro Effect Monster",
+      "frameType": "synchro",
+      "desc": "1 \"Genex\" Tuner + 1 or more non-Tuner monsters\nThis card's effects depend on the Attribute(s) of its non-Tuner Synchro Material Monsters. ● EARTH: If this card attacks, your opponent cannot activate Spell/Trap Cards until the end of the Damage Step. ● FIRE: If this card destroys a monster by battle, inflict damage to your opponent equal to the ATK of the destroyed monster. ● LIGHT: Once per turn, you can select 1 LIGHT monster in your Graveyard and Special Summon it in face-down Defense Position.",
+      "race": "Machine",
+      "atk": 2500,
+      "def": 2100,
+      "level": 7,
+      "attribute": "DARK",
+      "archetype": "Genex",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/genex-ally-triforce-4490",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN089",
+            "set_rarity": "Duel Terminal Ultra Parallel Rare",
+            "set_rarity_code": "(DUPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN057",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 52709508,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52709508.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52709508.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52709508.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.42",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "2.07",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 56511382,
+      "name": "Genex Ally Volcannon",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Once per turn, you can send 1 face-up FIRE \"Genex\" monster you control to the Graveyard to select 1 face-up monster your opponent controls, destroy it, and inflict damage to your opponent equal to the Level of the destroyed monster x 400.",
+      "race": "Machine",
+      "atk": 1700,
+      "def": 600,
+      "level": 4,
+      "attribute": "DARK",
+      "archetype": "Genex",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/genex-ally-volcannon-4808",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN014",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN004",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 56511382,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56511382.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56511382.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56511382.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 80727721,
+      "name": "Jurrac Aeolo",
+      "typeline": [
+         "Dinosaur",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "You can Tribute this card to select 1 Level 4 or lower \"Jurrac\" monster in your Graveyard, except \"Jurrac Aeolo\". Special Summon that monster from the Graveyard.",
+      "race": "Dinosaur",
+      "atk": 200,
+      "def": 200,
+      "level": 1,
+      "attribute": "FIRE",
+      "archetype": "Jurrac",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/jurrac-aeolo-6771",
+      "card_sets": [
+         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN106",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN027",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN017",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 80727721,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80727721.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80727721.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80727721.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "2.12",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "2.60",
+            "amazon_price": "3.06",
+            "coolstuffinc_price": "1.99"
+         }
+      ]
+   },
+   {
+      "id": 17948378,
+      "name": "Jurrac Dino",
+      "typeline": [
+         "Dinosaur",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "Once during each player's End Phase, if this card destroyed an opponent's monster by battle this turn, you can Tribute 1 \"Jurrac\" monster to draw 2 cards.",
+      "race": "Dinosaur",
+      "atk": 1700,
+      "def": 800,
+      "level": 3,
+      "attribute": "FIRE",
+      "archetype": "Jurrac",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/jurrac-dino-1556",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN025",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN015",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 17948378,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17948378.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17948378.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17948378.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.49",
+            "tcgplayer_price": "0.38",
+            "ebay_price": "0.99",
+            "amazon_price": "2.99",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 43332022,
+      "name": "Jurrac Gallim",
+      "typeline": [
+         "Dinosaur",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card is destroyed by battle and sent to the Graveyard: Your opponent can discard 1 card to negate this card's effect, otherwise destroy the monster that destroyed this card.",
+      "race": "Dinosaur",
+      "atk": 1200,
+      "def": 0,
+      "level": 2,
+      "attribute": "FIRE",
+      "archetype": "Jurrac",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/jurrac-gallim-3691",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN026",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN016",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "War of the Giants Reinforcements",
+            "set_code": "WGRT-EN038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.75"
+         },
+         {
+            "set_name": "War of the Giants: Round 2",
+            "set_code": "BPW2-EN038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.43"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 43332022,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43332022.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43332022.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43332022.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.32",
+            "ebay_price": "2.09",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 16111820,
+      "name": "Jurrac Herra",
+      "typeline": [
+         "Dinosaur",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When a Defense Position \"Jurrac\" monster you control, except \"Jurrac Herra\", is destroyed by battle and sent to the GY: You can Special Summon this card from your hand or GY.",
+      "race": "Dinosaur",
+      "atk": 2300,
+      "def": 1500,
+      "level": 6,
+      "attribute": "FIRE",
+      "archetype": "Jurrac",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/jurrac-herra-1383",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN028",
+            "set_rarity": "Duel Terminal Rare Parallel Rare",
+            "set_rarity_code": "(DRPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN018",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 4",
+            "set_code": "STP4-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN025",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.14"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 16111820,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16111820.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16111820.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16111820.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.28",
+            "tcgplayer_price": "0.34",
+            "ebay_price": "1.99",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 17548456,
+      "name": "Jurrac Meteor",
+      "typeline": [
+         "Dinosaur",
+         "Synchro",
+         "Effect"
+      ],
+      "type": "Synchro Monster",
+      "humanReadableCardType": "Synchro Effect Monster",
+      "frameType": "synchro",
+      "desc": "1 \"Jurrac\" Tuner + 2 or more non-Tuner Dinosaur-Type monsters\nWhen this card is Synchro Summoned, destroy all cards on the field. Then, you can Special Summon 1 Tuner monster from your Graveyard.",
+      "race": "Dinosaur",
+      "atk": 2800,
+      "def": 2000,
+      "level": 10,
+      "attribute": "FIRE",
+      "archetype": "Jurrac",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/jurrac-meteor-1526",
+      "card_sets": [
+         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN150",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN150",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN041",
+            "set_rarity": "Duel Terminal Ultra Parallel Rare",
+            "set_rarity_code": "(DUPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN029",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN139",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN139",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 17548456,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17548456.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17548456.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17548456.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.67",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "6.95",
+            "amazon_price": "1.78",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 42110434,
+      "name": "Naturia Butterfly",
+      "typeline": [
+         "Insect",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "Once per turn, when your opponent's monster declares an attack, you can send the top card of your Deck to the Graveyard and negate that attack.",
+      "race": "Insect",
+      "atk": 500,
+      "def": 1200,
+      "level": 3,
+      "attribute": "EARTH",
+      "archetype": "Naturia",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/naturia-butterfly-3592",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN029",
+            "set_rarity": "Duel Terminal Rare Parallel Rare",
+            "set_rarity_code": "(DRPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN019",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN108",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN108",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.05"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 42110434,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42110434.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42110434.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42110434.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "1.19",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 99916754,
+      "name": "Naturia Exterio",
+      "typeline": [
+         "Beast",
+         "Fusion",
+         "Effect"
+      ],
+      "type": "Fusion Monster",
+      "humanReadableCardType": "Fusion Effect Monster",
+      "frameType": "fusion",
+      "desc": "\"Naturia Beast\" + \"Naturia Barkion\"\nA Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. While this card is face-up on the field, you can negate the activation of a Spell/Trap Card, and destroy it, by removing from play 1 card from your Graveyard, then sending the top card of your Deck to the Graveyard.",
+      "race": "Beast",
+      "atk": 2800,
+      "def": 2400,
+      "level": 10,
+      "attribute": "EARTH",
+      "archetype": "Naturia",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/naturia-exterio-8294",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN085",
+            "set_rarity": "Duel Terminal Ultra Parallel Rare",
+            "set_rarity_code": "(DUPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN055",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN119",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN119",
+            "set_rarity": "Duel Terminal Ultra Parallel Rare",
+            "set_rarity_code": "(DUPR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 99916754,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99916754.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99916754.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99916754.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.52",
+            "ebay_price": "4.99",
+            "amazon_price": "3.96",
+            "coolstuffinc_price": "1.49"
+         }
+      ]
+   },
+   {
+      "id": 19605133,
+      "name": "Naturia Ladybug",
+      "typeline": [
+         "Insect",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When you Synchro Summon a \"Naturia\" Synchro Monster, you can Special Summon this card from your Graveyard. During your Main Phase, you can Tribute this card to select 1 face-up \"Naturia\" monster you control. It gains 1000 ATK until the End Phase.",
+      "race": "Insect",
+      "atk": 100,
+      "def": 100,
+      "level": 1,
+      "attribute": "EARTH",
+      "archetype": "Naturia",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/naturia-ladybug-1688",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN030",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN020",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN109",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN109",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.02"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 19605133,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19605133.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19605133.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19605133.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 43932460,
+      "name": "Naturia Landoise",
+      "typeline": [
+         "Rock",
+         "Synchro",
+         "Effect"
+      ],
+      "type": "Synchro Monster",
+      "humanReadableCardType": "Synchro Effect Monster",
+      "frameType": "synchro",
+      "desc": "1 EARTH Tuner + 1 or more non-Tuner EARTH monsters\nWhile this card is face-up on the field, you can send 1 Spell Card from your hand to the Graveyard to negate the activation of an Effect Monster's effect and destroy it.",
+      "race": "Rock",
+      "atk": 2350,
+      "def": 1600,
+      "level": 7,
+      "attribute": "EARTH",
+      "archetype": "Naturia",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/naturia-landoise-3753",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN042",
+            "set_rarity": "Duel Terminal Ultra Parallel Rare",
+            "set_rarity_code": "(DUPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN030",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN123",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN123",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.05"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 43932460,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43932460.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43932460.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43932460.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.29",
+            "ebay_price": "0.99",
+            "amazon_price": "0.85",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 51254980,
+      "name": "Naturia Mantis",
+      "typeline": [
+         "Insect",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When your opponent Normal Summons a monster, you can send 1 \"Naturia\" monster from your hand to the Graveyard to destroy that monster.",
+      "race": "Insect",
+      "atk": 1700,
+      "def": 1500,
+      "level": 4,
+      "attribute": "EARTH",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/naturia-mantis-4360",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN079",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN049",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN113",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN113",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.03"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 51254980,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51254980.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51254980.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51254980.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 87649699,
+      "name": "Naturia Ragweed",
+      "typeline": [
+         "Plant",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When your opponent draws a card(s), except during the Draw Phase, you can send this face-up card you control to the Graveyard to draw 2 cards.",
+      "race": "Plant",
+      "atk": 1200,
+      "def": 2000,
+      "level": 3,
+      "attribute": "EARTH",
+      "archetype": "Naturia",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/naturia-ragweed-7338",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN080",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN050",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN114",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN114",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.05"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 87649699,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87649699.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87649699.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87649699.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 25866285,
+      "name": "Naturia Stinkbug",
+      "typeline": [
+         "Insect",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "When a face-up \"Naturia\" monster you control is selected as an attack target, you can send this face-up card you control to the Graveyard to negate that attack and end the Battle Phase.",
+      "race": "Insect",
+      "atk": 200,
+      "def": 500,
+      "level": 3,
+      "attribute": "EARTH",
+      "archetype": "Naturia",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/naturia-stinkbug-2230",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN078",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN048",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN112",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN112",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.05"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 25866285,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25866285.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25866285.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25866285.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "0.99",
+            "amazon_price": "0.39",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 55099248,
+      "name": "Naturia Strawberry",
+      "typeline": [
+         "Plant",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Once per turn, when your opponent Normal or Special Summons a monster(s): Target 1 of those monsters; this card gains 100 ATK x the Level of that monster, until the End Phase.",
+      "race": "Plant",
+      "atk": 1600,
+      "def": 1200,
+      "level": 4,
+      "attribute": "EARTH",
+      "archetype": "Naturia",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/naturia-strawberry-4692",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN210",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN210",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN031",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN021",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN110",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN110",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.04"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 55099248,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55099248.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55099248.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55099248.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 24644634,
+      "name": "Naturia White Oak",
+      "typeline": [
+         "Plant",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card is targeted by an opponent's card effect, you can send this face-up card you control to the Graveyard to Special Summon 2 Level 4 or lower \"Naturia\" monsters from your Deck. They cannot declare an attack, and are destroyed during your End Phase.",
+      "race": "Plant",
+      "atk": 1800,
+      "def": 1400,
+      "level": 4,
+      "attribute": "EARTH",
+      "archetype": "Naturia",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/naturia-white-oak-2128",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN081",
+            "set_rarity": "Duel Terminal Super Parallel Rare",
+            "set_rarity_code": "(DSPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN051",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN115",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN115",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "2.27"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 24644634,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24644634.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24644634.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24644634.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.99",
+            "amazon_price": "0.97",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 65156847,
+      "name": "Neo Flamvell Garuda",
+      "typeline": [
+         "Pyro",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "During your End Phase, if you control another face-up \"Flamvell\" monster, select 1 card in your opponent's Graveyard and remove it from play.",
+      "race": "Pyro",
+      "atk": 1200,
+      "def": 1800,
+      "level": 3,
+      "attribute": "FIRE",
+      "archetype": "Flamvell",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/neo-flamvell-garuda-5489",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN064",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN034",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN072",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN072",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.03"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 65156847,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65156847.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65156847.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65156847.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 2377034,
+      "name": "Neo Flamvell Hedgehog",
+      "typeline": [
+         "Pyro",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is destroyed by battle, select 1 card in your opponent's Graveyard and remove it from play. If this card on the field is destroyed by a card effect, select 1 FIRE monster with 200 or less DEF in your Graveyard, except \"Neo Flamvell Hedgehog\", and add it to your hand.",
+      "race": "Pyro",
+      "atk": 800,
+      "def": 200,
+      "level": 3,
+      "attribute": "FIRE",
+      "archetype": "Flamvell",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/neo-flamvell-hedgehog-216",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN062",
+            "set_rarity": "Duel Terminal Rare Parallel Rare",
+            "set_rarity_code": "(DRPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN032",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN070",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN070",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.03"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 2377034,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2377034.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2377034.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2377034.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 66378485,
+      "name": "Neo Flamvell Origin",
+      "typeline": [
+         "Pyro",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "If you control a face-up \"Flamvell\" monster, except \"Neo Flamvell Origin\", and your opponent has 3 or less cards in their Graveyard, you can Special Summon this card from your hand.",
+      "race": "Pyro",
+      "atk": 500,
+      "def": 200,
+      "level": 2,
+      "attribute": "FIRE",
+      "archetype": "Flamvell",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/neo-flamvell-origin-5572",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN061",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN031",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN069",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN069",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.03"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 66378485,
+            "image_url": "https://images.ygoprodeck.com/images/cards/66378485.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66378485.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66378485.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "1.00",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 91554542,
+      "name": "Neo Flamvell Sabre",
+      "typeline": [
+         "Pyro",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "While your opponent has 4 or less cards in their Graveyard, this card gains 600 ATK. While your opponent has 8 or more cards in their Graveyard, this card loses 300 ATK.",
+      "race": "Pyro",
+      "atk": 1500,
+      "def": 200,
+      "level": 4,
+      "attribute": "FIRE",
+      "archetype": "Flamvell",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/neo-flamvell-sabre-7632",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN065",
+            "set_rarity": "Duel Terminal Super Parallel Rare",
+            "set_rarity_code": "(DSPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN035",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN073",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN073",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.02"
+         },
+         {
+            "set_name": "Onslaught of the Fire Kings Structure Deck",
+            "set_code": "SDOK-EN011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.12"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 91554542,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91554542.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91554542.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91554542.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 39761138,
+      "name": "Neo Flamvell Shaman",
+      "typeline": [
+         "Pyro",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card destroys an opponent's monster by battle while you have 3 or more \"Flamvell\" monsters in your Graveyard, select 1 card in your opponent's Graveyard and remove it from play. If your opponent does not have any Spell Cards in their Graveyard when this effect activates, inflict 500 damage to your opponent.",
+      "race": "Pyro",
+      "atk": 1700,
+      "def": 200,
+      "level": 3,
+      "attribute": "FIRE",
+      "archetype": "Flamvell",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/neo-flamvell-shaman-3370",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN063",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN033",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN071",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN071",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.03"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 39761138,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39761138.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39761138.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39761138.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "1.85",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 44877690,
+      "name": "Sacred Spirit of the Ice Barrier",
+      "typeline": [
+         "Zombie",
+         "Spirit",
+         "Effect"
+      ],
+      "type": "Spirit Monster",
+      "humanReadableCardType": "Spirit Effect Monster",
+      "frameType": "effect",
+      "desc": "This card cannot be Special Summoned. This card returns to the hand during the End Phase of the turn it is Normal Summoned or flipped face-up, unless you control another face-up \"Ice Barrier\" monster. In that case, this card's effect changes to select 1 monster your opponent controls and return it to the hand, instead.",
+      "race": "Zombie",
+      "atk": 1600,
+      "def": 1200,
+      "level": 4,
+      "attribute": "WATER",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/sacred-spirit-of-the-ice-barrier-3822",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN034",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN024",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN045",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN045",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "2.86"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 44877690,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44877690.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44877690.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44877690.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 27527047,
+      "name": "Secret Guards of the Ice Barrier",
+      "typeline": [
+         "Aqua",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Face-up \"Ice Barrier\" monsters you control cannot be targeted by effects of your opponent's Effect Monsters.",
+      "race": "Aqua",
+      "atk": 100,
+      "def": 1600,
+      "level": 2,
+      "attribute": "WATER",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/secret-guards-of-the-ice-barrier-2347",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN083",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN053",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN048",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN048",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "2.24"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 27527047,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27527047.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27527047.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27527047.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "1.49",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 50032342,
+      "name": "Strategist of the Ice Barrier",
+      "typeline": [
+         "Spellcaster",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Once per turn, you can send 1 \"Ice Barrier\" monster from your hand to the Graveyard to draw 1 card.",
+      "race": "Spellcaster",
+      "atk": 1600,
+      "def": 1600,
+      "level": 4,
+      "attribute": "WATER",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/strategist-of-the-ice-barrier-4260",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN082",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN052",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN047",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN047",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.04"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.05"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 50032342,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50032342.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50032342.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50032342.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 56399890,
+      "name": "The Fabled Catsith",
+      "typeline": [
+         "Beast",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card is discarded to the Graveyard, select 1 face-up card on the field, and destroy it.",
+      "race": "Beast",
+      "atk": 800,
+      "def": 600,
+      "level": 1,
+      "attribute": "LIGHT",
+      "archetype": "Fabled",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/the-fabled-catsith-4801",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN017",
+            "set_rarity": "Duel Terminal Rare Parallel Rare",
+            "set_rarity_code": "(DRPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN007",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN137",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN137",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.04"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 56399890,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56399890.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56399890.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56399890.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.24",
+            "tcgplayer_price": "0.36",
+            "ebay_price": "1.95",
+            "amazon_price": "1.51",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 82888408,
+      "name": "The Fabled Cerburrel",
+      "typeline": [
+         "Beast",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is discarded to the Graveyard: Special Summon it.",
+      "race": "Beast",
+      "atk": 1000,
+      "def": 400,
+      "level": 2,
+      "attribute": "LIGHT",
+      "archetype": "Fabled",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/the-fabled-cerburrel-6961",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN018",
+            "set_rarity": "Duel Terminal Super Parallel Rare",
+            "set_rarity_code": "(DSPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN008",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN138",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN138",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.19"
+         },
+         {
+            "set_name": "Realm of Light Structure Deck",
+            "set_code": "SDLI-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.44"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.42"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 82888408,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82888408.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82888408.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82888408.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "1.49",
+            "amazon_price": "1.38",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   },
+   {
+      "id": 29905795,
+      "name": "The Fabled Chawa",
+      "typeline": [
+         "Beast",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "During your Main Phase, you can discard 1 \"Fabled\" monster and Special Summon this card from your hand.",
+      "race": "Beast",
+      "atk": 200,
+      "def": 100,
+      "level": 1,
+      "attribute": "LIGHT",
+      "archetype": "Fabled",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/the-fabled-chawa-2534",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN016",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN006",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN136",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN136",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.28"
+         },
+         {
+            "set_name": "OTS Tournament Pack 15 (POR)",
+            "set_code": "OP15-PT034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 29905795,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29905795.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29905795.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29905795.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "0.99",
+            "amazon_price": "0.49",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 18282103,
+      "name": "The Fabled Ganashia",
+      "typeline": [
+         "Beast",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card is discarded to the Graveyard, Special Summon it. If this card is Special Summoned this way, it gains 200 ATK and is removed from play when it is removed from the field.",
+      "race": "Beast",
+      "atk": 1600,
+      "def": 1000,
+      "level": 3,
+      "attribute": "LIGHT",
+      "archetype": "Fabled",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/the-fabled-ganashia-1587",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN019",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN009",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN139",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN139",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.04"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 18282103,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18282103.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18282103.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18282103.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.25",
+            "ebay_price": "0.99",
+            "amazon_price": "0.77",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 26704411,
+      "name": "The Fabled Kokkator",
+      "typeline": [
+         "Beast",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card destroys an opponent's monster by battle and sends it to the Graveyard, you can discard 1 \"Fabled\" monster to draw 1 card.",
+      "race": "Beast",
+      "atk": 1700,
+      "def": 1500,
+      "level": 4,
+      "attribute": "LIGHT",
+      "archetype": "Fabled",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/the-fabled-kokkator-2289",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN072",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN042",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN142",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN142",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.03"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 26704411,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26704411.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26704411.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26704411.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 89194103,
+      "name": "The Fabled Kudabbi",
+      "typeline": [
+         "Beast",
+         "Synchro",
+         "Effect"
+      ],
+      "type": "Synchro Monster",
+      "humanReadableCardType": "Synchro Effect Monster",
+      "frameType": "synchro",
+      "desc": "1 \"Fabled\" Tuner + 1 or more non-Tuner monsters\nThis card gains the following effect based on the number of cards in your hand:\n● 0: This card cannot be destroyed by battle or card effects.\n● 3 or more: Destroy this card during the End Phase.",
+      "race": "Beast",
+      "atk": 2200,
+      "def": 1100,
+      "level": 4,
+      "attribute": "LIGHT",
+      "archetype": "Fabled",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/the-fabled-kudabbi-7450",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN090",
+            "set_rarity": "Duel Terminal Super Parallel Rare",
+            "set_rarity_code": "(DSPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN058",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN148",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN148",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.04"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 89194103,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89194103.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89194103.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89194103.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "1.95",
+            "amazon_price": "0.39",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 55277252,
+      "name": "The Fabled Nozoochee",
+      "typeline": [
+         "Beast",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "During your Main Phase, you can discard 1 \"Fabled\" monster and Special Summon this card from your hand. When this card is Special Summoned this way, you can Special Summon 1 Level 2 or lower \"Fabled\" monster from your hand.",
+      "race": "Beast",
+      "atk": 1200,
+      "def": 800,
+      "level": 2,
+      "attribute": "LIGHT",
+      "archetype": "Fabled",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/the-fabled-nozoochee-4706",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN020",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN010",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN140",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN140",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.05"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 55277252,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55277252.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55277252.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55277252.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.99",
+            "amazon_price": "0.49",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 90616316,
+      "name": "The Fabled Peggulsus",
+      "typeline": [
+         "Beast",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card is discarded to the Graveyard, you can Special Summon it face-down on your side of the field. When this card is flipped face-up, you can reveal 1 \"Fabled\" monster in your hand to send 1 \"Fabled\" monster from your Deck to the Graveyard.",
+      "race": "Beast",
+      "atk": 100,
+      "def": 1600,
+      "level": 1,
+      "attribute": "LIGHT",
+      "archetype": "Fabled",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/the-fabled-peggulsus-7569",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN071",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN041",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN141",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN141",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.04"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 90616316,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90616316.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90616316.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90616316.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "1.90",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 44155002,
+      "name": "The Fabled Unicore",
+      "typeline": [
+         "Beast",
+         "Synchro",
+         "Effect"
+      ],
+      "type": "Synchro Monster",
+      "humanReadableCardType": "Synchro Effect Monster",
+      "frameType": "synchro",
+      "desc": "1 \"Fabled\" Tuner + 1 or more non-Tuner monsters\nWhile you and your opponent have the same number of cards in hand, negate all Spell, Trap, and Effect Monster effects activated by your opponent, and destroy that Spell/Trap/Monster.",
+      "race": "Beast",
+      "atk": 2300,
+      "def": 1000,
+      "level": 4,
+      "attribute": "LIGHT",
+      "archetype": "Fabled",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/the-fabled-unicore-3766",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN039",
+            "set_rarity": "Duel Terminal Super Parallel Rare",
+            "set_rarity_code": "(DSPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN027",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN147",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN147",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.07"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 44155002,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44155002.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44155002.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44155002.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.25",
+            "tcgplayer_price": "0.45",
+            "ebay_price": "2.15",
+            "amazon_price": "3.96",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 52687916,
+      "name": "Trishula, Dragon of the Ice Barrier",
+      "typeline": [
+         "Dragon",
+         "Synchro",
+         "Effect"
+      ],
+      "type": "Synchro Monster",
+      "humanReadableCardType": "Synchro Effect Monster",
+      "frameType": "synchro",
+      "desc": "1 Tuner + 2+ non-Tuner monsters\nWhen this card is Synchro Summoned: You can banish up to 1 card each from your opponent's hand, field, and GY. (The card in the hand is chosen at random.)",
+      "race": "Dragon",
+      "atk": 2700,
+      "def": 2000,
+      "level": 9,
+      "attribute": "WATER",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/trishula-dragon-of-the-ice-barrier-4488",
+      "card_sets": [
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN026",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN026",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN026",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN026",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN026",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN026",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN026",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Astral Pack Eight",
+            "set_code": "AP08-EN001",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Light's Revenge",
+            "set_code": "BLLR-EN060",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Blazing Vortex",
+            "set_code": "BLVO-EN100",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "199.85"
+         },
+         {
+            "set_name": "Duel Devastator",
+            "set_code": "DUDE-EN014",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.12"
+         },
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN092",
+            "set_rarity": "Duel Terminal Ultra Parallel Rare",
+            "set_rarity_code": "(DUPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Saga",
+            "set_code": "DUSA-EN081",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.96"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN060",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN054",
+            "set_rarity": "Duel Terminal Ultra Parallel Rare",
+            "set_rarity_code": "(DUPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "High-Speed Riders",
+            "set_code": "HSRD-EN052",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Maximum Gold: El Dorado",
+            "set_code": "MGED-EN027",
+            "set_rarity": "Premium Gold Rare",
+            "set_rarity_code": "(PG)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN045",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 52687916,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52687916.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52687916.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52687916.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "1.75",
+            "amazon_price": "1.20",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 18482591,
+      "name": "Warlock of the Ice Barrier",
+      "typeline": [
+         "Spellcaster",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "While you control another face-up \"Ice Barrier\" monster, both players must Set Spell Cards before activating them, and cannot activate them until their next turn.",
+      "race": "Spellcaster",
+      "atk": 400,
+      "def": 1000,
+      "level": 3,
+      "attribute": "WATER",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/warlock-of-the-ice-barrier-1601",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN033",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN023",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN044",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN044",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.03"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.99"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 18482591,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18482591.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18482591.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18482591.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   }
+]

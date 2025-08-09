@@ -1,0 +1,118 @@
+[
+   {
+      "id": 41930553,
+      "name": "Dark Smog",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "Once per turn: You can target 1 monster in your opponent's Graveyard; discard 1 Fiend-Type monster, and if you do, banish that target.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dark-smog-3576",
+      "card_sets": [
+         {
+            "set_name": "Abyss Rising: Special Edition",
+            "set_code": "ABYR-ENSE2",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.12"
+         },
+         {
+            "set_name": "Photon Shockwave",
+            "set_code": "PHSW-EN089",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Battle City Box",
+            "set_code": "SBCB-EN126",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.1"
+         },
+         {
+            "set_name": "Structure Deck: Dark World",
+            "set_code": "SR13-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 41930553,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41930553.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41930553.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41930553.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "1.70",
+            "amazon_price": "0.62",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 3606728,
+      "name": "Gagaga Girl",
+      "typeline": [
+         "Spellcaster",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can target 1 \"Gagaga Magician\" you control; this card's Level becomes the Level of that monster. An Xyz Monster that was Summoned using only this card and other \"Gagaga\" monsters as Xyz Material gains this effect.\n● When it is Xyz Summoned: You can target 1 Special Summoned monster your opponent controls; its ATK becomes 0.",
+      "race": "Spellcaster",
+      "atk": 1000,
+      "def": 800,
+      "level": 3,
+      "attribute": "DARK",
+      "archetype": "Gagaga",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/gagaga-girl-321",
+      "card_sets": [
+         {
+            "set_name": "Abyss Rising: Special Edition",
+            "set_code": "ABYR-ENSE1",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "5.74"
+         },
+         {
+            "set_name": "Order of Chaos",
+            "set_code": "ORCS-EN003",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Super Starter: V for Victory",
+            "set_code": "YS13-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 3606728,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3606728.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3606728.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3606728.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.55",
+            "tcgplayer_price": "0.42",
+            "ebay_price": "11.95",
+            "amazon_price": "3.10",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   }
+]

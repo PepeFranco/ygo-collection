@@ -1,0 +1,168 @@
+[
+   {
+      "id": 67300516,
+      "name": "Red-Eyes Wyvern",
+      "typeline": [
+         "Dragon",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "During your End Phase, if you did not Normal Summon/Set a monster this turn: You can banish this card from your Graveyard; Special Summon 1 \"Red-Eyes\" monster from your Graveyard, except \"Red-Eyes B. Chick\".",
+      "race": "Dragon",
+      "atk": 1800,
+      "def": 1600,
+      "level": 4,
+      "attribute": "WIND",
+      "archetype": "Red-Eyes",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/red-eyes-wyvern-5660",
+      "card_sets": [
+         {
+            "set_name": "Ancient Prophecy: Special Edition",
+            "set_code": "ANPR-ENSE2",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "7.79"
+         },
+         {
+            "set_name": "Astral Pack Eight",
+            "set_code": "AP08-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN049",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Season 1",
+            "set_code": "LDS1-EN005",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Rise of the True Dragons Structure Deck",
+            "set_code": "SR02-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENB06",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! GX Tag Force 3 promotional cards",
+            "set_code": "GX06-EN002",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "53.57"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 67300516,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67300516.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67300516.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67300516.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.40",
+            "tcgplayer_price": "2.13",
+            "ebay_price": "7.99",
+            "amazon_price": "1.40",
+            "coolstuffinc_price": "0.99"
+         }
+      ]
+   },
+   {
+      "id": 691925,
+      "name": "Solar Recharge",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Discard 1 \"Lightsworn\" monster; draw 2 cards, then send the top 2 cards of your Deck to the GY.",
+      "race": "Normal",
+      "archetype": "Lightsworn",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/solar-recharge-64",
+      "card_sets": [
+         {
+            "set_name": "Ancient Prophecy: Special Edition",
+            "set_code": "ANPR-ENSE1",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.99"
+         },
+         {
+            "set_name": "Battles of Legend: Chapter 1",
+            "set_code": "BLC1-EN062",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Light's Revenge",
+            "set_code": "BLLR-EN045",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Light of Destruction",
+            "set_code": "LODT-EN052",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Light of Destruction",
+            "set_code": "LODT-EN052",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Premium Gold",
+            "set_code": "PGLD-EN046",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "2.62"
+         },
+         {
+            "set_name": "Realm of Light Structure Deck",
+            "set_code": "SDLI-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.34"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 691925,
+            "image_url": "https://images.ygoprodeck.com/images/cards/691925.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/691925.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/691925.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.71",
+            "tcgplayer_price": "0.57",
+            "ebay_price": "90.00",
+            "amazon_price": "1.24",
+            "coolstuffinc_price": "1.49"
+         }
+      ]
+   }
+]

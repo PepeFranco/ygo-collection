@@ -1,0 +1,156 @@
+[
+   {
+      "id": 40854197,
+      "name": "Elemental HERO Absolute Zero",
+      "typeline": [
+         "Warrior",
+         "Fusion",
+         "Effect"
+      ],
+      "type": "Fusion Monster",
+      "humanReadableCardType": "Fusion Effect Monster",
+      "frameType": "fusion",
+      "desc": "1 \"HERO\" monster + 1 WATER monster\r\nMust be Fusion Summoned. Gains 500 ATK for each WATER monster on the field, except \"Elemental HERO Absolute Zero\". If this card leaves the field: Destroy all monsters your opponent controls.",
+      "race": "Warrior",
+      "atk": 2500,
+      "def": 2000,
+      "level": 8,
+      "attribute": "WATER",
+      "archetype": "Elemental HERO",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/elemental-hero-absolute-zero-3475",
+      "card_sets": [
+         {
+            "set_name": "Battles of Legend: Chapter 1",
+            "set_code": "BLC1-EN004",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Hero's Revenge",
+            "set_code": "BLHR-EN065",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Generation Force: Special Edition",
+            "set_code": "GENF-ENSE1",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "7.34"
+         },
+         {
+            "set_name": "OTS Tournament Pack 5",
+            "set_code": "OP05-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN231",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN231",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! GX Volume 4 promotional card",
+            "set_code": "YG04-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "54.24"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 40854197,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40854197.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40854197.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40854197.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "5.41",
+            "tcgplayer_price": "6.64",
+            "ebay_price": "35.00",
+            "amazon_price": "7.00",
+            "coolstuffinc_price": "6.99"
+         }
+      ]
+   },
+   {
+      "id": 11747708,
+      "name": "Spore",
+      "typeline": [
+         "Plant",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is in your Graveyard: You can banish 1 other Plant-Type monster from your Graveyard; Special Summon this card from your Graveyard and increase its Level by the Level of that banished monster. Each player can only activate the effect of \"Spore\" once per Duel.",
+      "race": "Plant",
+      "atk": 400,
+      "def": 800,
+      "level": 1,
+      "attribute": "WIND",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/spore-1016",
+      "card_sets": [
+         {
+            "set_name": "Generation Force: Special Edition",
+            "set_code": "GENF-ENSE2",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "5.72"
+         },
+         {
+            "set_name": "OTS Tournament Pack 13",
+            "set_code": "OP13-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 13 (POR)",
+            "set_code": "OP13-PT016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "The Shining Darkness",
+            "set_code": "TSHD-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 11747708,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11747708.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11747708.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11747708.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.28",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "2.39",
+            "amazon_price": "1.25",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   }
+]

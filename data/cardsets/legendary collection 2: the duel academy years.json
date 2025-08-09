@@ -1,0 +1,911 @@
+[
+   {
+      "id": 24449083,
+      "name": "Court of Justice",
+      "type": "Spell Card",
+      "humanReadableCardType": "Continuous Spell",
+      "frameType": "spell",
+      "desc": "Once per turn: You can Special Summon 1 Fairy-Type monster from your hand. You must control a face-up Level 1 Fairy-Type monster to activate and to resolve this effect. You can only activate the effect of one \"Court of Justice\" per turn.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/court-of-justice-2115",
+      "card_sets": [
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years",
+            "set_code": "LC02-EN013",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.23"
+         },
+         {
+            "set_name": "Maze of Memories",
+            "set_code": "MAZE-EN058",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 24449083,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24449083.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24449083.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24449083.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 35050257,
+      "name": "Cyber Larva",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is targeted for an attack: You take no battle damage for the rest of this turn. When this card is destroyed by battle and sent to the GY: You can Special Summon 1 \"Cyber Larva\" from your Deck.",
+      "race": "Machine",
+      "atk": 400,
+      "def": 600,
+      "level": 1,
+      "attribute": "LIGHT",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/cyber-larva-2973",
+      "card_sets": [
+         {
+            "set_name": "Battles of Legend: Chapter 1",
+            "set_code": "BLC1-EN108",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Relentless Revenge",
+            "set_code": "BLRR-EN019",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Cyber Dragon Revolution Structure Deck",
+            "set_code": "SDCR-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.1"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years",
+            "set_code": "LC02-EN007",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.8"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 35050257,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35050257.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35050257.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35050257.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 85771019,
+      "name": "Darklord Asmodeus",
+      "typeline": [
+         "Fairy",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Special Summoned from the Deck or Graveyard. Once per turn: You can send 1 Fairy-Type monster from your Deck to the Graveyard. If this card you control is destroyed and sent to your Graveyard: Special Summon 1 \"Asmo Token\" (Fairy-Type/DARK/Level 5/ATK 1800/DEF 1300) and 1 \"Deus Token\" (Fairy-Type/DARK/Level 3/ATK 1200/DEF 1200). \"Asmo Token\" cannot be destroyed by card effects. \"Deus Token\" cannot be destroyed by battle.",
+      "race": "Fairy",
+      "atk": 3000,
+      "def": 2500,
+      "level": 8,
+      "attribute": "DARK",
+      "archetype": "Darklord",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/darklord-asmodeus-7187",
+      "card_sets": [
+         {
+            "set_name": "Destiny Soldiers",
+            "set_code": "DESO-EN038",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years",
+            "set_code": "LC02-EN004",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.21"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! Championship Series 2010 Prize Cards",
+            "set_code": "YCSW-EN001",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3047.97"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! Championship Series 2010 Prize Cards",
+            "set_code": "YCSW-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "20299.5"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 85771019,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85771019.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85771019.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85771019.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.01",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 47664723,
+      "name": "Darklord Edeh Arae",
+      "typeline": [
+         "Fairy",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is Special Summoned from the Graveyard, it gains this effect.\n● If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+      "race": "Fairy",
+      "atk": 2300,
+      "def": 2000,
+      "level": 5,
+      "attribute": "DARK",
+      "archetype": "Darklord",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/darklord-edeh-arae-4070",
+      "card_sets": [
+         {
+            "set_name": "Destiny Soldiers",
+            "set_code": "DESO-EN040",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years",
+            "set_code": "LC02-EN006",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.71"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! Championship Series 2010 Prize Cards",
+            "set_code": "YCSW-EN003",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1220"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! Championship Series 2010 Prize Cards",
+            "set_code": "YCSW-EN003",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1990"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 47664723,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47664723.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47664723.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47664723.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.20",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "4.49",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 11260714,
+      "name": "Darklord Superbia",
+      "typeline": [
+         "Fairy",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card is Special Summoned from the Graveyard: You can target 1 Fairy-Type monster in your Graveyard, except \"Darklord Superbia\"; Special Summon that target.",
+      "race": "Fairy",
+      "atk": 2900,
+      "def": 2400,
+      "level": 8,
+      "attribute": "DARK",
+      "archetype": "Darklord",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/darklord-superbia-973",
+      "card_sets": [
+         {
+            "set_name": "Destiny Soldiers",
+            "set_code": "DESO-EN039",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years",
+            "set_code": "LC02-EN005",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "3.3"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! Championship Series 2010 Prize Cards",
+            "set_code": "YCSW-EN002",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3990"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! Championship Series 2010 Prize Cards",
+            "set_code": "YCSW-EN002",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0.00"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 11260714,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11260714.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11260714.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11260714.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "0.28",
+            "ebay_price": "2.95",
+            "amazon_price": "2.17",
+            "coolstuffinc_price": "1.49"
+         }
+      ]
+   },
+   {
+      "id": 72549351,
+      "name": "Dragonic Tactics",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Tribute 2 Dragon monsters; Special Summon 1 Level 8 Dragon monster from your Deck.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dragonic-tactics-6089",
+      "card_sets": [
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years",
+            "set_code": "LC02-EN012",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.14"
+         },
+         {
+            "set_name": "Legendary Collection Kaiba Mega Pack",
+            "set_code": "LCKC-EN073",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Saga of Blue-Eyes White Dragon Structure Deck",
+            "set_code": "SDBE-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.08"
+         },
+         {
+            "set_name": "Starter Deck: Kaiba Reloaded",
+            "set_code": "YSKR-EN040",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.3"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 72549351,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72549351.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72549351.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72549351.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "4.95",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 3642509,
+      "name": "Elemental HERO Great Tornado",
+      "typeline": [
+         "Warrior",
+         "Fusion",
+         "Effect"
+      ],
+      "type": "Fusion Monster",
+      "humanReadableCardType": "Fusion Effect Monster",
+      "frameType": "fusion",
+      "desc": "1 \"Elemental HERO\" monster + 1 WIND monster\nMust be Fusion Summoned and cannot be Special Summoned by other ways. If this card is Fusion Summoned: Halve the ATK and DEF of all face-up monsters your opponent currently controls.",
+      "race": "Warrior",
+      "atk": 2800,
+      "def": 2200,
+      "level": 8,
+      "attribute": "WIND",
+      "archetype": "Elemental HERO",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/elemental-hero-great-tornado-324",
+      "card_sets": [
+         {
+            "set_name": "HERO Strike Structure Deck",
+            "set_code": "SDHS-EN045",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years",
+            "set_code": "LC02-EN010",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "3.88"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 3642509,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3642509.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3642509.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3642509.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.29",
+            "tcgplayer_price": "0.25",
+            "ebay_price": "2.19",
+            "amazon_price": "2.98",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 32491822,
+      "name": "Hamon, Lord of Striking Thunder",
+      "typeline": [
+         "Thunder",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 3 face-up Continuous Spell Cards you control to the Graveyard, and cannot be Special Summoned by other ways. If this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict 1000 damage to your opponent. While this card is in face-up Defense Position, monsters your opponent controls cannot target monsters for attacks, except this one.",
+      "race": "Thunder",
+      "atk": 4000,
+      "def": 4000,
+      "level": 10,
+      "attribute": "LIGHT",
+      "archetype": "Sacred Beast",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/hamon-lord-of-striking-thunder-2764",
+      "card_sets": [
+         {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN253",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Collectible Tins 2006 Wave 2",
+            "set_code": "CT03-EN006",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "14.13"
+         },
+         {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN122",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "232.45"
+         },
+         {
+            "set_name": "Duelist Saga",
+            "set_code": "DUSA-EN097",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.02"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years",
+            "set_code": "LC02-EN002",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.85"
+         },
+         {
+            "set_name": "Shadow of Infinity",
+            "set_code": "SOI-EN002",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Shadow of Infinity",
+            "set_code": "SOI-EN002",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENG02",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENG02",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Legend of the Crystal Beasts",
+            "set_code": "SDCB-EN011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN043",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 32491822,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32491822.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32491822.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32491822.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "1.94",
+            "amazon_price": "1.65",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 4611269,
+      "name": "Lion Alligator",
+      "typeline": [
+         "Reptile",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "While you control a Reptile-Type monster (other than this card), if a Reptile-Type monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+      "race": "Reptile",
+      "atk": 1900,
+      "def": 200,
+      "level": 4,
+      "attribute": "WATER",
+      "archetype": "Alligator",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/lion-alligator-412",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN089",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN089",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years",
+            "set_code": "LC02-EN008",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.79"
+         },
+         {
+            "set_name": "OTS Tournament Pack 16",
+            "set_code": "OP16-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 16 (POR)",
+            "set_code": "OP16-PT022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 4611269,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4611269.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4611269.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4611269.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "2.95",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 54283059,
+      "name": "Parallel World Fusion",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Fusion Summon 1 \"Elemental HERO\" Fusion Monster from your Extra Deck, by shuffling your banished Fusion Materials listed on it into your Deck. You cannot Special Summon monsters except by this card's effect, during the turn you activate this card.",
+      "race": "Normal",
+      "archetype": "Elemental HERO",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/parallel-world-fusion-4616",
+      "card_sets": [
+         {
+            "set_name": "HERO Strike Structure Deck",
+            "set_code": "SDHS-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years",
+            "set_code": "LC02-EN011",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.57"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 54283059,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54283059.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54283059.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54283059.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 69890967,
+      "name": "Raviel, Lord of Phantasms",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 Fiend-Type monsters, and cannot be Special Summoned by other ways. If your opponent Normal Summons a monster(s): Special Summon 1 \"Phantasm Token\" (Fiend-Type/DARK/Level 1/ATK 1000/DEF 1000) for each monster Summoned, but it cannot declare an attack. Once per turn: You can Tribute 1 monster; this card gains ATK equal to the original ATK of the Tributed monster until the end of this turn.",
+      "race": "Fiend",
+      "atk": 4000,
+      "def": 4000,
+      "level": 10,
+      "attribute": "DARK",
+      "archetype": "Sacred Beast",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/raviel-lord-of-phantasms-5877",
+      "card_sets": [
+         {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN254",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Collectible Tins 2006 Wave 1",
+            "set_code": "CT03-EN003",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "9.3"
+         },
+         {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN123",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "133.97"
+         },
+         {
+            "set_name": "Duelist Saga",
+            "set_code": "DUSA-EN098",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.83"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years",
+            "set_code": "LC02-EN003",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "3.26"
+         },
+         {
+            "set_name": "Shadow of Infinity",
+            "set_code": "SOI-EN003",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Shadow of Infinity",
+            "set_code": "SOI-EN003",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENG03",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENG03",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN044",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 69890967,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69890967.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69890967.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69890967.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.49",
+            "tcgplayer_price": "0.33",
+            "ebay_price": "0.99",
+            "amazon_price": "1.63",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 39984786,
+      "name": "Spawn Alligator",
+      "typeline": [
+         "Reptile",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "During the End Phase of the turn this card was Tribute Summoned by Tributing a Reptile-Type monster: Target 1 monster that was used for the Tribute Summon of this card; Special Summon it from the Graveyard.",
+      "race": "Reptile",
+      "atk": 2200,
+      "def": 1000,
+      "level": 5,
+      "attribute": "WATER",
+      "archetype": "Alligator",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/spawn-alligator-3394",
+      "card_sets": [
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years",
+            "set_code": "LC02-EN009",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.76"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 39984786,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39984786.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39984786.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39984786.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "2.95",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   },
+   {
+      "id": 6007213,
+      "name": "Uria, Lord of Searing Flames",
+      "typeline": [
+         "Pyro",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 3 face-up Trap Cards you control to the Graveyard, and cannot be Special Summoned by other ways. This card gains 1000 ATK for each Continuous Trap Card in your Graveyard. Once per turn: You can target 1 Set Spell/Trap Card your opponent controls; destroy that target. Neither player can activate Spell/Trap Cards in response to this effect's activation.",
+      "race": "Pyro",
+      "atk": 0,
+      "def": 0,
+      "level": 10,
+      "attribute": "FIRE",
+      "archetype": "Sacred Beast",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/uria-lord-of-searing-flames-527",
+      "card_sets": [
+         {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN252",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Collectible Tins 2006 Wave 2",
+            "set_code": "CT03-EN005",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "11.03"
+         },
+         {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN121",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "102.27"
+         },
+         {
+            "set_name": "Duelist Saga",
+            "set_code": "DUSA-EN096",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.62"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years",
+            "set_code": "LC02-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "4.6"
+         },
+         {
+            "set_name": "Shadow of Infinity",
+            "set_code": "SOI-EN001",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Shadow of Infinity",
+            "set_code": "SOI-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENG01",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENG01",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN042",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 6007213,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6007213.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6007213.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6007213.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.46",
+            "tcgplayer_price": "0.38",
+            "ebay_price": "2.25",
+            "amazon_price": "1.48",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   }
+]

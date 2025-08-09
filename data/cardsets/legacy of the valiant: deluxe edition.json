@@ -1,0 +1,251 @@
+[
+   {
+      "id": 55599882,
+      "name": "Bujintervention",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Target 1 \"Bujin\" monster on the field; apply this effect to it for the rest of this turn. Each time it destroys a monster by battle whose current ATK is greater than or equal to the targeted monster's original ATK, and sends it to the Graveyard: Banish the destroyed monster, and if you do, banish all monsters from your opponent's hand, Main Deck, Extra Deck, and Graveyard with the same name that the destroyed monster had in the Graveyard.",
+      "race": "Normal",
+      "archetype": "Bujin",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/bujintervention-4733",
+      "card_sets": [
+         {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legacy of the Valiant: Deluxe Edition",
+            "set_code": "LVAL-ENDE4",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.54"
+         },
+         {
+            "set_name": "Primal Origin",
+            "set_code": "PRIO-EN064",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 55599882,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55599882.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55599882.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55599882.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 61318483,
+      "name": "Ghostrick Jackfrost",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Normal Summoned, unless you control a \"Ghostrick\" monster. Once per turn: You can change this card to face-down Defense Position. When an opponent's monster declares a direct attack: You can change that opponent's monster to face-down Defense Position, and if you do, Special Summon this card from your hand in face-down Defense Position.",
+      "race": "Fiend",
+      "atk": 800,
+      "def": 100,
+      "level": 1,
+      "attribute": "DARK",
+      "archetype": "Ghostrick",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/ghostrick-jackfrost-5199",
+      "card_sets": [
+         {
+            "set_name": "2014 Mega-Tin Mega Pack",
+            "set_code": "MP14-EN202",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN111",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN111",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legacy of the Valiant",
+            "set_code": "LVAL-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legacy of the Valiant: Deluxe Edition",
+            "set_code": "LVAL-ENDE2",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "3.36"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! Advent Calendar (2018)",
+            "set_code": "AC18-EN003",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.6"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 61318483,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61318483.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61318483.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61318483.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "1.44",
+            "amazon_price": "0.49",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 10753491,
+      "name": "Sylvan Cherubsprout",
+      "typeline": [
+         "Plant",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card is Special Summoned: You can choose either 1 or 2, then excavate that many cards from the top of your Deck, send any excavated Plant-Type monsters to the Graveyard, also place the other cards on the bottom of your Deck in any order. If this card is excavated from the Deck and sent to the Graveyard by a card effect: You can Special Summon 1 Level 1 Plant-Type monster from your Deck. You can only use this effect of \"Sylvan Cherubsprout\" once per turn.",
+      "race": "Plant",
+      "atk": 100,
+      "def": 100,
+      "level": 1,
+      "attribute": "LIGHT",
+      "archetype": "Sylvan",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/sylvan-cherubsprout-927",
+      "card_sets": [
+         {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legacy of the Valiant: Deluxe Edition",
+            "set_code": "LVAL-ENDE3",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.57"
+         },
+         {
+            "set_name": "Primal Origin",
+            "set_code": "PRIO-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 10753491,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10753491.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10753491.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10753491.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "2.23",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 63257623,
+      "name": "Sylvan Peaskeeper",
+      "typeline": [
+         "Plant",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card is Normal or Special Summoned: You can excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard. Otherwise, place it on the bottom of your Deck. If this card is excavated from the Deck and sent to the Graveyard by a card effect: You can target 1 Level 4 or lower Plant-Type monster in your Graveyard; Special Summon that target. You can only use this effect of \"Sylvan Peaskeeper\" once per turn.",
+      "race": "Plant",
+      "atk": 400,
+      "def": 100,
+      "level": 1,
+      "attribute": "WIND",
+      "archetype": "Sylvan",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/sylvan-peaskeeper-5344",
+      "card_sets": [
+         {
+            "set_name": "2014 Mega-Tin Mega Pack",
+            "set_code": "MP14-EN196",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legacy of the Valiant",
+            "set_code": "LVAL-EN015",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legacy of the Valiant: Deluxe Edition",
+            "set_code": "LVAL-ENDE1",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.28"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 63257623,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63257623.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63257623.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63257623.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "2.09",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   }
+]
