@@ -1,0 +1,4252 @@
+[
+   {
+      "id": 15308295,
+      "name": "Abyss Actor - Comic Relief",
+      "typeline": [
+         "Fiend",
+         "Pendulum",
+         "Effect"
+      ],
+      "type": "Pendulum Effect Monster",
+      "humanReadableCardType": "Pendulum Effect Monster",
+      "frameType": "effect_pendulum",
+      "desc": "[ Pendulum Effect ] \nYou can target 1 \"Abyss Actor\" Pendulum Monster you control and 1 monster your opponent controls; switch control of both monsters, then destroy this card. You can only use this effect of \"Abyss Actor - Comic Relief\" once per turn.\n\n[ Monster Effect ] \nYou take no battle damage from attacks involving this card. Once per turn, during your Standby Phase: Give control of this card to your opponent. Once per turn, if control of this face-up card changes: Activate this effect; the owner of this card can destroy 1 Set \"Abyss Script\" Spell in their Spell & Trap Zone.",
+      "race": "Fiend",
+      "pend_desc": "You can target 1 \"Abyss Actor\" Pendulum Monster you control and 1 monster your opponent controls; switch control of both monsters, then destroy this card. You can only use this effect of \"Abyss Actor - Comic Relief\" once per turn.",
+      "monster_desc": "You take no battle damage from attacks involving this card. Once per turn, during your Standby Phase: Give control of this card to your opponent. Once per turn, if control of this face-up card changes: Activate this effect; the owner of this card can destroy 1 Set \"Abyss Script\" Spell in their Spell & Trap Zone.",
+      "atk": 1000,
+      "def": 2000,
+      "level": 3,
+      "attribute": "DARK",
+      "archetype": "Abyss Actor",
+      "scale": 8,
+      "ygoprodeck_url": "https://ygoprodeck.com/card/abyss-actor-comic-relief-9564",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN061",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.05"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN046",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.25"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 15308295,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15308295.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15308295.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15308295.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 24907044,
+      "name": "Abyss Actor - Leading Lady",
+      "typeline": [
+         "Fiend",
+         "Pendulum",
+         "Effect"
+      ],
+      "type": "Pendulum Effect Monster",
+      "humanReadableCardType": "Pendulum Effect Monster",
+      "frameType": "effect_pendulum",
+      "desc": "[ Pendulum Effect ] \nOnce per turn, when you take battle damage from an opponent's attacking monster: You can activate 1 of these effects; ● That opponent's monster loses ATK equal to the damage you took (even if this card leaves the field). ● Add 1 face-up \"Abyss Actor\" Pendulum Monster from your Extra Deck to your hand with ATK less than or equal to the damage you took.\n\n[ Monster Effect ] \nOnce per turn, when battle damage is inflicted: You can target 1 face-up monster your opponent controls; it loses ATK equal to that battle damage. When this card is destroyed by battle, or if this card in its owner's Monster Zone is destroyed by an opponent's card effect: You can Set 1 \"Abyss Script\" Spell directly from your Deck.",
+      "race": "Fiend",
+      "pend_desc": "Once per turn, when you take battle damage from an opponent's attacking monster: You can activate 1 of these effects; ● That opponent's monster loses ATK equal to the damage you took (even if this card leaves the field). ● Add 1 face-up \"Abyss Actor\" Pendulum Monster from your Extra Deck to your hand with ATK less than or equal to the damage you took.",
+      "monster_desc": "Once per turn, when battle damage is inflicted: You can target 1 face-up monster your opponent controls; it loses ATK equal to that battle damage. When this card is destroyed by battle, or if this card in its owner's Monster Zone is destroyed by an opponent's card effect: You can Set 1 \"Abyss Script\" Spell directly from your Deck.",
+      "atk": 1500,
+      "def": 1000,
+      "level": 4,
+      "attribute": "DARK",
+      "archetype": "Abyss Actor",
+      "scale": 2,
+      "ygoprodeck_url": "https://ygoprodeck.com/card/abyss-actor-leading-lady-2147",
+      "card_sets": [
+         {
+            "set_name": "Destiny Soldiers",
+            "set_code": "DESO-EN021",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "1.66"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN051",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 24907044,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24907044.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24907044.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24907044.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 78310590,
+      "name": "Abyss Actor - Mellow Madonna",
+      "typeline": [
+         "Fiend",
+         "Pendulum",
+         "Effect"
+      ],
+      "type": "Pendulum Effect Monster",
+      "humanReadableCardType": "Pendulum Effect Monster",
+      "frameType": "effect_pendulum",
+      "desc": "[ Pendulum Effect ] \nYou can pay 1000 LP; add 1 \"Abyss Actor\" Pendulum Monster from your Deck to your hand, except \"Abyss Actor - Mellow Madonna\", also you cannot Special Summon monsters for the rest of this turn, except \"Abyss Actor\" Pendulum Monsters (even if this card leaves the field). You can only use this effect of \"Abyss Actor - Mellow Madonna\" once per turn.\n\n[ Monster Effect ] \nGains 100 ATK for each \"Abyss Script\" Spell in your GY. You can only use each of the following effects of \"Abyss Actor - Mellow Madonna\" once per turn.\r\n● When a Pendulum Monster you control is destroyed by battle: You can Special Summon this card from your hand.\r\n● If an \"Abyss Script\" Spell Card or effect is activated: You can Special Summon 1 Level 4 or lower \"Abyss Actor\" Pendulum Monster from your Deck, but return it to the hand during the End Phase.",
+      "race": "Fiend",
+      "pend_desc": "You can pay 1000 LP; add 1 \"Abyss Actor\" Pendulum Monster from your Deck to your hand, except \"Abyss Actor - Mellow Madonna\", also you cannot Special Summon monsters for the rest of this turn, except \"Abyss Actor\" Pendulum Monsters (even if this card leaves the field). You can only use this effect of \"Abyss Actor - Mellow Madonna\" once per turn.",
+      "monster_desc": "Gains 100 ATK for each \"Abyss Script\" Spell in your GY. You can only use each of the following effects of \"Abyss Actor - Mellow Madonna\" once per turn.\r\n● When a Pendulum Monster you control is destroyed by battle: You can Special Summon this card from your hand.\r\n● If an \"Abyss Script\" Spell Card or effect is activated: You can Special Summon 1 Level 4 or lower \"Abyss Actor\" Pendulum Monster from your Deck, but return it to the hand during the End Phase.",
+      "atk": 1800,
+      "def": 2500,
+      "level": 7,
+      "attribute": "DARK",
+      "archetype": "Abyss Actor",
+      "scale": 0,
+      "ygoprodeck_url": "https://ygoprodeck.com/card/abyss-actor-mellow-madonna-9563",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN060",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.05"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN045",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.52"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 78310590,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78310590.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78310590.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78310590.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.32",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 25629622,
+      "name": "Abyss Actor - Superstar",
+      "typeline": [
+         "Fiend",
+         "Pendulum",
+         "Effect"
+      ],
+      "type": "Pendulum Effect Monster",
+      "humanReadableCardType": "Pendulum Effect Monster",
+      "frameType": "effect_pendulum",
+      "desc": "[ Pendulum Effect ] \nOnce per turn: You can Tribute 1 \"Abyss Actor\" monster, then target 1 \"Abyss Script\" Spell in your GY; add it to your hand.\n\n[ Monster Effect ] \nWhen Normal or Special Summoned, your opponent's Spell/Trap Cards and effects cannot be activated. Once per turn: You can Set 1 \"Abyss Script\" Spell directly from your Deck, but it is sent to the GY during the End Phase.",
+      "race": "Fiend",
+      "pend_desc": "Once per turn: You can Tribute 1 \"Abyss Actor\" monster, then target 1 \"Abyss Script\" Spell in your GY; add it to your hand.",
+      "monster_desc": "When Normal or Special Summoned, your opponent's Spell/Trap Cards and effects cannot be activated. Once per turn: You can Set 1 \"Abyss Script\" Spell directly from your Deck, but it is sent to the GY during the End Phase.",
+      "atk": 2500,
+      "def": 1800,
+      "level": 7,
+      "attribute": "DARK",
+      "archetype": "Abyss Actor",
+      "scale": 3,
+      "ygoprodeck_url": "https://ygoprodeck.com/card/abyss-actor-superstar-2202",
+      "card_sets": [
+         {
+            "set_name": "Destiny Soldiers",
+            "set_code": "DESO-EN018",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "1.77"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN050",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 25629622,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25629622.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25629622.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25629622.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.99",
+            "amazon_price": "0.83",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 39024589,
+      "name": "Abyss Actor - Trendy Understudy",
+      "typeline": [
+         "Fiend",
+         "Pendulum",
+         "Effect"
+      ],
+      "type": "Pendulum Effect Monster",
+      "humanReadableCardType": "Pendulum Effect Monster",
+      "frameType": "effect_pendulum",
+      "desc": "[ Pendulum Effect ] \nWhen you Pendulum Summon a monster: You can add 1 face-up Level 1 or 8 \"Abyss Actor\" Pendulum Monster from your Extra Deck to your hand.\n\n[ Monster Effect ] \nIf you have 2 \"Abyss Actor\" cards in your Pendulum Zones: You can Tribute this card; Special Summon 1 Level 1 or 8 \"Abyss Actor\" Pendulum Monster from your hand or face-up from your Extra Deck. You can only use this effect of \"Abyss Actor - Trendy Understudy\" once per turn.",
+      "race": "Fiend",
+      "pend_desc": "When you Pendulum Summon a monster: You can add 1 face-up Level 1 or 8 \"Abyss Actor\" Pendulum Monster from your Extra Deck to your hand.",
+      "monster_desc": "If you have 2 \"Abyss Actor\" cards in your Pendulum Zones: You can Tribute this card; Special Summon 1 Level 1 or 8 \"Abyss Actor\" Pendulum Monster from your hand or face-up from your Extra Deck. You can only use this effect of \"Abyss Actor - Trendy Understudy\" once per turn.",
+      "atk": 700,
+      "def": 700,
+      "level": 2,
+      "attribute": "DARK",
+      "archetype": "Abyss Actor",
+      "scale": 8,
+      "ygoprodeck_url": "https://ygoprodeck.com/card/abyss-actor-trendy-understudy-3309",
+      "card_sets": [
+         {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN101",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Code of the Duelist",
+            "set_code": "COTD-EN097",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN052",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 39024589,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39024589.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39024589.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39024589.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 59057953,
+      "name": "Abyss Actors Back Stage",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "If you have 2 \"Abyss Actor\" cards in your Pendulum Zones: Add 2 \"Abyss Actor\" Pendulum Monsters with different names from your Deck to your Extra Deck face-up. You can only activate 1 \"Abyss Actors Back Stage\" per turn.",
+      "race": "Normal",
+      "archetype": "Abyss Actor",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/abyss-actors-back-stage-5027",
+      "card_sets": [
+         {
+            "set_name": "Destiny Soldiers",
+            "set_code": "DESO-EN028",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.39"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN055",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 59057953,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59057953.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59057953.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59057953.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 4682617,
+      "name": "Abyss Actors' Curtain Call",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "If an \"Abyss Script\" Spell Card or effect is activated this turn: Add face-up \"Abyss Actor\" Pendulum Monsters from your Extra Deck to your hand, up to the number of \"Abyss Script\" Spells in your GY. Then, you can Special Summon \"Abyss Actor\" Pendulum Monsters from your hand with different names, up to the number of monsters added to the hand by this effect. You cannot Special Summon monsters for the rest of this turn, except \"Abyss Actor\" Pendulum Monsters. You can only activate 1 \"Abyss Actors' Curtain Call\" per turn.",
+      "race": "Normal",
+      "archetype": "Abyss Actor",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/abyss-actors-curtain-call-9567",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN064",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.02"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN049",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.98"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 4682617,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4682617.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4682617.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4682617.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 77297908,
+      "name": "Abyss Playhouse - Fantastic Theater",
+      "type": "Spell Card",
+      "humanReadableCardType": "Field Spell",
+      "frameType": "spell",
+      "desc": "You can reveal 1 \"Abyss Actor\" Pendulum Monster and 1 \"Abyss Script\" Spell in your hand; add 1 \"Abyss Script\" Spell from your Deck to your hand, with a different name than that revealed Spell. While you control a Pendulum Summoned \"Abyss Actor\" Pendulum Monster, any monster effect activated by your opponent becomes \"Destroy 1 Set Spell/Trap your opponent controls\". You can only use each effect of \"Abyss Playhouse - Fantastic Theater\" once per turn.",
+      "race": "Field",
+      "archetype": "Abyss Actor",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/abyss-playhouse-fantastic-theater-9566",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN063",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.93"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN048",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.43"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 77297908,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77297908.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77297908.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77297908.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 23784496,
+      "name": "Abyss Script - Opening Ceremony",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Gain 500 LP for each \"Abyss Actor\" monster you control. If this Set card in its owner's control is destroyed by an opponent's card effect, and you have a face-up \"Abyss Actor\" Pendulum Monster in your Extra Deck: You can draw until you have 5 cards in your hand. You can only use each effect of \"Abyss Script - Opening Ceremony\" once per turn.",
+      "race": "Normal",
+      "archetype": "Abyss Actor",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/abyss-script-opening-ceremony-2052",
+      "card_sets": [
+         {
+            "set_name": "Destiny Soldiers",
+            "set_code": "DESO-EN024",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.42"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN053",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 23784496,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23784496.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23784496.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23784496.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 13662809,
+      "name": "Abyss Script - Rise of the Abyss King",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Target face-up cards on the field, up to the number of Attack Position \"Abyss Actor\" monsters with different names you control; destroy them. If you control a Level 7 or higher \"Abyss Actor\" monster, your opponent cannot activate cards or effects in response to this card's activation. If this Set card in its owner's control is destroyed by an opponent's card effect, and you have a face-up \"Abyss Actor\" Pendulum Monster in your Extra Deck: You can add up to 2 \"Abyss Actor\" cards and/or \"Abyss Script\" Spells with different names from your Deck to your hand.",
+      "race": "Normal",
+      "archetype": "Abyss Actor",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/abyss-script-rise-of-the-abyss-king-1172",
+      "card_sets": [
+         {
+            "set_name": "Destiny Soldiers",
+            "set_code": "DESO-EN027",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "1.38"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN054",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 13662809,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13662809.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13662809.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13662809.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 41803903,
+      "name": "Abyss Script - Romantic Terror",
+      "type": "Spell Card",
+      "humanReadableCardType": "Quick-Play Spell",
+      "frameType": "spell",
+      "desc": "Return 1 \"Abyss Actor\" Pendulum Monster you control to the hand, and if you do, Special Summon from your Extra Deck in Defense Position, 1 face-up \"Abyss Actor\" Pendulum Monster with a different original name from that monster. If this Set card in its owner's control is destroyed by an opponent's card effect, and you have a face-up \"Abyss Actor\" Pendulum Monster in your Extra Deck: You can Set any number of \"Abyss Script\" Spells directly from your Deck. You can only activate 1 \"Abyss Script - Romantic Terror\" per turn.",
+      "race": "Quick-Play",
+      "archetype": "Abyss Actor",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/abyss-script-romantic-terror-9565",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN062",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.02"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN047",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.06"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 41803903,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41803903.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41803903.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41803903.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 34838437,
+      "name": "Accellight",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "If you control no monsters: Special Summon 1 Level 4 or lower \"Photon\" or \"Galaxy\" monster from your Deck. You can only activate 1 \"Accellight\" per turn. You cannot Normal Summon/Set during the turn you activate this card.",
+      "race": "Normal",
+      "archetype": "Photon",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/accellight-2961",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN044",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Zexal Collection Tin",
+            "set_code": "ZTIN-EN016",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.44"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 34838437,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34838437.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34838437.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34838437.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "2.00",
+            "amazon_price": "3.73",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 93437091,
+      "name": "Bingo Machine, Go!!!",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Reveal 3 cards from your Deck that each meets at least 1 of the criteria listed below, your opponent randomly picks 1 for you to add to your hand, and you shuffle the rest into your Deck. You can only activate 1 \"Bingo Machine, Go!!!\" per turn.\r\n● \"Blue-Eyes\" monster\r\n● Spell/Trap that specifically lists the card \"Blue-Eyes White Dragon\" or \"Blue-Eyes Ultimate Dragon\", except \"Bingo Machine, Go!!!\"",
+      "race": "Normal",
+      "archetype": "Blue-Eyes",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/bingo-machine-go-9534",
+      "card_sets": [
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN062",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN062",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN062",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN062",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN062",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN062",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN062",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN028",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "27.87"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN003",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "31.08"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 93437091,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93437091.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93437091.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93437091.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.95",
+            "tcgplayer_price": "0.26",
+            "ebay_price": "28.00",
+            "amazon_price": "0.82",
+            "coolstuffinc_price": "15.99"
+         }
+      ]
+   },
+   {
+      "id": 91351370,
+      "name": "Black Whirlwind",
+      "type": "Spell Card",
+      "humanReadableCardType": "Continuous Spell",
+      "frameType": "spell",
+      "desc": "When a \"Blackwing\" monster is Normal Summoned to your field: You can add 1 \"Blackwing\" monster from your Deck to your hand with less ATK than that monster.",
+      "race": "Continuous",
+      "archetype": "Blackwing",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/black-whirlwind-7621",
+      "card_sets": [
+         {
+            "set_name": "Battles of Legend: Armageddon",
+            "set_code": "BLAR-EN060",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Chapter 1",
+            "set_code": "BLC1-EN142",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist League 15 participation cards",
+            "set_code": "DL15-EN015",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "11.53"
+         },
+         {
+            "set_name": "Gold Series 3",
+            "set_code": "GLD3-EN045",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN138",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN219",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN219",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Raging Battle",
+            "set_code": "RGBT-EN051",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Turbo Pack: Booster One",
+            "set_code": "TU01-EN005",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 91351370,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91351370.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91351370.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91351370.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.40",
+            "ebay_price": "0.99",
+            "amazon_price": "2.97",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 9012916,
+      "name": "Black-Winged Dragon",
+      "typeline": [
+         "Dragon",
+         "Synchro",
+         "Effect"
+      ],
+      "type": "Synchro Monster",
+      "humanReadableCardType": "Synchro Effect Monster",
+      "frameType": "synchro",
+      "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf you would take damage from a card effect, place 1 Black Feather Counter on this card instead. This card loses 700 ATK for each Black Feather Counter on it. Once per turn: You can remove all Black Feather Counters on this card, then target 1 face-up monster your opponent controls; that target loses 700 ATK for each Black Feather Counter you removed, and if it does, inflict damage to your opponent equal to the ATK lost by this effect.",
+      "race": "Dragon",
+      "atk": 2800,
+      "def": 1600,
+      "level": 8,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/black-winged-dragon-761",
+      "card_sets": [
+         {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN028",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Collectible Tins 2010 Wave 1",
+            "set_code": "CT07-EN002",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "27.14"
+         },
+         {
+            "set_name": "Darkwing Blast",
+            "set_code": "DABL-EN100",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Pack: Crow",
+            "set_code": "DP11-EN016",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN135",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN135",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Shining Darkness",
+            "set_code": "TSHD-EN040",
+            "set_rarity": "Ghost Rare",
+            "set_rarity_code": "(GR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Shining Darkness",
+            "set_code": "TSHD-EN040",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Shining Darkness",
+            "set_code": "TSHD-EN040",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 9012916,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9012916.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9012916.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9012916.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.45",
+            "tcgplayer_price": "0.64",
+            "ebay_price": "0.99",
+            "amazon_price": "3.18",
+            "coolstuffinc_price": "0.99"
+         }
+      ]
+   },
+   {
+      "id": 80254726,
+      "name": "Blackbird Close",
+      "type": "Trap Card",
+      "humanReadableCardType": "Counter Trap",
+      "frameType": "trap",
+      "desc": "When a monster your opponent controls activates its effect: You can send 1 face-up \"Blackwing\" monster you control to the GY; negate the activation, and if you do, destroy it, then, you can Special Summon 1 \"Black-Winged Dragon\" from your Extra Deck. If you control a \"Blackwing\" Synchro Monster or \"Black-Winged Dragon\", you can activate this card from your hand.",
+      "race": "Counter",
+      "archetype": "Blackwing",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/blackbird-close-9549",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN046",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.04"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN027",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "2.13"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 80254726,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80254726.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80254726.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80254726.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.23",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "54.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 17465972,
+      "name": "Blackwing - Auster the South Wind",
+      "typeline": [
+         "Winged Beast",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Special Summoned. When this card is Normal Summoned: You can target 1 of your banished Level 4 or lower \"Blackwing\" monsters; Special Summon it in Defense Position. You can banish this card from the GY to activate 1 of the following effects;\r\n● Place Black Feather Counter(s) on 1 \"Black-Winged Dragon\" you control, equal to the number of card(s) your opponent controls.\r\n● Place 1 Wedge Counter on each face-up monster your opponent controls that does not have one.",
+      "race": "Winged Beast",
+      "atk": 1300,
+      "def": 0,
+      "level": 4,
+      "attribute": "DARK",
+      "archetype": "Blackwing",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/blackwing-auster-the-south-wind-9532",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN041",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.23"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN025",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "2.63"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 17465972,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17465972.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17465972.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17465972.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "2.95",
+            "amazon_price": "1.17",
+            "coolstuffinc_price": "0.99"
+         }
+      ]
+   },
+   {
+      "id": 49003716,
+      "name": "Blackwing - Bora the Spear",
+      "typeline": [
+         "Winged Beast",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If you control a \"Blackwing\" monster other than \"Blackwing - Bora the Spear\", you can Special Summon this card (from your hand). If this card attacks a Defense Position monster, inflict piercing battle damage.",
+      "race": "Winged Beast",
+      "atk": 1700,
+      "def": 800,
+      "level": 4,
+      "attribute": "DARK",
+      "archetype": "Blackwing",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/blackwing-bora-the-spear-4183",
+      "card_sets": [
+         {
+            "set_name": "Battles of Legend: Crystal Revenge",
+            "set_code": "BLCR-EN057",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Crimson Crisis",
+            "set_code": "CRMS-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Terminal 3",
+            "set_code": "DT03-EN002",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist League 2010 participation cards",
+            "set_code": "DL09-EN011",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "12.33"
+         },
+         {
+            "set_name": "Duelist Pack: Crow",
+            "set_code": "DP11-EN002",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gold Series 3",
+            "set_code": "GLD3-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN111",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 49003716,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49003716.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49003716.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49003716.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.57",
+            "ebay_price": "0.99",
+            "amazon_price": "1.95",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 73652465,
+      "name": "Blackwing - Oroshi the Squall",
+      "typeline": [
+         "Winged Beast",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "If you control a \"Blackwing\" monster other than \"Blackwing - Oroshi the Squall\", you can Special Summon this card (from your hand). You can only Special Summon \"Blackwing - Oroshi the Squall\" once per turn this way. If this card is sent to the GY as a Synchro Material: You can target 1 monster on the field; change that target's battle position.",
+      "race": "Winged Beast",
+      "atk": 400,
+      "def": 600,
+      "level": 1,
+      "attribute": "DARK",
+      "archetype": "Blackwing",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/blackwing-oroshi-the-squall-6185",
+      "card_sets": [
+         {
+            "set_name": "Dragons of Legend",
+            "set_code": "DRLG-EN027",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.55"
+         },
+         {
+            "set_name": "Dragons of Legend: The Complete Series",
+            "set_code": "DLCS-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.21"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 73652465,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73652465.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73652465.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73652465.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.35",
+            "ebay_price": "0.99",
+            "amazon_price": "1.49",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 81470373,
+      "name": "Blackwing - Simoon the Poison Wind",
+      "typeline": [
+         "Winged Beast",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If you control no monsters and have this card in your hand: You can banish 1 other \"Blackwing\" monster from your hand; place 1 \"Black Whirlwind\" from your Deck face-up in your Spell & Trap Zone, then, either send this card to the GY, or immediately after this effect resolves, Normal Summon it without Tributing. You cannot Special Summon monsters from the Extra Deck for the rest of this turn, except DARK monsters. You can only use this effect of \"Blackwing - Simoon the Poison Wind\" once per turn. During the End Phase, send the \"Black Whirlwind\" placed by this effect to the GY, and if you do, take 1000 damage.",
+      "race": "Winged Beast",
+      "atk": 1600,
+      "def": 2000,
+      "level": 6,
+      "attribute": "DARK",
+      "archetype": "Blackwing",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/blackwing-simoon-the-poison-wind-9531",
+      "card_sets": [
+         {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN012",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN012",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Crystal Revenge",
+            "set_code": "BLCR-EN062",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN040",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN024",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.99"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 81470373,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81470373.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81470373.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81470373.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "1.99",
+            "amazon_price": "3.32",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 14785765,
+      "name": "Blackwing - Zephyros the Elite",
+      "typeline": [
+         "Winged Beast",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is in your GY: You can return 1 face-up card you control to the hand; Special Summon this card, and if you do, take 400 damage. You can only use this effect of \"Blackwing - Zephyros the Elite\" once per Duel.",
+      "race": "Winged Beast",
+      "atk": 1600,
+      "def": 1000,
+      "level": 4,
+      "attribute": "DARK",
+      "archetype": "Blackwing",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/blackwing-zephyros-the-elite-1269",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN098",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN098",
+            "set_rarity": "Mosaic Rare",
+            "set_rarity_code": "(MSR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN215",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN215",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Overload",
+            "set_code": "DUOV-EN066",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.82"
+         },
+         {
+            "set_name": "Duelist Pack: Crow",
+            "set_code": "DP11-EN012",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Maze of Memories",
+            "set_code": "MAZE-EN039",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN145",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN145",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Realm of Light Structure Deck",
+            "set_code": "SDLI-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.41"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 14785765,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14785765.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14785765.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14785765.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "2.48",
+            "amazon_price": "0.49",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 54082269,
+      "name": "Blackwing Full Armor Master",
+      "typeline": [
+         "Winged Beast",
+         "Synchro",
+         "Effect"
+      ],
+      "type": "Synchro Monster",
+      "humanReadableCardType": "Synchro Effect Monster",
+      "frameType": "synchro",
+      "desc": "1 \"Blackwing\" Tuner + 1+ non-Tuner monsters\r\nUnaffected by other cards' effects. Each time a monster your opponent controls activates its effect, place 1 Wedge Counter on that opponent's monster (max. 1) after that effect resolves. Once per turn: You can target 1 monster your opponent controls with a Wedge Counter; take control of it. Once per turn, during your End Phase: You can destroy all monsters on the field that have a Wedge Counter.",
+      "race": "Winged Beast",
+      "atk": 3000,
+      "def": 3000,
+      "level": 10,
+      "attribute": "DARK",
+      "archetype": "Blackwing",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/blackwing-full-armor-master-9530",
+      "card_sets": [
+         {
+            "set_name": "Battles of Legend: Crystal Revenge",
+            "set_code": "BLCR-EN064",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN044",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "8.07"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN023",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "11.24"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 54082269,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54082269.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54082269.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54082269.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "29.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 20654247,
+      "name": "Blue-Eyes Chaos Dragon",
+      "typeline": [
+         "Dragon",
+         "Ritual",
+         "Effect"
+      ],
+      "type": "Ritual Effect Monster",
+      "humanReadableCardType": "Ritual Effect Monster",
+      "frameType": "ritual",
+      "desc": "You can Ritual Summon this card with \"Chaos Form\". Must be Ritual Summoned. Your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects. If this card was Ritual Summoned using \"Blue-Eyes White Dragon\", when it declares an attack: You can change the battle positions of as many monsters your opponent controls as possible, and if you do, the ATK/DEF of those changed monsters become 0, also, this turn, if this card attacks a Defense Position monster, inflict piercing battle damage.",
+      "race": "Dragon",
+      "atk": 3000,
+      "def": 0,
+      "level": 8,
+      "attribute": "DARK",
+      "archetype": "Blue-Eyes",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/blue-eyes-chaos-dragon-9508",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN017",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "15.3"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "10.74"
+         },
+         {
+            "set_name": "Structure Deck: Blue-Eyes White Destiny",
+            "set_code": "SDWD-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 20654247,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20654247.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20654247.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20654247.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "18.00",
+            "amazon_price": "4.79",
+            "coolstuffinc_price": "9.99"
+         }
+      ]
+   },
+   {
+      "id": 55410871,
+      "name": "Blue-Eyes Chaos MAX Dragon",
+      "typeline": [
+         "Dragon",
+         "Ritual",
+         "Effect"
+      ],
+      "type": "Ritual Effect Monster",
+      "humanReadableCardType": "Ritual Effect Monster",
+      "frameType": "ritual",
+      "desc": "You can Ritual Summon this card with \"Chaos Form\". Must be Ritual Summoned. Your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects. If this card attacks a Defense Position monster, inflict double piercing battle damage.",
+      "race": "Dragon",
+      "atk": 4000,
+      "def": 0,
+      "level": 8,
+      "attribute": "DARK",
+      "archetype": "Blue-Eyes",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/blue-eyes-chaos-max-dragon-4716",
+      "card_sets": [
+         {
+            "set_name": "Duel Power",
+            "set_code": "DUPO-EN048",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.15"
+         },
+         {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN016",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN000",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN051",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Blue-Eyes White Destiny",
+            "set_code": "SDWD-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
+            "set_code": "MVP1-EN004",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.56"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition",
+            "set_code": "MVP1-ENS04",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "29.92"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition",
+            "set_code": "MVP1-ENG04",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "7.66"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 55410871,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55410871.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55410871.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55410871.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "6.95",
+            "amazon_price": "4.79",
+            "coolstuffinc_price": "1.99"
+         }
+      ]
+   },
+   {
+      "id": 57043986,
+      "name": "Blue-Eyes Solid Dragon",
+      "typeline": [
+         "Dragon",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is Normal or Special Summoned: You can target 1 face-up monster your opponent controls; negate its effects. When your opponent activates a card or effect (Quick Effect): You can shuffle this card from the field into the Deck, and if you do, Special Summon 1 \"Blue-Eyes White Dragon\" from your Deck. You can only use each effect of \"Blue-Eyes Solid Dragon\" once per turn.",
+      "race": "Dragon",
+      "atk": 2500,
+      "def": 2000,
+      "level": 8,
+      "attribute": "LIGHT",
+      "archetype": "Blue-Eyes",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/blue-eyes-solid-dragon-9533",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN014",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN002",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "7.46"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 57043986,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57043986.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57043986.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57043986.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "2.12",
+            "tcgplayer_price": "1.00",
+            "ebay_price": "3.57",
+            "amazon_price": "21.98",
+            "coolstuffinc_price": "1.99"
+         }
+      ]
+   },
+   {
+      "id": 89631146,
+      "name": "Blue-Eyes White Dragon",
+      "typeline": [
+         "Dragon",
+         "Normal"
+      ],
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "desc": "This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.",
+      "race": "Dragon",
+      "atk": 3000,
+      "def": 2500,
+      "level": 8,
+      "attribute": "LIGHT",
+      "archetype": "Blue-Eyes",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/blue-eyes-white-dragon-7485",
+      "card_sets": [
+         {
+            "set_name": "2016 Mega-Tins",
+            "set_code": "CT13-EN008",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "74.49"
+         },
+         {
+            "set_name": "2017 Mega-Tins",
+            "set_code": "CT14-EN002",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "27.92"
+         },
+         {
+            "set_name": "Anniversary Pack",
+            "set_code": "YAP1-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "282.08"
+         },
+         {
+            "set_name": "Booster Pack Collectors Tins 2002",
+            "set_code": "BPT-003",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "57.39"
+         },
+         {
+            "set_name": "Collectible Tins 2003",
+            "set_code": "BPT-009",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "28.27"
+         },
+         {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB1-EN098",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "24.4"
+         },
+         {
+            "set_name": "Dark Legends",
+            "set_code": "DLG1-EN002",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "173.93"
+         },
+         {
+            "set_name": "Dragons Collide Structure Deck",
+            "set_code": "SDDC-EN004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.97"
+         },
+         {
+            "set_name": "Duel Terminal - Preview Wave 1",
+            "set_code": "DTP1-EN001",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Duel Terminal - Preview Wave 2",
+            "set_code": "DTP1-EN001",
+            "set_rarity": "Duel Terminal Super Parallel Rare",
+            "set_rarity_code": "(DSPR)",
+            "set_price": "4167.22"
+         },
+         {
+            "set_name": "Duel Terminal 1",
+            "set_code": "DT01-EN001",
+            "set_rarity": "Duel Terminal Super Parallel Rare",
+            "set_rarity_code": "(DSPR)",
+            "set_price": "439.99"
+         },
+         {
+            "set_name": "Duelist League 2010 participation cards",
+            "set_code": "DL09-EN001",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "103.53"
+         },
+         {
+            "set_name": "Duelist Pack: Battle City",
+            "set_code": "DPBC-EN016",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "6.64"
+         },
+         {
+            "set_name": "Duelist Pack: Kaiba",
+            "set_code": "DPKB-EN001",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "13.79"
+         },
+         {
+            "set_name": "Duelist Saga",
+            "set_code": "DUSA-EN043",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "19.02"
+         },
+         {
+            "set_name": "Forbidden Legacy",
+            "set_code": "FL1-EN001",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "21.66"
+         },
+         {
+            "set_name": "Gold Series: Haunted Mine",
+            "set_code": "GLD5-EN001",
+            "set_rarity": "Ghost/Gold Rare",
+            "set_rarity_code": "(GGR)",
+            "set_price": "244.44"
+         },
+         {
+            "set_name": "Kaiba's Collector Box",
+            "set_code": "KACB-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "18.52"
+         },
+         {
+            "set_name": "KC Grand Tournament prize card",
+            "set_code": "2020-EN001",
+            "set_rarity": "Extra Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "62.15"
+         },
+         {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-E001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "681.49"
+         },
+         {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "253.34"
+         },
+         {
+            "set_name": "Legendary Collection",
+            "set_code": "LC01-EN004",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "19.57"
+         },
+         {
+            "set_name": "Legendary Collection Kaiba Mega Pack",
+            "set_code": "LCKC-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "15.87"
+         },
+         {
+            "set_name": "Legendary Decks II",
+            "set_code": "LDK2-ENK01",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "11.9"
+         },
+         {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "14.85"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN006",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.14"
+         },
+         {
+            "set_name": "Maximum Gold",
+            "set_code": "MAGO-EN001",
+            "set_rarity": "Premium Gold Rare",
+            "set_rarity_code": "(PG)",
+            "set_price": "21.96"
+         },
+         {
+            "set_name": "Premium Gold: Return of the Bling",
+            "set_code": "PGL2-EN080",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "4.27"
+         },
+         {
+            "set_name": "Retro Pack",
+            "set_code": "RP01-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2999.98"
+         },
+         {
+            "set_name": "Saga of Blue-Eyes White Dragon Structure Deck",
+            "set_code": "SDBE-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "5.15"
+         },
+         {
+            "set_name": "Shonen Jump Vol. 1, Issue 1 promotional card",
+            "set_code": "JMP-001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "22.47"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Duelists of Tomorrow",
+            "set_code": "SS02-ENA01",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.36"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 1",
+            "set_code": "STP1-EN004",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "39.61"
+         },
+         {
+            "set_name": "Speed Duel: Battle City Box",
+            "set_code": "SBCB-EN087",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2"
+         },
+         {
+            "set_name": "Speed Duel: Battle City Box",
+            "set_code": "SBCB-EN087",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "2"
+         },
+         {
+            "set_name": "Starter Deck: Kaiba",
+            "set_code": "SDK-001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "25.6"
+         },
+         {
+            "set_name": "Starter Deck: Kaiba",
+            "set_code": "SDK-E001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "35.03"
+         },
+         {
+            "set_name": "Starter Deck: Kaiba Evolution",
+            "set_code": "SKE-001",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "6.87"
+         },
+         {
+            "set_name": "Starter Deck: Kaiba Reloaded",
+            "set_code": "YSKR-EN001",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "6.79"
+         },
+         {
+            "set_name": "Starter Deck: Kaiba Reloaded",
+            "set_code": "YSKR-EN001",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "17.64"
+         },
+         {
+            "set_name": "Structure Deck: Seto Kaiba",
+            "set_code": "SDKS-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.7"
+         },
+         {
+            "set_name": "Swedish Shonen Jump 2004, Issue 2 promotional card",
+            "set_code": "JMP-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "674.33"
+         },
+         {
+            "set_name": "Weekly Shonen Jump March 2014 membership promotional card",
+            "set_code": "JUMP-EN068",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "189.88"
+         },
+         {
+            "set_name": "WSJ Jump Pack Spring 2016 promotional card",
+            "set_code": "JMPS-EN002",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "999.99"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! Dark Duel Stories promotional cards",
+            "set_code": "DDS-001",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "1647.85"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! Power of Chaos: Kaiba the Revenge promotional cards",
+            "set_code": "PCK-001",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "92.91"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! Power of Chaos: Kaiba the Revenge promotional cards",
+            "set_code": "PCK-E001",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
+            "set_code": "MVP1-EN055",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.99"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition",
+            "set_code": "MVP1-ENS55",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "139.13"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition",
+            "set_code": "MVP1-ENSV4",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "41"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Special Edition",
+            "set_code": "MVP1-ENSE4",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "83.11"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition",
+            "set_code": "MVP1-ENG55",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "3.67"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition",
+            "set_code": "MVP1-ENGV4",
+            "set_rarity": "Gold Secret Rare",
+            "set_rarity_code": "(GScR)",
+            "set_price": "44.61"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 89631146,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89631146.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89631146.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89631146.jpg"
+         },
+         {
+            "id": 89631139,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89631139.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89631139.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89631139.jpg"
+         },
+         {
+            "id": 89631140,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89631140.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89631140.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89631140.jpg"
+         },
+         {
+            "id": 89631141,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89631141.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89631141.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89631141.jpg"
+         },
+         {
+            "id": 89631145,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89631145.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89631145.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89631145.jpg"
+         },
+         {
+            "id": 89631142,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89631142.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89631142.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89631142.jpg"
+         },
+         {
+            "id": 89631143,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89631143.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89631143.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89631143.jpg"
+         },
+         {
+            "id": 89631144,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89631144.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89631144.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89631144.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "5.95",
+            "amazon_price": "3.90",
+            "coolstuffinc_price": "0.99"
+         }
+      ]
+   },
+   {
+      "id": 21082832,
+      "name": "Chaos Form",
+      "type": "Spell Card",
+      "humanReadableCardType": "Ritual Spell",
+      "frameType": "spell",
+      "desc": "This card can be used to Ritual Summon any \"Chaos\" or \"Black Luster Soldier\" Ritual Monster. You must also Tribute monsters from your hand or field and/or banish \"Blue-Eyes White Dragon\" or \"Dark Magician\" from your GY, whose total Levels exactly equal the Level of the \"Chaos\" or \"Black Luster Soldier\" Ritual Monster you Ritual Summon.",
+      "race": "Ritual",
+      "archetype": "Blue-Eyes",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/chaos-form-1811",
+      "card_sets": [
+         {
+            "set_name": "Duel Power",
+            "set_code": "DUPO-EN049",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.53"
+         },
+         {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.31"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Maze of Memories",
+            "set_code": "MAZE-EN061",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Blue-Eyes White Destiny",
+            "set_code": "SDWD-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
+            "set_code": "MVP1-EN008",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "4.55"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition",
+            "set_code": "MVP1-ENS08",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "3.88"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition",
+            "set_code": "MVP1-ENG08",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "3.89"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 21082832,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21082832.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21082832.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21082832.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "2.87",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 84058253,
+      "name": "Chimeratech Rampage Dragon",
+      "typeline": [
+         "Machine",
+         "Fusion",
+         "Effect"
+      ],
+      "type": "Fusion Monster",
+      "humanReadableCardType": "Fusion Effect Monster",
+      "frameType": "fusion",
+      "desc": "2+ \"Cyber Dragon\" monsters\r\nA Fusion Summon of this card can only be done with the above Fusion Materials. When this card is Fusion Summoned: You can target Spells/Traps on the field, up to the number of Fusion Materials used for its Fusion Summon; destroy them. Once per turn: You can send up to 2 LIGHT Machine monsters from your Deck to the GY, and if you do, for each monster sent to the GY, this card gains 1 additional attack during each Battle Phase this turn.",
+      "race": "Machine",
+      "atk": 2100,
+      "def": 1600,
+      "level": 5,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/chimeratech-rampage-dragon-7050",
+      "card_sets": [
+         {
+            "set_name": "Breakers of Shadow",
+            "set_code": "BOSH-EN093",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Ghosts From the Past: The 2nd Haunting",
+            "set_code": "GFP2-EN124",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.32"
+         },
+         {
+            "set_name": "Legendary Dragon Decks",
+            "set_code": "LEDD-ENB29",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.51"
+         },
+         {
+            "set_name": "Legendary Dragon Decks",
+            "set_code": "LEDD-ENB29",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.16"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 84058253,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84058253.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84058253.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84058253.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "1.50",
+            "amazon_price": "0.39",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   },
+   {
+      "id": 59281922,
+      "name": "Cyber Dragon Drei",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "This card's name becomes \"Cyber Dragon\" while on the field or in the GY. When this card is Normal Summoned: You can make all \"Cyber Dragon\" you currently control become Level 5. You cannot Special Summon any monsters during the turn you activate this effect, except Machine monsters. If this card is banished: You can target 1 \"Cyber Dragon\" you control; it cannot be destroyed by battle or card effects this turn.",
+      "race": "Machine",
+      "atk": 1800,
+      "def": 800,
+      "level": 4,
+      "attribute": "LIGHT",
+      "archetype": "Cyber Dragon",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/cyber-dragon-drei-5038",
+      "card_sets": [
+         {
+            "set_name": "Cyber Dragon Revolution Structure Deck",
+            "set_code": "SDCR-EN002",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.35"
+         },
+         {
+            "set_name": "Legendary Dragon Decks",
+            "set_code": "LEDD-ENB03",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.34"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Cyber Strike",
+            "set_code": "SDCS-EN005",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.9"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 59281922,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59281922.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59281922.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59281922.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "1.40",
+            "amazon_price": "0.83",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 1546123,
+      "name": "Cyber End Dragon",
+      "typeline": [
+         "Machine",
+         "Fusion",
+         "Effect"
+      ],
+      "type": "Fusion Monster",
+      "humanReadableCardType": "Fusion Effect Monster",
+      "frameType": "fusion",
+      "desc": "\"Cyber Dragon\" + \"Cyber Dragon\" + \"Cyber Dragon\"\r\nA Fusion Summon of this card can only be done with the above Fusion Materials. If this card attacks a Defense Position monster, inflict piercing battle damage.",
+      "race": "Machine",
+      "atk": 4000,
+      "def": 2800,
+      "level": 10,
+      "attribute": "LIGHT",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/cyber-end-dragon-133",
+      "card_sets": [
+         {
+            "set_name": "Cybernetic Revolution",
+            "set_code": "CRV-EN036",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Cybernetic Revolution",
+            "set_code": "CRV-EN036",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN036",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "81.99"
+         },
+         {
+            "set_name": "Duelist League 17 participation cards",
+            "set_code": "DL17-EN010",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "8.49"
+         },
+         {
+            "set_name": "Duelist Pack: Zane Truesdale",
+            "set_code": "DP04-EN012",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN181",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN182",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Dragon Decks",
+            "set_code": "LEDD-ENB25",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.69"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Mattel Action Figure promotional cards: Series 2",
+            "set_code": "MF02-EN003",
+            "set_rarity": "Normal Parallel Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN156",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN156",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Ra Yellow Mega Pack",
+            "set_code": "RYMP-EN060",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENG21",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENG21",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Strike of Neos: Special Edition",
+            "set_code": "STON-ENSE1",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "4.77"
+         },
+         {
+            "set_name": "Structure Deck: Cyber Strike",
+            "set_code": "SDCS-EN041",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.38"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 1546123,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1546123.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1546123.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1546123.jpg"
+         },
+         {
+            "id": 1546124,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1546124.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1546124.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1546124.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "6.95",
+            "amazon_price": "0.37",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 82315403,
+      "name": "Cyber Eternity Dragon",
+      "typeline": [
+         "Machine",
+         "Fusion",
+         "Effect"
+      ],
+      "type": "Fusion Monster",
+      "humanReadableCardType": "Fusion Effect Monster",
+      "frameType": "fusion",
+      "desc": "1 \"Cyber Dragon\" monster + 2 Machine monsters\r\nIf you have a Machine Fusion Monster(s) in your GY, your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects. If this Fusion Summoned card you control is sent to your GY by an opponent's card: You can Special Summon 1 \"Cyber Dragon\" from your hand, Deck, or GY. You can banish this card from your GY; this turn, your opponent cannot target Fusion Monsters you control with card effects, also they cannot be destroyed by your opponent's card effects.",
+      "race": "Machine",
+      "atk": 2800,
+      "def": 4000,
+      "level": 10,
+      "attribute": "LIGHT",
+      "archetype": "Cyber Dragon",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/cyber-eternity-dragon-9540",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN033",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN012",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "11.81"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 82315403,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82315403.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82315403.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82315403.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "3.98",
+            "tcgplayer_price": "1.31",
+            "ebay_price": "8.95",
+            "amazon_price": "9.46",
+            "coolstuffinc_price": "3.99"
+         }
+      ]
+   },
+   {
+      "id": 29719112,
+      "name": "Cyber Pharos",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can Special Summon this card (from your hand) by Tributing 1 Machine monster. Once per turn, during your Main Phase: You can Fusion Summon 1 Machine Fusion Monster from your Extra Deck, using monsters from your hand and/or field as material. When a Fusion Monster you control is destroyed by battle: You can banish this card from your GY; add 1 \"Power Bond\" from your Deck to your hand. You can only use this effect of \"Cyber Pharos\" once per turn.",
+      "race": "Machine",
+      "atk": 0,
+      "def": 2100,
+      "level": 1,
+      "attribute": "LIGHT",
+      "archetype": "Cyber Dragon",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/cyber-pharos-9541",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.05"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN013",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.49"
+         },
+         {
+            "set_name": "Structure Deck: Cyber Strike",
+            "set_code": "SDCS-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.93"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 29719112,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29719112.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29719112.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29719112.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "0.90",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 86686671,
+      "name": "Cyber Repair Plant",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "If \"Cyber Dragon\" is in your GY: You can activate 1 of these effects. If you have 3 or more \"Cyber Dragon\" in your GY at this card's activation, you can activate both effects and resolve in sequence. You can only activate 1 \"Cyber Repair Plant\" per turn.\n● Add 1 LIGHT Machine monster from your Deck to your hand.\n● Target 1 LIGHT Machine monster in your GY; shuffle that target into your Deck.",
+      "race": "Normal",
+      "archetype": "Cyber Dragon",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/cyber-repair-plant-7258",
+      "card_sets": [
+         {
+            "set_name": "Cyber Dragon Revolution Structure Deck",
+            "set_code": "SDCR-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.37"
+         },
+         {
+            "set_name": "Legendary Dragon Decks",
+            "set_code": "LEDD-ENB12",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.56"
+         },
+         {
+            "set_name": "Legendary Dragon Decks",
+            "set_code": "LEDD-ENB12",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.03"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Cyber Strike",
+            "set_code": "SDCS-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.89"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 86686671,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86686671.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86686671.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86686671.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "2.98",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 74157028,
+      "name": "Cyber Twin Dragon",
+      "typeline": [
+         "Machine",
+         "Fusion",
+         "Effect"
+      ],
+      "type": "Fusion Monster",
+      "humanReadableCardType": "Fusion Effect Monster",
+      "frameType": "fusion",
+      "desc": "\"Cyber Dragon\" + \"Cyber Dragon\"\r\nA Fusion Summon of this card can only be done with the above Fusion Materials. This card can make a second attack during each Battle Phase.",
+      "race": "Machine",
+      "atk": 2800,
+      "def": 2100,
+      "level": 8,
+      "attribute": "LIGHT",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/cyber-twin-dragon-6238",
+      "card_sets": [
+         {
+            "set_name": "Cyber Dragon Revolution Structure Deck",
+            "set_code": "SDCR-EN037",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Cybernetic Revolution",
+            "set_code": "CRV-EN035",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Cybernetic Revolution",
+            "set_code": "CRV-EN035",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN035",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "87.45"
+         },
+         {
+            "set_name": "Duel Terminal 3",
+            "set_code": "DT03-EN085",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Pack: Zane Truesdale",
+            "set_code": "DP04-EN011",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN180",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Dragon Decks",
+            "set_code": "LEDD-ENB26",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.33"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 74157028,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74157028.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74157028.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74157028.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.20",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "2.25",
+            "amazon_price": "4.75",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 55704856,
+      "name": "Cyberload Fusion",
+      "type": "Spell Card",
+      "humanReadableCardType": "Quick-Play Spell",
+      "frameType": "spell",
+      "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck that lists a \"Cyber Dragon\" monster as material, by shuffling the Fusion Materials listed on it into the Deck, from among your cards on the field and/or your face-up banished cards, but monsters you control cannot attack for the rest of this turn, except that Fusion Summoned monster. You can only activate 1 \"Cyberload Fusion\" per turn.",
+      "race": "Quick-Play",
+      "archetype": "Cyber Dragon",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/cyberload-fusion-9529",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN035",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN014",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.36"
+         },
+         {
+            "set_name": "Structure Deck: Cyber Strike",
+            "set_code": "SDCS-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.94"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 55704856,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55704856.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55704856.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55704856.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "1.80",
+            "amazon_price": "0.90",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 18597560,
+      "name": "Cybernetic Revolution",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Tribute 1 \"Cyber Dragon\"; Special Summon 1 Fusion Monster from your Extra Deck that lists a \"Cyber Dragon\" monster as material, but it cannot attack directly, and is destroyed during the End Phase of the next turn. You can only activate 1 \"Cybernetic Revolution\" per turn.",
+      "race": "Normal",
+      "archetype": "Cyber Dragon",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/cybernetic-revolution-9546",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.03"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN016",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.33"
+         },
+         {
+            "set_name": "Structure Deck: Cyber Strike",
+            "set_code": "SDCS-EN035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.05"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 18597560,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18597560.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18597560.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18597560.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "1.27",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 59839761,
+      "name": "Delta Crow - Anti Reverse",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "If you control a \"Blackwing\" monster: Destroy all face-down Spells and Traps your opponent controls. If you control exactly 3 \"Blackwing\" monsters, you can activate this card from your hand.",
+      "race": "Normal",
+      "archetype": "Blackwing",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/delta-crow-anti-reverse-5088",
+      "card_sets": [
+         {
+            "set_name": "Duelist League 17 participation cards",
+            "set_code": "DL17-EN019",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "3.51"
+         },
+         {
+            "set_name": "Duelist Pack: Crow",
+            "set_code": "DP11-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN140",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Raging Battle",
+            "set_code": "RGBT-EN068",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 59839761,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59839761.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59839761.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59839761.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "0.99",
+            "amazon_price": "4.10",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 41620959,
+      "name": "Dragon Shrine",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Send 1 Dragon monster from your Deck to the GY, then, if that monster in your GY is a Dragon Normal Monster, you can send 1 more Dragon monster from your Deck to the GY. You can only activate 1 \"Dragon Shrine\" per turn.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dragon-shrine-3559",
+      "card_sets": [
+         {
+            "set_name": "Duelist Pack: Rivals of the Pharaoh",
+            "set_code": "DPRP-EN029",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection Kaiba Mega Pack",
+            "set_code": "LCKC-EN075",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.19"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 6",
+            "set_code": "OP06-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Saga of Blue-Eyes White Dragon Structure Deck",
+            "set_code": "SDBE-EN019",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.3"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 41620959,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41620959.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41620959.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41620959.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.25",
+            "ebay_price": "3.95",
+            "amazon_price": "9.44",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 35950025,
+      "name": "Galaxy Knight",
+      "typeline": [
+         "Warrior",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If you control a \"Photon\" or \"Galaxy\" monster, you can Normal Summon this card without Tributing. If Summoned this way: Target 1 \"Galaxy-Eyes Photon Dragon\" in your GY (if possible); regardless, this card loses 1000 ATK, and if it does, Special Summon that target (if any) in Defense Position. This ATK decrease lasts until the end of this turn.",
+      "race": "Warrior",
+      "atk": 2800,
+      "def": 2600,
+      "level": 8,
+      "attribute": "LIGHT",
+      "archetype": "Galaxy-Eyes",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/galaxy-knight-3039",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN049",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN040",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Zexal Collection Tin",
+            "set_code": "ZTIN-EN012",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "3.23"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 35950025,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35950025.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35950025.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35950025.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.24",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "0.99",
+            "amazon_price": "6.14",
+            "coolstuffinc_price": "1.49"
+         }
+      ]
+   },
+   {
+      "id": 93717133,
+      "name": "Galaxy-Eyes Photon Dragon",
+      "typeline": [
+         "Dragon",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can Special Summon this card (from your hand) by Tributing 2 monsters with 2000 or more ATK. During the Battle Step, if this card battles an opponent's monster (Quick Effect): You can target that opponent's monster; banish both this card from the field and that target. Return those banished monsters to the field at the end of the Battle Phase, and if you banished an Xyz Monster, this card gains 500 ATK for each material it had when it was banished.",
+      "race": "Dragon",
+      "atk": 3000,
+      "def": 2500,
+      "level": 8,
+      "attribute": "LIGHT",
+      "archetype": "Galaxy-Eyes",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/galaxy-eyes-photon-dragon-7798",
+      "card_sets": [
+         {
+            "set_name": "25th Anniversary Tin: Dueling Heroes",
+            "set_code": "TN23-EN012",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN007",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Monster Mayhem",
+            "set_code": "BLMM-EN007",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Collectible Tins 2011 Wave 2",
+            "set_code": "CT08-EN003",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "30.4"
+         },
+         {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN047",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN039",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Photon Shockwave",
+            "set_code": "PHSW-EN011",
+            "set_rarity": "Ghost Rare",
+            "set_rarity_code": "(GR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Photon Shockwave",
+            "set_code": "PHSW-EN011",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Photon Shockwave",
+            "set_code": "PHSW-EN011",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Premium Gold",
+            "set_code": "PGLD-EN038",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "2.96"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN008",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Star Pack 2013",
+            "set_code": "SP13-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Star Pack 2013",
+            "set_code": "SP13-EN008",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 93717133,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93717133.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93717133.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93717133.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.31",
+            "tcgplayer_price": "1.13",
+            "ebay_price": "1.95",
+            "amazon_price": "1.63",
+            "coolstuffinc_price": "2.99"
+         }
+      ]
+   },
+   {
+      "id": 53860621,
+      "name": "Glowing Crossbow",
+      "type": "Spell Card",
+      "humanReadableCardType": "Equip Spell",
+      "frameType": "spell",
+      "desc": "Equip only to a \"Blackwing\" monster. It gains 500 ATK/DEF. You can only use each of the following effects of \"Glowing Crossbow\" once per turn.\r\n● If the equipped monster destroys an opponent's monster by battle: You can discard 1 random card from your opponent's hand.\r\n● If this card is sent to the GY because the equipped monster was used as a Synchro Material: You can add this card from the GY to your hand.",
+      "race": "Equip",
+      "archetype": "Blackwing",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/glowing-crossbow-9568",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN045",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.93"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN026",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.26"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 53860621,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53860621.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53860621.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53860621.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "54.99",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 35112613,
+      "name": "Kuriphoton",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "(Quick Effect): You can send this card from your hand to the GY and pay 2000 LP; you take no damage this turn. If this card is in your GY: You can send 1 \"Photon\" monster from your hand to the GY, except \"Kuriphoton\"; add this card from your GY to your hand. You can only use this effect of \"Kuriphoton\" once per turn.",
+      "race": "Fiend",
+      "atk": 300,
+      "def": 200,
+      "level": 1,
+      "attribute": "LIGHT",
+      "archetype": "Photon",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/kuriphoton-2980",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN043",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! Advent Calendar (2019)",
+            "set_code": "AC19-EN016",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.18"
+         },
+         {
+            "set_name": "Zexal Collection Tin",
+            "set_code": "ZTIN-EN009",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.96"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 35112613,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35112613.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35112613.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35112613.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.26",
+            "tcgplayer_price": "0.37",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 88241506,
+      "name": "Maiden with Eyes of Blue",
+      "typeline": [
+         "Spellcaster",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "When a card or effect is activated that targets this card (Quick Effect): You can Special Summon 1 \"Blue-Eyes White Dragon\" from your hand, Deck, or GY. When this card is targeted for an attack: You can negate the attack, and if you do, change the battle position of this card, then you can Special Summon 1 \"Blue-Eyes White Dragon\" from your hand, Deck, or GY. You can only use 1 \"Maiden with Eyes of Blue\" effect per turn, and only once that turn.",
+      "race": "Spellcaster",
+      "atk": 0,
+      "def": 0,
+      "level": 1,
+      "attribute": "LIGHT",
+      "archetype": "Blue-Eyes",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/maiden-with-eyes-of-blue-7381",
+      "card_sets": [
+         {
+            "set_name": "Legendary Collection Kaiba Mega Pack",
+            "set_code": "LCKC-EN012",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Decks II",
+            "set_code": "LDK2-ENK06",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.46"
+         },
+         {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN006",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.21"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Saga of Blue-Eyes White Dragon Structure Deck",
+            "set_code": "SDBE-EN006",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.97"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 88241506,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88241506.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88241506.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88241506.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "5.95",
+            "amazon_price": "1.49",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 42925441,
+      "name": "Photon Change",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "Send this card to the GY during your 2nd Standby Phase after activation. You can only use the following effect of \"Photon Change\" once per turn. Send 1 \"Photon\" or \"Galaxy\" monster you control to the GY to activate 1 of these effects, or, if you send \"Galaxy-Eyes Photon Dragon\", you can activate both, in sequence;\r\n● Special Summon 1 \"Photon\" monster from your Deck with a different original name than the sent monster.\r\n● Add 1 \"Photon\" card from your Deck to your hand, except \"Photon Change\".",
+      "race": "Continuous",
+      "archetype": "Galaxy-Eyes",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/photon-change-9539",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN057",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.94"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN038",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.11"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 42925441,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42925441.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42925441.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42925441.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 1362589,
+      "name": "Photon Crusher",
+      "typeline": [
+         "Warrior",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card attacks, it is changed to Defense Position at the end of the Damage Step.",
+      "race": "Warrior",
+      "atk": 2000,
+      "def": 0,
+      "level": 4,
+      "attribute": "LIGHT",
+      "archetype": "Photon",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/photon-crusher-117",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN042",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Order of Chaos",
+            "set_code": "ORCS-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Star Pack 2014",
+            "set_code": "SP14-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Star Pack 2014",
+            "set_code": "SP14-EN008",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 1362589,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1362589.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1362589.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1362589.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 15520842,
+      "name": "Photon Hand",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "If you control a \"Photon\" or \"Galaxy\" monster: Pay 1000 LP, then target 1 monster your opponent controls; take control of it. If you do not control \"Galaxy-Eyes Photon Dragon\" at activation, you can only target an Xyz Monster. You can only activate 1 \"Photon Hand\" per turn.",
+      "race": "Normal",
+      "archetype": "Photon",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/photon-hand-9559",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN056",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN037",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "3.02"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 15520842,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15520842.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15520842.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15520842.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "3.74",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 89132148,
+      "name": "Photon Orbital",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "During your Main Phase: You can target 1 \"Photon\" or \"Galaxy\" monster you control; equip this monster from your hand or field to that target. It gains 500 ATK, also it cannot be destroyed by battle. You can send this Equip Card to the GY; add 1 \"Photon\" or \"Galaxy\" monster from your Deck to your hand, except \"Photon Orbital\". You can only use this effect of \"Photon Orbital\" once per turn.",
+      "race": "Machine",
+      "atk": 500,
+      "def": 2000,
+      "level": 4,
+      "attribute": "LIGHT",
+      "archetype": "Photon",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/photon-orbital-9569",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN051",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "8.87"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN036",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "11.47"
+         },
+         {
+            "set_name": "Maze of Memories",
+            "set_code": "MAZE-EN046",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Maze of Memories",
+            "set_code": "MAZE-EN046",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 89132148,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89132148.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89132148.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89132148.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.20",
+            "tcgplayer_price": "0.26",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   },
+   {
+      "id": 65367484,
+      "name": "Photon Thrasher",
+      "typeline": [
+         "Warrior",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) while you control no monsters. Cannot attack if you control another monster.",
+      "race": "Warrior",
+      "atk": 2100,
+      "def": 0,
+      "level": 4,
+      "attribute": "LIGHT",
+      "archetype": "Photon",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/photon-thrasher-5508",
+      "card_sets": [
+         {
+            "set_name": "Astral Pack One",
+            "set_code": "AP01-EN003",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN103",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN103",
+            "set_rarity": "Mosaic Rare",
+            "set_rarity_code": "(MSR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Ghosts From the Past",
+            "set_code": "GFTP-EN079",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.86"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN041",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Order of Chaos",
+            "set_code": "ORCS-EN008",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 4",
+            "set_code": "OP04-EN006",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN170",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN170",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Star Pack 2014",
+            "set_code": "SP14-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Star Pack 2014",
+            "set_code": "SP14-EN007",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Link Strike",
+            "set_code": "YS17-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 65367484,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65367484.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65367484.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65367484.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "0.99",
+            "amazon_price": "1.24",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 43147039,
+      "name": "Photon Vanisher",
+      "typeline": [
+         "Warrior",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) while you control a \"Photon\" or \"Galaxy\" monster. Cannot attack the turn it is Special Summoned. You can only Special Summon \"Photon Vanisher(s)\" once per turn. If this card is Special Summoned: You can add 1 \"Galaxy-Eyes Photon Dragon\" from your Deck to your hand. An Xyz Monster that was Summoned using this card on the field as material gains this effect.\r\n● Banish any monster destroyed by battle with this card.",
+      "race": "Warrior",
+      "atk": 2000,
+      "def": 0,
+      "level": 4,
+      "attribute": "LIGHT",
+      "archetype": "Galaxy-Eyes",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/photon-vanisher-9538",
+      "card_sets": [
+         {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN058",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN050",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.29"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN035",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.66"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 43147039,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43147039.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43147039.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43147039.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.99"
+         }
+      ]
+   },
+   {
+      "id": 37630732,
+      "name": "Power Bond",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Fusion Summon 1 Machine Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material, and it gains ATK equal to its original ATK. During the End Phase of the turn this card is activated, you take damage equal to the amount of ATK gained from this effect at the time of the Summon.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/power-bond-3184",
+      "card_sets": [
+         {
+            "set_name": "Cyber Dragon Revolution Structure Deck",
+            "set_code": "SDCR-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Cybernetic Revolution",
+            "set_code": "CRV-EN037",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Cybernetic Revolution",
+            "set_code": "CRV-EN037",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN037",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "25.21"
+         },
+         {
+            "set_name": "Duelist Pack: Zane Truesdale",
+            "set_code": "DP04-EN020",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN184",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Dragon Decks",
+            "set_code": "LEDD-ENB15",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.23"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 17",
+            "set_code": "OP17-EN004",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 17 (POR)",
+            "set_code": "OP17-PT004",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Ra Yellow Mega Pack",
+            "set_code": "RYMP-EN062",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Cyber Strike",
+            "set_code": "SDCS-EN047",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.96"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 37630732,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37630732.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37630732.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37630732.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "2.44",
+            "amazon_price": "1.06",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 29432790,
+      "name": "Rage with Eyes of Blue",
+      "type": "Spell Card",
+      "humanReadableCardType": "Quick-Play Spell",
+      "frameType": "spell",
+      "desc": "Banish this card, and as many cards as possible from your hand, field, and GY, face-down, and if you do, Special Summon up to 3 copies of \"Blue-Eyes White Dragon\" from your Deck. You cannot Normal or Special Summon monsters the turn you activate this card, except \"Blue-Eyes White Dragon\".",
+      "race": "Quick-Play",
+      "archetype": "Blue-Eyes",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/rage-with-eyes-of-blue-9570",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN029",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN004",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.66"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 29432790,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29432790.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29432790.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29432790.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.36",
+            "tcgplayer_price": "0.58",
+            "ebay_price": "1.98",
+            "amazon_price": "21.98",
+            "coolstuffinc_price": "1.99"
+         }
+      ]
+   },
+   {
+      "id": 16643334,
+      "name": "Starliege Photon Blast Dragon",
+      "typeline": [
+         "Dragon",
+         "Xyz",
+         "Effect"
+      ],
+      "type": "XYZ Monster",
+      "humanReadableCardType": "Xyz Effect Monster",
+      "frameType": "xyz",
+      "desc": "2 Level 4 monsters\r\nIf this card is Xyz Summoned: You can Special Summon 1 \"Photon\" monster from your hand. While this Xyz Summoned monster is on the field, your opponent cannot target monsters you control with 2000 or more ATK with card effects, also they cannot be destroyed by your opponent's card effects. Once per opponent's turn (Quick Effect): You can detach 1 material from this card, then target 1 of your \"Galaxy-Eyes Photon Dragon\" that is banished or in your GY; Special Summon it.",
+      "race": "Dragon",
+      "atk": 1800,
+      "def": 2500,
+      "level": 4,
+      "attribute": "LIGHT",
+      "archetype": "Galaxy-Eyes",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/starliege-photon-blast-dragon-9537",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN054",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN034",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.38"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 16643334,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16643334.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16643334.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16643334.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "3.64",
+            "tcgplayer_price": "1.13",
+            "ebay_price": "0.99",
+            "amazon_price": "47.99",
+            "coolstuffinc_price": "1.99"
+         }
+      ]
+   },
+   {
+      "id": 81193865,
+      "name": "Super Strident Blaze",
+      "type": "Spell Card",
+      "humanReadableCardType": "Equip Spell",
+      "frameType": "spell",
+      "desc": "Equip only to a Machine Fusion Monster. Your opponent cannot activate cards or effects during your Battle Phase. At the end of the Damage Step, if the equipped monster attacked an opponent's monster: You can banish 1 \"Cyber Dragon\" monster from your GY; the equipped monster can attack an opponent's monster again in a row. Your other monsters cannot attack the turn you activate this effect.",
+      "race": "Equip",
+      "archetype": "Cyber Dragon",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/super-strident-blaze-9571",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.04"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN015",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "2.21"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 81193865,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81193865.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81193865.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81193865.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "14.44",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 48800175,
+      "name": "The Melody of Awakening Dragon",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Discard 1 card; add up to 2 Dragon monsters with 3000 or more ATK and 2500 or less DEF from your Deck to your hand.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/the-melody-of-awakening-dragon-4171",
+      "card_sets": [
+         {
+            "set_name": "2016 Mega-Tin Mega Pack",
+            "set_code": "MP16-EN041",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Crossed Souls",
+            "set_code": "CROS-EN091",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection Kaiba Mega Pack",
+            "set_code": "LCKC-EN028",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Decks II",
+            "set_code": "LDK2-ENK26",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "4.9"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 2",
+            "set_code": "OP02-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Blue-Eyes White Destiny",
+            "set_code": "SDWD-EN022",
+            "set_rarity": "2",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Legend of the Crystal Beasts",
+            "set_code": "SDCB-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 48800175,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48800175.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48800175.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48800175.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "6.47",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 56920308,
+      "name": "The Ultimate Creature of Destruction",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Target 1 \"Blue-Eyes\" monster you control; this turn, that face-up monster is unaffected by card effects, except its own, it cannot be destroyed by battle, also any opponent's monster it battles is destroyed at the end of the Damage Step. While this card is in your GY, if you Normal or Special Summon a \"Blue-Eyes White Dragon\": You can Set this card, but banish it when it leaves the field. You can only use this effect of \"The Ultimate Creature of Destruction\" once per turn.",
+      "race": "Normal",
+      "archetype": "Blue-Eyes",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/the-ultimate-creature-of-destruction-9558",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN030",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN005",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "5.98"
+         },
+         {
+            "set_name": "Structure Deck: Blue-Eyes White Destiny",
+            "set_code": "SDWD-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 56920308,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56920308.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56920308.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56920308.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "4.50",
+            "amazon_price": "2.48",
+            "coolstuffinc_price": "2.99"
+         }
+      ]
+   },
+   {
+      "id": 79814787,
+      "name": "The White Stone of Legend",
+      "typeline": [
+         "Dragon",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is sent to the GY: Add 1 \"Blue-Eyes White Dragon\" from your Deck to your hand.",
+      "race": "Dragon",
+      "atk": 300,
+      "def": 250,
+      "level": 1,
+      "attribute": "LIGHT",
+      "archetype": "Blue-Eyes",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/the-white-stone-of-legend-6692",
+      "card_sets": [
+         {
+            "set_name": "Crossroads of Chaos",
+            "set_code": "CSOC-EN035",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dragons Collide Structure Deck",
+            "set_code": "SDDC-EN006",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Pack: Kaiba",
+            "set_code": "DPKB-EN022",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection Kaiba Mega Pack",
+            "set_code": "LCKC-EN010",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Decks II",
+            "set_code": "LDK2-ENK04",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.64"
+         },
+         {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.25"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 1",
+            "set_code": "OP01-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN208",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN208",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Saga of Blue-Eyes White Dragon Structure Deck",
+            "set_code": "SDBE-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.63"
+         },
+         {
+            "set_name": "Structure Deck: Blue-Eyes White Destiny",
+            "set_code": "SDWD-EN011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 79814787,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79814787.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79814787.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79814787.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "4.44",
+            "amazon_price": "6.99",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   }
+]

@@ -1,0 +1,3161 @@
+[
+   {
+      "id": 43262273,
+      "name": "Appointer of the Red Lotus",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Pay 2000 Life Points and reveal all cards in your hand. Look at your opponent's hand and select 1 card. Remove that card from play until your opponent's next End Phase.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/appointer-of-the-red-lotus-3687",
+      "card_sets": [
+         {
+            "set_name": "OTS Tournament Pack 14",
+            "set_code": "OP14-EN011",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 14 (POR)",
+            "set_code": "OP14-PT011",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Stardust Overdrive",
+            "set_code": "SOVR-EN080",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.5"
+         }
+      ],
+      "banlist_info": {
+         "ban_tcg": "Forbidden"
+      },
+      "card_images": [
+         {
+            "id": 43262273,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43262273.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43262273.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43262273.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "3.49",
+            "amazon_price": "1.49",
+            "coolstuffinc_price": "1.99"
+         }
+      ]
+   },
+   {
+      "id": 40916023,
+      "name": "Aqua Spirit",
+      "typeline": [
+         "Aqua",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 1 WATER monster in your Graveyard. During each of your opponent's Standby Phases, you can change the battle position of 1 of your opponent's face-up Monster Cards. Once changed, the monster must remain in this position for the rest of the turn.",
+      "race": "Aqua",
+      "atk": 1600,
+      "def": 1200,
+      "level": 4,
+      "attribute": "WATER",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/aqua-spirit-3482",
+      "card_sets": [
+         {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB2-EN006",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-068",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.37"
+         },
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-E068",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "31.56"
+         },
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-EN068",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENI20",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.15"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 40916023,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40916023.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40916023.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40916023.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "0.90",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 60161788,
+      "name": "Blizzed, Defender of the Ice Barrier",
+      "typeline": [
+         "Aqua",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card is destroyed by battle and sent to the Graveyard, draw 1 card.",
+      "race": "Aqua",
+      "atk": 300,
+      "def": 500,
+      "level": 1,
+      "attribute": "WATER",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/blizzed-defender-of-the-ice-barrier-5103",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 1",
+            "set_code": "DT01-EN010",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "11.03"
+         },
+         {
+            "set_name": "Duel Terminal 1",
+            "set_code": "DT01-EN010",
+            "set_rarity": "Duel Terminal Super Parallel Rare",
+            "set_rarity_code": "(DSPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal",
+            "set_code": "HA01-EN001",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN029",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.02"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN006",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.04"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 60161788,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60161788.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60161788.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60161788.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "1.25",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 50321796,
+      "name": "Brionac, Dragon of the Ice Barrier",
+      "typeline": [
+         "Sea Serpent",
+         "Synchro",
+         "Effect"
+      ],
+      "type": "Synchro Monster",
+      "humanReadableCardType": "Synchro Effect Monster",
+      "frameType": "synchro",
+      "desc": "1 Tuner + 1+ non-Tuner monsters\nYou can discard any number of cards to the GY, then target the same number of cards your opponent controls; return those cards to the hand. You can only use this effect of \"Brionac, Dragon of the Ice Barrier\" once per turn.",
+      "race": "Sea Serpent",
+      "atk": 2300,
+      "def": 1400,
+      "level": 6,
+      "attribute": "WATER",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/brionac-dragon-of-the-ice-barrier-4289",
+      "card_sets": [
+         {
+            "set_name": "Duel Devastator",
+            "set_code": "DUDE-EN008",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.69"
+         },
+         {
+            "set_name": "Duel Terminal 1",
+            "set_code": "DT01-EN031",
+            "set_rarity": "Duel Terminal Ultra Parallel Rare",
+            "set_rarity_code": "(DUPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Saga",
+            "set_code": "DUSA-EN073",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.52"
+         },
+         {
+            "set_name": "Gold Series: Haunted Mine",
+            "set_code": "GLD5-EN031",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal",
+            "set_code": "HA01-EN022",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 5: Steelswarm Invasion: Special Edition",
+            "set_code": "H5SE-EN001",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "8.35"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN051",
+            "set_rarity": "Duel Terminal Ultra Parallel Rare",
+            "set_rarity_code": "(DUPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN227",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN227",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN043",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 50321796,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50321796.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50321796.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50321796.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.38",
+            "tcgplayer_price": "0.48",
+            "ebay_price": "1.99",
+            "amazon_price": "0.70",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 36975314,
+      "name": "Crackdown",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "Activate by targeting 1 face-up monster your opponent controls; take control of that monster. While you control that monster, it cannot attack or activate effects. When that monster leaves the field, destroy this card.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/crackdown-10015",
+      "card_sets": [
+         {
+            "set_name": "2020 Tin of Lost Memories Mega Pack",
+            "set_code": "MP20-EN084",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "3.7"
+         },
+         {
+            "set_name": "Dark Neostorm",
+            "set_code": "DANE-EN078",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN040",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.8"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 36975314,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36975314.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36975314.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36975314.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.66",
+            "tcgplayer_price": "0.39",
+            "ebay_price": "2.59",
+            "amazon_price": "3.38",
+            "coolstuffinc_price": "0.99"
+         }
+      ]
+   },
+   {
+      "id": 23950192,
+      "name": "Cryomancer of the Ice Barrier",
+      "typeline": [
+         "Aqua",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "While you control another \"Ice Barrier\" monster, Level 4 or higher monsters cannot declare an attack.",
+      "race": "Aqua",
+      "atk": 1300,
+      "def": 0,
+      "level": 2,
+      "attribute": "WATER",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/cryomancer-of-the-ice-barrier-2064",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 1",
+            "set_code": "DT01-EN012",
+            "set_rarity": "Duel Terminal Rare Parallel Rare",
+            "set_rarity_code": "(DRPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal",
+            "set_code": "HA01-EN003",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN031",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.02"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.09"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 23950192,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23950192.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23950192.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23950192.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "1.60",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 41090784,
+      "name": "Dai-sojo of the Ice Barrier",
+      "typeline": [
+         "Spellcaster",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card is Normal or Flip Summoned, it is changed to Defense Position. Face-up \"Ice Barrier\" monsters you control cannot be destroyed by Spell or Trap Card effects.",
+      "race": "Spellcaster",
+      "atk": 1600,
+      "def": 2200,
+      "level": 6,
+      "attribute": "WATER",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dai-sojo-of-the-ice-barrier-3496",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 2",
+            "set_code": "DT02-EN017",
+            "set_rarity": "Duel Terminal Super Parallel Rare",
+            "set_rarity_code": "(DSPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 2",
+            "set_code": "HA02-EN011",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN033",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "2.19"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.22"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 41090784,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41090784.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41090784.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41090784.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "3.49",
+            "amazon_price": "2.30",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 59546528,
+      "name": "Dance Princess of the Ice Barrier",
+      "typeline": [
+         "Spellcaster",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Once per turn, if you control another face-up \"Ice Barrier\" monster, you can reveal any number of \"Ice Barrier\" monsters in your hand to select an equal number of Set Spell/Trap cards your opponent controls. Return the selected Set Spell/Trap cards your opponent controls to the hand.",
+      "race": "Spellcaster",
+      "atk": 1700,
+      "def": 900,
+      "level": 4,
+      "attribute": "WATER",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dance-princess-of-the-ice-barrier-5058",
+      "card_sets": [
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN050",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN050",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "2.98"
+         },
+         {
+            "set_name": "Starstrike Blast",
+            "set_code": "STBL-EN033",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.43"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 59546528,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59546528.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59546528.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59546528.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "2.39",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 82498947,
+      "name": "Defender of the Ice Barrier",
+      "typeline": [
+         "Aqua",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "While you control another face-up \"Ice Barrier\" monster, monsters your opponent controls cannot declare an attack if their ATK is greater than or equal to this card's DEF.",
+      "race": "Aqua",
+      "atk": 200,
+      "def": 1600,
+      "level": 3,
+      "attribute": "WATER",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/defender-of-the-ice-barrier-6935",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN032",
+            "set_rarity": "Duel Terminal Rare Parallel Rare",
+            "set_rarity_code": "(DRPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN022",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN043",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN043",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "2.11"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.08"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 82498947,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82498947.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82498947.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82498947.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "2.53",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 70583986,
+      "name": "Dewloren, Tiger King of the Ice Barrier",
+      "typeline": [
+         "Beast",
+         "Synchro",
+         "Effect"
+      ],
+      "type": "Synchro Monster",
+      "humanReadableCardType": "Synchro Effect Monster",
+      "frameType": "synchro",
+      "desc": "1 Tuner + 1 or more non-Tuner WATER monsters\nOnce per turn, you can return any number of face-up cards you control to the owner's hand. For each card returned to the owner's hand by this effect, this card gains 500 ATK until the End Phase.",
+      "race": "Beast",
+      "atk": 2000,
+      "def": 1400,
+      "level": 6,
+      "attribute": "WATER",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dewloren-tiger-king-of-the-ice-barrier-5932",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 2",
+            "set_code": "DT02-EN033",
+            "set_rarity": "Duel Terminal Ultra Parallel Rare",
+            "set_rarity_code": "(DUPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 2",
+            "set_code": "HA02-EN027",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN052",
+            "set_rarity": "Duel Terminal Ultra Parallel Rare",
+            "set_rarity_code": "(DUPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN042",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.48"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 70583986,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70583986.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70583986.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70583986.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "1.19",
+            "amazon_price": "6.61",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 46239604,
+      "name": "Dupe Frog",
+      "typeline": [
+         "Aqua",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "This card's name becomes \"Des Frog\" while it is on the field. Monsters your opponent controls cannot target monsters for attacks, except this one. When this card is sent from the field to the Graveyard: You can add 1 \"Frog\" monster from your Deck or Graveyard to your hand, except \"Dupe Frog\".",
+      "race": "Aqua",
+      "atk": 100,
+      "def": 2000,
+      "level": 2,
+      "attribute": "WATER",
+      "archetype": "Frog",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dupe-frog-3942",
+      "card_sets": [
+         {
+            "set_name": "Crimson Crisis",
+            "set_code": "CRMS-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 3",
+            "set_code": "OP03-EN005",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.47"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 46239604,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46239604.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46239604.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46239604.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "1.06",
+            "tcgplayer_price": "1.75",
+            "ebay_price": "1.99",
+            "amazon_price": "2.97",
+            "coolstuffinc_price": "2.99"
+         }
+      ]
+   },
+   {
+      "id": 54059040,
+      "name": "Eisbahn",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "If a non-WATER monster(s) is Normal or Special Summoned while you control a WATER monster: Change that Summoned monster to Defense Position.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/eisbahn-4603",
+      "card_sets": [
+         {
+            "set_name": "OTS Tournament Pack 11",
+            "set_code": "OP11-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 11 (POR)",
+            "set_code": "OP11-PT024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Photon Shockwave",
+            "set_code": "PHSW-EN079",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.08"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 54059040,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54059040.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54059040.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54059040.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 50078509,
+      "name": "Fiendish Chain",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "Activate this card by targeting 1 Effect Monster on the field; negate the effects of that face-up monster while it is on the field, also that face-up monster cannot attack. When it is destroyed, destroy this card.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/fiendish-chain-4266",
+      "card_sets": [
+         {
+            "set_name": "Absolute Powerforce",
+            "set_code": "ABPF-EN064",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Astral Pack Eight",
+            "set_code": "AP08-EN003",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN105",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN105",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN082",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection Kaiba Mega Pack",
+            "set_code": "LCKC-EN095",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Machine Reactor Structure Deck",
+            "set_code": "SR03-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Saga of Blue-Eyes White Dragon Structure Deck",
+            "set_code": "SDBE-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.56"
+         },
+         {
+            "set_name": "Samurai Warlords Structure Deck",
+            "set_code": "SDWA-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.79"
+         },
+         {
+            "set_name": "Starter Deck: Link Strike",
+            "set_code": "YS17-EN039",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.26"
+         },
+         {
+            "set_name": "Structure Deck: Seto Kaiba",
+            "set_code": "SDKS-EN039",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.53"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 50078509,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50078509.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50078509.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50078509.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "2.40",
+            "amazon_price": "1.97",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 66853752,
+      "name": "Fishborg Launcher",
+      "typeline": [
+         "Fish",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "If you have a monster(s) in your Graveyard other than \"Fishborg Launcher\", and all of them are WATER: You can Special Summon this card from your Graveyard. If you do, banish it when it leaves the field. This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a WATER monster. You can only use the effect of \"Fishborg Launcher\" once per turn.",
+      "race": "Fish",
+      "atk": 200,
+      "def": 100,
+      "level": 1,
+      "attribute": "WATER",
+      "archetype": "Fishborg",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/fishborg-launcher-5616",
+      "card_sets": [
+         {
+            "set_name": "Abyss Rising",
+            "set_code": "ABYR-EN096",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.42"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 66853752,
+            "image_url": "https://images.ygoprodeck.com/images/cards/66853752.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66853752.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66853752.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "3.99",
+            "amazon_price": "0.79",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 43582229,
+      "name": "Freezing Chains of the Ice Barrier",
+      "type": "Spell Card",
+      "humanReadableCardType": "Continuous Spell",
+      "frameType": "spell",
+      "desc": "When this card is activated: You can target 1 Level 4 or lower \"Ice Barrier\" monster in your GY; Special Summon it. While you control 3 or more \"Ice Barrier\" monsters, \"Ice Barrier\" monsters you control are unaffected by the activated effects of your opponent's monsters that were Special Summoned from the Extra Deck. You can only activate 1 \"Freezing Chains of the Ice Barrier\" per turn.",
+      "race": "Continuous",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/freezing-chains-of-the-ice-barrier-11687",
+      "card_sets": [
+         {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN103",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.44"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 43582229,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43582229.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43582229.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43582229.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.29",
+            "ebay_price": "0.99",
+            "amazon_price": "0.44",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 53921056,
+      "name": "General Gantala of the Ice Barrier",
+      "typeline": [
+         "Warrior",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Once per turn, during your End Phase, you can select 1 \"Ice Barrier\" monster in your Graveyard, except \"General Gantala of the Ice Barrier\", and Special Summon it.",
+      "race": "Warrior",
+      "atk": 2700,
+      "def": 2000,
+      "level": 7,
+      "attribute": "WATER",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/general-gantala-of-the-ice-barrier-4594",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN084",
+            "set_rarity": "Duel Terminal Super Parallel Rare",
+            "set_rarity_code": "(DSPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN054",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN049",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN049",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.03"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.04"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 53921056,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53921056.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53921056.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53921056.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "3.00",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 9056100,
+      "name": "General Grunard of the Ice Barrier",
+      "typeline": [
+         "Warrior",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "During your Main Phase, you can Normal Summon 1 \"Ice Barrier\" monster in addition to your Normal Summon or Set. This effect can only be used once per turn.",
+      "race": "Warrior",
+      "atk": 2800,
+      "def": 1000,
+      "level": 8,
+      "attribute": "WATER",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/general-grunard-of-the-ice-barrier-767",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 3",
+            "set_code": "DT03-EN077",
+            "set_rarity": "Duel Terminal Super Parallel Rare",
+            "set_rarity_code": "(DSPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 3",
+            "set_code": "HA03-EN049",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN042",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN042",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "3.15"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.04"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 9056100,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9056100.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9056100.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9056100.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "3.00",
+            "amazon_price": "1.80",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 81275309,
+      "name": "General Raiho of the Ice Barrier",
+      "typeline": [
+         "Warrior",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When an effect resolves that was activated by an Effect Monster that was on your opponent's side of the field, they must discard 1 card or the effect is negated (their choice).",
+      "race": "Warrior",
+      "atk": 2100,
+      "def": 2300,
+      "level": 6,
+      "attribute": "WATER",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/general-raiho-of-the-ice-barrier-6823",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN035",
+            "set_rarity": "Duel Terminal Super Parallel Rare",
+            "set_rarity_code": "(DSPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN025",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN046",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN046",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.03"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.29"
+         },
+         {
+            "set_name": "War of the Giants Reinforcements",
+            "set_code": "WGRT-EN039",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.64"
+         },
+         {
+            "set_name": "War of the Giants: Round 2",
+            "set_code": "BPW2-EN039",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.4"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 81275309,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81275309.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81275309.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81275309.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 81825063,
+      "name": "General Wayne of the Ice Barrier",
+      "typeline": [
+         "Warrior",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Spells and Traps sent from the field to your opponent's GY are banished instead. You can only use each of the following effects of \"General Wayne of the Ice Barrier\" once per turn. If your opponent controls a monster and you control an \"Ice Barrier\" monster: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 \"Ice Barrier\" Spell/Trap from your Deck to your hand.",
+      "race": "Warrior",
+      "atk": 2100,
+      "def": 400,
+      "level": 5,
+      "attribute": "WATER",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/general-wayne-of-the-ice-barrier-11538",
+      "card_sets": [
+         {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN073",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN001",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.84"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 81825063,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81825063.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81825063.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81825063.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.99",
+            "amazon_price": "0.44",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 68505803,
+      "name": "Genex Controller",
+      "typeline": [
+         "Machine",
+         "Tuner",
+         "Normal"
+      ],
+      "type": "Normal Tuner Monster",
+      "humanReadableCardType": "Tuner Normal Monster",
+      "frameType": "normal",
+      "desc": "As a master of all powers and elements, this is one of the few Genex monsters that can communicate with its companions.",
+      "race": "Machine",
+      "atk": 1400,
+      "def": 1200,
+      "level": 3,
+      "attribute": "DARK",
+      "archetype": "Genex",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/genex-controller-5758",
+      "card_sets": [
+         {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN050",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Terminal 1",
+            "set_code": "DT01-EN059",
+            "set_rarity": "Duel Terminal Rare Parallel Rare",
+            "set_rarity_code": "(DRPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.26"
+         },
+         {
+            "set_name": "The Shining Darkness",
+            "set_code": "TSHD-EN090",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 68505803,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68505803.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68505803.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68505803.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "1.50",
+            "amazon_price": "0.83",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 4904812,
+      "name": "Genex Undine",
+      "typeline": [
+         "Aqua",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card is Normal Summoned: You can send 1 WATER monster from your Deck to the Graveyard; add 1 \"Genex Controller\" from your Deck to your hand.",
+      "race": "Aqua",
+      "atk": 1200,
+      "def": 600,
+      "level": 3,
+      "attribute": "WATER",
+      "archetype": "Genex",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/genex-undine-435",
+      "card_sets": [
+         {
+            "set_name": "Astral Pack One",
+            "set_code": "AP01-EN005",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Terminal 1",
+            "set_code": "DT01-EN060",
+            "set_rarity": "Duel Terminal Super Parallel Rare",
+            "set_rarity_code": "(DSPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 25",
+            "set_code": "OP25-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.22"
+         },
+         {
+            "set_name": "The Shining Darkness",
+            "set_code": "TSHD-EN091",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 4904812,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4904812.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4904812.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4904812.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "1.65",
+            "amazon_price": "0.92",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 65749035,
+      "name": "Gungnir, Dragon of the Ice Barrier",
+      "typeline": [
+         "Dragon",
+         "Synchro",
+         "Effect"
+      ],
+      "type": "Synchro Monster",
+      "humanReadableCardType": "Synchro Effect Monster",
+      "frameType": "synchro",
+      "desc": "1 Tuner + 1 or more non-Tuner WATER monsters\nOnce per turn: You can discard up to 2 cards to the Graveyard to target the same number of cards your opponent controls; destroy them.",
+      "race": "Dragon",
+      "atk": 2500,
+      "def": 1700,
+      "level": 7,
+      "attribute": "WATER",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/gungnir-dragon-of-the-ice-barrier-5537",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 3",
+            "set_code": "DT03-EN040",
+            "set_rarity": "Duel Terminal Ultra Parallel Rare",
+            "set_rarity_code": "(DUPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 3",
+            "set_code": "HA03-EN030",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 5: Steelswarm Invasion: Special Edition",
+            "set_code": "H5SE-EN002",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "4.51"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN053",
+            "set_rarity": "Duel Terminal Ultra Parallel Rare",
+            "set_rarity_code": "(DUPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN044",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 65749035,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65749035.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65749035.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65749035.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "3.95",
+            "amazon_price": "0.43",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 23924608,
+      "name": "Heavy Storm Duster",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Target up to 2 Spells/Traps on the field; destroy them. You cannot conduct your Battle Phase the turn you activate this card.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/heavy-storm-duster-8486",
+      "card_sets": [
+         {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN086",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Code of the Duelist",
+            "set_code": "COTD-EN076",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Devastator",
+            "set_code": "DUDE-EN050",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.3"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN039",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.24"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 23924608,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23924608.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23924608.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23924608.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "0.94",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 70703416,
+      "name": "Hexa Spirit of the Ice Barrier",
+      "typeline": [
+         "Sea Serpent",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "While you control another \"Ice Barrier\" monster, monsters your opponent controls lose 500 ATK/DEF. During your Main Phase: You can send 1 Level 3 or lower \"Ice Barrier\" monster from your Deck to the GY, and if you do, this card's Level becomes the same as that monster's, until the end of this turn. You can only use this effect of \"Hexa Spirit of the Ice Barrier\" once per turn.",
+      "race": "Sea Serpent",
+      "atk": 400,
+      "def": 200,
+      "level": 1,
+      "attribute": "WATER",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/hexa-spirit-of-the-ice-barrier-11521",
+      "card_sets": [
+         {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN074",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.03"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 70703416,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70703416.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70703416.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70703416.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 64990807,
+      "name": "Magic Triangle of the Ice Barrier",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Reveal 3 \"Ice Barrier\" monsters with different names in your hand to select 1 card your opponent controls. Destroy the opponent's card and Special Summon 1 \"Ice Barrier\" monster from your hand.",
+      "race": "Normal",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/magic-triangle-of-the-ice-barrier-5480",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.06"
+         },
+         {
+            "set_name": "The Shining Darkness",
+            "set_code": "TSHD-EN057",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 64990807,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64990807.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64990807.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64990807.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 84206435,
+      "name": "Medallion of the Ice Barrier",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Add 1 \"Ice Barrier\" monster from your Deck to your hand.",
+      "race": "Normal",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/medallion-of-the-ice-barrier-7061",
+      "card_sets": [
+         {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN097",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN098",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN055",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN055",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.05"
+         },
+         {
+            "set_name": "Starstrike Blast",
+            "set_code": "STBL-EN054",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.38"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 84206435,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84206435.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84206435.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84206435.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 88494899,
+      "name": "Medium of the Ice Barrier",
+      "typeline": [
+         "Spellcaster",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If your opponent controls 4 or more cards than you do, you can Special Summon this card (from your hand). Your opponent can only activate 1 Spell/Trap Card each turn.",
+      "race": "Spellcaster",
+      "atk": 2200,
+      "def": 1600,
+      "level": 7,
+      "attribute": "WATER",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/medium-of-the-ice-barrier-7402",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 2",
+            "set_code": "DT02-EN018",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "10.16"
+         },
+         {
+            "set_name": "Hidden Arsenal 2",
+            "set_code": "HA02-EN012",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN034",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.02"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.06"
+         },
+         {
+            "set_name": "War of the Giants Reinforcements",
+            "set_code": "WGRT-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "5.74"
+         },
+         {
+            "set_name": "War of the Giants: Round 2",
+            "set_code": "BPW2-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.31"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 88494899,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88494899.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88494899.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88494899.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "1.49",
+            "amazon_price": "0.49",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 68937720,
+      "name": "Mind Drain",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "Activate this card by paying 1000 LP. Effects of monsters in the hand cannot be activated.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/mind-drain-5793",
+      "card_sets": [
+         {
+            "set_name": "2014 Mega-Tin Mega Pack",
+            "set_code": "MP14-EN053",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Lord of the Tachyon Galaxy",
+            "set_code": "LTGY-EN079",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.15"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 68937720,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68937720.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68937720.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68937720.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.25",
+            "ebay_price": "1.79",
+            "amazon_price": "0.49",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 10691144,
+      "name": "Mirror of the Ice Barrier",
+      "type": "Spell Card",
+      "humanReadableCardType": "Quick-Play Spell",
+      "frameType": "spell",
+      "desc": "During this turn, each time a card(s) is removed from play from your hand, your side of the field, and/or your Graveyard by the effect of an opponent's Effect Monster: ● If a card in your hand is removed from play, remove from play up to 2 random cards in your opponent's hand. ● If a card you control is removed from play, remove from play up to 2 cards your opponent controls. ● If a card in your Graveyard is removed from play, remove from play up to 2 cards in your opponent's Graveyard.",
+      "race": "Quick-Play",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/mirror-of-the-ice-barrier-923",
+      "card_sets": [
+         {
+            "set_name": "Starstrike Blast",
+            "set_code": "STBL-EN055",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.27"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 10691144,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10691144.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10691144.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10691144.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.49",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 13959634,
+      "name": "Moulinglacia the Elemental Lord",
+      "typeline": [
+         "Sea Serpent",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 5 WATER monsters in your GY. If this card is Special Summoned: Discard 2 random cards from your opponent's hand (or their entire hand, if less than 2). You can only use this effect of \"Moulinglacia the Elemental Lord\" once per turn. If this face-up card leaves the field, skip the Battle Phase of your next turn.",
+      "race": "Sea Serpent",
+      "atk": 2800,
+      "def": 2200,
+      "level": 8,
+      "attribute": "WATER",
+      "archetype": "Elemental Lord",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/moulinglacia-the-elemental-lord-1194",
+      "card_sets": [
+         {
+            "set_name": "Abyss Rising",
+            "set_code": "ABYR-EN035",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Flames of Destruction Special Edition",
+            "set_code": "FLOD-ENSE2",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.78"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.33"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 13959634,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13959634.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13959634.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13959634.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.32",
+            "ebay_price": "9.00",
+            "amazon_price": "19.99",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 50088247,
+      "name": "Prior of the Ice Barrier",
+      "typeline": [
+         "Aqua",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If you control a face-up \"Ice Barrier\" monster, you can Special Summon this card (from your hand). You cannot Special Summon any Level 5 or higher monsters the turn you use this effect. You can Tribute this card to target 1 \"Ice Barrier\" monster in your Graveyard, except \"Prior of the Ice Barrier\"; Special Summon that target.",
+      "race": "Aqua",
+      "atk": 1000,
+      "def": 400,
+      "level": 2,
+      "attribute": "WATER",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/prior-of-the-ice-barrier-4267",
+      "card_sets": [
+         {
+            "set_name": "Photon Shockwave",
+            "set_code": "PHSW-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.11"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 50088247,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50088247.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50088247.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50088247.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 18319762,
+      "name": "Revealer of the Ice Barrier",
+      "typeline": [
+         "Spellcaster",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "While you control another \"Ice Barrier\" monster, your opponent cannot Tribute Summon. You can only use each of the following effects of \"Revealer of the Ice Barrier\" once per turn. You can discard 1 card; Special Summon 1 \"Ice Barrier\" Tuner from your Deck, also you cannot Special Summon monsters for the rest of this turn, except WATER monsters. If you would discard, or send a card(s) from your hand to the GY, to activate an \"Ice Barrier\" monster's effect, you can banish this card from your GY instead of 1 of those cards.",
+      "race": "Spellcaster",
+      "atk": 1700,
+      "def": 1000,
+      "level": 4,
+      "attribute": "WATER",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/revealer-of-the-ice-barrier-11522",
+      "card_sets": [
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN028",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN028",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN028",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN028",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN028",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN028",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN028",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN002",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.84"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 18319762,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18319762.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18319762.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18319762.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "1.49",
+            "amazon_price": "2.74",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 1357146,
+      "name": "Ronintoadin",
+      "typeline": [
+         "Aqua",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be used as a Synchro Material. This card's name becomes \"Des Frog\" while it is on the field. If this card is in your Graveyard: You can banish 1 \"Frog\" monster from your Graveyard; Special Summon this card.",
+      "race": "Aqua",
+      "atk": 100,
+      "def": 2000,
+      "level": 2,
+      "attribute": "WATER",
+      "archetype": "Frog",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/ronintoadin-116",
+      "card_sets": [
+         {
+            "set_name": "OTS Tournament Pack 4",
+            "set_code": "OP04-EN005",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN236",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN236",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.38"
+         },
+         {
+            "set_name": "The Shining Darkness",
+            "set_code": "TSHD-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "banlist_info": {
+         "ban_tcg": "Forbidden"
+      },
+      "card_images": [
+         {
+            "id": 1357146,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1357146.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1357146.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1357146.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "1.95",
+            "amazon_price": "34.95",
+            "coolstuffinc_price": "1.49"
+         }
+      ]
+   },
+   {
+      "id": 96947648,
+      "name": "Salvage",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Target 2 WATER monsters with 1500 or less ATK in your Graveyard; add those targets to your hand.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/salvage-8065",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 2",
+            "set_code": "DR2-EN097",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist League 3 participation cards",
+            "set_code": "DL12-EN014",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "7.35"
+         },
+         {
+            "set_name": "Ghosts From the Past",
+            "set_code": "GFTP-EN107",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.96"
+         },
+         {
+            "set_name": "Invasion of Chaos",
+            "set_code": "IOC-096",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.12"
+         },
+         {
+            "set_name": "Invasion of Chaos",
+            "set_code": "IOC-EN096",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN276",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Realm of the Sea Emperor Structure Deck",
+            "set_code": "SDRE-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.83"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENC12",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.2"
+         },
+         {
+            "set_name": "Structure Deck: Fury from the Deep",
+            "set_code": "SD4-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.69"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 96947648,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96947648.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96947648.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96947648.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 90303176,
+      "name": "Silent Angler",
+      "typeline": [
+         "Fish",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If you control a WATER monster, you can Special Summon this card (from your hand), but you cannot Special Summon monsters from your hand for the rest of this turn.",
+      "race": "Fish",
+      "atk": 800,
+      "def": 1400,
+      "level": 4,
+      "attribute": "WATER",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/silent-angler-7539",
+      "card_sets": [
+         {
+            "set_name": "Duelist Saga",
+            "set_code": "DUSA-EN002",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "4.55"
+         },
+         {
+            "set_name": "Legendary Duelists: Duels From the Deep",
+            "set_code": "LED9-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.03"
+         },
+         {
+            "set_name": "Maximum Gold",
+            "set_code": "MAGO-EN122",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.22"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 90303176,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90303176.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90303176.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90303176.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "3.14",
+            "amazon_price": "4.94",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 44308317,
+      "name": "Speaker for the Ice Barriers",
+      "typeline": [
+         "Spellcaster",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "While you control another \"Ice Barrier\" monster, Defense Position monsters your opponent controls cannot change their battle positions. You can only use each of the following effects of \"Speaker for the Ice Barriers\" once per turn. If you control an \"Ice Barrier\" monster: You can Special Summon this card from your hand. If you control an \"Ice Barrier\" monster: You can banish this card from your GY; Special Summon 1 \"Ice Barrier Token\" (Aqua/WATER/Level 1/ATK 0/DEF 0).",
+      "race": "Spellcaster",
+      "atk": 1000,
+      "def": 1800,
+      "level": 4,
+      "attribute": "WATER",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/speaker-for-the-ice-barriers-11752",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN003",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.26"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 44308317,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44308317.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44308317.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44308317.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "1.13",
+            "tcgplayer_price": "1.69",
+            "ebay_price": "1.48",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 73061465,
+      "name": "Spellbreaker of the Ice Barrier",
+      "typeline": [
+         "Spellcaster",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Once per turn, you can send 1 \"Ice Barrier\" monster from your hand to the Graveyard. If you do, Spell Cards cannot be activated until the End Phase of your next turn, as long as this card remains face-up on the field.",
+      "race": "Spellcaster",
+      "atk": 1200,
+      "def": 2000,
+      "level": 4,
+      "attribute": "WATER",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/spellbreaker-of-the-ice-barrier-6135",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 3",
+            "set_code": "DT03-EN076",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 3",
+            "set_code": "HA03-EN048",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN041",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN041",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.03"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.22"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 73061465,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73061465.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73061465.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73061465.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "2.22",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 50032342,
+      "name": "Strategist of the Ice Barrier",
+      "typeline": [
+         "Spellcaster",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Once per turn, you can send 1 \"Ice Barrier\" monster from your hand to the Graveyard to draw 1 card.",
+      "race": "Spellcaster",
+      "atk": 1600,
+      "def": 1600,
+      "level": 4,
+      "attribute": "WATER",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/strategist-of-the-ice-barrier-4260",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN082",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN052",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN047",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN047",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.04"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.05"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 50032342,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50032342.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50032342.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50032342.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 33057951,
+      "name": "Surface",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Target 1 Level 3 or lower Fish, Sea Serpent, or Aqua monster in your GY; Special Summon it in face-up Defense Position.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/surface-2809",
+      "card_sets": [
+         {
+            "set_name": "Generation Force",
+            "set_code": "GENF-EN049",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Realm of the Sea Emperor Structure Deck",
+            "set_code": "SDRE-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.67"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENC16",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN036",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.69"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.25"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 33057951,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33057951.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33057951.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33057951.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 6075533,
+      "name": "Terror of Trishula",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Apply these effects, in sequence, depending on the number of \"Ice Barrier\" Synchro Monsters you control with different names;\r\n● 1+: Banish 1 card your opponent controls.\r\n● 2+: Banish 1 card from your opponent's GY.\r\n ● 3+: Banish 1 random card from your opponent's hand.\r\nWhen your opponent activates a card or effect that targets an \"Ice Barrier\" Synchro Monster(s) you control: You can banish this card from your GY; negate that effect.\r\nYou can only use each effect of \"Terror of Trishula\" once per turn.",
+      "race": "Normal",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/terror-of-trishula-11689",
+      "card_sets": [
+         {
+            "set_name": "Ghosts From the Past",
+            "set_code": "GFTP-EN127",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.01"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN046",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.98"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 6075533,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6075533.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6075533.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6075533.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 52687916,
+      "name": "Trishula, Dragon of the Ice Barrier",
+      "typeline": [
+         "Dragon",
+         "Synchro",
+         "Effect"
+      ],
+      "type": "Synchro Monster",
+      "humanReadableCardType": "Synchro Effect Monster",
+      "frameType": "synchro",
+      "desc": "1 Tuner + 2+ non-Tuner monsters\nWhen this card is Synchro Summoned: You can banish up to 1 card each from your opponent's hand, field, and GY. (The card in the hand is chosen at random.)",
+      "race": "Dragon",
+      "atk": 2700,
+      "def": 2000,
+      "level": 9,
+      "attribute": "WATER",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/trishula-dragon-of-the-ice-barrier-4488",
+      "card_sets": [
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN026",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN026",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN026",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN026",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN026",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN026",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN026",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Astral Pack Eight",
+            "set_code": "AP08-EN001",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Light's Revenge",
+            "set_code": "BLLR-EN060",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Blazing Vortex",
+            "set_code": "BLVO-EN100",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "199.85"
+         },
+         {
+            "set_name": "Duel Devastator",
+            "set_code": "DUDE-EN014",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.12"
+         },
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN092",
+            "set_rarity": "Duel Terminal Ultra Parallel Rare",
+            "set_rarity_code": "(DUPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Saga",
+            "set_code": "DUSA-EN081",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.96"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN060",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN054",
+            "set_rarity": "Duel Terminal Ultra Parallel Rare",
+            "set_rarity_code": "(DUPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "High-Speed Riders",
+            "set_code": "HSRD-EN052",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Maximum Gold: El Dorado",
+            "set_code": "MGED-EN027",
+            "set_rarity": "Premium Gold Rare",
+            "set_rarity_code": "(PG)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN045",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 52687916,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52687916.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52687916.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52687916.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "1.75",
+            "amazon_price": "1.20",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 70980824,
+      "name": "Trishula, Zero Dragon of the Ice Barrier",
+      "typeline": [
+         "Dragon",
+         "Synchro",
+         "Effect"
+      ],
+      "type": "Synchro Monster",
+      "humanReadableCardType": "Synchro Effect Monster",
+      "frameType": "synchro",
+      "desc": "1 Tuner + 2+ non-Tuner monsters\r\nWhen this card is Synchro Summoned: You can banish up to 3 cards your opponent controls. If this Synchro Summoned card in its owner's control is destroyed by an opponent's card: You can Special Summon 1 \"Trishula, Dragon of the Ice Barrier\" from your Extra Deck or GY, its ATK becomes 3300, then halve the ATK of any face-up monsters your opponent currently controls, also negate their effects. You can only use this effect of \"Trishula, Zero Dragon of the Ice Barrier\" once per turn.",
+      "race": "Dragon",
+      "atk": 2700,
+      "def": 2000,
+      "level": 11,
+      "attribute": "WATER",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/trishula-zero-dragon-of-the-ice-barrier-11524",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN041",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.9"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 70980824,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70980824.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70980824.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70980824.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "1.35",
+            "tcgplayer_price": "1.22",
+            "ebay_price": "2.45",
+            "amazon_price": "2.99",
+            "coolstuffinc_price": "1.49"
+         }
+      ]
+   },
+   {
+      "id": 18482591,
+      "name": "Warlock of the Ice Barrier",
+      "typeline": [
+         "Spellcaster",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "While you control another face-up \"Ice Barrier\" monster, both players must Set Spell Cards before activating them, and cannot activate them until their next turn.",
+      "race": "Spellcaster",
+      "atk": 400,
+      "def": 1000,
+      "level": 3,
+      "attribute": "WATER",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/warlock-of-the-ice-barrier-1601",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN033",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN023",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN044",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN044",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.03"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.99"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 18482591,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18482591.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18482591.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18482591.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 51405049,
+      "name": "Where Arf Thou?",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "If you control a face-up Level 1 monster: Add 1 Level 1 monster from your Deck to your hand. During the End Phase of this turn, take 2000 damage if you did not Normal Summon the added monster, or a card with the same name, after activating this card.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/where-arf-thou-4375",
+      "card_sets": [
+         {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN028",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Decks II",
+            "set_code": "LDK2-ENK29",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.65"
+         },
+         {
+            "set_name": "OTS Tournament Pack 13",
+            "set_code": "OP13-EN010",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 13 (POR)",
+            "set_code": "OP13-PT010",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Return of the Duelist",
+            "set_code": "REDU-EN062",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Cyberse Link",
+            "set_code": "SDCL-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.28"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 51405049,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51405049.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51405049.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51405049.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "1.37",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 17197110,
+      "name": "Winds Over the Ice Barrier",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Tribute any number of \"Ice Barrier\" monsters; Special Summon from your Deck that many Level 4 or lower \"Ice Barrier\" monsters with different names from each other. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 of your \"Ice Barrier\" monsters that is banished or in your GY; add it to your hand. You can only use each effect of \"Winds Over the Ice Barrier\" once per turn.",
+      "race": "Normal",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/winds-over-the-ice-barrier-11539",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN027",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.38"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 17197110,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17197110.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17197110.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17197110.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.29",
+            "tcgplayer_price": "0.39",
+            "ebay_price": "0.99",
+            "amazon_price": "2.99",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 43256007,
+      "name": "Zuijin of the Ice Barrier",
+      "typeline": [
+         "Warrior",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can Tribute this card; Special Summon 1 Level 5 or higher \"Ice Barrier\" monster from your hand. If this card is in your GY, except the turn it was sent there: You can target 1 Level 3 or higher WATER monster you control; reduce its Level by exactly 2, and if you do, Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Zuijin of the Ice Barrier\" once per turn.",
+      "race": "Warrior",
+      "atk": 500,
+      "def": 300,
+      "level": 2,
+      "attribute": "WATER",
+      "archetype": "Ice Barrier",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/zuijin-of-the-ice-barrier-11686",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN005",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.42"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 43256007,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43256007.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43256007.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43256007.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "1.39",
+            "amazon_price": "0.44",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   }
+]
