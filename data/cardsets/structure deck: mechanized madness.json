@@ -1,0 +1,2942 @@
+[
+   {
+      "id": 59919307,
+      "name": "Back to the Front",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Target 1 monster in your GY; Special Summon it in Defense Position.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/back-to-the-front-8476",
+      "card_sets": [
+         {
+            "set_name": "2-Player Starter Set",
+            "set_code": "STAS-EN040",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN087",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Code of the Duelist",
+            "set_code": "COTD-EN077",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Egyptian God Deck: Slifer the Sky Dragon",
+            "set_code": "EGS1-EN038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.55"
+         },
+         {
+            "set_name": "Structure Deck: Albaz Strike",
+            "set_code": "SDAZ-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.89"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.5"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 59919307,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59919307.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59919307.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59919307.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "1.49",
+            "amazon_price": "0.39",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 20374520,
+      "name": "Begone, Knave!",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "If a monster inflicts battle damage to a player: Return that monster to the hand.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/begone-knave-1750",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 2",
+            "set_code": "DR2-EN108",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gold Series 2009",
+            "set_code": "GLD2-EN047",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Invasion of Chaos",
+            "set_code": "IOC-107",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.03"
+         },
+         {
+            "set_name": "Invasion of Chaos",
+            "set_code": "IOC-EN107",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 20374520,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20374520.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20374520.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20374520.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "1.00",
+            "amazon_price": "1.20",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 22666164,
+      "name": "Commander Covington",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can send 1 face-up \"Machina Soldier\", \"Machina Sniper\", and \"Machina Defender\" you control to the GY; Special Summon 1 \"Machina Force\" from your hand or Deck.",
+      "race": "Machine",
+      "atk": 1000,
+      "def": 600,
+      "level": 4,
+      "attribute": "EARTH",
+      "archetype": "Machina",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/commander-covington-1951",
+      "card_sets": [
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN167",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Machina Mayhem Structure Deck",
+            "set_code": "SDMM-EN005",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.18"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 22666164,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22666164.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22666164.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22666164.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "4.00",
+            "amazon_price": "1.02",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 8267140,
+      "name": "Cosmic Cyclone",
+      "type": "Spell Card",
+      "humanReadableCardType": "Quick-Play Spell",
+      "frameType": "spell",
+      "desc": "Pay 1000 LP, then target 1 Spell/Trap on the field; banish it.",
+      "race": "Quick-Play",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/cosmic-cyclone-700",
+      "card_sets": [
+         {
+            "set_name": "2017 Mega-Tin Mega Pack",
+            "set_code": "MP17-EN105",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN061",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN061",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN061",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN061",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN061",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN061",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN061",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Devastator",
+            "set_code": "DUDE-EN043",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "4.04"
+         },
+         {
+            "set_name": "OTS Tournament Pack 7",
+            "set_code": "OP07-EN003",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 7 (POR)",
+            "set_code": "OP07-PT003",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENE17",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENB15",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Battle City Box",
+            "set_code": "SBCB-EN142",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.12"
+         },
+         {
+            "set_name": "Speed Duel: Battle City Box",
+            "set_code": "SBCB-EN142",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "9.62"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENE16",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Cyberse Link",
+            "set_code": "SDCL-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Legend of the Crystal Beasts",
+            "set_code": "SDCB-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Tactical Masters",
+            "set_code": "TAMA-EN053",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Tactical Masters",
+            "set_code": "TAMA-EN053",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Dark Illusion",
+            "set_code": "TDIL-EN065",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 8267140,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8267140.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8267140.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8267140.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "2.28",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 63477921,
+      "name": "Cyber Summon Blaster",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "Each time a Machine monster(s) is Special Summoned, while this card is already face-up in your Spell & Trap Zone: Inflict 300 damage to your opponent.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/cyber-summon-blaster-5361",
+      "card_sets": [
+         {
+            "set_name": "Duelist League 18 participation cards",
+            "set_code": "DL18-EN017",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "7.58"
+         },
+         {
+            "set_name": "Power of the Duelist",
+            "set_code": "POTD-EN057",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Power of the Duelist",
+            "set_code": "POTD-EN057",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 63477921,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63477921.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63477921.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63477921.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "1.29",
+            "amazon_price": "1.49",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 94693857,
+      "name": "Deskbot 001",
+      "typeline": [
+         "Machine",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "Gains 500 ATK/DEF for each Machine monster you control. If 2 or more Machine monsters are Special Summoned at the same time, while this card is in your GY (except during the Damage Step): You can Special Summon this card.",
+      "race": "Machine",
+      "atk": 500,
+      "def": 500,
+      "level": 1,
+      "attribute": "EARTH",
+      "archetype": "Deskbot",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/deskbot-001-7880",
+      "card_sets": [
+         {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN092",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Alliance",
+            "set_code": "DUEA-EN045",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Ghosts From the Past: The 2nd Haunting",
+            "set_code": "GFP2-EN107",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.27"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 94693857,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94693857.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94693857.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94693857.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "0.95",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 75944053,
+      "name": "Deskbot 003",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card is Normal Summoned: You can Special Summon 1 \"Deskbot\" monster from your Deck, except \"Deskbot 003\". Once per turn (Quick Effect): You can target 1 \"Deskbot\" monster you control; it gains 500 ATK/DEF for each \"Deskbot\" card you currently control, until the end of this turn.",
+      "race": "Machine",
+      "atk": 500,
+      "def": 500,
+      "level": 3,
+      "attribute": "EARTH",
+      "archetype": "Deskbot",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/deskbot-003-6392",
+      "card_sets": [
+         {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN218",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Secrets of Eternity",
+            "set_code": "SECE-EN041",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 75944053,
+            "image_url": "https://images.ygoprodeck.com/images/cards/75944053.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75944053.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75944053.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "1.70",
+            "amazon_price": "0.50",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 64034255,
+      "name": "Genex Ally Birdman",
+      "typeline": [
+         "Machine",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "You can return 1 face-up monster you control to the hand; Special Summon this card from your hand, but banish it when it leaves the field, also it gains 500 ATK if the returned monster was WIND on the field.",
+      "race": "Machine",
+      "atk": 1400,
+      "def": 400,
+      "level": 3,
+      "attribute": "DARK",
+      "archetype": "Genex",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/genex-ally-birdman-5403",
+      "card_sets": [
+         {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN057",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Terminal Revenge",
+            "set_code": "BLTR-EN058",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN067",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN037",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN247",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN247",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Powercode Link",
+            "set_code": "SDPL-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Synchron Extreme Structure Deck",
+            "set_code": "SDSE-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.38"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 64034255,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64034255.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64034255.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64034255.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "1.90",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 64662453,
+      "name": "Iron Call",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "If you control a Machine monster: Target 1 Level 4 or lower Machine monster in your GY; Special Summon that target, but its effects are negated, also destroy it during the End Phase.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/iron-call-5456",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 7b",
+            "set_code": "DT07-EN093",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 7: Knight of Stars",
+            "set_code": "HA07-EN066",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 64662453,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64662453.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64662453.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64662453.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.26",
+            "ebay_price": "4.00",
+            "amazon_price": "2.68",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 34559295,
+      "name": "Iron Draw",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "If you control exactly 2 Machine Effect Monsters and no other monsters: Draw 2 cards. For the rest of this turn after this card resolves, you can only Special Summon once. You can only activate 1 \"Iron Draw\" per turn.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/iron-draw-9487",
+      "card_sets": [
+         {
+            "set_name": "Battles of Legend: Chapter 1",
+            "set_code": "BLC1-EN111",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Relentless Revenge",
+            "set_code": "BLRR-EN034",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "2.7"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 5",
+            "set_code": "STP5-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.19"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 34559295,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34559295.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34559295.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34559295.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "1.35",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 63941210,
+      "name": "Jizukiru, the Star Destroying Kaiju",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can Special Summon this card (from your hand) to your opponent's field in Attack Position, by Tributing 1 monster they control. If your opponent controls a \"Kaiju\" monster, you can Special Summon this card (from your hand) in Attack Position. You can only control 1 \"Kaiju\" monster. When a card or effect is activated that targets exactly 1 card (and no other cards) (Quick Effect): You can remove 3 Kaiju Counters from anywhere on the field; negate that effect, and if you do, you can destroy 1 card on the field.",
+      "race": "Machine",
+      "atk": 3300,
+      "def": 2600,
+      "level": 10,
+      "attribute": "LIGHT",
+      "archetype": "Kaiju",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/jizukiru-the-star-destroying-kaiju-5396",
+      "card_sets": [
+         {
+            "set_name": "2016 Mega-Tin Mega Pack",
+            "set_code": "MP16-EN235",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Chapter 1",
+            "set_code": "BLC1-EN036",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Breakers of Shadow",
+            "set_code": "BOSH-EN088",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 10",
+            "set_code": "OP10-EN007",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 10 (POR)",
+            "set_code": "OP10-PT007",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Structure Deck: Cyber Strike",
+            "set_code": "SDCS-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.1"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 63941210,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63941210.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63941210.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63941210.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "3.99",
+            "amazon_price": "0.38",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 44935634,
+      "name": "Lefty Driver",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is Special Summoned: You can make this card become Level 3 until the end of this turn. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY; add 1 \"Righty Driver\" from your Deck to your hand. You can only use this effect of \"Lefty Driver\" once per turn.",
+      "race": "Machine",
+      "atk": 300,
+      "def": 100,
+      "level": 2,
+      "attribute": "EARTH",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/lefty-driver-9177",
+      "card_sets": [
+         {
+            "set_name": "Duel Power",
+            "set_code": "DUPO-EN033",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.68"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 44935634,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44935634.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44935634.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44935634.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "1.95",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 23171610,
+      "name": "Limiter Removal",
+      "type": "Spell Card",
+      "humanReadableCardType": "Quick-Play Spell",
+      "frameType": "spell",
+      "desc": "Double the ATK of all Machine monsters you currently control, until the end of this turn. During the End Phase of this turn, destroy those monsters.",
+      "race": "Quick-Play",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/limiter-removal-1993",
+      "card_sets": [
+         {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN057",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN053",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Champion Pack: Game One",
+            "set_code": "CP01-EN007",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Cyber Dragon Revolution Structure Deck",
+            "set_code": "SDCR-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB1-EN179",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN045",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist League 16 participation cards",
+            "set_code": "DL16-EN013",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "6.26"
+         },
+         {
+            "set_name": "Duelist Pack: Zane Truesdale",
+            "set_code": "DP04-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Geargia Rampage Structure Deck",
+            "set_code": "SDGR-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.81"
+         },
+         {
+            "set_name": "Hobby League 6 participation card B",
+            "set_code": "HL06-EN002",
+            "set_rarity": "Ultra Parallel Rare",
+            "set_rarity_code": "(UPR)",
+            "set_price": "16.51"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN172",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Dragon Decks",
+            "set_code": "LEDD-ENB18",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.5"
+         },
+         {
+            "set_name": "Legendary Duelists: Ancient Millennium",
+            "set_code": "LED2-EN049",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Machine Reactor Structure Deck",
+            "set_code": "SR03-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 11",
+            "set_code": "OP11-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 11 (POR)",
+            "set_code": "OP11-PT017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-064",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "5.16"
+         },
+         {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-E064",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "20.66"
+         },
+         {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-EN064",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Retro Pack 2",
+            "set_code": "RP02-EN015",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Cyber Strike",
+            "set_code": "SDCS-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.94"
+         },
+         {
+            "set_name": "Structure Deck: Machine Re-Volt",
+            "set_code": "SD10-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.28"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Seto Kaiba",
+            "set_code": "SDKS-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.44"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 23171610,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23171610.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23171610.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23171610.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "3.25",
+            "amazon_price": "3.63",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 23469398,
+      "name": "Machina Air Raider",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can discard 1 other \"Machina\" monster; Special Summon this card from your hand. During your opponent's turn (Quick Effect): You can target 1 Machine monster you control; Special Summon from your Deck, 1 \"Machina\" monster with a different name and an equal or lower Level than that monster, and if you do, destroy that targeted monster. You can only use each effect of \"Machina Air Raider\" once per turn.",
+      "race": "Machine",
+      "atk": 1500,
+      "def": 2600,
+      "level": 8,
+      "attribute": "EARTH",
+      "archetype": "Machina",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/machina-air-raider-10870",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN002",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.63"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 23469398,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23469398.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23469398.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23469398.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "1.45",
+            "amazon_price": "49.99",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 31828916,
+      "name": "Machina Armored Unit",
+      "type": "Spell Card",
+      "humanReadableCardType": "Continuous Spell",
+      "frameType": "spell",
+      "desc": "Once per turn, when a Machine monster is destroyed by battle and sent to your GY: You can Special Summon 1 Machine monster from your Deck that has the same Attribute and less ATK than that destroyed monster in the GY.",
+      "race": "Continuous",
+      "archetype": "Machina",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/machina-armored-unit-2702",
+      "card_sets": [
+         {
+            "set_name": "Astral Pack Two",
+            "set_code": "AP02-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Cyber Dragon Revolution Structure Deck",
+            "set_code": "SDCR-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Dragon Decks",
+            "set_code": "LEDD-ENB19",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.31"
+         },
+         {
+            "set_name": "Machina Mayhem Structure Deck",
+            "set_code": "SDMM-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.13"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 31828916,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31828916.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31828916.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31828916.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 39284521,
+      "name": "Machina Cannon",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by sending 1 or more other Machine monsters from your hand to the GY. Gains 800 ATK for each monster sent to the GY for this Special Summon.",
+      "race": "Machine",
+      "atk": 0,
+      "def": 2200,
+      "level": 8,
+      "attribute": "EARTH",
+      "archetype": "Machina",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/machina-cannon-3334",
+      "card_sets": [
+         {
+            "set_name": "Premium Collection Tin",
+            "set_code": "PRC1-EN011",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.35"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 39284521,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39284521.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39284521.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39284521.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "1.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 87074380,
+      "name": "Machina Citadel",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. (Quick Effect): You can target 1 Machine monster you control; destroy that Machine monster and all monsters your opponent controls with ATK less than or equal to it. If a face-up EARTH Machine monster(s) you control, except \"Machina Citadel\", is destroyed by battle or card effect while this card is in your GY: You can Special Summon this card. You can only use each effect of \"Machina Citadel\" once per turn.",
+      "race": "Machine",
+      "atk": 3000,
+      "def": 2500,
+      "level": 10,
+      "attribute": "EARTH",
+      "archetype": "Machina",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/machina-citadel-10871",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.98"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 87074380,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87074380.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87074380.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87074380.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.48",
+            "tcgplayer_price": "0.43",
+            "ebay_price": "1.72",
+            "amazon_price": "0.40",
+            "coolstuffinc_price": "0.99"
+         }
+      ]
+   },
+   {
+      "id": 96384007,
+      "name": "Machina Defender",
+      "typeline": [
+         "Machine",
+         "Flip",
+         "Effect"
+      ],
+      "type": "Flip Effect Monster",
+      "humanReadableCardType": "Flip Effect Monster",
+      "frameType": "effect",
+      "desc": "FLIP: Add 1 \"Commander Covington\" from your Deck to your hand.",
+      "race": "Machine",
+      "atk": 1200,
+      "def": 1800,
+      "level": 4,
+      "attribute": "EARTH",
+      "archetype": "Machina",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/machina-defender-8021",
+      "card_sets": [
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN170",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Machina Mayhem Structure Deck",
+            "set_code": "SDMM-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.12"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 96384007,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96384007.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96384007.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96384007.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 13247801,
+      "name": "Machina Defense Perimeter",
+      "type": "Spell Card",
+      "humanReadableCardType": "Continuous Spell",
+      "frameType": "spell",
+      "desc": "While you control a Level 7 or higher Machine monster, your opponent's monsters cannot target Level 6 or lower Machine monsters you control for attacks, also your opponent cannot target them with card effects. If a face-up Machine monster(s) you control is destroyed by battle or card effect: You can target 1 Machine monster in your GY; add it to your hand. You can only use this effect of \"Machina Defense Perimeter\" once per turn.",
+      "race": "Continuous",
+      "archetype": "Machina",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/machina-defense-perimeter-10899",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.66"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 13247801,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13247801.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13247801.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13247801.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "0.99",
+            "amazon_price": "1.29",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 58054262,
+      "name": "Machina Force",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Commander Covington\". You must pay 1000 LP to declare an attack with this card. You can send this card you control to the GY, then target 1 \"Machina Soldier\", \"Machina Sniper\", and \"Machina Defender\" in your GY; Special Summon those targets.",
+      "race": "Machine",
+      "atk": 4600,
+      "def": 4100,
+      "level": 10,
+      "attribute": "EARTH",
+      "archetype": "Machina",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/machina-force-4938",
+      "card_sets": [
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN171",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Machina Mayhem Structure Deck",
+            "set_code": "SDMM-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.11"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 58054262,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58054262.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58054262.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58054262.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.34",
+            "tcgplayer_price": "2.60",
+            "ebay_price": "14.95",
+            "amazon_price": "5.00",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 5556499,
+      "name": "Machina Fortress",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can discard Machine monster(s) whose total Levels equal 8 or more, then Special Summon this card (from your hand or GY). If this card is destroyed by battle and sent to the GY: Target 1 card your opponent controls; destroy that target. Before resolving an opponent's monster effect that targets this face-up card, look at your opponent's hand and discard 1 card from their hand.",
+      "race": "Machine",
+      "atk": 2500,
+      "def": 1600,
+      "level": 7,
+      "attribute": "EARTH",
+      "archetype": "Machina",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/machina-fortress-490",
+      "card_sets": [
+         {
+            "set_name": "Astral Pack Six",
+            "set_code": "AP06-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN022",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN022",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Dragon Decks",
+            "set_code": "LEDD-ENB11",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.63"
+         },
+         {
+            "set_name": "Machina Mayhem Structure Deck",
+            "set_code": "SDMM-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "5.09"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN233",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN233",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 5556499,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5556499.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5556499.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5556499.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.34",
+            "tcgplayer_price": "0.58",
+            "ebay_price": "3.00",
+            "amazon_price": "1.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 42940404,
+      "name": "Machina Gearframe",
+      "typeline": [
+         "Machine",
+         "Union",
+         "Effect"
+      ],
+      "type": "Union Effect Monster",
+      "humanReadableCardType": "Union Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card is Normal Summoned: You can add 1 \"Machina\" monster from your Deck to your hand, except \"Machina Gearframe\". Once per turn, you can either: Target 1 Machine monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. If the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+      "race": "Machine",
+      "atk": 1800,
+      "def": 0,
+      "level": 4,
+      "attribute": "EARTH",
+      "archetype": "Machina",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/machina-gearframe-3662",
+      "card_sets": [
+         {
+            "set_name": "Machina Mayhem Structure Deck",
+            "set_code": "SDMM-EN002",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.47"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN234",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN234",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Battle City Box",
+            "set_code": "SBCB-EN071",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.55"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN005",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 42940404,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42940404.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42940404.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42940404.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.71",
+            "tcgplayer_price": "1.37",
+            "ebay_price": "2.49",
+            "amazon_price": "6.88",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 50863093,
+      "name": "Machina Irradiator",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can discard 1 other \"Machina\" monster; Special Summon this card from your hand. You can target 1 Machine monster you control; Special Summon from your GY, 1 \"Machina\" monster with a different name and an equal or lower Level than that monster, and if you do, destroy that targeted monster. You can only use each effect of \"Machina Irradiator\" once per turn.",
+      "race": "Machine",
+      "atk": 1700,
+      "def": 2400,
+      "level": 8,
+      "attribute": "EARTH",
+      "archetype": "Machina",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/machina-irradiator-10869",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN003",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.46"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 50863093,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50863093.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50863093.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50863093.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "1.85",
+            "amazon_price": "3.69",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 51617185,
+      "name": "Machina Megaform",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can Tribute this card; Special Summon 1 \"Machina\" monster from your hand or Deck, except \"Machina Megaform\". If a face-up \"Machina Fortress\" you control is sent to your GY while this card is in your GY (except during the Damage Step): You can banish that \"Machina Fortress\" from the GY; Special Summon this card. You can only use 1 \"Machina Megaform\" effect per turn, and only once that turn.",
+      "race": "Machine",
+      "atk": 2600,
+      "def": 1500,
+      "level": 8,
+      "attribute": "EARTH",
+      "archetype": "Machina",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/machina-megaform-4394",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The New Challengers",
+            "set_code": "NECH-EN036",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The New Challengers: Super Edition",
+            "set_code": "NECH-ENS06",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.83"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 51617185,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51617185.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51617185.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51617185.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "0.93",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 59741415,
+      "name": "Machina Overdrive",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Target 1 Machine monster you control; Special Summon 1 \"Machina\" monster with a different name from your hand or Deck, and if you do, destroy that targeted monster. You can banish this card from your GY, then target 3 of your Machine monsters that are banished and/or in your GY; shuffle them into your Deck, then draw 1 card. You can only use 1 \"Machina Overdrive\" effect per turn, and only once that turn.",
+      "race": "Normal",
+      "archetype": "Machina",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/machina-overdrive-10900",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.04"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 59741415,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59741415.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59741415.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59741415.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.90",
+            "tcgplayer_price": "0.47",
+            "ebay_price": "3.26",
+            "amazon_price": "3.69",
+            "coolstuffinc_price": "2.99"
+         }
+      ]
+   },
+   {
+      "id": 78349103,
+      "name": "Machina Peacekeeper",
+      "typeline": [
+         "Machine",
+         "Union",
+         "Effect"
+      ],
+      "type": "Union Effect Monster",
+      "humanReadableCardType": "Union Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card on the field is destroyed and sent to the GY: You can add 1 Union monster from your Deck to your hand. Once per turn, you can either: Target 1 Machine monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. If the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+      "race": "Machine",
+      "atk": 500,
+      "def": 400,
+      "level": 2,
+      "attribute": "EARTH",
+      "archetype": "Machina",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/machina-peacekeeper-6581",
+      "card_sets": [
+         {
+            "set_name": "Machina Mayhem Structure Deck",
+            "set_code": "SDMM-EN003",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.18"
+         },
+         {
+            "set_name": "Speed Duel: Battle City Box",
+            "set_code": "SBCB-EN072",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.11"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN006",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 78349103,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78349103.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78349103.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78349103.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "1.49",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 85136114,
+      "name": "Machina Possesstorage",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is Normal or Special Summoned: You can target 1 \"Machina\" monster in your GY, except \"Machina Possesstorage\"; Special Summon it in Defense Position, but it cannot activate its effects this turn. You can target 1 other \"Machina\" monster you control and 1 Spell/Trap your opponent controls; return them to the hand. You can only use each effect of \"Machina Possesstorage\" once per turn.",
+      "race": "Machine",
+      "atk": 1600,
+      "def": 1500,
+      "level": 4,
+      "attribute": "DARK",
+      "archetype": "Machina",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/machina-possesstorage-10901",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN040",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.57"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 85136114,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85136114.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85136114.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85136114.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "1.69",
+            "amazon_price": "3.69",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 86852702,
+      "name": "Machina Redeployment",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Activate 1 of these effects.\r\n● Discard 1 card; add 2 \"Machina\" monsters with different names from each other from your Deck to your hand.\r\n● Discard 1 \"Machina\" card; add 2 \"Machina\" cards with different names from each other from your Deck to your hand, except \"Machina Redeployment\".\r\nYou can only activate 1 \"Machina Redeployment\" per turn.",
+      "race": "Normal",
+      "archetype": "Machina",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/machina-redeployment-10898",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN023",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.9"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 86852702,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86852702.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86852702.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86852702.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "1.17",
+            "tcgplayer_price": "0.58",
+            "ebay_price": "2.50",
+            "amazon_price": "1.99",
+            "coolstuffinc_price": "1.99"
+         }
+      ]
+   },
+   {
+      "id": 23782705,
+      "name": "Machina Sniper",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Monsters cannot attack \"Machina\" monsters, except \"Machina Sniper\".",
+      "race": "Machine",
+      "atk": 1800,
+      "def": 800,
+      "level": 4,
+      "attribute": "EARTH",
+      "archetype": "Machina",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/machina-sniper-2051",
+      "card_sets": [
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN169",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Machina Mayhem Structure Deck",
+            "set_code": "SDMM-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.12"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 23782705,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23782705.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23782705.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23782705.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.03",
+            "ebay_price": "1.99",
+            "amazon_price": "1.01",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 60999392,
+      "name": "Machina Soldier",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card is Normal Summoned while you control no other monsters: You can Special Summon 1 \"Machina\" monster from your hand, except \"Machina Soldier\".",
+      "race": "Machine",
+      "atk": 1600,
+      "def": 1500,
+      "level": 4,
+      "attribute": "EARTH",
+      "archetype": "Machina",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/machina-soldier-5176",
+      "card_sets": [
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN168",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Machina Mayhem Structure Deck",
+            "set_code": "SDMM-EN006",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.36"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 60999392,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60999392.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60999392.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60999392.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "4.99",
+            "amazon_price": "1.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 80352158,
+      "name": "Magnet Reverse",
+      "type": "Spell Card",
+      "humanReadableCardType": "Quick-Play Spell",
+      "frameType": "spell",
+      "desc": "Target 1 of your Machine or Rock monsters, that is banished or is in your GY, that cannot be Normal Summoned/Set; Special Summon it.",
+      "race": "Quick-Play",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/magnet-reverse-6740",
+      "card_sets": [
+         {
+            "set_name": "Duelist Pack: Rivals of the Pharaoh",
+            "set_code": "DPRP-EN006",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.6"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 80352158,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80352158.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80352158.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80352158.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.27",
+            "ebay_price": "6.00",
+            "amazon_price": "2.18",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 67169062,
+      "name": "Pot of Avarice",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Target 5 monsters in your GY; shuffle all 5 into the Deck, then draw 2 cards.",
+      "race": "Normal",
+      "archetype": "Greed",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/pot-of-avarice-5644",
+      "card_sets": [
+         {
+            "set_name": "Astral Pack Two",
+            "set_code": "AP02-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Champion Pack: Game One",
+            "set_code": "CP01-EN011",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN097",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "121.73"
+         },
+         {
+            "set_name": "Egyptian God Deck: Obelisk the Tormentor",
+            "set_code": "EGO1-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.91"
+         },
+         {
+            "set_name": "Egyptian God Deck: Slifer the Sky Dragon",
+            "set_code": "EGS1-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.52"
+         },
+         {
+            "set_name": "Elemental Energy",
+            "set_code": "EEN-EN037",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Elemental Energy",
+            "set_code": "EEN-EN037",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gold Series 4: Pyramids Edition",
+            "set_code": "GLD4-EN040",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN290",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN160",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN160",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Machine Re-Volt",
+            "set_code": "SD10-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.48"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Shaddoll Showdown",
+            "set_code": "SDSH-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.7"
+         },
+         {
+            "set_name": "The Pot Collection",
+            "set_code": "TBC1-EN003",
+            "set_rarity": "Ultra Parallel Rare",
+            "set_rarity_code": "(UPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Zombie World Structure Deck",
+            "set_code": "SDZW-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 67169062,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67169062.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67169062.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67169062.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.25",
+            "tcgplayer_price": "0.46",
+            "ebay_price": "6.27",
+            "amazon_price": "0.40",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   },
+   {
+      "id": 60071928,
+      "name": "Righty Driver",
+      "typeline": [
+         "Machine",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "For a Synchro Summon, you can substitute this card for any 1 \"Synchron\" Tuner. If this card is Normal Summoned: You can Special Summon 1 \"Lefty Driver\" from your hand, Deck, or GY. You can only use this effect of \"Righty Driver\" once per turn.",
+      "race": "Machine",
+      "atk": 100,
+      "def": 300,
+      "level": 1,
+      "attribute": "EARTH",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/righty-driver-9178",
+      "card_sets": [
+         {
+            "set_name": "Duel Power",
+            "set_code": "DUPO-EN032",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.56"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 60071928,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60071928.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60071928.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60071928.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 4334811,
+      "name": "Scrap Recycler",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card is Normal or Special Summoned: You can send 1 Machine monster from your Deck to the GY. Once per turn: You can shuffle 2 Level 4 EARTH Machine monsters from your GY into the Deck; draw 1 card.",
+      "race": "Machine",
+      "atk": 900,
+      "def": 1200,
+      "level": 3,
+      "attribute": "EARTH",
+      "archetype": "Scrap",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/scrap-recycler-390",
+      "card_sets": [
+         {
+            "set_name": "Fists of the Gadgets",
+            "set_code": "FIGA-EN051",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Machina Mayhem Structure Deck",
+            "set_code": "SDMM-EN004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.9"
+         },
+         {
+            "set_name": "Maximum Gold",
+            "set_code": "MAGO-EN117",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 4334811,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4334811.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4334811.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4334811.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.32",
+            "tcgplayer_price": "0.32",
+            "ebay_price": "2.00",
+            "amazon_price": "0.76",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 24731453,
+      "name": "Snow Plow Hustle Rustle",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When your opponent's monster declares a direct attack, while you control a card(s) in your Spell & Trap Zone: You can Special Summon this card from your hand, then destroy as many cards in your Spell & Trap Zone as possible, and if you do, inflict 200 damage to your opponent for each destroyed card. You cannot Special Summon any monsters, except Machine monsters.",
+      "race": "Machine",
+      "atk": 2500,
+      "def": 3000,
+      "level": 10,
+      "attribute": "EARTH",
+      "archetype": "Train",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/snow-plow-hustle-rustle-2139",
+      "card_sets": [
+         {
+            "set_name": "Dragons of Legend: The Complete Series",
+            "set_code": "DLCS-EN138",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.08"
+         },
+         {
+            "set_name": "Dragons of Legend: Unleashed",
+            "set_code": "DRL3-EN071",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Sisters of the Rose",
+            "set_code": "LED4-EN041",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! ZEXAL World Duel Carnival promotional cards",
+            "set_code": "ZDC1-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "42.11"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 24731453,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24731453.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24731453.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24731453.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 40605147,
+      "name": "Solemn Strike",
+      "type": "Trap Card",
+      "humanReadableCardType": "Counter Trap",
+      "frameType": "trap",
+      "desc": "When a monster(s) would be Special Summoned, OR a monster effect is activated: Pay 1500 LP; negate the Summon or activation, and if you do, destroy that card.",
+      "race": "Counter",
+      "archetype": "Solemn",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/solemn-strike-3450",
+      "card_sets": [
+         {
+            "set_name": "2016 Mega-Tin Mega Pack",
+            "set_code": "MP16-EN231",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN079",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN079",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN079",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN079",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN079",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN079",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN079",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Relentless Revenge",
+            "set_code": "BLRR-EN102",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Breakers of Shadow",
+            "set_code": "BOSH-EN079",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Code of the Duelist Special Edition",
+            "set_code": "COTD-ENSE2",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "4.34"
+         },
+         {
+            "set_name": "Duel Devastator",
+            "set_code": "DUDE-EN055",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "4.43"
+         },
+         {
+            "set_name": "OTS Tournament Pack 4",
+            "set_code": "OP04-EN003",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN039",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Grand Creators",
+            "set_code": "GRCR-EN059",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Grand Creators",
+            "set_code": "GRCR-EN059",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 40605147,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40605147.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40605147.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40605147.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.24",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "2.49",
+            "amazon_price": "3.00",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   },
+   {
+      "id": 17626381,
+      "name": "Supply Squad",
+      "type": "Spell Card",
+      "humanReadableCardType": "Continuous Spell",
+      "frameType": "spell",
+      "desc": "Once per turn, if a monster(s) you control is destroyed by battle or card effect: Draw 1 card.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/supply-squad-1532",
+      "card_sets": [
+         {
+            "set_name": "2-Player Starter Set",
+            "set_code": "STAS-EN037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Egyptian God Deck: Obelisk the Tormentor",
+            "set_code": "EGO1-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.33"
+         },
+         {
+            "set_name": "Egyptian God Deck: Slifer the Sky Dragon",
+            "set_code": "EGS1-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.36"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENB25",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.33"
+         },
+         {
+            "set_name": "Starter Deck: Codebreaker",
+            "set_code": "YS18-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Link Strike",
+            "set_code": "YS17-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Super Starter: Space-Time Showdown",
+            "set_code": "YS14-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Valiant Smashers",
+            "set_code": "VASM-EN014",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 17626381,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17626381.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17626381.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17626381.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.90",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 40450317,
+      "name": "Ties of the Brethren",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Pay 2000 LP, then target 1 Level 4 or lower monster you control; for the rest of this turn after this card resolves, you cannot Special Summon monsters, also Special Summon 2 monsters from your Deck, with the same Type, Attribute, and Level as that monster, but with different names from each other and that monster. You cannot conduct your Battle Phase the turn you activate this card.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/ties-of-the-brethren-3440",
+      "card_sets": [
+         {
+            "set_name": "King's Court",
+            "set_code": "KICO-EN053",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0.97"
+         },
+         {
+            "set_name": "Legendary Decks II",
+            "set_code": "LDK2-ENY02",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.43"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Wave of Light",
+            "set_code": "SR05-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Grand Creators",
+            "set_code": "GRCR-EN053",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0.8"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 40450317,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40450317.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40450317.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40450317.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "0.60",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 79538761,
+      "name": "Torque Tune Gear",
+      "typeline": [
+         "Machine",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "Once per turn, you can either: Target 1 monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card is treated as a Tuner, it gains 500 ATK/DEF, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+      "race": "Machine",
+      "atk": 0,
+      "def": 0,
+      "level": 1,
+      "attribute": "LIGHT",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/torque-tune-gear-6669",
+      "card_sets": [
+         {
+            "set_name": "Invasion: Vengeance",
+            "set_code": "INOV-EN033",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 79538761,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79538761.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79538761.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79538761.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "2.25",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 80101899,
+      "name": "Trap Trick",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Banish 1 Normal Trap from your Deck, except \"Trap Trick\", and Set 1 card with the same name directly from your Deck, also it can be activated this turn. You can only activate 1 Trap Card for the rest of this turn after this card resolves. You can only activate 1 \"Trap Trick\" per turn.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/trap-trick-9620",
+      "card_sets": [
+         {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN213",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Maximum Gold: El Dorado",
+            "set_code": "MGED-EN152",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "2.18"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN078",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN078",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN078",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN078",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN078",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN078",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN078",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Secret Slayers",
+            "set_code": "SESL-EN060",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.62"
+         },
+         {
+            "set_name": "Soul Fusion",
+            "set_code": "SOFU-EN078",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Tactical Masters",
+            "set_code": "TAMA-EN045",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Tactical Masters",
+            "set_code": "TAMA-EN045",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 80101899,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80101899.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80101899.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80101899.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "1.42",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 12524259,
+      "name": "Unauthorized Reactivation",
+      "type": "Spell Card",
+      "humanReadableCardType": "Quick-Play Spell",
+      "frameType": "spell",
+      "desc": "Target 1 Machine monster you control; equip 1 appropriate Machine Union monster from your hand or Deck to that monster, but the Union monster you equipped cannot be Special Summoned this turn. You can only activate 1 \"Unauthorized Reactivation\" per turn.",
+      "race": "Quick-Play",
+      "archetype": "Machina",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/unauthorized-reactivation-10897",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN041",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.25"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 12524259,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12524259.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12524259.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12524259.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "1.77",
+            "tcgplayer_price": "1.91",
+            "ebay_price": "2.00",
+            "amazon_price": "4.24",
+            "coolstuffinc_price": "2.99"
+         }
+      ]
+   }
+]

@@ -1,0 +1,3828 @@
+[
+   {
+      "id": 85103922,
+      "name": "Artifact Moralltach",
+      "typeline": [
+         "Fairy",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can Set this card from your hand to your Spell & Trap Zone as a Spell. During your opponent's turn, if this Set card in the Spell & Trap Zone is destroyed and sent to your GY: Special Summon it. If this card is Special Summoned during your opponent's turn: You can destroy 1 face-up card your opponent controls.",
+      "race": "Fairy",
+      "atk": 2100,
+      "def": 1400,
+      "level": 5,
+      "attribute": "LIGHT",
+      "archetype": "Artifact",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/artifact-moralltach-7140",
+      "card_sets": [
+         {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN006",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 8",
+            "set_code": "OP08-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 8 (POR)",
+            "set_code": "OP08-PT016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Primal Origin",
+            "set_code": "PRIO-EN011",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN214",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN214",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 85103922,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85103922.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85103922.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85103922.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "4.99",
+            "amazon_price": "6.42",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 12444060,
+      "name": "Artifact Sanctum",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Special Summon 1 \"Artifact\" monster from your Deck. You can only activate 1 \"Artifact Sanctum\" per turn. You cannot conduct your Battle Phase the turn you activate this card. If this card in its owner's possession is destroyed by an opponent's card: You can target 1 card on the field; destroy that target.",
+      "race": "Normal",
+      "archetype": "Artifact",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/artifact-sanctum-1074",
+      "card_sets": [
+         {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN041",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Armageddon",
+            "set_code": "BLAR-EN075",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Light's Revenge",
+            "set_code": "BLLR-EN080",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Primal Origin",
+            "set_code": "PRIO-EN072",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN217",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN217",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 12444060,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12444060.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12444060.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12444060.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.53",
+            "ebay_price": "5.84",
+            "amazon_price": "6.72",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 14558127,
+      "name": "Ash Blossom & Joyous Spring",
+      "typeline": [
+         "Zombie",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "When a card or effect is activated that includes any of these effects (Quick Effect): You can discard this card; negate that effect.\r\n● Add a card from the Deck to the hand.\r\n● Special Summon from the Deck.\r\n● Send a card from the Deck to the GY.\r\nYou can only use this effect of \"Ash Blossom & Joyous Spring\" once per turn.",
+      "race": "Zombie",
+      "atk": 0,
+      "def": 1800,
+      "level": 3,
+      "attribute": "FIRE",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/ash-blossom-joyous-spring-8554",
+      "card_sets": [
+         {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN257",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN008",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN008",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Devastator",
+            "set_code": "DUDE-EN003",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "31.5"
+         },
+         {
+            "set_name": "Duel Power",
+            "set_code": "DUPO-EN077",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "29.3"
+         },
+         {
+            "set_name": "Legendary Collection Kaiba Mega Pack",
+            "set_code": "LCKC-EN080",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Maximum Crisis",
+            "set_code": "MACR-EN036",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Maximum Gold",
+            "set_code": "MAGO-EN011",
+            "set_rarity": "Premium Gold Rare",
+            "set_rarity_code": "(PG)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN025",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN025",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN025",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN025",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN025",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN025",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN025",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Shadows in Valhalla",
+            "set_code": "SHVA-EN047",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Blue-Eyes White Destiny",
+            "set_code": "SDWD-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Legend of the Crystal Beasts",
+            "set_code": "SDCB-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 14558127,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14558127.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14558127.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14558127.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "1.38",
+            "tcgplayer_price": "1.46",
+            "ebay_price": "11.95",
+            "amazon_price": "28.99",
+            "coolstuffinc_price": "4.99"
+         }
+      ]
+   },
+   {
+      "id": 29401950,
+      "name": "Bottomless Trap Hole",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "When your opponent Summons a monster(s) with 1500 or more ATK: Destroy that monster(s) with 1500 or more ATK, and if you do, banish it.",
+      "race": "Normal",
+      "archetype": "Hole",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/bottomless-trap-hole-2493",
+      "card_sets": [
+         {
+            "set_name": "Battles of Legend: Relentless Revenge",
+            "set_code": "BLRR-EN101",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Champion Pack: Game Four",
+            "set_code": "CP04-EN003",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB-EN80",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB2-EN201",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.19"
+         },
+         {
+            "set_name": "Dragunity Legion Structure Deck",
+            "set_code": "SDDL-EN037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Genesis Impact",
+            "set_code": "GEIM-EN045",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.43"
+         },
+         {
+            "set_name": "Gold Series 2009",
+            "set_code": "GLD2-EN045",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "HERO Strike Structure Deck",
+            "set_code": "SDHS-EN038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legacy of Darkness",
+            "set_code": "LOD-092",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "3.04"
+         },
+         {
+            "set_name": "Legacy of Darkness",
+            "set_code": "LOD-EN092",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN181",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN078",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 13",
+            "set_code": "OP13-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 13 (POR)",
+            "set_code": "OP13-PT022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Premium Gold",
+            "set_code": "PGLD-EN069",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "2.24"
+         },
+         {
+            "set_name": "Retro Pack 2",
+            "set_code": "RP02-EN064",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Codebreaker",
+            "set_code": "YS18-EN038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Link Strike",
+            "set_code": "YS17-EN037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Dark Emperor Structure Deck",
+            "set_code": "SDDE-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.53"
+         },
+         {
+            "set_name": "Wing Raiders",
+            "set_code": "WIRA-EN056",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Zombie World Structure Deck",
+            "set_code": "SDZW-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 29401950,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29401950.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29401950.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29401950.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.25",
+            "ebay_price": "0.99",
+            "amazon_price": "1.07",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 15693423,
+      "name": "Evenly Matched",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "At the end of the Battle Phase, if your opponent controls more cards than you do: You can make your opponent banish cards from their field face-down so they control the same number of cards as you do. If you control no cards, you can activate this card from your hand.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/evenly-matched-8591",
+      "card_sets": [
+         {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN154",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN074",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN074",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Circuit Break",
+            "set_code": "CIBR-EN077",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Power",
+            "set_code": "DUPO-EN099",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "32.1"
+         },
+         {
+            "set_name": "Ghosts From the Past",
+            "set_code": "GFTP-EN126",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "26.96"
+         },
+         {
+            "set_name": "Magnificent Mavens",
+            "set_code": "MAMA-EN099",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN038",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 15693423,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15693423.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15693423.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15693423.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "1.55",
+            "tcgplayer_price": "1.05",
+            "ebay_price": "1.20",
+            "amazon_price": "30.49",
+            "coolstuffinc_price": "5.99"
+         }
+      ]
+   },
+   {
+      "id": 68535320,
+      "name": "Fire Hand",
+      "typeline": [
+         "Pyro",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card in your possession is destroyed by your opponent's card (by battle or card effect) and sent to your Graveyard: You can target 1 monster they control; destroy that target, then you can Special Summon 1 \"Ice Hand\" from your Deck.",
+      "race": "Pyro",
+      "atk": 1600,
+      "def": 1000,
+      "level": 4,
+      "attribute": "FIRE",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/fire-hand-5760",
+      "card_sets": [
+         {
+            "set_name": "Dragons of Legend",
+            "set_code": "DRLG-EN046",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "3.21"
+         },
+         {
+            "set_name": "Dragons of Legend: The Complete Series",
+            "set_code": "DLCS-EN048",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.14"
+         },
+         {
+            "set_name": "Premium Gold: Infinite Gold",
+            "set_code": "PGL3-EN022",
+            "set_rarity": "Gold Secret Rare",
+            "set_rarity_code": "(GScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN224",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN224",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 68535320,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68535320.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68535320.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68535320.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "11.95",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 69599136,
+      "name": "Floodgate Trap Hole",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "When your opponent Summons a monster(s): Change that monster(s) to face-down Defense Position. Monsters changed to face-down Defense Position by this effect cannot change their battle positions.",
+      "race": "Normal",
+      "archetype": "Hole",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/floodgate-trap-hole-5854",
+      "card_sets": [
+         {
+            "set_name": "2017 Mega-Tin Mega Pack",
+            "set_code": "MP17-EN114",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 13",
+            "set_code": "OP13-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 13 (POR)",
+            "set_code": "OP13-PT025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENI23",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENI23",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 5",
+            "set_code": "STP5-EN035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENF20",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN046",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "7.81"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Dark Illusion",
+            "set_code": "TDIL-EN076",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Trials of the Pharaoh - Trials of the Kingdom promotional card",
+            "set_code": "OPTP-EN001",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0.00"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 69599136,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69599136.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69599136.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69599136.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.99",
+            "amazon_price": "7.14",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 36956512,
+      "name": "Gadarla, the Mystery Dust Kaiju",
+      "typeline": [
+         "Insect",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can Special Summon this card (from your hand) to your opponent's side of the field in Attack Position, by Tributing 1 monster they control. If your opponent controls a \"Kaiju\" monster, you can Special Summon this card (from your hand) in Attack Position. You can only control 1 \"Kaiju\" monster. Once per turn, during either player's turn: You can remove 3 Kaiju Counters from anywhere on the field; the ATK and DEF of all other monsters on the field become halved.",
+      "race": "Insect",
+      "atk": 2700,
+      "def": 1600,
+      "level": 8,
+      "attribute": "WIND",
+      "archetype": "Kaiju",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/gadarla-the-mystery-dust-kaiju-3126",
+      "card_sets": [
+         {
+            "set_name": "2016 Mega-Tin Mega Pack",
+            "set_code": "MP16-EN234",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Breakers of Shadow",
+            "set_code": "BOSH-EN087",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Brothers of Legend",
+            "set_code": "BROL-EN074",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.56"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 36956512,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36956512.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36956512.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36956512.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "1.50",
+            "amazon_price": "3.27",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 31548215,
+      "name": "Gravedigger's Trap Hole",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "When your opponent activates a monster effect in their hand or GY, or when your opponent's banished monster effect is activated: Negate its effect, and if you do, inflict 2000 damage to your opponent.",
+      "race": "Normal",
+      "archetype": "Hole",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/gravedigger-s-trap-hole-10816",
+      "card_sets": [
+         {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN086",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Eternity Code",
+            "set_code": "ETCO-EN078",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 31548215,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31548215.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31548215.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31548215.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.25",
+            "tcgplayer_price": "0.29",
+            "ebay_price": "6.95",
+            "amazon_price": "1.38",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 18144507,
+      "name": "Harpie's Feather Duster",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Destroy all Spell and Trap Cards your opponent controls.",
+      "race": "Normal",
+      "archetype": "Harpie",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/harpie-s-feather-duster-1573",
+      "card_sets": [
+         {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN058",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN035",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN035",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Egyptian God Deck: Obelisk the Tormentor",
+            "set_code": "EGO1-EN022",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "6.6"
+         },
+         {
+            "set_name": "Egyptian God Deck: Slifer the Sky Dragon",
+            "set_code": "EGS1-EN022",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "7.92"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN149",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN099",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Magnificent Mavens",
+            "set_code": "MAMA-EN076",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Maximum Gold",
+            "set_code": "MAGO-EN042",
+            "set_rarity": "Premium Gold Rare",
+            "set_rarity_code": "(PG)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 24",
+            "set_code": "OP24-EN003",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Tournament Pack 8",
+            "set_code": "TP8-EN002",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! World Championship Tournament 2004 promotional cards",
+            "set_code": "WC4-E003",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "144.56"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel promotional cards",
+            "set_code": "SDD-003",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "29.53"
+         }
+      ],
+      "banlist_info": {
+         "ban_tcg": "Limited",
+         "ban_ocg": "Limited",
+         "ban_goat": "Forbidden"
+      },
+      "card_images": [
+         {
+            "id": 18144507,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18144507.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18144507.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18144507.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.50",
+            "tcgplayer_price": "2.32",
+            "ebay_price": "1.90",
+            "amazon_price": "16.98",
+            "coolstuffinc_price": "1.99"
+         }
+      ]
+   },
+   {
+      "id": 95929069,
+      "name": "Ice Hand",
+      "typeline": [
+         "Aqua",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card in your possession is destroyed by your opponent's card (by battle or card effect) and sent to your Graveyard: You can target 1 Spell/Trap Card they control; destroy that target, then you can Special Summon 1 \"Fire Hand\" from your Deck.",
+      "race": "Aqua",
+      "atk": 1400,
+      "def": 1600,
+      "level": 4,
+      "attribute": "WATER",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/ice-hand-7987",
+      "card_sets": [
+         {
+            "set_name": "Dragons of Legend",
+            "set_code": "DRLG-EN047",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "2.63"
+         },
+         {
+            "set_name": "Dragons of Legend: The Complete Series",
+            "set_code": "DLCS-EN049",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.17"
+         },
+         {
+            "set_name": "Premium Gold: Infinite Gold",
+            "set_code": "PGL3-EN023",
+            "set_rarity": "Gold Secret Rare",
+            "set_rarity_code": "(GScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN225",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN225",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 95929069,
+            "image_url": "https://images.ygoprodeck.com/images/cards/95929069.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95929069.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95929069.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "11.95",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 29726552,
+      "name": "Kumongous, the Sticky String Kaiju",
+      "typeline": [
+         "Insect",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can Special Summon this card (from your hand) to your opponent's field in Attack Position, by Tributing 1 monster they control. If your opponent controls a \"Kaiju\" monster, you can Special Summon this card (from your hand) in Attack Position. You can only control 1 \"Kaiju\" monster. When your opponent Normal or Special Summons a monster(s): You can remove 2 Kaiju Counters from anywhere on the field; until the end of the next turn, that monster(s) cannot attack and it has its effects negated.",
+      "race": "Insect",
+      "atk": 2400,
+      "def": 2500,
+      "level": 7,
+      "attribute": "EARTH",
+      "archetype": "Kaiju",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/kumongous-the-sticky-string-kaiju-2517",
+      "card_sets": [
+         {
+            "set_name": "2016 Mega-Tin Mega Pack",
+            "set_code": "MP16-EN099",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Chapter 1",
+            "set_code": "BLC1-EN034",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Clash of Rebellions",
+            "set_code": "CORE-EN088",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 4",
+            "set_code": "OP04-EN008",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 29726552,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29726552.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29726552.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29726552.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "6.79",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 48686504,
+      "name": "Lonefire Blossom",
+      "typeline": [
+         "Plant",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Once per turn: You can Tribute 1 face-up Plant monster; Special Summon 1 Plant monster from your Deck.",
+      "race": "Plant",
+      "atk": 500,
+      "def": 1400,
+      "level": 3,
+      "attribute": "FIRE",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/lonefire-blossom-4158",
+      "card_sets": [
+         {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN002",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN002",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Astral Pack Four",
+            "set_code": "AP04-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Champion Pack: Game Seven",
+            "set_code": "CP07-EN005",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Fusion Enforcers",
+            "set_code": "FUEN-EN046",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.08"
+         },
+         {
+            "set_name": "Mystic Fighters",
+            "set_code": "MYFI-EN042",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.1"
+         },
+         {
+            "set_name": "OTS Tournament Pack 19",
+            "set_code": "OP19-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.44"
+         },
+         {
+            "set_name": "OTS Tournament Pack 19 (POR)",
+            "set_code": "OP19-PT018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Phantom Darkness",
+            "set_code": "PTDN-EN088",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Premium Gold",
+            "set_code": "PGLD-EN034",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "3.4"
+         },
+         {
+            "set_name": "Secret Slayers",
+            "set_code": "SESL-EN040",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.93"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! Advent Calendar (2018)",
+            "set_code": "AC18-EN017",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.08"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 48686504,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48686504.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48686504.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48686504.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.78",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 20537097,
+      "name": "Mekk-Knight Blue Sky",
+      "typeline": [
+         "Psychic",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If 2 or more cards are in the same column, you can Special Summon this card (from your hand) in that column. You can only Special Summon \"Mekk-Knight Blue Sky\" once per turn this way. If this card is Normal or Special Summoned from the hand: You can add \"Mekk-Knight\" monsters with different names, except \"Mekk-Knight Blue Sky\", from your Deck to your hand, equal to the number of your opponent's cards in this card's column. You can only use this effect of \"Mekk-Knight Blue Sky\" once per turn.",
+      "race": "Psychic",
+      "atk": 2000,
+      "def": 2500,
+      "level": 5,
+      "attribute": "LIGHT",
+      "archetype": "Mekk-Knight",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/mekk-knight-blue-sky-8955",
+      "card_sets": [
+         {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN177",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Extreme Force",
+            "set_code": "EXFO-EN014",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Maze of Memories",
+            "set_code": "MAZE-EN043",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 20537097,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20537097.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20537097.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20537097.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "19.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 28692962,
+      "name": "Mekk-Knight Purple Nightfall",
+      "typeline": [
+         "Psychic",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If 2 or more cards are in the same column, you can Special Summon this card (from your hand) in that column. You can only Special Summon \"Mekk-Knight Purple Nightfall\" once per turn this way. (Quick Effect): You can target 1 \"Mekk-Knight\" monster you control; banish it (until the Standby Phase of your next turn), and if you do, add 1 \"Mekk-Knight\" monster from your Deck to your hand, except \"Mekk-Knight Purple Nightfall\". You can only use this effect of \"Mekk-Knight Purple Nightfall\" once per turn.",
+      "race": "Psychic",
+      "atk": 2500,
+      "def": 2000,
+      "level": 8,
+      "attribute": "LIGHT",
+      "archetype": "Mekk-Knight",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/mekk-knight-purple-nightfall-8949",
+      "card_sets": [
+         {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN183",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Extreme Force",
+            "set_code": "EXFO-EN020",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 28692962,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28692962.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28692962.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28692962.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "4.84",
+            "amazon_price": "9.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 3734202,
+      "name": "Naturia Sacred Tree",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "If this card is sent to the Graveyard: Add 1 \"Naturia\" card from your Deck to your hand, except \"Naturia Sacred Tree\". You can only use 1 of the following effects of \"Naturia Sacred Tree\" per turn, and only once that turn.\n● You can Tribute 1 EARTH Insect-Type monster; Special Summon 1 Level 4 or lower EARTH Plant-Type monster from your Deck.\n● You can Tribute 1 EARTH Plant-Type monster; Special Summon 1 Level 4 or lower EARTH Insect-Type monster from your Deck.",
+      "race": "Continuous",
+      "archetype": "Naturia",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/naturia-sacred-tree-333",
+      "card_sets": [
+         {
+            "set_name": "OTS Tournament Pack 20",
+            "set_code": "OP20-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The New Challengers",
+            "set_code": "NECH-EN076",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         }
+      ],
+      "banlist_info": {
+         "ban_tcg": "Limited"
+      },
+      "card_images": [
+         {
+            "id": 3734202,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3734202.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3734202.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3734202.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 12580477,
+      "name": "Raigeki",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Destroy all monsters your opponent controls.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/raigeki-1087",
+      "card_sets": [
+         {
+            "set_name": "2019 Gold Sarcophagus Tin",
+            "set_code": "TN19-EN010",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "7.48"
+         },
+         {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN056",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN032",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN032",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB1-EN114",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Legends",
+            "set_code": "DLG1-EN006",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "18.13"
+         },
+         {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-053",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "26.05"
+         },
+         {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-E042",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "23.45"
+         },
+         {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-EN053",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "14.08"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN054",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN057",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection Kaiba Mega Pack",
+            "set_code": "LCKC-EN088",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Maximum Gold: El Dorado",
+            "set_code": "MGED-EN038",
+            "set_rarity": "Premium Gold Rare",
+            "set_rarity_code": "(PG)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 2",
+            "set_code": "OP02-EN003",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Premium Gold: Return of the Bling",
+            "set_code": "PGL2-EN048",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN083",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN083",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Retro Pack",
+            "set_code": "RP01-EN005",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "122.58"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Spirit Charmers",
+            "set_code": "SDCH-EN021",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "banlist_info": {
+         "ban_goat": "Forbidden"
+      },
+      "card_images": [
+         {
+            "id": 12580477,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12580477.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12580477.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12580477.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "1.04",
+            "tcgplayer_price": "1.51",
+            "ebay_price": "4.95",
+            "amazon_price": "3.90",
+            "coolstuffinc_price": "2.99"
+         }
+      ]
+   },
+   {
+      "id": 96938986,
+      "name": "Resonance Insect",
+      "typeline": [
+         "Insect",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is sent from the field to the Graveyard: You can add 1 Level 5 or higher Insect-Type monster from your Deck to your hand. If this card is banished: You can send 1 Insect-Type monster from your Deck to the Graveyard, except \"Resonance Insect\".",
+      "race": "Insect",
+      "atk": 1000,
+      "def": 700,
+      "level": 4,
+      "attribute": "EARTH",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/resonance-insect-8064",
+      "card_sets": [
+         {
+            "set_name": "Duelist Alliance",
+            "set_code": "DUEA-EN039",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 17",
+            "set_code": "OP17-EN007",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 17 (POR)",
+            "set_code": "OP17-PT007",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-END07",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 96938986,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96938986.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96938986.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96938986.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "2.99",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 46502744,
+      "name": "Retaliating \"C\"",
+      "typeline": [
+         "Insect",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "During either player's turn, when your opponent activates a Spell Card that includes an effect that Special Summons a monster(s): You can Special Summon this card from your hand. If Summoned this way, while this card is face-up on the field, any card sent to the Graveyard is banished instead. If this card is sent from the field to the Graveyard: You can add 1 EARTH Insect-Type monster with 1500 or less ATK from your Deck to your hand, except \"Retaliating \"C\"\".",
+      "race": "Insect",
+      "atk": 1400,
+      "def": 1400,
+      "level": 4,
+      "attribute": "EARTH",
+      "archetype": "\"C\"",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/retaliating-c-3967",
+      "card_sets": [
+         {
+            "set_name": "2016 Mega-Tin Mega Pack",
+            "set_code": "MP16-EN076",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Clash of Rebellions",
+            "set_code": "CORE-EN045",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Ghosts From the Past: The 2nd Haunting",
+            "set_code": "GFP2-EN108",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.37"
+         },
+         {
+            "set_name": "OTS Tournament Pack 4",
+            "set_code": "OP04-EN007",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 46502744,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46502744.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46502744.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46502744.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "0.99",
+            "amazon_price": "0.75",
+            "coolstuffinc_price": "1.49"
+         }
+      ]
+   },
+   {
+      "id": 89252157,
+      "name": "Rose Lover",
+      "typeline": [
+         "Plant",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can banish this card from your GY; Special Summon 1 Plant monster from your hand, and if you do, it is unaffected by your opponent's Trap effects this turn. You can only use this effect of \"Rose Lover\" once per turn.",
+      "race": "Plant",
+      "atk": 800,
+      "def": 800,
+      "level": 1,
+      "attribute": "EARTH",
+      "archetype": "Rose Dragon",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/rose-lover-7455",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN102",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.11"
+         },
+         {
+            "set_name": "Premium Gold: Return of the Bling",
+            "set_code": "PGL2-EN003",
+            "set_rarity": "Gold Secret Rare",
+            "set_rarity_code": "(GScR)",
+            "set_price": "2.64"
+         },
+         {
+            "set_name": "Secret Slayers",
+            "set_code": "SESL-EN039",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.4"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 89252157,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89252157.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89252157.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89252157.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 85032782,
+      "name": "Sauge de Fleur",
+      "typeline": [
+         "Spellcaster",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can target 1 monster you control and 1 card on the field; Special Summon this card from your hand, and if you do, destroy them. If this card is sent from the field to your GY: You can target 1 other monster in your GY; shuffle it into the Deck, then add 1 Level 1 Plant monster from your Deck or GY to your hand. You can only use each effect of \"Sauge de Fleur\" once per turn.",
+      "race": "Spellcaster",
+      "atk": 2900,
+      "def": 0,
+      "level": 8,
+      "attribute": "DARK",
+      "archetype": "Fleur",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/sauge-de-fleur-12220",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Synchro Storm",
+            "set_code": "LED8-EN021",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.57"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 85032782,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85032782.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85032782.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85032782.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "1.57",
+            "amazon_price": "0.70",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 75294187,
+      "name": "Terrifying Trap Hole Nightmare",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "If your opponent has Special Summoned a monster(s) this turn: Target 1 monster your opponent controls with 2000 or more ATK; destroy it, then if you have a \"Hole\" Normal Trap in your GY, you can banish 1 monster from your opponent's GY. You can only activate 1 \"Terrifying Trap Hole Nightmare\" per turn.",
+      "race": "Normal",
+      "archetype": "Trap Hole",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/terrifying-trap-hole-nightmare-13559",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 75294187,
+            "image_url": "https://images.ygoprodeck.com/images/cards/75294187.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75294187.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75294187.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 98827725,
+      "name": "The Phantom Knights of Shade Brigandine",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Special Summon this card in Defense Position as a Normal Monster (Warrior/DARK/Level 4/ATK 0/DEF 300). (This card is NOT treated as a Trap.) If you have no Traps in your GY, you can activate this card the turn it was Set. You can only activate 1 \"The Phantom Knights of Shade Brigandine\" per turn.",
+      "race": "Normal",
+      "archetype": "Phantom Knights",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/the-phantom-knights-of-shade-brigandine-8208",
+      "card_sets": [
+         {
+            "set_name": "Legendary Hero Decks",
+            "set_code": "LEHD-ENC25",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.25"
+         },
+         {
+            "set_name": "Maze of the Master",
+            "set_code": "MZTM-EN107",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 14",
+            "set_code": "OP14-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 14 (POR)",
+            "set_code": "OP14-PT025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Premium Gold: Infinite Gold",
+            "set_code": "PGL3-EN015",
+            "set_rarity": "Gold Secret Rare",
+            "set_rarity_code": "(GScR)",
+            "set_price": "8.23"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 98827725,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98827725.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98827725.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98827725.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "3.25",
+            "amazon_price": "9.49",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 16223761,
+      "name": "Thunder Hand",
+      "typeline": [
+         "Thunder",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If a face-up monster(s) you control with 1600 original ATK or DEF is destroyed by battle or an opponent's card effect and sent to the GY, while this card is in your hand or GY: You can Special Summon this card (but banish it when it leaves the field), and if you do, destroy 1 card your opponent controls. You can only use this effect of \"Thunder Hand\" once per turn.",
+      "race": "Thunder",
+      "atk": 1600,
+      "def": 1600,
+      "level": 4,
+      "attribute": "LIGHT",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/thunder-hand-11029",
+      "card_sets": [
+         {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN120",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Rise of the Duelist",
+            "set_code": "ROTD-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.05"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 16223761,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16223761.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16223761.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16223761.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 4206964,
+      "name": "Trap Hole",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "When your opponent Normal or Flip Summons 1 monster with 1000 or more ATK: Target that monster; destroy that target.",
+      "race": "Normal",
+      "archetype": "Hole",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/trap-hole-379",
+      "card_sets": [
+         {
+            "set_name": "2-Player Starter Deck: Yuya & Declan",
+            "set_code": "YS15-ENY17",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.1"
+         },
+         {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB1-EN118",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB5",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Legends",
+            "set_code": "DLG1-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.26"
+         },
+         {
+            "set_name": "Dark Legion Starter Deck",
+            "set_code": "YS15-ENL24",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.25"
+         },
+         {
+            "set_name": "Duel Terminal 2",
+            "set_code": "DT02-EN100",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "2.99"
+         },
+         {
+            "set_name": "Duelist League 2010 participation cards",
+            "set_code": "DL09-EN017",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "2.3"
+         },
+         {
+            "set_name": "Hobby League 3 participation card C",
+            "set_code": "HL03-EN003",
+            "set_rarity": "Ultra Parallel Rare",
+            "set_rarity_code": "(UPR)",
+            "set_price": "11.56"
+         },
+         {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-058",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "6.09"
+         },
+         {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-E046",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "9.64"
+         },
+         {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-EN058",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "16.51"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN177",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN073",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN085",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN085",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Retro Pack",
+            "set_code": "RP01-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.31"
+         },
+         {
+            "set_name": "Saber Force Starter Deck",
+            "set_code": "YS15-ENF24",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.4"
+         },
+         {
+            "set_name": "Starter Deck: Dawn of the Xyz",
+            "set_code": "YS11-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Duelist Toolbox",
+            "set_code": "5DS3-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.15"
+         },
+         {
+            "set_name": "Starter Deck: Jaden Yuki",
+            "set_code": "YSDJ-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.38"
+         },
+         {
+            "set_name": "Starter Deck: Joey",
+            "set_code": "SDJ-043",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.79"
+         },
+         {
+            "set_name": "Starter Deck: Kaiba",
+            "set_code": "SDK-033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.61"
+         },
+         {
+            "set_name": "Starter Deck: Kaiba",
+            "set_code": "SDK-E030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "5.12"
+         },
+         {
+            "set_name": "Starter Deck: Kaiba Evolution",
+            "set_code": "SKE-042",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.61"
+         },
+         {
+            "set_name": "Starter Deck: Kaiba Reloaded",
+            "set_code": "YSKR-EN042",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.34"
+         },
+         {
+            "set_name": "Starter Deck: Pegasus",
+            "set_code": "SDP-041",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.63"
+         },
+         {
+            "set_name": "Starter Deck: Syrus Truesdale",
+            "set_code": "YSDS-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.38"
+         },
+         {
+            "set_name": "Starter Deck: Xyz Symphony",
+            "set_code": "YS12-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.25"
+         },
+         {
+            "set_name": "Starter Deck: Yu-Gi-Oh! 5D's",
+            "set_code": "5DS1-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Yugi",
+            "set_code": "SDY-027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.35"
+         },
+         {
+            "set_name": "Starter Deck: Yugi",
+            "set_code": "SDY-E025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.63"
+         },
+         {
+            "set_name": "Starter Deck: Yugi Evolution",
+            "set_code": "SYE-041",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.34"
+         },
+         {
+            "set_name": "Starter Deck: Yugi Reloaded",
+            "set_code": "YSYR-EN038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.49"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Super Starter: Space-Time Showdown",
+            "set_code": "YS14-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 4206964,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4206964.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4206964.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4206964.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "1.40",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 80101899,
+      "name": "Trap Trick",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Banish 1 Normal Trap from your Deck, except \"Trap Trick\", and Set 1 card with the same name directly from your Deck, also it can be activated this turn. You can only activate 1 Trap Card for the rest of this turn after this card resolves. You can only activate 1 \"Trap Trick\" per turn.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/trap-trick-9620",
+      "card_sets": [
+         {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN213",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Maximum Gold: El Dorado",
+            "set_code": "MGED-EN152",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "2.18"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN078",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN078",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN078",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN078",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN078",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN078",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN078",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Secret Slayers",
+            "set_code": "SESL-EN060",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.62"
+         },
+         {
+            "set_name": "Soul Fusion",
+            "set_code": "SOFU-EN078",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Tactical Masters",
+            "set_code": "TAMA-EN045",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Tactical Masters",
+            "set_code": "TAMA-EN045",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 80101899,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80101899.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80101899.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80101899.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "1.42",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 48805472,
+      "name": "Traptantalizing Tune",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Discard 1 Level 4 Insect or Plant monster, or 1 Normal Trap; draw 2 cards. You can banish this card from your GY, then target 1 of your banished Level 4 Insect or Plant monsters, or Normal Traps; place it on the bottom of the Deck. You can only use each effect of \"Traptantalizing Tune\" once per turn.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/traptantalizing-tune-13595",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN024",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 48805472,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48805472.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48805472.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48805472.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.25",
+            "tcgplayer_price": "0.31",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "1.49"
+         }
+      ]
+   },
+   {
+      "id": 12801833,
+      "name": "Traptrip Garden",
+      "type": "Spell Card",
+      "humanReadableCardType": "Field Spell",
+      "frameType": "spell",
+      "desc": "During your Main Phase, you can Normal Summon 1 \"Traptrix\" monster, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) The first time each Insect or Plant monster you control would be destroyed by battle each turn, it is not destroyed. You can banish 1 monster you control; Special Summon 1 \"Traptrix\" monster from your hand or GY. You can only use this effect of \"Traptrip Garden\" once per turn.",
+      "race": "Field",
+      "archetype": "Traptrix",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/traptrip-garden-13596",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN023",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 12801833,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12801833.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12801833.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12801833.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "1.48",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 59071624,
+      "name": "Traptrix Allomerus",
+      "typeline": [
+         "Insect",
+         "Xyz",
+         "Effect"
+      ],
+      "type": "XYZ Monster",
+      "humanReadableCardType": "Xyz Effect Monster",
+      "frameType": "xyz",
+      "desc": "2+ Level 4 monsters / This card is unaffected by Trap effects while it has Xyz Material. You can only use each of the following effects of \"Traptrix Allomerus\" once per turn.\r\n● You can detach 2 materials from this card; Special Summon 1 Level 4 Insect or Plant monster from your GY.\r\n● If an opponent's monster(s) leaves the field because of your card effect, and is now in the GY or banished (except during the Damage Step): You can detach 1 material from this card, then target 1 of them; Special Summon it to your field.",
+      "race": "Insect",
+      "atk": 2200,
+      "def": 600,
+      "level": 4,
+      "attribute": "EARTH",
+      "archetype": "Traptrix",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/traptrix-allomerus-10783",
+      "card_sets": [
+         {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN068",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Eternity Code",
+            "set_code": "ETCO-EN045",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Eternity Code",
+            "set_code": "ETCO-EN045",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN040",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Lost Art Promotion (series)",
+            "set_code": "LART-EN055",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Lost Art Promotion 2023",
+            "set_code": "LART-EN055",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 59071624,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59071624.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59071624.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59071624.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "9.45",
+            "amazon_price": "7.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 75416738,
+      "name": "Traptrix Arachnocampa",
+      "typeline": [
+         "Insect",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Unaffected by the effects of \"Hole\" Normal Traps. The first time each Set card in your Spell & Trap Zone would be destroyed by card effect each turn, it is not destroyed. During the Main Phase, if you control a \"Traptrix\" monster (Quick Effect): You can Special Summon this card from your hand, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Insect or Plant monsters. You can only use this effect of \"Traptrix Arachnocampa\" once per turn.",
+      "race": "Insect",
+      "atk": 1300,
+      "def": 1500,
+      "level": 4,
+      "attribute": "EARTH",
+      "archetype": "Traptrix",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/traptrix-arachnocampa-13568",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN002",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 75416738,
+            "image_url": "https://images.ygoprodeck.com/images/cards/75416738.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75416738.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75416738.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.23",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   },
+   {
+      "id": 55428242,
+      "name": "Traptrix Atrax",
+      "typeline": [
+         "Insect",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "This card is unaffected by the effects of \"Hole\" Normal Trap Cards. You can activate \"Hole\" Normal Trap Cards from your hand. The activation and effects of Normal Trap Cards activated on your side of the field cannot be negated.",
+      "race": "Insect",
+      "atk": 1800,
+      "def": 1000,
+      "level": 4,
+      "attribute": "EARTH",
+      "archetype": "Traptrix",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/traptrix-atrax-4719",
+      "card_sets": [
+         {
+            "set_name": "2014 Mega-Tin Mega Pack",
+            "set_code": "MP14-EN085",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Judgment of the Light",
+            "set_code": "JOTL-EN032",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Premium Gold: Return of the Bling",
+            "set_code": "PGL2-EN036",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN003",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 55428242,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55428242.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55428242.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55428242.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "3.99",
+            "amazon_price": "3.09",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 48183890,
+      "name": "Traptrix Atypus",
+      "typeline": [
+         "Insect",
+         "Link",
+         "Effect"
+      ],
+      "type": "Link Monster",
+      "humanReadableCardType": "Link Effect Monster",
+      "frameType": "link",
+      "desc": "2+ monsters, including an Insect or Plant monster\r\nThis Link Summoned card is unaffected by Trap effects. All \"Traptrix\" monsters you control gain 1000 ATK while you have a Normal Trap in your GY. Once per turn: You can target face-up cards your opponent controls, up to the number of Insect and Plant monsters you control; negate their effects (until the end of this turn), then you can apply this effect.\r\n ● Banish 1 Normal Trap from your GY, and if you do, destroy 1 of those targeted face-up cards.",
+      "race": "Insect",
+      "atk": 1800,
+      "def": null,
+      "level": null,
+      "attribute": "EARTH",
+      "archetype": "Traptrix",
+      "linkval": 3,
+      "linkmarkers": [
+         "Left",
+         "Right",
+         "Bottom"
+      ],
+      "ygoprodeck_url": "https://ygoprodeck.com/card/traptrix-atypus-13616",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN043",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 48183890,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48183890.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48183890.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48183890.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "1.25",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 952523,
+      "name": "Traptrix Cularia",
+      "typeline": [
+         "Plant",
+         "Link",
+         "Effect"
+      ],
+      "type": "Link Monster",
+      "humanReadableCardType": "Link Effect Monster",
+      "frameType": "link",
+      "desc": "2 Insect and/or Plant monsters\r\nThis Link Summoned card is unaffected by Trap effects. You can only use each of the following effects of \"Traptrix Cularia\" once per turn. After you activate a \"Hole\" Normal Trap Card, you can Set it instead of sending it to the GY. During your End Phase: You can target 1 \"Traptrix\" monster in your GY; Special Summon it in Defense Position.",
+      "race": "Plant",
+      "atk": 1800,
+      "def": null,
+      "level": null,
+      "attribute": "EARTH",
+      "archetype": "Traptrix",
+      "linkval": 2,
+      "linkmarkers": [
+         "Right",
+         "Bottom"
+      ],
+      "ygoprodeck_url": "https://ygoprodeck.com/card/traptrix-cularia-11838",
+      "card_sets": [
+         {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN087",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Lightning Overdrive",
+            "set_code": "LIOV-EN046",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN041",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 952523,
+            "image_url": "https://images.ygoprodeck.com/images/cards/952523.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/952523.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/952523.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "1.50",
+            "amazon_price": "54.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 45803070,
+      "name": "Traptrix Dionaea",
+      "typeline": [
+         "Plant",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "This card is unaffected by the effects of \"Hole\" Normal Trap Cards. When this card is Normal Summoned: You can target 1 \"Traptrix\" monster in your Graveyard; Special Summon that target in Defense Position. When this card is Special Summoned: You can target 1 \"Hole\" Normal Trap Card in your Graveyard; Set that target, but banish it during the End Phase of your next turn if it is still on the field. You can only use this effect of \"Traptrix Dionaea\" once per turn.",
+      "race": "Plant",
+      "atk": 1700,
+      "def": 1100,
+      "level": 4,
+      "attribute": "EARTH",
+      "archetype": "Traptrix",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/traptrix-dionaea-3900",
+      "card_sets": [
+         {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN018",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Maximum Gold",
+            "set_code": "MAGO-EN075",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Premium Gold: Return of the Bling",
+            "set_code": "PGL2-EN041",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Primal Origin",
+            "set_code": "PRIO-EN025",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN006",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 45803070,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45803070.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45803070.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45803070.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "7.90",
+            "amazon_price": "2.13",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 88078306,
+      "name": "Traptrix Genlisea",
+      "typeline": [
+         "Plant",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Unaffected by the effects of \"Hole\" Normal Traps. You can Tribute this card; Set 2 \"Hole\" Normal Traps with different names, 1 from your Deck and 1 from your GY, but banish them when they leave the field. You can only use this effect of \"Traptrix Genlisea\" once per turn.",
+      "race": "Plant",
+      "atk": 1200,
+      "def": 1600,
+      "level": 4,
+      "attribute": "EARTH",
+      "archetype": "Traptrix",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/traptrix-genlisea-10959",
+      "card_sets": [
+         {
+            "set_name": "Duel Overload",
+            "set_code": "DUOV-EN054",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.29"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Lost Art Promotion (series)",
+            "set_code": "LART-EN056",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Lost Art Promotion 2023",
+            "set_code": "LART-EN056",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 88078306,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88078306.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88078306.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88078306.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "9.99",
+            "amazon_price": "1.49",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 74577599,
+      "name": "Traptrix Holeutea",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "You can activate this card the turn it was Set, by discarding 1 Normal Trap. Special Summon this card in Defense Position as a Normal Monster (Plant/EARTH/Level 4/ATK 400/DEF 2400). (This card is NOT treated as a Trap.) You can banish this card from your GY, then target 1 \"Traptrix\" monster in your GY; Special Summon it. You can only use 1 \"Traptrix Holeutea\" effect per turn, and only once that turn.",
+      "race": "Normal",
+      "archetype": "Hole",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/traptrix-holeutea-13618",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN046",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 74577599,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74577599.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74577599.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74577599.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.25",
+            "tcgplayer_price": "0.26",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 82738277,
+      "name": "Traptrix Mantis",
+      "typeline": [
+         "Insect",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card is Normal Summoned: You can add 1 \"Traptrix\" monster from your Deck to your hand. Unaffected by the effects of \"Hole\" Normal Traps. Once per turn (Quick Effect): You can target 1 Set Spell/Trap you control; return that target to the hand, then you can Set 1 Spell/Trap from your hand.",
+      "race": "Insect",
+      "atk": 1500,
+      "def": 1300,
+      "level": 4,
+      "attribute": "EARTH",
+      "archetype": "Traptrix",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/traptrix-mantis-8768",
+      "card_sets": [
+         {
+            "set_name": "Code of the Duelist",
+            "set_code": "COTD-EN030",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Maximum Gold",
+            "set_code": "MAGO-EN076",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN045",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 82738277,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82738277.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82738277.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82738277.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.99",
+            "amazon_price": "0.60",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 91812341,
+      "name": "Traptrix Myrmeleo",
+      "typeline": [
+         "Insect",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "This card is unaffected by the effects of \"Hole\" Normal Trap Cards. When this card is Normal Summoned: You can add 1 \"Hole\" Normal Trap Card from your Deck to your hand. If this card is Special Summoned: Target 1 Spell/Trap Card your opponent controls; destroy that target.",
+      "race": "Insect",
+      "atk": 1600,
+      "def": 1200,
+      "level": 4,
+      "attribute": "EARTH",
+      "archetype": "Traptrix",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/traptrix-myrmeleo-7655",
+      "card_sets": [
+         {
+            "set_name": "2014 Mega-Tin Mega Pack",
+            "set_code": "MP14-EN086",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Astral Pack Six",
+            "set_code": "AP06-EN004",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Judgment of the Light",
+            "set_code": "JOTL-EN033",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Maximum Gold",
+            "set_code": "MAGO-EN074",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Premium Gold: Return of the Bling",
+            "set_code": "PGL2-EN037",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN210",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN210",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 91812341,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91812341.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91812341.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91812341.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "7.90",
+            "amazon_price": "1.68",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 28201945,
+      "name": "Traptrix Nepenthes",
+      "typeline": [
+         "Plant",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "This card is unaffected by the effects of \"Hole\" Normal Trap Cards. If you activate a \"Hole\" Normal Trap Card (except during the Damage Step): You can add to your hand, or Special Summon, 1 \"Traptrix\" monster from your Deck, except \"Traptrix Nepenthes\". You can only use this effect of \"Traptrix Nepenthes\" once per turn.",
+      "race": "Plant",
+      "atk": 800,
+      "def": 2000,
+      "level": 4,
+      "attribute": "EARTH",
+      "archetype": "Traptrix",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/traptrix-nepenthes-2402",
+      "card_sets": [
+         {
+            "set_name": "2014 Mega-Tin Mega Pack",
+            "set_code": "MP14-EN087",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Judgment of the Light",
+            "set_code": "JOTL-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Premium Gold: Return of the Bling",
+            "set_code": "PGL2-EN038",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN005",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 28201945,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28201945.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28201945.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28201945.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "1.00",
+            "amazon_price": "1.68",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 1688285,
+      "name": "Traptrix Pinguicula",
+      "typeline": [
+         "Plant",
+         "Xyz",
+         "Effect"
+      ],
+      "type": "XYZ Monster",
+      "humanReadableCardType": "Xyz Effect Monster",
+      "frameType": "xyz",
+      "desc": "2 Level 4 monsters\r\nWhile this card has material, it is unaffected by Trap effects and the activated effects of other monsters with the same Type as this card's material. You can only use each of the following effects of \"Traptrix Pinguicula\" once per turn. You can detach 1 material from this card; add 1 \"Traptrix\" monster from your Deck to your hand. If a monster(s) owned by your opponent is sent to the GY, or banished, by a card effect (except during the Damage Step): You can attach 1 of those monsters to this card as material.",
+      "race": "Plant",
+      "atk": 2500,
+      "def": 300,
+      "level": 4,
+      "attribute": "EARTH",
+      "archetype": "Traptrix",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/traptrix-pinguicula-13617",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN042",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 1688285,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1688285.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1688285.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1688285.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.26",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "1.49",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 49027020,
+      "name": "Traptrix Pudica",
+      "typeline": [
+         "Plant",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Unaffected by the effects of \"Hole\" Normal Traps. You can only use each of the following effects of \"Traptrix Pudica\" once per turn. When this card is Normal Summoned: You can add 1 \"Traptrip Garden\" from your Deck to your hand. If this card is Special Summoned: You can target 1 Special Summoned monster your opponent controls; banish it, also during the next Standby Phase, your opponent can Special Summon 1 of their banished monsters.",
+      "race": "Plant",
+      "atk": 900,
+      "def": 1900,
+      "level": 4,
+      "attribute": "EARTH",
+      "archetype": "Traptrix",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/traptrix-pudica-13592",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 49027020,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49027020.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49027020.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49027020.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.28",
+            "tcgplayer_price": "0.36",
+            "ebay_price": "1.48",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 6511113,
+      "name": "Traptrix Rafflesia",
+      "typeline": [
+         "Plant",
+         "Xyz",
+         "Effect"
+      ],
+      "type": "XYZ Monster",
+      "humanReadableCardType": "Xyz Effect Monster",
+      "frameType": "xyz",
+      "desc": "2 Level 4 monsters\nThis card is unaffected by Trap effects while it has Xyz Material. \"Traptrix\" monsters you control, except \"Traptrix Rafflesia\", cannot be destroyed by battle or card effects. Your opponent cannot target \"Traptrix\" monsters you control, except \"Traptrix Rafflesia\", with card effects. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card and send 1 \"Hole\" Normal Trap Card that meets its activation conditions from your Deck to the Graveyard; this effect becomes that Trap Card's effect when that card is activated.",
+      "race": "Plant",
+      "atk": 300,
+      "def": 2500,
+      "level": 4,
+      "attribute": "EARTH",
+      "archetype": "Traptrix",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/traptrix-rafflesia-572",
+      "card_sets": [
+         {
+            "set_name": "2016 Mega-Tin Mega Pack",
+            "set_code": "MP16-EN239",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN034",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN034",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN034",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN034",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN034",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN034",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN034",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Breakers of Shadow",
+            "set_code": "BOSH-EN099",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 13",
+            "set_code": "OP13-EN003",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 13 (POR)",
+            "set_code": "OP13-PT003",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN039",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 6511113,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6511113.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6511113.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6511113.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "44.99",
+            "amazon_price": "6.11",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 73639099,
+      "name": "Traptrix Sera",
+      "typeline": [
+         "Plant",
+         "Link",
+         "Effect"
+      ],
+      "type": "Link Monster",
+      "humanReadableCardType": "Link Effect Monster",
+      "frameType": "link",
+      "desc": "1 non-Link \"Traptrix\" monster\r\nThis Link Summoned card is unaffected by Trap effects. You can only use each of the following effects of \"Traptrix Sera\" once per turn, and not during the Damage Step.\r\n● If a Normal Trap Card is activated: You can Special Summon 1 \"Traptrix\" monster from your Deck with a different name than the cards you control.\r\n● If your other \"Traptrix\" monster's effect is activated: You can Set 1 \"Hole\" Normal Trap directly from the Deck.",
+      "race": "Plant",
+      "atk": 800,
+      "def": null,
+      "level": null,
+      "attribute": "EARTH",
+      "archetype": "Traptrix",
+      "linkval": 1,
+      "linkmarkers": [
+         "Bottom"
+      ],
+      "ygoprodeck_url": "https://ygoprodeck.com/card/traptrix-sera-9941",
+      "card_sets": [
+         {
+            "set_name": "Battles of Legend: Hero's Revenge",
+            "set_code": "BLHR-EN049",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "25.9"
+         },
+         {
+            "set_name": "Magnificent Mavens",
+            "set_code": "MAMA-EN074",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN075",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN075",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN075",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN075",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN075",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN075",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN075",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN044",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 73639099,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73639099.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73639099.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73639099.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "1.95",
+            "amazon_price": "18.13",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 29616929,
+      "name": "Traptrix Trap Hole Nightmare",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "When a monster that was Special Summoned this turn activates its effect on your opponent's field: Negate that effect, and if you do, destroy that card.",
+      "race": "Normal",
+      "archetype": "Traptrix",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/traptrix-trap-hole-nightmare-2509",
+      "card_sets": [
+         {
+            "set_name": "2014 Mega-Tin Mega Pack",
+            "set_code": "MP14-EN110",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Astral Pack Six",
+            "set_code": "AP06-EN003",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Judgment of the Light",
+            "set_code": "JOTL-EN077",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Master of Pendulum Structure Deck",
+            "set_code": "SDMP-EN038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.62"
+         },
+         {
+            "set_name": "Premium Gold: Return of the Bling",
+            "set_code": "PGL2-EN069",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Powercode Link",
+            "set_code": "SDPL-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 29616929,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29616929.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29616929.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29616929.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "3.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 28868394,
+      "name": "Traptrix Vesiculo",
+      "typeline": [
+         "Plant",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Unaffected by the effects of \"Hole\" Normal Traps. You can only use 1 of the following effects of \"Traptrix Vesiculo\" per turn, and only once that turn. You can send 1 Set Trap you control to the GY; Special Summon this card from your hand. If you control no cards in your Spell & Trap Zone: You can banish this card from your GY, then target 1 \"Hole\" Normal Trap in your GY; Set it to your field.",
+      "race": "Plant",
+      "atk": 1400,
+      "def": 1400,
+      "level": 4,
+      "attribute": "EARTH",
+      "archetype": "Traptrix",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/traptrix-vesiculo-11837",
+      "card_sets": [
+         {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN063",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Lightning Overdrive",
+            "set_code": "LIOV-EN016",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 28868394,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28868394.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28868394.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28868394.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "1.50",
+            "amazon_price": "18.12",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 1005587,
+      "name": "Void Trap Hole",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "When your opponent Special Summons a monster(s) with 2000 or more ATK: Negate the effects of 1 of those monsters with 2000 or more ATK, and if you do, destroy it.",
+      "race": "Normal",
+      "archetype": "Hole",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/void-trap-hole-91",
+      "card_sets": [
+         {
+            "set_name": "Premium Gold: Infinite Gold",
+            "set_code": "PGL3-EN038",
+            "set_rarity": "Gold Secret Rare",
+            "set_rarity_code": "(GScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN190",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN190",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Return of the Duelist",
+            "set_code": "REDU-EN076",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 1005587,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1005587.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1005587.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1005587.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "2.94",
+            "amazon_price": "4.75",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   }
+]
