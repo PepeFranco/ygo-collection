@@ -70,11 +70,71 @@ export const normalizeCardCode = (cardCode: string): string => {
   return `${setCode}-${getPaddedCardNumber(cardNumber)}`;
 };
 
-export const addCardToCollection = async (
-  cardCode: string,
-  selectedRarity?: string,
+const addCardWithSet = async (
+  cardSet: any,
+  cardInfo: any,
+  cardSets: any[],
   edition?: string
-): Promise<boolean | { error: string; rarities: string[] }> => {
+): Promise<boolean> => {
+  // Create collection entry using shared function
+  const newCard = getCardForCollection(
+    cardInfo,
+    cardSet.set_code,
+    cardSet.set_name,
+    cardSet.set_rarity || "",
+    edition || "",
+    cardSets
+  );
+
+  // Set the price based on the specific card set
+  (newCard.Price as unknown as number) = parseFloat(cardSet.set_price) || 0;
+
+  // Read existing collection
+  let collection: CollectionRow[] = [];
+  try {
+    const collectionData = fs.readFileSync(
+      path.join(__dirname, "../data/collection.json"),
+      "utf8"
+    );
+    collection = JSON.parse(collectionData);
+  } catch (error) {
+    console.log("📝 Creating new collection file");
+  }
+
+  // Add new card to collection
+  collection.push(newCard);
+
+  // Write back to file
+  fs.writeFileSync(
+    path.join(__dirname, "../data/collection.json"),
+    JSON.stringify(collection, null, 3)
+  );
+
+  console.log(
+    `✅ Added card: ${cardInfo.name} (${cardSet.set_code}) to collection`
+  );
+  console.log(`📊 Collection now has ${collection.length} cards`);
+
+  return true;
+};
+
+export const addCardToCollection = async ({
+  cardCode,
+  selectedRarity,
+  selectedSetCode,
+  edition,
+}: {
+  cardCode: string;
+  selectedRarity?: string;
+  selectedSetCode?: string;
+  edition?: string;
+}): Promise<
+  | boolean
+  | {
+      error: string;
+      rarities: { display: string; code: string; rarity: string }[];
+    }
+> => {
   try {
     // Normalize card code for consistency
     const normalizedCardCode = normalizeCardCode(cardCode);
@@ -143,13 +203,49 @@ export const addCardToCollection = async (
       return false;
     }
 
-    // If multiple rarities exist
+    // If multiple rarities exist and no specific rarity selected
     if (matchingSets.length > 1 && !selectedRarity) {
-      const rarities = matchingSets.map((set: any) => set.set_rarity);
+      const rarities = matchingSets.map((set: any) => ({
+        display: `${set.set_rarity} (${set.set_code})`,
+        code: set.set_code,
+        rarity: set.set_rarity,
+      }));
       return {
         error: "Multiple rarities found for this card code",
         rarities: rarities,
       };
+    }
+
+    // If a rarity is selected, check if there are multiple set codes for that rarity
+    if (selectedRarity && matchingSets.length > 1) {
+      // If both rarity and set code are provided, check if we can find exact match
+      if (selectedSetCode) {
+        const exactMatch = matchingSets.find(
+          (set: any) =>
+            set.set_rarity.includes(selectedRarity) &&
+            set.set_code === selectedSetCode
+        );
+        if (exactMatch) {
+          // Found exact match, proceed with this specific set
+          return await addCardWithSet(exactMatch, cardInfo, cardSets, edition);
+        }
+      }
+
+      const matchingRaritySets = matchingSets.filter((set: any) =>
+        set.set_rarity.includes(selectedRarity)
+      );
+
+      if (matchingRaritySets.length > 1) {
+        const rarities = matchingSets.map((set: any) => ({
+          display: `${set.set_rarity} (${set.set_code})`,
+          code: set.set_code,
+          rarity: set.set_rarity,
+        }));
+        return {
+          error: "Multiple rarities found for this card code",
+          rarities: rarities,
+        };
+      }
     }
 
     const getCardSet = () => {
@@ -175,46 +271,7 @@ export const addCardToCollection = async (
       return false;
     }
 
-    // Create collection entry using shared function
-    const newCard = getCardForCollection(
-      cardInfo,
-      cardSet.set_code,
-      cardSet.set_name,
-      cardSet.set_rarity || "",
-      edition || "",
-      cardSets
-    );
-
-    // Set the price based on the specific card set
-    (newCard.Price as unknown as number) = parseFloat(cardSet.set_price) || 0;
-
-    // Read existing collection
-    let collection: CollectionRow[] = [];
-    try {
-      const collectionData = fs.readFileSync(
-        path.join(__dirname, "../data/collection.json"),
-        "utf8"
-      );
-      collection = JSON.parse(collectionData);
-    } catch (error) {
-      console.log("📝 Creating new collection file");
-    }
-
-    // Add new card to collection
-    collection.push(newCard);
-
-    // Write back to file
-    fs.writeFileSync(
-      path.join(__dirname, "../data/collection.json"),
-      JSON.stringify(collection, null, 3)
-    );
-
-    console.log(
-      `✅ Added card: ${cardInfo.name} (${normalizedCardCode}) to collection`
-    );
-    console.log(`📊 Collection now has ${collection.length} cards`);
-
-    return true;
+    return await addCardWithSet(cardSet, cardInfo, cardSets, edition);
   } catch (error) {
     console.error("❌ Error adding card:", error);
     return false;

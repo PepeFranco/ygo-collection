@@ -62,10 +62,10 @@ export const createCLI = (rlInterface?: CLIInterface) => {
     return selectedEdition;
   };
 
-  const promptForRarity = async (rarities: string[]): Promise<string | null> => {
+  const promptForRarity = async (rarities: { display: string; code: string; rarity: string }[]): Promise<{ rarity: string; setCode: string } | null> => {
     console.log("Available rarities:");
-    rarities.forEach((rarity, index) => {
-      console.log(`${index + 1}. ${rarity}`);
+    rarities.forEach((rarityObj, index) => {
+      console.log(`${index + 1}. ${rarityObj.display}`);
     });
 
     const rarityInput = await rl.question(colorPrompt("\nSelect rarity number: ", colors.yellow));
@@ -76,9 +76,9 @@ export const createCLI = (rlInterface?: CLIInterface) => {
       return null;
     }
 
-    const selectedRarity = rarities[rarityIndex];
-    console.log(`\n🎯 Selected: ${selectedRarity}`);
-    return selectedRarity;
+    const selectedRarityObj = rarities[rarityIndex];
+    console.log(`\n🎯 Selected: ${selectedRarityObj.display}`);
+    return { rarity: selectedRarityObj.rarity, setCode: selectedRarityObj.code };
   };
 
   const startCli = async () => {
@@ -138,27 +138,27 @@ const startIndividualMode = async () => {
       }`
     );
 
-    const result = await addCardToCollection(
-      trimmedInput,
-      undefined,
-      selectedEdition
-    );
+    const result = await addCardToCollection({
+      cardCode: trimmedInput,
+      edition: selectedEdition
+    });
 
     // Check if multiple rarities were found
     if (typeof result === "object" && result.error && result.rarities) {
       console.log(`\n${result.error}`);
       
-      const selectedRarity = await promptForRarity(result.rarities);
-      if (!selectedRarity) {
+      const selectedRarityInfo = await promptForRarity(result.rarities);
+      if (!selectedRarityInfo) {
         await promptForCard();
         return;
       }
 
-      const finalResult = await addCardToCollection(
-        trimmedInput,
-        selectedRarity,
-        selectedEdition
-      );
+      const finalResult = await addCardToCollection({
+        cardCode: trimmedInput,
+        selectedRarity: selectedRarityInfo.rarity,
+        selectedSetCode: selectedRarityInfo.setCode,
+        edition: selectedEdition
+      });
       if (!finalResult) {
         console.log("❌ Failed to add card with selected rarity");
       }
@@ -243,27 +243,27 @@ const startBatchMode = async () => {
       }`
     );
 
-    const result = await addCardToCollection(
-      fullCardCode,
-      undefined,
-      selectedEdition
-    );
+    const result = await addCardToCollection({
+      cardCode: fullCardCode,
+      edition: selectedEdition
+    });
 
     // Check if multiple rarities were found
     if (typeof result === "object" && result.error && result.rarities) {
       console.log(`\n${result.error}`);
       
-      const selectedRarity = await promptForRarity(result.rarities);
-      if (!selectedRarity) {
+      const selectedRarityInfo = await promptForRarity(result.rarities);
+      if (!selectedRarityInfo) {
         await promptForCardNumber();
         return;
       }
 
-      const finalResult = await addCardToCollection(
-        fullCardCode,
-        selectedRarity,
-        selectedEdition
-      );
+      const finalResult = await addCardToCollection({
+        cardCode: fullCardCode,
+        selectedRarity: selectedRarityInfo.rarity,
+        selectedSetCode: selectedRarityInfo.setCode,
+        edition: selectedEdition
+      });
       if (!finalResult) {
         console.log("❌ Failed to add card with selected rarity");
       }

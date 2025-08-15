@@ -59,18 +59,21 @@ describe("addCardCliImpl - Clean Async/Await Version", () => {
       const cli = createCLI(mockRL);
       await cli.startCli();
 
-      expect(addCardToCollection).toHaveBeenCalledWith(
-        "BLUE-001",
-        undefined,
-        ""
-      );
+      expect(addCardToCollection).toHaveBeenCalledWith({
+        cardCode: "BLUE-001",
+        edition: ""
+      });
       expect(consoleSpy).toHaveBeenCalledWith("🏷️ No edition selected");
     });
 
     it("saves individual card with limited edition and multiple rarities", async () => {
       const mockMultipleRarities = {
         error: "Multiple rarities found for this card code",
-        rarities: ["Common", "Rare", "Secret Rare"],
+        rarities: [
+          { display: "Common (RED-123)", code: "RED-123", rarity: "Common" },
+          { display: "Common (RED-EN123)", code: "RED-EN123", rarity: "Common" },
+          { display: "Secret Rare (RED-EN123)", code: "RED-EN123", rarity: "Secret Rare" },
+        ],
       };
 
       (addCardToCollection as jest.Mock)
@@ -87,18 +90,18 @@ describe("addCardCliImpl - Clean Async/Await Version", () => {
       const cli = createCLI(mockRL);
       await cli.startCli();
 
-      expect(addCardToCollection).toHaveBeenCalledWith(
-        "RED-123",
-        undefined,
-        "LIMITED"
-      );
-      expect(addCardToCollection).toHaveBeenCalledWith(
-        "RED-123",
-        "Secret Rare",
-        "LIMITED"
-      );
+      expect(addCardToCollection).toHaveBeenCalledWith({
+        cardCode: "RED-123",
+        edition: "LIMITED"
+      });
+      expect(addCardToCollection).toHaveBeenCalledWith({
+        cardCode: "RED-123",
+        selectedRarity: "Secret Rare",
+        selectedSetCode: "RED-EN123",
+        edition: "LIMITED"
+      });
       expect(consoleSpy).toHaveBeenCalledWith("🏷️ Selected: Limited Edition");
-      expect(consoleSpy).toHaveBeenCalledWith("\n🎯 Selected: Secret Rare");
+      expect(consoleSpy).toHaveBeenCalledWith("\n🎯 Selected: Secret Rare (RED-EN123)");
     });
 
     it("can handle card not found", async () => {
@@ -113,11 +116,10 @@ describe("addCardCliImpl - Clean Async/Await Version", () => {
       const cli = createCLI(mockRL);
       await cli.startCli();
 
-      expect(addCardToCollection).toHaveBeenCalledWith(
-        "NOTFOUND-999",
-        undefined,
-        "1st"
-      );
+      expect(addCardToCollection).toHaveBeenCalledWith({
+        cardCode: "NOTFOUND-999",
+        edition: "1st"
+      });
       expect(consoleSpy).toHaveBeenCalledWith("❌ Failed to add card");
     });
   });
@@ -137,22 +139,23 @@ describe("addCardCliImpl - Clean Async/Await Version", () => {
       const cli = createCLI(mockRL);
       await cli.startCli();
 
-      expect(addCardToCollection).toHaveBeenCalledWith(
-        "SGX1-001",
-        undefined,
-        "LIMITED"
-      );
-      expect(addCardToCollection).toHaveBeenCalledWith(
-        "SGX1-A25",
-        undefined,
-        "LIMITED"
-      );
+      expect(addCardToCollection).toHaveBeenCalledWith({
+        cardCode: "SGX1-001",
+        edition: "LIMITED"
+      });
+      expect(addCardToCollection).toHaveBeenCalledWith({
+        cardCode: "SGX1-A25",
+        edition: "LIMITED"
+      });
     });
 
     it("handles multiple rarities on cards in batch mode", async () => {
       const mockMultipleRarities = {
         error: "Multiple rarities found for this card code",
-        rarities: ["Common", "Super Rare"],
+        rarities: [
+          { display: "Common (TEST-012)", code: "TEST-012", rarity: "Common" },
+          { display: "Super Rare (TEST-EN012)", code: "TEST-EN012", rarity: "Super Rare" },
+        ],
       };
 
       (addCardToCollection as jest.Mock)
@@ -172,22 +175,21 @@ describe("addCardCliImpl - Clean Async/Await Version", () => {
       const cli = createCLI(mockRL);
       await cli.startCli();
 
-      expect(addCardToCollection).toHaveBeenCalledWith(
-        "TEST-005",
-        undefined,
-        "1st"
-      );
-      expect(addCardToCollection).toHaveBeenCalledWith(
-        "TEST-012",
-        undefined,
-        "1st"
-      );
-      expect(addCardToCollection).toHaveBeenCalledWith(
-        "TEST-012",
-        "Super Rare",
-        "1st"
-      );
-      expect(consoleSpy).toHaveBeenCalledWith("\n🎯 Selected: Super Rare");
+      expect(addCardToCollection).toHaveBeenCalledWith({
+        cardCode: "TEST-005",
+        edition: "1st"
+      });
+      expect(addCardToCollection).toHaveBeenCalledWith({
+        cardCode: "TEST-012",
+        edition: "1st"
+      });
+      expect(addCardToCollection).toHaveBeenCalledWith({
+        cardCode: "TEST-012",
+        selectedRarity: "Super Rare",
+        selectedSetCode: "TEST-EN012",
+        edition: "1st"
+      });
+      expect(consoleSpy).toHaveBeenCalledWith("\n🎯 Selected: Super Rare (TEST-EN012)");
     });
 
     it("handles card failure in batch mode", async () => {
@@ -208,21 +210,18 @@ describe("addCardCliImpl - Clean Async/Await Version", () => {
       const cli = createCLI(mockRL);
       await cli.startCli();
 
-      expect(addCardToCollection).toHaveBeenCalledWith(
-        "FAIL-001",
-        undefined,
-        ""
-      );
-      expect(addCardToCollection).toHaveBeenCalledWith(
-        "FAIL-099",
-        undefined,
-        ""
-      );
-      expect(addCardToCollection).toHaveBeenCalledWith(
-        "FAIL-003",
-        undefined,
-        ""
-      );
+      expect(addCardToCollection).toHaveBeenCalledWith({
+        cardCode: "FAIL-001",
+        edition: ""
+      });
+      expect(addCardToCollection).toHaveBeenCalledWith({
+        cardCode: "FAIL-099",
+        edition: ""
+      });
+      expect(addCardToCollection).toHaveBeenCalledWith({
+        cardCode: "FAIL-003",
+        edition: ""
+      });
       expect(consoleSpy).toHaveBeenCalledWith("❌ Failed to add card");
       expect(consoleSpy).toHaveBeenCalledWith("🏷️ No edition selected");
     });
