@@ -268,6 +268,113 @@ describe("addCardCliImpl - Clean Async/Await Version", () => {
       );
     });
 
+    it("saves individual card with limited edition and multiple rarities per set", async () => {
+      // Temporarily disable console mocking to see errors
+      consoleSpy.mockRestore();
+      consoleErrorSpy.mockRestore();
+
+      // Setup mock data for card with multiple rarities
+      jest.mocked(fs.readFileSync).mockImplementation((filePath) => {
+        if (filePath.toString().includes("cardsets.json")) {
+          return JSON.stringify([
+            {
+              set_name: "Red Eyes Set",
+              set_code: "RED",
+              num_of_cards: 100,
+              tcg_date: "2023-01-01",
+            },
+          ]);
+        }
+        if (filePath.toString().includes("collection.json")) {
+          return JSON.stringify([]);
+        }
+        if (filePath.toString().includes("red eyes set.json")) {
+          return JSON.stringify([
+            {
+              id: 67890,
+              name: "Red Eyes Black Dragon",
+              type: "Normal Monster",
+              race: "Dragon",
+              atk: 2400,
+              def: 2000,
+              level: 7,
+              attribute: "DARK",
+              card_sets: [
+                {
+                  set_name: "Red Eyes Set",
+                  set_code: "RED-123",
+                  set_rarity: "Common",
+                  set_price: "5.00",
+                },
+                {
+                  set_name: "Red Eyes Set",
+                  set_code: "RED-EN123",
+                  set_rarity: "Common",
+                  set_price: "3.00",
+                },
+                {
+                  set_name: "Red Eyes Set",
+                  set_code: "RED-EN123",
+                  set_rarity: "Secret Rare",
+                  set_price: "25.00",
+                },
+              ],
+              card_images: [
+                {
+                  image_url_small: "https://test.com/red-eyes.jpg",
+                },
+              ],
+            },
+          ]);
+        }
+        return "[]";
+      });
+
+      mockQuestion
+        .mockResolvedValueOnce("1") // Mode selection
+        .mockResolvedValueOnce("RED-123") // Card code
+        .mockResolvedValueOnce("2") // Limited Edition
+        .mockResolvedValueOnce("2") // Select Common (2nd option)
+        .mockResolvedValueOnce("exit"); // Exit
+
+      const cli = createCLI(mockRL);
+      await cli.startCli();
+
+      expect(fs.writeFileSync).toHaveBeenCalledWith(
+        path.join(__dirname, "../data/collection.json"),
+        JSON.stringify(
+          [
+            {
+              Name: "Red Eyes Black Dragon",
+              Code: "RED-EN123",
+              Set: "Red Eyes Set",
+              Rarity: "Common",
+              Edition: "LIMITED",
+              "In Deck": "",
+              ID: 67890,
+              Type: "Normal Monster",
+              ATK: 2400,
+              DEF: 2000,
+              Level: 7,
+              "Card Type": "Dragon",
+              Attribute: "DARK",
+              Archetype: "",
+              Scale: "",
+              "Link Scale": "",
+              "Earliest Set": "Red Eyes Set",
+              "Earliest Date": "2023-01-01",
+              "Is Speed Duel": "No",
+              "Is Speed Duel Legal": "",
+              Keep: "",
+              Price: 3,
+            },
+          ],
+          null,
+          3
+        )
+      );
+    });
+
     it("can handle card not found", async () => {
       // Temporarily disable console mocking to see errors
       consoleSpy.mockRestore();
@@ -728,7 +835,7 @@ describe("addCardCliImpl - Clean Async/Await Version", () => {
 
       // Verify that writeFileSync was called twice (for first and third card, but not for failed second card)
       expect(fs.writeFileSync).toHaveBeenCalledTimes(2);
-      
+
       // Check the final call - adding third card after second failed
       expect(fs.writeFileSync).toHaveBeenLastCalledWith(
         path.join(__dirname, "../data/collection.json"),
