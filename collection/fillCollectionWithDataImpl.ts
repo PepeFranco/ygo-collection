@@ -283,6 +283,7 @@ const getCardSet = (
       cardInfo["card_sets"]
         .map((cs) => ({
           ...cs,
+          // Convert "Short Print" rarities to "Common" to normalize rarity values
           set_rarity: cs["set_rarity"].toLowerCase().includes("short")
             ? "Common"
             : cs["set_rarity"],
