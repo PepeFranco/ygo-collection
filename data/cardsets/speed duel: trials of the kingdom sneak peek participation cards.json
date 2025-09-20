@@ -1,0 +1,823 @@
+[
+   {
+      "id": 300302004,
+      "name": "Digging for Gold",
+      "type": "Skill Card",
+      "humanReadableCardType": "Skill - David",
+      "frameType": "skill",
+      "desc": "Activate this Skill during your Main Phase. Once per Duel, you can banish 3 cards from your GY, then draw 1 card.",
+      "race": "David",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/digging-for-gold-10764",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel: Battle City Box",
+            "set_code": "SBCB-ENS20",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.11"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom Sneak Peek participation cards",
+            "set_code": "SBTK-ENSP9",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 300302004,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300302004.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302004.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302004.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.39",
+            "ebay_price": "0.99",
+            "amazon_price": "4.74",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 300302001,
+      "name": "Fusion Party!",
+      "type": "Skill Card",
+      "humanReadableCardType": "Skill - Christine",
+      "frameType": "skill",
+      "desc": "Activate this Skill during your Main Phase. Once per Duel, you can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material.",
+      "race": "Christine",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/fusion-party-10767",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel Tournament Pack 4",
+            "set_code": "STP4-ENS04",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Battle City Box",
+            "set_code": "SBCB-ENS17",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.22"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom Sneak Peek participation cards",
+            "set_code": "SBTK-ENSP6",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 300302001,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300302001.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302001.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302001.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.99",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 90876561,
+      "name": "Jack's Knight",
+      "typeline": [
+         "Warrior",
+         "Normal"
+      ],
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "desc": "A strong master swordsman. His loyalty is to justice, his duty to protect the weak.",
+      "race": "Warrior",
+      "atk": 1900,
+      "def": 1000,
+      "level": 5,
+      "attribute": "LIGHT",
+      "archetype": "Knight",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/jack-s-knight-7587",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN065",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "103.49"
+         },
+         {
+            "set_name": "Duelist Pack: Battle City",
+            "set_code": "DPBC-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Pack: Yugi",
+            "set_code": "DPYG-EN004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.28"
+         },
+         {
+            "set_name": "Elemental Energy",
+            "set_code": "EEN-EN005",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Elemental Energy",
+            "set_code": "EEN-EN005",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "King's Court",
+            "set_code": "KICO-EN028",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "King's Court",
+            "set_code": "KICO-EN028",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN016",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Demo Deck 2020",
+            "set_code": "DEM6-EN002",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 4",
+            "set_code": "STP4-EN006",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Arena of Lost Souls",
+            "set_code": "SBLS-EN006",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.15"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom Sneak Peek participation cards",
+            "set_code": "SBTK-ENSP2",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Structure Deck: Yugi Muto",
+            "set_code": "SDMY-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Yugi's Legendary Decks",
+            "set_code": "YGLD-ENB06",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.05"
+         },
+         {
+            "set_name": "Yugi's Legendary Decks",
+            "set_code": "YGLD-ENC13",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.02"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 90876561,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90876561.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90876561.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90876561.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "4.95",
+            "amazon_price": "0.55",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 300302003,
+      "name": "Low Blow",
+      "type": "Skill Card",
+      "humanReadableCardType": "Skill - Andrew",
+      "frameType": "skill",
+      "desc": "Activate this Skill during your Main Phase. Once per Duel, you can make 1 monster on the field lose 500 ATK/DEF until the end of this turn.",
+      "race": "Andrew",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/low-blow-10765",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel: Battle City Box",
+            "set_code": "SBCB-ENS19",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.32"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom Sneak Peek participation cards",
+            "set_code": "SBTK-ENSP8",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 300302003,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300302003.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302003.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302003.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 17814387,
+      "name": "Reinforcements",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Target 1 face-up monster on the field; it gains 500 ATK until the end of this turn.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/reinforcements-1547",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal - Preview Wave 1",
+            "set_code": "DTP1-EN019",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Terminal 1",
+            "set_code": "DT01-EN049",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Demo Deck 2020",
+            "set_code": "DEM6-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Ultimate Predators",
+            "set_code": "SS03-ENA26",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.12"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom Sneak Peek participation cards",
+            "set_code": "SBTK-ENSP5",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.49"
+         },
+         {
+            "set_name": "Starter Deck 2006",
+            "set_code": "YSD-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Joey",
+            "set_code": "SDJ-044",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.7"
+         },
+         {
+            "set_name": "Starter Deck: Kaiba",
+            "set_code": "SDK-038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.86"
+         },
+         {
+            "set_name": "Starter Deck: Kaiba",
+            "set_code": "SDK-E035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "5.2"
+         },
+         {
+            "set_name": "Starter Deck: Pegasus",
+            "set_code": "SDP-042",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.66"
+         },
+         {
+            "set_name": "Starter Deck: Yugi",
+            "set_code": "SDY-031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.68"
+         },
+         {
+            "set_name": "Starter Deck: Yugi",
+            "set_code": "SDY-E029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.7"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 17814387,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17814387.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17814387.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17814387.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 34016756,
+      "name": "Riryoku",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Target 2 face-up monsters on the field; halve the ATK of 1 monster, and if you do, add that lost ATK to the other monster. These effects last until the end of this turn.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/riryoku-2889",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN142",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN142",
+            "set_rarity": "Mosaic Rare",
+            "set_rarity_code": "(MSR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Demo Deck 2016",
+            "set_code": "DEM3-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "68.33"
+         },
+         {
+            "set_name": "Duel Terminal 1",
+            "set_code": "DT01-EN092",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN234",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists",
+            "set_code": "LEDU-EN047",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Shadow of Infinity: Special Edition",
+            "set_code": "SOI-ENSE2",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "6.7"
+         },
+         {
+            "set_name": "Shadow of Infinity: Special Edition",
+            "set_code": "SOI-ENSE2",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "8.71"
+         },
+         {
+            "set_name": "Speed Duel Demo Deck",
+            "set_code": "DEM5-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.81"
+         },
+         {
+            "set_name": "Speed Duel Demo Deck 2020",
+            "set_code": "DEM6-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Speed Duel GX: Midterm Paradox",
+            "set_code": "SGX2-ENC11",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Destiny Masters",
+            "set_code": "SS01-ENA12",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.15"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom Sneak Peek participation cards",
+            "set_code": "SBTK-ENSP4",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.49"
+         },
+         {
+            "set_name": "Structure Deck: Dinosaur's Rage",
+            "set_code": "SD09-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.18"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! The Sacred Cards promotional cards",
+            "set_code": "TSC-002",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "4.04"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 34016756,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34016756.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34016756.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34016756.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 300302002,
+      "name": "Ritual Ceremony",
+      "type": "Skill Card",
+      "humanReadableCardType": "Skill - Emma",
+      "frameType": "skill",
+      "desc": "Activate this Skill during your Main Phase. Once per Duel, you can reveal 1 Ritual Monster from your hand, then add 1 Ritual Spell from your Deck to your hand that can Ritual Summon that monster.",
+      "race": "Emma",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/ritual-ceremony-10766",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel Tournament Pack 4",
+            "set_code": "STP4-ENS06",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Battle City Box",
+            "set_code": "SBCB-ENS18",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.2"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom Sneak Peek participation cards",
+            "set_code": "SBTK-ENSP7",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 300302002,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300302002.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302002.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302002.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "1.00",
+            "amazon_price": "2.10",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 33245030,
+      "name": "Sphere Kuriboh",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When an opponent's monster declares an attack: You can send this card from your hand to the GY; change the attacking monster to Defense Position. When you Ritual Summon, you can banish this card from your GY as 1 of the monsters required for the Ritual Summon.",
+      "race": "Fiend",
+      "atk": 300,
+      "def": 200,
+      "level": 1,
+      "attribute": "DARK",
+      "archetype": "Kuriboh",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/sphere-kuriboh-2824",
+      "card_sets": [
+         {
+            "set_name": "2016 Mega-Tin Mega Pack",
+            "set_code": "MP16-EN121",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dimension of Chaos",
+            "set_code": "DOCS-EN020",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists",
+            "set_code": "LEDU-EN043",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENI12",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENI12",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Match of the Millennium",
+            "set_code": "SS04-ENA15",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 5",
+            "set_code": "STP5-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Arena of Lost Souls",
+            "set_code": "SBLS-EN018",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "7.38"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENF10",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom Sneak Peek participation cards",
+            "set_code": "SBTK-ENSP3",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "10.03"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! Advent Calendar (2019)",
+            "set_code": "AC19-EN012",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "4.36"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 33245030,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33245030.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33245030.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33245030.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "0.78",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 300104002,
+      "name": "Terror from the Deep!",
+      "type": "Skill Card",
+      "humanReadableCardType": "Skill - Mako",
+      "frameType": "skill",
+      "desc": "Activate this Skill during your Main Phase, while you control \"Kairyu-Shin\". When this Skill is activated, you can activate \"Umi\" directly from your hand, Deck or GY. While you control \"Kairyu-Shin\", all WATER monsters you control are unaffected by Trap effects. If \"Kairyu-Shin\" you control leaves the field, draw 2 cards, and if you do, flip this card over.",
+      "race": "Mako",
+      "archetype": "Umi",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/terror-from-the-deep-10746",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-ENS02",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.5"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom Sneak Peek participation cards",
+            "set_code": "SBTK-ENSP0",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "10.57"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 300104002,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300104002.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300104002.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300104002.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.89",
+            "tcgplayer_price": "0.65",
+            "ebay_price": "0.99",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   },
+   {
+      "id": 94119974,
+      "name": "Two-Headed King Rex",
+      "typeline": [
+         "Dinosaur",
+         "Normal"
+      ],
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "desc": "A powerful monster whose two heads attack as one.",
+      "race": "Dinosaur",
+      "atk": 1600,
+      "def": 1200,
+      "level": 4,
+      "attribute": "EARTH",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/two-headed-king-rex-7831",
+      "card_sets": [
+         {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB2-EN096",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN158",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN140",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Demo Deck 2020",
+            "set_code": "DEM6-EN005",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Ultimate Predators",
+            "set_code": "SS03-ENA02",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.16"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom Sneak Peek participation cards",
+            "set_code": "SBTK-ENSP1",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.49"
+         },
+         {
+            "set_name": "Tournament Pack: 2nd Season",
+            "set_code": "TP2-025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "7.93"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 94119974,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94119974.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94119974.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94119974.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "13.94",
+            "amazon_price": "0.82",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   }
+]

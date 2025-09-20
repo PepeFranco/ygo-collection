@@ -1,0 +1,3250 @@
+[
+   {
+      "id": 42431843,
+      "name": "Ancient Brain",
+      "typeline": [
+         "Fiend",
+         "Normal"
+      ],
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "desc": "A fallen fairy that is powerful in the dark.",
+      "race": "Fiend",
+      "atk": 1000,
+      "def": 700,
+      "level": 3,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/ancient-brain-3620",
+      "card_sets": [
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-082",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.39"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-E082",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.86"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-EN082",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.4"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.08"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 42431843,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42431843.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42431843.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42431843.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "2.95",
+            "amazon_price": "1.48",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 62633180,
+      "name": "Assault on GHQ",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Target 1 monster you control; destroy it, then send 2 cards from the top of your opponent's Deck to the GY.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/assault-on-ghq-5292",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 3",
+            "set_code": "DR3-EN176",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Flaming Eternity",
+            "set_code": "FET-EN056",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Flaming Eternity",
+            "set_code": "FET-EN056",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN042",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.11"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 62633180,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62633180.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62633180.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62633180.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "2.80",
+            "amazon_price": "1.49",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 88610708,
+      "name": "Bashing Shield",
+      "type": "Spell Card",
+      "humanReadableCardType": "Equip Spell",
+      "frameType": "spell",
+      "desc": "Equip only to a Normal Summoned/Set monster. It gains 1000 ATK. You take no battle damage from attacks involving it.",
+      "race": "Equip",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/bashing-shield-7406",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN186",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN186",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Demo Deck 2016",
+            "set_code": "DEM3-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 3",
+            "set_code": "STP3-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN037",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.46"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 88610708,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88610708.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88610708.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88610708.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "4.80",
+            "amazon_price": "4.95",
+            "coolstuffinc_price": "0.99"
+         }
+      ]
+   },
+   {
+      "id": 76792184,
+      "name": "Black Magic Ritual",
+      "type": "Spell Card",
+      "humanReadableCardType": "Ritual Spell",
+      "frameType": "spell",
+      "desc": "This card is used to Ritual Summon \"Magician of Black Chaos\". You must also Tribute monsters from your hand or field whose total Levels equal 8 or more.",
+      "race": "Ritual",
+      "archetype": "Dark Magician",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/black-magic-ritual-6462",
+      "card_sets": [
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN078",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.3"
+         },
+         {
+            "set_name": "Premium Pack (TCG)",
+            "set_code": "PP01-EN002",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "3.75"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 6",
+            "set_code": "STP6-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN002",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.23"
+         },
+         {
+            "set_name": "Yugi's Legendary Decks",
+            "set_code": "YGLD-ENC32",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.4"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 76792184,
+            "image_url": "https://images.ygoprodeck.com/images/cards/76792184.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76792184.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76792184.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.50",
+            "ebay_price": "5.95",
+            "amazon_price": "2.34",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 90654356,
+      "name": "Black Ptera",
+      "typeline": [
+         "Dinosaur",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is sent from the field to the GY, except by being destroyed by battle: Return it to the hand.",
+      "race": "Dinosaur",
+      "atk": 1000,
+      "def": 500,
+      "level": 3,
+      "attribute": "WIND",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/black-ptera-7572",
+      "card_sets": [
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN154",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Power of the Duelist",
+            "set_code": "POTD-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.05"
+         },
+         {
+            "set_name": "Structure Deck: Dinosaur's Rage",
+            "set_code": "SD09-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.08"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 90654356,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90654356.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90654356.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90654356.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.75",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 97783659,
+      "name": "Blood Sucker",
+      "typeline": [
+         "Zombie",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card inflicts battle damage to your opponent: Send the top card of their Deck to the GY.",
+      "race": "Zombie",
+      "atk": 1300,
+      "def": 1500,
+      "level": 4,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/blood-sucker-8128",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.06"
+         },
+         {
+            "set_name": "Storm of Ragnarok",
+            "set_code": "STOR-EN093",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 97783659,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97783659.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97783659.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97783659.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 18914778,
+      "name": "Change Slime",
+      "typeline": [
+         "Aqua",
+         "Normal"
+      ],
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "desc": "A slime that can morph and adopt the shape and size of any monster it chooses.",
+      "race": "Aqua",
+      "atk": 400,
+      "def": 300,
+      "level": 1,
+      "attribute": "WATER",
+      "archetype": "Slime",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/change-slime-1633",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN006",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.1"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 18914778,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18914778.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18914778.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18914778.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "5.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 300104004,
+      "name": "Cocoon of Ultra Evolution (Skill Card)",
+      "type": "Skill Card",
+      "humanReadableCardType": "Skill - Weevil",
+      "frameType": "skill",
+      "desc": "Activate the following Skill(s) during your Main Phase.\r\n● You can Tribute 1 Insect monster from either field equipped with an Equip Card, and if you do, Special Summon 1 Insect monster from your Deck, ignoring its Summoning conditions, also flip this card over.\r\n● You can shuffle 1 Insect monster from your GY into the Deck, then draw 1 card, also flip this card over.\r\nEach of these Skills can only be used once per Duel.",
+      "race": "Weevil",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/cocoon-of-ultra-evolution-skill-card-10748",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel Tournament Pack 3",
+            "set_code": "STP3-ENS01",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.89"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-ENS04",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "7.23"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 300104004,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300104004.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300104004.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300104004.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "6.95",
+            "amazon_price": "7.99",
+            "coolstuffinc_price": "0.00"
+         }
+      ]
+   },
+   {
+      "id": 53713014,
+      "name": "Crazy Fish",
+      "typeline": [
+         "Fish",
+         "Normal"
+      ],
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "desc": "A flying fish that attacks with its pointed head.",
+      "race": "Fish",
+      "atk": 1600,
+      "def": 1200,
+      "level": 4,
+      "attribute": "WATER",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/crazy-fish-4576",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.12"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 53713014,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53713014.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53713014.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53713014.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "1.98",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 39978267,
+      "name": "Cyber Raider",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is Summoned: Activate 1 of these effects.\r\n● Target 1 Equip Card on the field; destroy that target.\r\n● Target 1 Equip Card on the field; equip that target to this card.",
+      "race": "Machine",
+      "atk": 1400,
+      "def": 1000,
+      "level": 4,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/cyber-raider-3392",
+      "card_sets": [
+         {
+            "set_name": "Dark Crisis",
+            "set_code": "DCR-011",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "2.82"
+         },
+         {
+            "set_name": "Dark Crisis",
+            "set_code": "DCR-EN011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Crisis",
+            "set_code": "DCR-EN011",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Dark Revelation Volume 1",
+            "set_code": "DR1-EN173",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENE09",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.09"
+         },
+         {
+            "set_name": "War of the Giants Reinforcements",
+            "set_code": "WGRT-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.75"
+         },
+         {
+            "set_name": "War of the Giants: Round 2",
+            "set_code": "BPW2-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.46"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 39978267,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39978267.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39978267.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39978267.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "1.00",
+            "amazon_price": "1.18",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 71200730,
+      "name": "Despair from the Dark",
+      "typeline": [
+         "Zombie",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is sent from your hand or Deck to your GY by an opponent's card effect: Special Summon this card.",
+      "race": "Zombie",
+      "atk": 2800,
+      "def": 3000,
+      "level": 8,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/despair-from-the-dark-5979",
+      "card_sets": [
+         {
+            "set_name": "Dark Crisis",
+            "set_code": "DCR-023",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "1.91"
+         },
+         {
+            "set_name": "Dark Crisis",
+            "set_code": "DCR-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Crisis",
+            "set_code": "DCR-EN023",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Dark Revelation Volume 1",
+            "set_code": "DR1-EN185",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gold Series: Haunted Mine",
+            "set_code": "GLD5-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN192",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 6",
+            "set_code": "STP6-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.14"
+         },
+         {
+            "set_name": "Structure Deck: Zombie Madness",
+            "set_code": "SD2-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.54"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 71200730,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71200730.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71200730.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71200730.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "2.99",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 300104003,
+      "name": "Dino Destruction",
+      "type": "Skill Card",
+      "humanReadableCardType": "Skill - Rex",
+      "frameType": "skill",
+      "desc": "Activate this Skill during your Main Phase. Once per turn, you can choose 1 Level 6 or higher Dinosaur monster you control. This turn, if it attacks a Defense Position monster, inflict piercing battle damage. Flip this card over at the end of the turn you activated this Skill.",
+      "race": "Rex",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dino-destruction-10747",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-ENS03",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.5"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 300104003,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300104003.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300104003.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300104003.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.42",
+            "tcgplayer_price": "1.06",
+            "ebay_price": "1.75",
+            "amazon_price": "2.82",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 76922029,
+      "name": "Don Zaloog",
+      "typeline": [
+         "Warrior",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card inflicts battle damage to your opponent: You can activate 1 of these effects;\r\n● Discard 1 random card from their hand.\r\n● Send the top 2 cards of their Deck to the GY.",
+      "race": "Warrior",
+      "atk": 1400,
+      "def": 1500,
+      "level": 4,
+      "attribute": "DARK",
+      "archetype": "Dark Scorpion",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/don-zaloog-6474",
+      "card_sets": [
+         {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB2-EN228",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "9.38"
+         },
+         {
+            "set_name": "Gold Series",
+            "set_code": "GLD1-EN012",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gold Series: Haunted Mine",
+            "set_code": "GLD5-EN005",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Pharaonic Guardian",
+            "set_code": "PGD-029",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "22.87"
+         },
+         {
+            "set_name": "Retro Pack 2",
+            "set_code": "RP02-EN068",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENI04",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENI04",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN016",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "6.87"
+         },
+         {
+            "set_name": "The Lost Art Promotion (series)",
+            "set_code": "LART-EN044",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Lost Art Promotion 2022",
+            "set_code": "LART-EN044",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 76922029,
+            "image_url": "https://images.ygoprodeck.com/images/cards/76922029.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76922029.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76922029.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "0.36",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   },
+   {
+      "id": 75652080,
+      "name": "Double Cyclone",
+      "type": "Spell Card",
+      "humanReadableCardType": "Quick-Play Spell",
+      "frameType": "spell",
+      "desc": "Target 1 Spell/Trap you control and 1 Spell/Trap your opponent controls; destroy them.",
+      "race": "Quick-Play",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/double-cyclone-6370",
+      "card_sets": [
+         {
+            "set_name": "Duelist Pack: Yusei 3",
+            "set_code": "DP10-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Revolution",
+            "set_code": "DREV-EN046",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-END15",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.12"
+         },
+         {
+            "set_name": "Synchron Extreme Structure Deck",
+            "set_code": "SDSE-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.58"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 75652080,
+            "image_url": "https://images.ygoprodeck.com/images/cards/75652080.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75652080.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75652080.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 56916805,
+      "name": "Energy Drain",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Target 1 face-up monster you control; it gains 200 ATK/DEF for each card your opponent currently has in their hand, until the end of this turn.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/energy-drain-4850",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 2",
+            "set_code": "DR2-EN055",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Invasion of Chaos",
+            "set_code": "IOC-055",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.42"
+         },
+         {
+            "set_name": "Invasion of Chaos",
+            "set_code": "IOC-EN055",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN041",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.06"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 56916805,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56916805.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56916805.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56916805.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "1.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 75560629,
+      "name": "Flint",
+      "type": "Spell Card",
+      "humanReadableCardType": "Equip Spell",
+      "frameType": "spell",
+      "desc": "The equipped monster loses 300 ATK and cannot change its battle position or declare an attack. If this card is destroyed because the equipped monster is destroyed: Target 1 monster on the field; equip this card to that monster.",
+      "race": "Equip",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/flint-6362",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 3",
+            "set_code": "DR3-EN102",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Rise of Destiny",
+            "set_code": "RDS-EN042",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Rise of Destiny",
+            "set_code": "RDS-EN042",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.1"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 75560629,
+            "image_url": "https://images.ygoprodeck.com/images/cards/75560629.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75560629.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75560629.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "1.89",
+            "amazon_price": "1.54",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 83812099,
+      "name": "Flint Lock",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Once per turn: You can target 1 \"Flint\" in the Spell & Trap Zone; equip it to this card. During your Main Phase: You can target 1 \"Flint\" equipped to this card, and 1 face-up monster on the field, except this card; equip that \"Flint\" to that targeted monster. This card can only be equipped with 1 \"Flint\". While equipped with \"Flint\", this card is unaffected by the effect of \"Flint\", and cannot be destroyed by battle.",
+      "race": "Machine",
+      "atk": 1500,
+      "def": 800,
+      "level": 4,
+      "attribute": "LIGHT",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/flint-lock-7032",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.09"
+         },
+         {
+            "set_name": "Tactical Evolution",
+            "set_code": "TAEV-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 83812099,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83812099.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83812099.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83812099.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 69599136,
+      "name": "Floodgate Trap Hole",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "When your opponent Summons a monster(s): Change that monster(s) to face-down Defense Position. Monsters changed to face-down Defense Position by this effect cannot change their battle positions.",
+      "race": "Normal",
+      "archetype": "Hole",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/floodgate-trap-hole-5854",
+      "card_sets": [
+         {
+            "set_name": "2017 Mega-Tin Mega Pack",
+            "set_code": "MP17-EN114",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 13",
+            "set_code": "OP13-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 13 (POR)",
+            "set_code": "OP13-PT025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENI23",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENI23",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 5",
+            "set_code": "STP5-EN035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENF20",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN046",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "7.81"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Dark Illusion",
+            "set_code": "TDIL-EN076",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Trials of the Pharaoh - Trials of the Kingdom promotional card",
+            "set_code": "OPTP-EN001",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0.00"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 69599136,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69599136.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69599136.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69599136.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "7.14",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 72299832,
+      "name": "Giant Mech-Soldier",
+      "typeline": [
+         "Machine",
+         "Normal"
+      ],
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "desc": "This monster swings an earth-shaking axe that cannot be blocked by a common sword.",
+      "race": "Machine",
+      "atk": 1750,
+      "def": 1900,
+      "level": 6,
+      "attribute": "EARTH",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/giant-mech-soldier-6067",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.15"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 72299832,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72299832.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72299832.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72299832.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "1.32",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 84620194,
+      "name": "Girochin Kuwagata",
+      "typeline": [
+         "Insect",
+         "Normal"
+      ],
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "desc": "Despite its small size, this monster has powerful jaws that can rip metal to shreds.",
+      "race": "Insect",
+      "atk": 1700,
+      "def": 1000,
+      "level": 4,
+      "attribute": "WIND",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/girochin-kuwagata-7097",
+      "card_sets": [
+         {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-085",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.37"
+         },
+         {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-E085",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "5.89"
+         },
+         {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-EN085",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.17"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 84620194,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84620194.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84620194.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84620194.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "1.00",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 87102774,
+      "name": "Golden Ladybug",
+      "typeline": [
+         "Insect",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "During your Standby Phase: You can reveal this card in your hand, and it will remain revealed until the end of this turn; gain 500 LP.",
+      "race": "Insect",
+      "atk": 0,
+      "def": 0,
+      "level": 1,
+      "attribute": "LIGHT",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/golden-ladybug-7289",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 3",
+            "set_code": "DT03-EN053",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Light of Destruction",
+            "set_code": "LODT-EN036",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 3",
+            "set_code": "STP3-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN022",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "5.97"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 87102774,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87102774.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87102774.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87102774.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.37",
+            "tcgplayer_price": "0.44",
+            "ebay_price": "5.95",
+            "amazon_price": "8.40",
+            "coolstuffinc_price": "1.99"
+         }
+      ]
+   },
+   {
+      "id": 39033131,
+      "name": "Haunted Shrine",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "If you control no monsters: Target 1 Zombie monster in your GY; Special Summon it. If you control no monsters: You can banish this card from your GY, then target 1 Zombie monster in your GY; Special Summon it, but its effects are negated. You can only use 1 \"Haunted Shrine\" effect per turn, and only once that turn.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/haunted-shrine-9165",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel Tournament Pack 3",
+            "set_code": "STP3-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN043",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "10.67"
+         },
+         {
+            "set_name": "Structure Deck: Zombie Horde",
+            "set_code": "SR07-EN035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.27"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 39033131,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39033131.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39033131.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39033131.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.33",
+            "ebay_price": "1.98",
+            "amazon_price": "0.97",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 47025270,
+      "name": "Helping Robo for Combat",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card destroys an opponent's monster by battle: Draw 1 card, then return 1 card from your hand to the bottom of the Deck.",
+      "race": "Machine",
+      "atk": 1600,
+      "def": 0,
+      "level": 4,
+      "attribute": "LIGHT",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/helping-robo-for-combat-4012",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN019",
+            "set_rarity": "Mosaic Rare",
+            "set_rarity_code": "(MSR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN181",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN181",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Revelation Volume 1",
+            "set_code": "DR1-EN077",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Magician's Force",
+            "set_code": "MFC-022",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.34"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.01"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 47025270,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47025270.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47025270.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47025270.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "3.89",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 34559295,
+      "name": "Iron Draw",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "If you control exactly 2 Machine Effect Monsters and no other monsters: Draw 2 cards. For the rest of this turn after this card resolves, you can only Special Summon once. You can only activate 1 \"Iron Draw\" per turn.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/iron-draw-9487",
+      "card_sets": [
+         {
+            "set_name": "Battles of Legend: Chapter 1",
+            "set_code": "BLC1-EN111",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Relentless Revenge",
+            "set_code": "BLRR-EN034",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "2.7"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 5",
+            "set_code": "STP5-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.19"
+         },
+         {
+            "set_name": "Structure Deck: Mechanized Madness",
+            "set_code": "SR10-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 34559295,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34559295.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34559295.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34559295.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "1.35",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 16111820,
+      "name": "Jurrac Herra",
+      "typeline": [
+         "Dinosaur",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When a Defense Position \"Jurrac\" monster you control, except \"Jurrac Herra\", is destroyed by battle and sent to the GY: You can Special Summon this card from your hand or GY.",
+      "race": "Dinosaur",
+      "atk": 2300,
+      "def": 1500,
+      "level": 6,
+      "attribute": "FIRE",
+      "archetype": "Jurrac",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/jurrac-herra-1383",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN028",
+            "set_rarity": "Duel Terminal Rare Parallel Rare",
+            "set_rarity_code": "(DRPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN018",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 4",
+            "set_code": "STP4-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN025",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.14"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 16111820,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16111820.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16111820.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16111820.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.29",
+            "tcgplayer_price": "0.38",
+            "ebay_price": "1.99",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 44689688,
+      "name": "Jurrac Spinos",
+      "typeline": [
+         "Dinosaur",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card destroys an opponent's monster by battle and sends it to the GY: Special Summon 1 \"Spinos Token\" (Dinosaur/FIRE/Level 1/ATK 300/DEF 0) in Attack Position to your opponent's field.",
+      "race": "Dinosaur",
+      "atk": 2600,
+      "def": 1700,
+      "level": 7,
+      "attribute": "FIRE",
+      "archetype": "Jurrac",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/jurrac-spinos-3805",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 3",
+            "set_code": "DT03-EN016",
+            "set_rarity": "Duel Terminal Rare Parallel Rare",
+            "set_rarity_code": "(DRPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 3",
+            "set_code": "HA03-EN009",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.1"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 44689688,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44689688.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44689688.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44689688.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "2.49",
+            "amazon_price": "1.47",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 48411996,
+      "name": "Jurrac Stauriko",
+      "typeline": [
+         "Dinosaur",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is destroyed by battle: Special Summon 2 \"Jurrac Tokens\" (Dinosaur/FIRE/Level 1/ATK 0/DEF 0) in Defense Position. They cannot be Tributed for a Tribute Summon, unless it is for a \"Jurrac\" monster.",
+      "race": "Dinosaur",
+      "atk": 500,
+      "def": 400,
+      "level": 2,
+      "attribute": "FIRE",
+      "archetype": "Jurrac",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/jurrac-stauriko-4131",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 3",
+            "set_code": "DT03-EN069",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 3",
+            "set_code": "HA03-EN041",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 4",
+            "set_code": "STP4-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN024",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.63"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 48411996,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48411996.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48411996.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48411996.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.30",
+            "tcgplayer_price": "0.32",
+            "ebay_price": "6.95",
+            "amazon_price": "1.77",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 76634149,
+      "name": "Kairyu-Shin",
+      "typeline": [
+         "Sea Serpent",
+         "Normal"
+      ],
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "desc": "A sea dragon known as the King of the Ocean, it attacks its enemies with huge tidal waves.",
+      "race": "Sea Serpent",
+      "atk": 1800,
+      "def": 1500,
+      "level": 5,
+      "attribute": "WATER",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/kairyu-shin-6448",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN003",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.95"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 76634149,
+            "image_url": "https://images.ygoprodeck.com/images/cards/76634149.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76634149.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76634149.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "1.32",
+            "ebay_price": "2.24",
+            "amazon_price": "2.54",
+            "coolstuffinc_price": "2.99"
+         }
+      ]
+   },
+   {
+      "id": 30208479,
+      "name": "Magician of Black Chaos",
+      "typeline": [
+         "Spellcaster",
+         "Ritual"
+      ],
+      "type": "Ritual Monster",
+      "humanReadableCardType": "Ritual Monster",
+      "frameType": "ritual",
+      "desc": "You can Ritual Summon this card with \"Black Magic Ritual\".",
+      "race": "Spellcaster",
+      "atk": 2800,
+      "def": 2600,
+      "level": 8,
+      "attribute": "DARK",
+      "archetype": "Dark Magician",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/magician-of-black-chaos-2559",
+      "card_sets": [
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN047",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.93"
+         },
+         {
+            "set_name": "Premium Pack (TCG)",
+            "set_code": "PP01-EN001",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "10.77"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 6",
+            "set_code": "STP6-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "8.53"
+         },
+         {
+            "set_name": "Yugi's Legendary Decks",
+            "set_code": "YGLD-ENC01",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 30208479,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30208479.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30208479.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30208479.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.35",
+            "tcgplayer_price": "1.79",
+            "ebay_price": "2.95",
+            "amazon_price": "8.00",
+            "coolstuffinc_price": "1.49"
+         }
+      ]
+   },
+   {
+      "id": 71466592,
+      "name": "Maryokutai",
+      "typeline": [
+         "Aqua",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "During your opponent's turn, when your opponent activates a Spell Card (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy it.",
+      "race": "Aqua",
+      "atk": 900,
+      "def": 900,
+      "level": 3,
+      "attribute": "WATER",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/maryokutai-6004",
+      "card_sets": [
+         {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB2-EN011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-076",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.51"
+         },
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-E076",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2"
+         },
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-EN076",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.56"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.13"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 71466592,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71466592.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71466592.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71466592.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "1.75",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 65957473,
+      "name": "Metal Armored Bug",
+      "typeline": [
+         "Insect",
+         "Normal"
+      ],
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "desc": "A gigantic insect-like creature covered by thick armor. Everything in his path is destroyed.",
+      "race": "Insect",
+      "atk": 2800,
+      "def": 1500,
+      "level": 8,
+      "attribute": "EARTH",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/metal-armored-bug-5548",
+      "card_sets": [
+         {
+            "set_name": "Ancient Sanctuary",
+            "set_code": "AST-005",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.21"
+         },
+         {
+            "set_name": "Dark Revelation Volume 2",
+            "set_code": "DR2-EN117",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-END12",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.09"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 65957473,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65957473.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65957473.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65957473.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 14457896,
+      "name": "Parasite Paranoid",
+      "typeline": [
+         "Insect",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "(Quick Effect): You can target 1 face-up monster on the field; equip this card from your hand to that target. The equipped monster becomes an Insect monster, cannot attack Insect monsters, also its effects that activate by targeting an Insect monster(s) are negated. You can only use this effect of \"Parasite Paranoid\" once per turn. If this Equip Card is sent to the GY: You can Special Summon 1 Level 7 or higher Insect monster from your hand, ignoring its Summoning conditions.",
+      "race": "Insect",
+      "atk": 500,
+      "def": 300,
+      "level": 2,
+      "attribute": "EARTH",
+      "archetype": "Parasite",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/parasite-paranoid-8943",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Ancient Millennium",
+            "set_code": "LED2-EN007",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.72"
+         },
+         {
+            "set_name": "Legendary Duelists: Season 1",
+            "set_code": "LDS1-EN071",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 3",
+            "set_code": "STP3-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-END08",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN028",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "18.58"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 14457896,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14457896.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14457896.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14457896.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "3.45",
+            "amazon_price": "24.95",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 19153634,
+      "name": "Patrician of Darkness",
+      "typeline": [
+         "Zombie",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You choose the attack targets for your opponent's attacks.",
+      "race": "Zombie",
+      "atk": 2000,
+      "def": 1400,
+      "level": 5,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/patrician-of-darkness-1652",
+      "card_sets": [
+         {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB2-EN168",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.2"
+         },
+         {
+            "set_name": "Gold Series: Haunted Mine",
+            "set_code": "GLD5-EN002",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legacy of Darkness",
+            "set_code": "LOD-058",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.67"
+         },
+         {
+            "set_name": "Legacy of Darkness",
+            "set_code": "LOD-EN058",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.9"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN187",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.09"
+         },
+         {
+            "set_name": "Zombie World Structure Deck",
+            "set_code": "SDZW-EN005",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 19153634,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19153634.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19153634.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19153634.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "2.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 16222645,
+      "name": "Sasuke Samurai",
+      "typeline": [
+         "Warrior",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "At the start of the Damage Step, if this card attacks a face-down Defense Position monster: Destroy that face-down monster.",
+      "race": "Warrior",
+      "atk": 500,
+      "def": 800,
+      "level": 2,
+      "attribute": "WIND",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/sasuke-samurai-1394",
+      "card_sets": [
+         {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB2-EN216",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.29"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Pharaonic Guardian",
+            "set_code": "PGD-015",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "4.88"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.11"
+         },
+         {
+            "set_name": "Starter Deck: Yu-Gi-Oh! 5D's 2009",
+            "set_code": "5DS2-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 16222645,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16222645.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16222645.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16222645.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "1.48",
+            "amazon_price": "5.08",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 81443745,
+      "name": "Sealing Ceremony of Suiton",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "Once per turn: You can send 1 WATER monster from your hand to the GY, then target 1 card in your opponent's GY; banish that target.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/sealing-ceremony-of-suiton-6838",
+      "card_sets": [
+         {
+            "set_name": "Photon Shockwave",
+            "set_code": "PHSW-EN080",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN044",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.06"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 81443745,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81443745.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81443745.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81443745.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 56830749,
+      "name": "Share the Pain",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Tribute 1 monster; make your opponent Tribute 1 monster (for no effect).",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/share-the-pain-4840",
+      "card_sets": [
+         {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB2-EN083",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Terminal 1",
+            "set_code": "DT01-EN091",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-140",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.51"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-E140",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.12"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-EN140",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "6.88"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 6",
+            "set_code": "STP6-EN012",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.14"
+         },
+         {
+            "set_name": "War of the Giants Reinforcements",
+            "set_code": "WGRT-EN066",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "14.82"
+         },
+         {
+            "set_name": "War of the Giants: Round 2",
+            "set_code": "BPW2-EN066",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.11"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 56830749,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56830749.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56830749.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56830749.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "4.99",
+            "amazon_price": "1.18",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 14771222,
+      "name": "Shore Knight",
+      "typeline": [
+         "Warrior",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Once per turn, if the battle position of this face-up card on the field is changed: Send 1 WATER monster from your Deck to the GY.",
+      "race": "Warrior",
+      "atk": 1400,
+      "def": 1200,
+      "level": 4,
+      "attribute": "WATER",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/shore-knight-1266",
+      "card_sets": [
+         {
+            "set_name": "Abyss Rising",
+            "set_code": "ABYR-EN032",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.05"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 14771222,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14771222.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14771222.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14771222.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "1.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 2504891,
+      "name": "Skull Knight",
+      "typeline": [
+         "Spellcaster",
+         "Fusion"
+      ],
+      "type": "Fusion Monster",
+      "humanReadableCardType": "Fusion Monster",
+      "frameType": "fusion",
+      "desc": "\"Tainted Wisdom\" + \"Ancient Brain\"",
+      "race": "Spellcaster",
+      "atk": 2650,
+      "def": 2250,
+      "level": 7,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/skull-knight-226",
+      "card_sets": [
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-123",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.47"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-E123",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "5.32"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-EN123",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.9"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.15"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 2504891,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2504891.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2504891.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2504891.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "1.50",
+            "amazon_price": "0.59",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 33951077,
+      "name": "Super War-Lion",
+      "typeline": [
+         "Beast",
+         "Ritual"
+      ],
+      "type": "Ritual Monster",
+      "humanReadableCardType": "Ritual Monster",
+      "frameType": "ritual",
+      "desc": "You can Ritual Summon this card with \"War-Lion Ritual\".",
+      "race": "Beast",
+      "atk": 2300,
+      "def": 2100,
+      "level": 7,
+      "attribute": "EARTH",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/super-war-lion-2882",
+      "card_sets": [
+         {
+            "set_name": "Premium Pack 2 (TCG)",
+            "set_code": "PP02-EN001",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "1.25"
+         },
+         {
+            "set_name": "Premium Pack 2 (TCG)",
+            "set_code": "PP02-EN001",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.23"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.1"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 33951077,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33951077.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33951077.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33951077.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "1.49",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 33057951,
+      "name": "Surface",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Target 1 Level 3 or lower Fish, Sea Serpent, or Aqua monster in your GY; Special Summon it in face-up Defense Position.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/surface-2809",
+      "card_sets": [
+         {
+            "set_name": "Generation Force",
+            "set_code": "GENF-EN049",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Realm of the Sea Emperor Structure Deck",
+            "set_code": "SDRE-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.67"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENC16",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN036",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.69"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.25"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 33057951,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33057951.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33057951.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33057951.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 300104005,
+      "name": "Switcheroo",
+      "type": "Skill Card",
+      "humanReadableCardType": "Skill - Keith",
+      "frameType": "skill",
+      "desc": "Activate this Skill during your Main Phase. Once per turn, you can shuffle 1 card from your hand into the Deck, then draw 1 card, also flip this card over. You can use this Skill up to twice per Duel.",
+      "race": "Keith",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/switcheroo-10749",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-ENS05",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.99"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 300104005,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300104005.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300104005.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300104005.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "3.91",
+            "tcgplayer_price": "2.77",
+            "ebay_price": "2.99",
+            "amazon_price": "6.25",
+            "coolstuffinc_price": "2.99"
+         }
+      ]
+   },
+   {
+      "id": 83682725,
+      "name": "Tail Swipe",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Target 1 Level 5 or higher Dinosaur monster you control; if that Dinosaur monster is still face-up on the field, choose up to 2 monsters your opponent controls that have a lower Level than it, or are face-down, and return the chosen monsters to the hand.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/tail-swipe-7021",
+      "card_sets": [
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN162",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.12"
+         },
+         {
+            "set_name": "Structure Deck: Dinosaur's Rage",
+            "set_code": "SD09-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.47"
+         },
+         {
+            "set_name": "Turbo Pack: Booster Seven",
+            "set_code": "TU07-EN010",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 83682725,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83682725.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83682725.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83682725.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "1.95",
+            "amazon_price": "2.54",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 28725004,
+      "name": "Tainted Wisdom",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this Attack Position card is changed to face-up Defense Position: Shuffle your Deck.",
+      "race": "Fiend",
+      "atk": 1250,
+      "def": 800,
+      "level": 3,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/tainted-wisdom-2446",
+      "card_sets": [
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-081",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.35"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-E081",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.7"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-EN081",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.15"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.08"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 28725004,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28725004.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28725004.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28725004.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "2.95",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 300104002,
+      "name": "Terror from the Deep!",
+      "type": "Skill Card",
+      "humanReadableCardType": "Skill - Mako",
+      "frameType": "skill",
+      "desc": "Activate this Skill during your Main Phase, while you control \"Kairyu-Shin\". When this Skill is activated, you can activate \"Umi\" directly from your hand, Deck or GY. While you control \"Kairyu-Shin\", all WATER monsters you control are unaffected by Trap effects. If \"Kairyu-Shin\" you control leaves the field, draw 2 cards, and if you do, flip this card over.",
+      "race": "Mako",
+      "archetype": "Umi",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/terror-from-the-deep-10746",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-ENS02",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.5"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom Sneak Peek participation cards",
+            "set_code": "SBTK-ENSP0",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "10.57"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 300104002,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300104002.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300104002.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300104002.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.89",
+            "tcgplayer_price": "0.65",
+            "ebay_price": "0.99",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   },
+   {
+      "id": 19801646,
+      "name": "The Legendary Fisherman II",
+      "typeline": [
+         "Warrior",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "This card's name becomes \"The Legendary Fisherman\" while on the field or in the GY. While \"Umi\" is on the field, this card is unaffected by other monsters' effects. If this face-up card is destroyed by battle, or leaves the field because of an opponent's card effect while its owner controls it: You can add 1 Level 7 WATER monster from your Deck to your hand.",
+      "race": "Warrior",
+      "atk": 2200,
+      "def": 1800,
+      "level": 5,
+      "attribute": "WATER",
+      "archetype": "Umi",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/the-legendary-fisherman-ii-8508",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists",
+            "set_code": "LEDU-EN015",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "4.41"
+         },
+         {
+            "set_name": "Legendary Duelists: Duels From the Deep",
+            "set_code": "LED9-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.01"
+         },
+         {
+            "set_name": "Legendary Duelists: Season 1",
+            "set_code": "LDS1-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 4",
+            "set_code": "STP4-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENC10",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN027",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "10.99"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 19801646,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19801646.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19801646.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19801646.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "3.95",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 80987696,
+      "name": "Time Machine",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "When a monster is destroyed by battle and sent to the GY: Special Summon that monster to the same field it was on, in the same battle position it was in when destroyed.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/time-machine-6795",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN200",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN200",
+            "set_rarity": "Mosaic Rare",
+            "set_rarity_code": "(MSR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Crossroads of Chaos",
+            "set_code": "CSOC-EN091",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Ancient Millennium",
+            "set_code": "LED2-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Season 1",
+            "set_code": "LDS1-EN078",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Machina Mayhem Structure Deck",
+            "set_code": "SDMM-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.38"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN039",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "3.99"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 80987696,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80987696.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80987696.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80987696.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "14.99",
+            "amazon_price": "9.95",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 3149764,
+      "name": "Tutan Mask",
+      "type": "Trap Card",
+      "humanReadableCardType": "Counter Trap",
+      "frameType": "trap",
+      "desc": "When a Spell/Trap Card is activated that targets exactly 1 Zombie monster on the field (and no other cards): Negate the activation, and if you do, destroy it.",
+      "race": "Counter",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/tutan-mask-287",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN195",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN195",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB2-EN238",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.17"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN218",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Pharaonic Guardian",
+            "set_code": "PGD-041",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.81"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN040",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.06"
+         },
+         {
+            "set_name": "Zombie World Structure Deck",
+            "set_code": "SDZW-EN035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 3149764,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3149764.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3149764.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3149764.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "1.50",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 10813327,
+      "name": "Waking the Dragon",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "If this Set card in its owner's control has left the field because of an opponent's effect, and is now in the GY or banished: You can Special Summon 1 monster from your Deck or Extra Deck.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/waking-the-dragon-9248",
+      "card_sets": [
+         {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN053",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Flames of Destruction",
+            "set_code": "FLOD-EN080",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Mystic Fighters",
+            "set_code": "MYFI-EN060",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.23"
+         },
+         {
+            "set_name": "OTS Tournament Pack 8",
+            "set_code": "OP08-EN012",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 8 (POR)",
+            "set_code": "OP08-PT012",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 3",
+            "set_code": "STP3-EN014",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN045",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.02"
+         },
+         {
+            "set_name": "Structure Deck: Albaz Strike",
+            "set_code": "SDAZ-EN040",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.19"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 10813327,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10813327.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10813327.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10813327.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "1.99",
+            "amazon_price": "1.78",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 54539105,
+      "name": "War-Lion Ritual",
+      "type": "Spell Card",
+      "humanReadableCardType": "Ritual Spell",
+      "frameType": "spell",
+      "desc": "This card is used to Ritual Summon \"Super War-Lion\". You must also Tribute monsters from your hand or field whose total Levels equal 7 or more.",
+      "race": "Ritual",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/war-lion-ritual-4646",
+      "card_sets": [
+         {
+            "set_name": "Premium Pack 2 (TCG)",
+            "set_code": "PP02-EN002",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "1.09"
+         },
+         {
+            "set_name": "Premium Pack 2 (TCG)",
+            "set_code": "PP02-EN002",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.95"
+         },
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.1"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 54539105,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54539105.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54539105.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54539105.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "4.50",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 96643568,
+      "name": "Wetha",
+      "typeline": [
+         "Aqua",
+         "Normal"
+      ],
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "desc": "A spirit that controls rain and is capable of summoning hurricanes to blow the enemy away.",
+      "race": "Aqua",
+      "atk": 1000,
+      "def": 900,
+      "level": 3,
+      "attribute": "WATER",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/wetha-8042",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-EN005",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.09"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 96643568,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96643568.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96643568.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96643568.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "1.95",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 300104001,
+      "name": "Zombie Master (Skill Card)",
+      "type": "Skill Card",
+      "humanReadableCardType": "Skill - Bonz",
+      "frameType": "skill",
+      "desc": "Activate this Skill during your Main Phase. Once per Duel, you can choose 1 Level 4 or lower Zombie monster you control, and it gains the following effect while face-up on the field.\r\n● Once per turn: You can send 1 monster from your hand to the GY, then target 1 Level 4 or lower Zombie monster in either GY; Special Summon that target. This monster must be face-up on the field to activate and to resolve this effect.",
+      "race": "Bonz",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/zombie-master-skill-card-10745",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel: Trials of the Kingdom",
+            "set_code": "SBTK-ENS01",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.84"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 300104001,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300104001.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300104001.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300104001.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "8.00",
+            "amazon_price": "1.34",
+            "coolstuffinc_price": "0.00"
+         }
+      ]
+   }
+]
