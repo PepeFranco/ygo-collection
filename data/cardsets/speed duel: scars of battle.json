@@ -1,0 +1,3844 @@
+[
+   {
+      "id": 86198326,
+      "name": "7 Completed",
+      "type": "Spell Card",
+      "humanReadableCardType": "Equip Spell",
+      "frameType": "spell",
+      "desc": "Activate this card by choosing ATK or DEF; equip only to a Machine monster. It gains 700 ATK or DEF, depending on the choice.",
+      "race": "Equip",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/7-completed-7222",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN135",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN135",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Terminal 2",
+            "set_code": "DT02-EN038",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.19"
+         },
+         {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-E004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "7.38"
+         },
+         {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-EN004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.24"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 86198326,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86198326.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86198326.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86198326.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "1.15",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 32207100,
+      "name": "A Major Upset",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Tribute 1 face-up Attack Position Level 2 or lower monster you control; return all Level 7 or higher Special Summoned monsters to the hand.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/a-major-upset-2734",
+      "card_sets": [
+         {
+            "set_name": "Ancient Prophecy",
+            "set_code": "ANPR-EN080",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 5",
+            "set_code": "STP5-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN045",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.04"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 32207100,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32207100.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32207100.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32207100.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "2.95",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 36629203,
+      "name": "Ally of Justice Core Destroyer",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "At the start of the Damage Step, if this card battles a LIGHT monster: Destroy that monster.",
+      "race": "Machine",
+      "atk": 1200,
+      "def": 200,
+      "level": 3,
+      "attribute": "DARK",
+      "archetype": "Ally of Justice",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/ally-of-justice-core-destroyer-3098",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel Tournament Pack 2",
+            "set_code": "STP2-EN011",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.08"
+         },
+         {
+            "set_name": "The Shining Darkness",
+            "set_code": "TSHD-EN037",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 36629203,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36629203.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36629203.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36629203.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "2.49",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 300103003,
+      "name": "Bandit",
+      "type": "Skill Card",
+      "humanReadableCardType": "Skill - Keith",
+      "frameType": "skill",
+      "desc": "If your LP are 1500 or less, activate this Skill. Take control of 1 Set card in your opponent's Spell & Trap Zone. This Skill can only be used once per Duel. ",
+      "race": "Keith",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/bandit-10542",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-ENS03",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.7"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle Launch Event participation card",
+            "set_code": "EVSD-ENS02",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "5.85"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 300103003,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300103003.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300103003.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300103003.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.44",
+            "tcgplayer_price": "0.76",
+            "ebay_price": "5.00",
+            "amazon_price": "0.50",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 81480460,
+      "name": "Barrel Dragon",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Once per turn: You can target 1 monster your opponent controls; toss a coin 3 times and destroy it if at least 2 of the results are heads.",
+      "race": "Machine",
+      "atk": 2600,
+      "def": 2200,
+      "level": 7,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/barrel-dragon-6840",
+      "card_sets": [
+         {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB2-EN072",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Legends",
+            "set_code": "DLG1-EN045",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "2.55"
+         },
+         {
+            "set_name": "Duel Terminal 2",
+            "set_code": "DT02-EN005",
+            "set_rarity": "Duel Terminal Super Parallel Rare",
+            "set_rarity_code": "(DSPR)",
+            "set_price": "11.05"
+         },
+         {
+            "set_name": "Duelist League Series 1 participation cards",
+            "set_code": "DL1-E002",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "6.53"
+         },
+         {
+            "set_name": "Duelist Pack: Battle City",
+            "set_code": "DPBC-EN041",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN006",
+            "set_rarity": "Duel Terminal Ultra Parallel Rare",
+            "set_rarity_code": "(DUPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN177",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Ancient Millennium",
+            "set_code": "LED2-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Season 1",
+            "set_code": "LDS1-EN075",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Master Collection Volume 1",
+            "set_code": "MC1-EN002",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "9.99"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-126",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "9.69"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-E126",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "16.78"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-EN126",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "8.99"
+         },
+         {
+            "set_name": "Retro Pack",
+            "set_code": "RP01-EN044",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "6.72"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 2",
+            "set_code": "STP2-EN003",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN026",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "4.95"
+         },
+         {
+            "set_name": "The Lost Art Promotion (series)",
+            "set_code": "LART-EN037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Lost Art Promotion 2021 G",
+            "set_code": "LART-EN037",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 81480460,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81480460.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81480460.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81480460.jpg"
+         },
+         {
+            "id": 81480461,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81480461.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81480461.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81480461.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "44.99",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 26302522,
+      "name": "Blast Sphere",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this face-down Defense Position card was attacked by an opponent's monster, before damage calculation: Equip this card to the attacking monster. Then, during your opponent's next Standby Phase: Destroy the monster this card is equipped to, and if you do, inflict damage to your opponent equal to the ATK the destroyed monster had on the field.",
+      "race": "Machine",
+      "atk": 1400,
+      "def": 1400,
+      "level": 4,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/blast-sphere-2260",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN175",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN175",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Legends",
+            "set_code": "DLG1-EN092",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "7.67"
+         },
+         {
+            "set_name": "Duelist Pack: Battle City",
+            "set_code": "DPBC-EN042",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN180",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Ancient Millennium",
+            "set_code": "LED2-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Limited Edition 1",
+            "set_code": "JUMP-EN019",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "33.44"
+         },
+         {
+            "set_name": "Machina Mayhem Structure Deck",
+            "set_code": "SDMM-EN011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.32"
+         },
+         {
+            "set_name": "Retro Pack",
+            "set_code": "RP01-EN091",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "1826.24"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.26"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 26302522,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26302522.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26302522.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26302522.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "1.99",
+            "amazon_price": "1.03",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 35282433,
+      "name": "Blue-Eyed Silver Zombie",
+      "typeline": [
+         "Zombie",
+         "Normal"
+      ],
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "desc": "The beams from the eyes of this creature are said to turn enemies into zombies.",
+      "race": "Zombie",
+      "atk": 900,
+      "def": 700,
+      "level": 3,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/blue-eyed-silver-zombie-2994",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.12"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 35282433,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35282433.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35282433.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35282433.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "1.29",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 8715625,
+      "name": "Bokoichi the Freightening Car",
+      "typeline": [
+         "Machine",
+         "Normal"
+      ],
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "desc": "A freight car that is exclusively for Dekoichi. It can transport anything, but most cargo arrives broken.",
+      "race": "Machine",
+      "atk": 500,
+      "def": 500,
+      "level": 2,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/bokoichi-the-freightening-car-739",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 3",
+            "set_code": "DR3-EN063",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Rise of Destiny",
+            "set_code": "RDS-EN003",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.05"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 8715625,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8715625.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8715625.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8715625.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 2204140,
+      "name": "Book of Life",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Target 1 Zombie monster in your GY and 1 monster in your opponent's GY; Special Summon the first target, also banish the second target.",
+      "race": "Normal",
+      "archetype": "Book of",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/book-of-life-199",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN145",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN145",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB2-EN230",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "4.9"
+         },
+         {
+            "set_name": "Duelist League 17 participation cards",
+            "set_code": "DL17-EN014",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "4.74"
+         },
+         {
+            "set_name": "Gold Series: Haunted Mine",
+            "set_code": "GLD5-EN039",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN211",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 7",
+            "set_code": "OP07-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 7 (POR)",
+            "set_code": "OP07-PT017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Pharaonic Guardian",
+            "set_code": "PGD-033",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "7.75"
+         },
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENC15",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 4",
+            "set_code": "STP4-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN013",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Structure Deck: Zombie Horde",
+            "set_code": "SR07-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Zombie Madness",
+            "set_code": "SD2-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.53"
+         },
+         {
+            "set_name": "Tournament Pack 5",
+            "set_code": "TP5-EN008",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Zombie World Structure Deck",
+            "set_code": "SDZW-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 2204140,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2204140.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2204140.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2204140.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.39",
+            "ebay_price": "4.90",
+            "amazon_price": "5.18",
+            "coolstuffinc_price": "0.99"
+         }
+      ]
+   },
+   {
+      "id": 63851864,
+      "name": "Break! Draw!",
+      "type": "Spell Card",
+      "humanReadableCardType": "Equip Spell",
+      "frameType": "spell",
+      "desc": "Equip only to a Machine monster. If the equipped monster destroys an opponent's monster by battle and sends it to the GY: Draw 1 card. Destroy this card during your 3rd End Phase after activation.",
+      "race": "Equip",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/break-draw-5393",
+      "card_sets": [
+         {
+            "set_name": "Absolute Powerforce",
+            "set_code": "ABPF-EN052",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Astral Pack Four",
+            "set_code": "AP04-EN009",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN042",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.04"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 63851864,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63851864.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63851864.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63851864.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "0.50",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 10375182,
+      "name": "Command Knight",
+      "typeline": [
+         "Warrior",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "All Warrior monsters you control gain 400 ATK. If you control another monster, monsters your opponent controls cannot target this card for attacks.",
+      "race": "Warrior",
+      "atk": 1200,
+      "def": 1900,
+      "level": 4,
+      "attribute": "FIRE",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/command-knight-896",
+      "card_sets": [
+         {
+            "set_name": "Collectible Tins 2004",
+            "set_code": "CT1-EN003",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "8.02"
+         },
+         {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB-EN56",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB2-EN114",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist League 14 participation cards",
+            "set_code": "DL14-EN002",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "10.28"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN162",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.17"
+         },
+         {
+            "set_name": "Legendary Decks II",
+            "set_code": "LDK2-ENJ20",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.48"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.29"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENB06",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Warrior's Triumph",
+            "set_code": "SD5-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.53"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 10375182,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10375182.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10375182.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10375182.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "4.99",
+            "amazon_price": "9.97",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 82099401,
+      "name": "Crystal Seer",
+      "typeline": [
+         "Spellcaster",
+         "Flip",
+         "Effect"
+      ],
+      "type": "Flip Effect Monster",
+      "humanReadableCardType": "Flip Effect Monster",
+      "frameType": "effect",
+      "desc": "FLIP: Excavate the top 2 cards of your Deck, then add 1 of them to your hand, then place the other on the bottom of your Deck.",
+      "race": "Spellcaster",
+      "atk": 100,
+      "def": 100,
+      "level": 1,
+      "attribute": "WATER",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/crystal-seer-6900",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENF09",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN003",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.51"
+         },
+         {
+            "set_name": "Spellcaster's Command Structure Deck",
+            "set_code": "SDSC-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.54"
+         },
+         {
+            "set_name": "Tactical Evolution",
+            "set_code": "TAEV-EN031",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Tactical Evolution",
+            "set_code": "TAEV-EN031",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 82099401,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82099401.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82099401.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82099401.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "8.49",
+            "amazon_price": "0.49",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 48588176,
+      "name": "Danipon",
+      "typeline": [
+         "Insect",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card is destroyed by battle and sent to the GY: You can add 1 Insect monster with 1000 or less DEF from your Deck to your hand.",
+      "race": "Insect",
+      "atk": 600,
+      "def": 600,
+      "level": 2,
+      "attribute": "EARTH",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/danipon-4150",
+      "card_sets": [
+         {
+            "set_name": "Order of Chaos",
+            "set_code": "ORCS-EN091",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.09"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 48588176,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48588176.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48588176.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48588176.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 45462639,
+      "name": "Dark Red Enchanter",
+      "typeline": [
+         "Spellcaster",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is Normal Summoned: Place 2 Spell Counters on it. Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. Gains 300 ATK for each Spell Counter on it. Once per turn: You can remove 2 Spell Counters from this card; discard 1 random card from your opponent's hand.",
+      "race": "Spellcaster",
+      "atk": 1700,
+      "def": 2200,
+      "level": 6,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dark-red-enchanter-3875",
+      "card_sets": [
+         {
+            "set_name": "Phantom Darkness",
+            "set_code": "PTDN-EN097",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 5",
+            "set_code": "STP5-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN002",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "4.15"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENF05",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Spellcaster's Command Structure Deck",
+            "set_code": "SDSC-EN006",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.04"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 45462639,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45462639.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45462639.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45462639.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "13.99",
+            "amazon_price": "3.90",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 87621407,
+      "name": "Dekoichi the Battlechanted Locomotive",
+      "typeline": [
+         "Machine",
+         "Flip",
+         "Effect"
+      ],
+      "type": "Flip Effect Monster",
+      "humanReadableCardType": "Flip Effect Monster",
+      "frameType": "effect",
+      "desc": "FLIP: Draw 1 card, then draw 1 additional card for each face-up \"Bokoichi the Freightening Car\" you control.",
+      "race": "Machine",
+      "atk": 1400,
+      "def": 1000,
+      "level": 4,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dekoichi-the-battlechanted-locomotive-7335",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN189",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN189",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Revelation Volume 3",
+            "set_code": "DR3-EN092",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hobby League 5 participation card D",
+            "set_code": "HL05-EN004",
+            "set_rarity": "Ultra Parallel Rare",
+            "set_rarity_code": "(UPR)",
+            "set_price": "19.5"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN144",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN144",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Rise of Destiny",
+            "set_code": "RDS-EN032",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Rise of Destiny",
+            "set_code": "RDS-EN032",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-END05",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-END05",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN032",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "5.6"
+         },
+         {
+            "set_name": "Starter Deck: Syrus Truesdale",
+            "set_code": "YSDS-EN011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "7.33"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 87621407,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87621407.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87621407.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87621407.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "1.16",
+            "tcgplayer_price": "0.70",
+            "ebay_price": "2.94",
+            "amazon_price": "2.58",
+            "coolstuffinc_price": "1.99"
+         }
+      ]
+   },
+   {
+      "id": 300103005,
+      "name": "Double Evolution Pill (Skill Card)",
+      "type": "Skill Card",
+      "humanReadableCardType": "Skill - Rex",
+      "frameType": "skill",
+      "desc": "At the start of your Draw Phase, instead of drawing a card, you can pay 1500 LP to activate this Skill. Banish 1 Dinosaur monster and 1 non-Dinosaur monster from your hand and/or GY; Special Summon 1 Level 7 or higher Dinosaur monster from your hand or Deck, ignoring its Summoning conditions. This Skill can only be used once per Duel. ",
+      "race": "Rex",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/double-evolution-pill-skill-card-10540",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-ENS05",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.27"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 300103005,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300103005.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300103005.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300103005.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "6.00",
+            "amazon_price": "2.38",
+            "coolstuffinc_price": "0.00"
+         }
+      ]
+   },
+   {
+      "id": 58818411,
+      "name": "Empress Mantis",
+      "typeline": [
+         "Insect",
+         "Normal"
+      ],
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "desc": "Queen of an army of giant mantises whose command moves legions.",
+      "race": "Insect",
+      "atk": 2200,
+      "def": 1400,
+      "level": 6,
+      "attribute": "WIND",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/empress-mantis-5000",
+      "card_sets": [
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-040",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.14"
+         },
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-E040",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-EN040",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.44"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.06"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 58818411,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58818411.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58818411.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58818411.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 95051344,
+      "name": "Eternal Rest",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Destroy all monsters equipped with Equip Cards.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/eternal-rest-7912",
+      "card_sets": [
+         {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB1-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Magic Ruler",
+            "set_code": "MRL-060",
+            "set_rarity": "Super Short Print",
+            "set_rarity_code": "(SSP)",
+            "set_price": "1.58"
+         },
+         {
+            "set_name": "Magic Ruler",
+            "set_code": "MRL-E060",
+            "set_rarity": "Super Short Print",
+            "set_rarity_code": "(SSP)",
+            "set_price": "1.42"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.19"
+         },
+         {
+            "set_name": "Spell Ruler",
+            "set_code": "SRL-060",
+            "set_rarity": "Super Short Print",
+            "set_rarity_code": "(SSP)",
+            "set_price": "1.22"
+         },
+         {
+            "set_name": "Spell Ruler",
+            "set_code": "SRL-EN060",
+            "set_rarity": "Super Short Print",
+            "set_rarity_code": "(SSP)",
+            "set_price": "3.24"
+         },
+         {
+            "set_name": "Starter Deck: Joey",
+            "set_code": "SDJ-039",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.32"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 95051344,
+            "image_url": "https://images.ygoprodeck.com/images/cards/95051344.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95051344.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95051344.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 6178850,
+      "name": "Fighting Spirit",
+      "type": "Spell Card",
+      "humanReadableCardType": "Equip Spell",
+      "frameType": "spell",
+      "desc": "The equipped monster gains 300 ATK for each monster your opponent controls. If it would be destroyed by battle, you can destroy this card instead.",
+      "race": "Equip",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/fighting-spirit-545",
+      "card_sets": [
+         {
+            "set_name": "2-Player Starter Set",
+            "set_code": "STAX-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN153",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN153",
+            "set_rarity": "Mosaic Rare",
+            "set_rarity_code": "(MSR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN155",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN155",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN081",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN081",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Pack: Yusei",
+            "set_code": "DP08-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Match of the Millennium",
+            "set_code": "SS04-ENA24",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN041",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.18"
+         },
+         {
+            "set_name": "The Duelist Genesis",
+            "set_code": "TDGS-EN045",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 6178850,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6178850.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6178850.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6178850.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "3.95",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 53581214,
+      "name": "Fire Reaper",
+      "typeline": [
+         "Zombie",
+         "Normal"
+      ],
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "desc": "A reaper with a flaming arrow that burns an enemy to a crisp.",
+      "race": "Zombie",
+      "atk": 700,
+      "def": 500,
+      "level": 2,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/fire-reaper-4566",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.1"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 53581214,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53581214.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53581214.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53581214.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 62337487,
+      "name": "Fortress Whale",
+      "typeline": [
+         "Fish",
+         "Ritual"
+      ],
+      "type": "Ritual Monster",
+      "humanReadableCardType": "Ritual Monster",
+      "frameType": "ritual",
+      "desc": "You can Ritual Summon this card with \"Fortress Whale's Oath\".",
+      "race": "Fish",
+      "atk": 2350,
+      "def": 2150,
+      "level": 7,
+      "attribute": "WATER",
+      "archetype": "Umi",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/fortress-whale-5272",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel Tournament Pack 2",
+            "set_code": "STP2-EN006",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.59"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENC11",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Tournament Pack 7",
+            "set_code": "TP7-EN003",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "821.97"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 62337487,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62337487.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62337487.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62337487.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "1.38",
+            "amazon_price": "1.99",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 77454922,
+      "name": "Fortress Whale's Oath",
+      "type": "Spell Card",
+      "humanReadableCardType": "Ritual Spell",
+      "frameType": "spell",
+      "desc": "This card is used to Ritual Summon \"Fortress Whale\". You must also Tribute monsters from your hand or field whose total Levels equal 7 or more.",
+      "race": "Ritual",
+      "archetype": "Umi",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/fortress-whale-s-oath-6512",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.08"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENC17",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Tournament Pack 7",
+            "set_code": "TP7-EN011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.93"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 77454922,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77454922.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77454922.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77454922.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "4.95",
+            "amazon_price": "1.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 19737320,
+      "name": "Gatekeeper",
+      "typeline": [
+         "Machine",
+         "Normal"
+      ],
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "desc": "An indestructible mechanoid created for the sole purpose of guarding the gateways.",
+      "race": "Machine",
+      "atk": 1500,
+      "def": 1800,
+      "level": 5,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/gatekeeper-1699",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.22"
+         },
+         {
+            "set_name": "Tournament Pack 8",
+            "set_code": "TP8-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.89"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 19737320,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19737320.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19737320.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19737320.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 57046845,
+      "name": "Gearfried the Swordmaster",
+      "typeline": [
+         "Warrior",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Release Restraint\". Each time an Equip Card(s) is equipped to this card: Target 1 monster your opponent controls; destroy that target.",
+      "race": "Warrior",
+      "atk": 2600,
+      "def": 2200,
+      "level": 7,
+      "attribute": "LIGHT",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/gearfried-the-swordmaster-4862",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 3",
+            "set_code": "DR3-EN142",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Flaming Eternity",
+            "set_code": "FET-EN022",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Flaming Eternity",
+            "set_code": "FET-EN022",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN040",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 4",
+            "set_code": "STP4-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN009",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "7.29"
+         },
+         {
+            "set_name": "Structure Deck: Warrior's Triumph",
+            "set_code": "SD5-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.44"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 57046845,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57046845.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57046845.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57046845.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.49",
+            "tcgplayer_price": "0.98",
+            "ebay_price": "47.99",
+            "amazon_price": "2.19",
+            "coolstuffinc_price": "1.99"
+         }
+      ]
+   },
+   {
+      "id": 32022366,
+      "name": "Gravity Axe - Grarl",
+      "type": "Spell Card",
+      "humanReadableCardType": "Equip Spell",
+      "frameType": "spell",
+      "desc": "The equipped monster gains 500 ATK. Monsters your opponent controls cannot change their battle positions.",
+      "race": "Equip",
+      "archetype": "Guardian",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/gravity-axe-grarl-2724",
+      "card_sets": [
+         {
+            "set_name": "2-Player Starter Set",
+            "set_code": "STAX-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN143",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN143",
+            "set_rarity": "Mosaic Rare",
+            "set_rarity_code": "(MSR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Crisis",
+            "set_code": "DCR-034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.21"
+         },
+         {
+            "set_name": "Dark Crisis",
+            "set_code": "DCR-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Dark Revelation Volume 1",
+            "set_code": "DR1-EN196",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN138",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.17"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN039",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.21"
+         },
+         {
+            "set_name": "Starter Deck: Xyz Symphony",
+            "set_code": "YS12-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.39"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 32022366,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32022366.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32022366.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32022366.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 300103001,
+      "name": "Heavy Metal Raiders (Skill Card)",
+      "type": "Skill Card",
+      "humanReadableCardType": "Skill - Keith",
+      "frameType": "skill",
+      "desc": "The first time each DARK Machine monster you control would be destroyed by battle each turn, it is not destroyed, and if you took battle damage from the battle, it gains that much ATK after damage calculation, and keeps that ATK gain as long as this card is on the field. Once per turn, if a monster you control that was originally a DARK Machine destroys a card(s) on the field by battle or card effect: You can Special Summon 1 DARK Machine monster from your hand. ",
+      "race": "Keith",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/heavy-metal-raiders-skill-card-10541",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-ENS01",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "3.58"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 300103001,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300103001.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300103001.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300103001.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "7.00",
+            "amazon_price": "3.37",
+            "coolstuffinc_price": "0.00"
+         }
+      ]
+   },
+   {
+      "id": 25171661,
+      "name": "Infernity Dwarf",
+      "typeline": [
+         "Warrior",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "While you have no cards in your hand, if a monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+      "race": "Warrior",
+      "atk": 800,
+      "def": 500,
+      "level": 2,
+      "attribute": "DARK",
+      "archetype": "Infernity",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/infernity-dwarf-2164",
+      "card_sets": [
+         {
+            "set_name": "Gold Series 3",
+            "set_code": "GLD3-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.03"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! 5D's Stardust Accelerator promotional cards",
+            "set_code": "WC09-EN002",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "8.89"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! 5D's Stardust Accelerator promotional cards",
+            "set_code": "WC09-EN002",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.75"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 25171661,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25171661.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25171661.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25171661.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "1.26",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 3492538,
+      "name": "Insect Armor with Laser Cannon",
+      "type": "Spell Card",
+      "humanReadableCardType": "Equip Spell",
+      "frameType": "spell",
+      "desc": "Equip only to an Insect monster. It gains 700 ATK.",
+      "race": "Equip",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/insect-armor-with-laser-cannon-308",
+      "card_sets": [
+         {
+            "set_name": "Number Hunters",
+            "set_code": "NUMH-EN057",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.32"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.09"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 3492538,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3492538.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3492538.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3492538.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.41",
+            "ebay_price": "2.97",
+            "amazon_price": "2.19",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 73431236,
+      "name": "Iron Blacksmith Kotetsu",
+      "typeline": [
+         "Beast-Warrior",
+         "Flip",
+         "Effect"
+      ],
+      "type": "Flip Effect Monster",
+      "humanReadableCardType": "Flip Effect Monster",
+      "frameType": "effect",
+      "desc": "FLIP: Add 1 Equip Spell from your Deck to your hand.",
+      "race": "Beast-Warrior",
+      "atk": 500,
+      "def": 500,
+      "level": 2,
+      "attribute": "FIRE",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/iron-blacksmith-kotetsu-6166",
+      "card_sets": [
+         {
+            "set_name": "Dark Crisis",
+            "set_code": "DCR-064",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.27"
+         },
+         {
+            "set_name": "Dark Crisis",
+            "set_code": "DCR-EN064",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Dark Revelation Volume 1",
+            "set_code": "DR1-EN226",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist League 3 participation cards",
+            "set_code": "DL12-EN006",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "10.22"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.26"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 73431236,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73431236.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73431236.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73431236.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "1.00",
+            "amazon_price": "1.40",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 62701967,
+      "name": "Jurrac Tyrannus",
+      "typeline": [
+         "Dinosaur",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can Tribute 1 Dinosaur monster; this card gains 500 ATK. If this card destroys an opponent's monster by battle and sends it to the GY: This card gains 300 ATK.",
+      "race": "Dinosaur",
+      "atk": 2500,
+      "def": 1400,
+      "level": 7,
+      "attribute": "FIRE",
+      "archetype": "Jurrac",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/jurrac-tyrannus-5296",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 2",
+            "set_code": "DT02-EN068",
+            "set_rarity": "Duel Terminal Super Parallel Rare",
+            "set_rarity_code": "(DSPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 2",
+            "set_code": "HA02-EN038",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.05"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 62701967,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62701967.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62701967.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62701967.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.27",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "6.95",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 51934376,
+      "name": "Kabazauls",
+      "typeline": [
+         "Dinosaur",
+         "Normal"
+      ],
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "desc": "A huge monster in the shape of a hippopotamus. The sneezing from his gigantic body is so fierce that people mistake it for a hurricane.",
+      "race": "Dinosaur",
+      "atk": 1700,
+      "def": 1500,
+      "level": 4,
+      "attribute": "WATER",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/kabazauls-4420",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 1",
+            "set_code": "DR1-EN002",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist League 14 participation cards",
+            "set_code": "DL14-EN001",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "7.67"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN142",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Pharaonic Guardian",
+            "set_code": "PGD-054",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.46"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 2",
+            "set_code": "STP2-EN007",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.08"
+         },
+         {
+            "set_name": "Structure Deck: Dinosaur's Rage",
+            "set_code": "SD09-EN002",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.43"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 51934376,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51934376.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51934376.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51934376.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "2.94",
+            "amazon_price": "0.49",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 87322378,
+      "name": "Launcher Spider",
+      "typeline": [
+         "Machine",
+         "Normal"
+      ],
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "desc": "A mechanical spider with rocket launchers capable of random fire.",
+      "race": "Machine",
+      "atk": 2200,
+      "def": 2500,
+      "level": 7,
+      "attribute": "FIRE",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/launcher-spider-7308",
+      "card_sets": [
+         {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB2-EN057",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.25"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN171",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.25"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-095",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.48"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-E095",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.18"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-EN095",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.02"
+         },
+         {
+            "set_name": "Millennium Pack",
+            "set_code": "MIL1-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.89"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.05"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 87322378,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87322378.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87322378.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87322378.jpg"
+         },
+         {
+            "id": 87322377,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87322377.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87322377.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87322377.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 25769732,
+      "name": "Machine Conversion Factory",
+      "type": "Spell Card",
+      "humanReadableCardType": "Equip Spell",
+      "frameType": "spell",
+      "desc": "Equip only to a Machine monster. It gains 300 ATK/DEF.",
+      "race": "Equip",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/machine-conversion-factory-2214",
+      "card_sets": [
+         {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-096",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "2.25"
+         },
+         {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-E076",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "21.78"
+         },
+         {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-EN096",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "15.34"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.07"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 25769732,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25769732.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25769732.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25769732.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 7802006,
+      "name": "Magical Plant Mandragola",
+      "typeline": [
+         "Spellcaster",
+         "Flip",
+         "Effect"
+      ],
+      "type": "Flip Effect Monster",
+      "humanReadableCardType": "Flip Effect Monster",
+      "frameType": "effect",
+      "desc": "FLIP: Place 1 Spell Counter on each face-up card on the field that you can place a Spell Counter on.",
+      "race": "Spellcaster",
+      "atk": 500,
+      "def": 200,
+      "level": 2,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/magical-plant-mandragola-664",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 1",
+            "set_code": "DR1-EN127",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Magician's Force",
+            "set_code": "MFC-072",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.42"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN001",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.04"
+         },
+         {
+            "set_name": "Spellcaster's Command Structure Deck",
+            "set_code": "SDSC-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.07"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 7802006,
+            "image_url": "https://images.ygoprodeck.com/images/cards/7802006.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7802006.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7802006.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 28933734,
+      "name": "Mask of Darkness",
+      "typeline": [
+         "Fiend",
+         "Flip",
+         "Effect"
+      ],
+      "type": "Flip Effect Monster",
+      "humanReadableCardType": "Flip Effect Monster",
+      "frameType": "effect",
+      "desc": "FLIP: Target 1 Trap in your GY; add that target to your hand.",
+      "race": "Fiend",
+      "atk": 900,
+      "def": 400,
+      "level": 2,
+      "attribute": "DARK",
+      "archetype": "Mask",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/mask-of-darkness-2456",
+      "card_sets": [
+         {
+            "set_name": "2-Player Starter Set",
+            "set_code": "STAS-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN172",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN172",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB1-EN150",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Legends",
+            "set_code": "DLG1-EN028",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "2.75"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-014",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "2.08"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-E014",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "5.1"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-EN014",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "2.49"
+         },
+         {
+            "set_name": "Retro Pack",
+            "set_code": "RP01-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.45"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA19",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 4",
+            "set_code": "STP4-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN033",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "6.4"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENF09",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Jaden Yuki",
+            "set_code": "YSDJ-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.25"
+         },
+         {
+            "set_name": "Starter Deck: Pegasus",
+            "set_code": "SDP-013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.44"
+         },
+         {
+            "set_name": "Starter Deck: Syrus Truesdale",
+            "set_code": "YSDS-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.03"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 28933734,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28933734.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28933734.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28933734.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "6.00",
+            "amazon_price": "1.99",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 25727454,
+      "name": "Master Craftsman Gamil",
+      "typeline": [
+         "Pyro",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "During the Damage Step, when a face-up monster you control battles (Quick Effect): You can send this card from your hand to the GY; that monster gains 300 ATK until the end of this turn.",
+      "race": "Pyro",
+      "atk": 200,
+      "def": 200,
+      "level": 2,
+      "attribute": "FIRE",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/master-craftsman-gamil-2213",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN115",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN115",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.04"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 25727454,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25727454.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25727454.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25727454.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "1.97",
+            "amazon_price": "0.29",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 68540058,
+      "name": "Metalmorph",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Target 1 face-up monster on the field; equip this card to that target. It gains 300 ATK/DEF. If it attacks, it gains ATK equal to half the ATK of the attack target, during damage calculation only.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/metalmorph-5761",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN173",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.71"
+         },
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN173",
+            "set_rarity": "Mosaic Rare",
+            "set_rarity_code": "(MSR)",
+            "set_price": "1.44"
+         },
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN189",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.26"
+         },
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN189",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "1.52"
+         },
+         {
+            "set_name": "Duel Terminal 2",
+            "set_code": "DT02-EN046",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.96"
+         },
+         {
+            "set_name": "Geargia Rampage Structure Deck",
+            "set_code": "SDGR-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.34"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN075",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.61"
+         },
+         {
+            "set_name": "Machina Mayhem Structure Deck",
+            "set_code": "SDMM-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.67"
+         },
+         {
+            "set_name": "Millennium Pack",
+            "set_code": "MIL1-EN045",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.28"
+         },
+         {
+            "set_name": "Premium Pack (TCG)",
+            "set_code": "PP01-EN014",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "4.52"
+         },
+         {
+            "set_name": "Premium Pack (TCG)",
+            "set_code": "PP01-EN014",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.49"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN030",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "3.88"
+         },
+         {
+            "set_name": "Star Pack 2013",
+            "set_code": "SP13-EN042",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.74"
+         },
+         {
+            "set_name": "Star Pack 2013",
+            "set_code": "SP13-EN042",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "2.42"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! Forbidden Memories promotional cards",
+            "set_code": "FMR-003",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "74.3"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 68540058,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68540058.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68540058.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68540058.jpg"
+         },
+         {
+            "id": 68540059,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68540059.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68540059.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68540059.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "1.15",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 89882100,
+      "name": "Night Beam",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Target 1 Set Spell/Trap your opponent controls; destroy that target. Your opponent cannot activate the targeted card in response to this card's activation.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/night-beam-7510",
+      "card_sets": [
+         {
+            "set_name": "2-Player Starter Set",
+            "set_code": "STAX-EN037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN176",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN176",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Galactic Overlord",
+            "set_code": "GAOV-EN055",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Galactic Overlord",
+            "set_code": "GAOV-EN055",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Maximum Gold",
+            "set_code": "MAGO-EN147",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN182",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN182",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENB16",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN043",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "8.3"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENF14",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENF14",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Powercode Link",
+            "set_code": "SDPL-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Synchron Extreme Structure Deck",
+            "set_code": "SDSE-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.25"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 89882100,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89882100.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89882100.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89882100.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "3.79",
+            "amazon_price": "0.79",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 24433920,
+      "name": "Pendulum Machine",
+      "typeline": [
+         "Machine",
+         "Normal"
+      ],
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "desc": "A horrible torture machine with a large pendulum blade.",
+      "race": "Machine",
+      "atk": 1750,
+      "def": 2000,
+      "level": 6,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/pendulum-machine-2112",
+      "card_sets": [
+         {
+            "set_name": "Gold Series 4: Pyramids Edition",
+            "set_code": "GLD4-EN002",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Millennium Pack",
+            "set_code": "MIL1-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.94"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.04"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 24433920,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24433920.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24433920.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24433920.jpg"
+         },
+         {
+            "id": 24433921,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24433921.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24433921.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24433921.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "2.99",
+            "amazon_price": "1.06",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 75417459,
+      "name": "Release Restraint",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Tribute 1 \"Gearfried the Iron Knight\"; Special Summon 1 \"Gearfried the Swordmaster\" from your hand or Deck.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/release-restraint-6347",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 3",
+            "set_code": "DR3-EN164",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Flaming Eternity",
+            "set_code": "FET-EN044",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN069",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.2"
+         },
+         {
+            "set_name": "Structure Deck: Warrior's Triumph",
+            "set_code": "SD5-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.46"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 75417459,
+            "image_url": "https://images.ygoprodeck.com/images/cards/75417459.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75417459.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75417459.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "2.50",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 26533075,
+      "name": "Security Orb",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "When your opponent's monster declares an attack: Target that attacking monster; change that target's battle position. If this Set card is destroyed by your opponent's Spell/Trap effect and sent to the GY: Destroy 1 monster on the field.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/security-orb-2276",
+      "card_sets": [
+         {
+            "set_name": "Gladiator's Assault",
+            "set_code": "GLAS-EN089",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gladiator's Assault",
+            "set_code": "GLAS-EN089",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Match of the Millennium",
+            "set_code": "SS04-ENB28",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.2"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN044",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.07"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 26533075,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26533075.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26533075.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26533075.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "4.99",
+            "amazon_price": "2.48",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 300103004,
+      "name": "Servants of the Fallen King",
+      "type": "Skill Card",
+      "humanReadableCardType": "Skill - Bonz",
+      "frameType": "skill",
+      "desc": "Once per turn, you can send 1 Level 3 or lower Zombie Normal Monster from your Deck to the GY. ",
+      "race": "Bonz",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/servants-of-the-fallen-king-10543",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-ENS04",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.62"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 300103004,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300103004.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300103004.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300103004.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.57",
+            "tcgplayer_price": "1.05",
+            "ebay_price": "2.50",
+            "amazon_price": "2.54",
+            "coolstuffinc_price": "0.99"
+         }
+      ]
+   },
+   {
+      "id": 27655513,
+      "name": "Skreech",
+      "typeline": [
+         "Reptile",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is destroyed by battle: Send 2 WATER monsters from your Deck to the GY.",
+      "race": "Reptile",
+      "atk": 1500,
+      "def": 400,
+      "level": 4,
+      "attribute": "WATER",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/skreech-2355",
+      "card_sets": [
+         {
+            "set_name": "Gladiator's Assault",
+            "set_code": "GLAS-EN086",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Realm of the Sea Emperor Structure Deck",
+            "set_code": "SDRE-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.1"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.05"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 27655513,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27655513.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27655513.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27655513.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "11.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 3797883,
+      "name": "Slot Machine",
+      "typeline": [
+         "Machine",
+         "Normal"
+      ],
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "desc": "The machine's ability is said to vary according to its slot results.",
+      "race": "Machine",
+      "atk": 2000,
+      "def": 2300,
+      "level": 7,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/slot-machine-340",
+      "card_sets": [
+         {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB1-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN172",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Magic Ruler",
+            "set_code": "MRL-028",
+            "set_rarity": "Super Short Print",
+            "set_rarity_code": "(SSP)",
+            "set_price": "2.21"
+         },
+         {
+            "set_name": "Magic Ruler",
+            "set_code": "MRL-E028",
+            "set_rarity": "Super Short Print",
+            "set_rarity_code": "(SSP)",
+            "set_price": "9.81"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.03"
+         },
+         {
+            "set_name": "Spell Ruler",
+            "set_code": "SRL-028",
+            "set_rarity": "Super Short Print",
+            "set_rarity_code": "(SSP)",
+            "set_price": "1.43"
+         },
+         {
+            "set_name": "Spell Ruler",
+            "set_code": "SRL-EN028",
+            "set_rarity": "Super Short Print",
+            "set_rarity_code": "(SSP)",
+            "set_price": "2.95"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 3797883,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3797883.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3797883.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3797883.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "2.50",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 75014062,
+      "name": "Spell Power Grasp",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Target 1 face-up card on the field that you can place a Spell Counter on; place 1 Spell Counter on that target, then you can add 1 \"Spell Power Grasp\" from your Deck to your hand. You can only activate 1 \"Spell Power Grasp\" per turn.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/spell-power-grasp-6310",
+      "card_sets": [
+         {
+            "set_name": "Dark Saviors",
+            "set_code": "DASA-EN056",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.39"
+         },
+         {
+            "set_name": "OTS Tournament Pack 7",
+            "set_code": "OP07-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 7 (POR)",
+            "set_code": "OP07-PT020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.2"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENA15",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Spellcaster's Command Structure Deck",
+            "set_code": "SDSC-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.48"
+         },
+         {
+            "set_name": "Structure Deck: Order of the Spellcasters",
+            "set_code": "SR08-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.06"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 75014062,
+            "image_url": "https://images.ygoprodeck.com/images/cards/75014062.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75014062.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75014062.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 300103002,
+      "name": "Spell Proof Armor",
+      "type": "Skill Card",
+      "humanReadableCardType": "Skill - Keith",
+      "frameType": "skill",
+      "desc": "[Activate this Skill during your Main Phase.] \r\n\r\nAll Machine monsters you control are unaffected by your opponent's Spell effects. You can Normal Summon Machine Normal Monsters with 1 less Tribute. If a non-Machine monster is in your GY, flip this Skill over. This Skill can only be used once per Duel.",
+      "race": "Keith",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/spell-proof-armor-10514",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel Tournament Pack 4",
+            "set_code": "STP4-ENS03",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-ENS02",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "7.22"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 300103002,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300103002.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300103002.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300103002.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "1.07",
+            "tcgplayer_price": "0.99",
+            "ebay_price": "3.49",
+            "amazon_price": "0.50",
+            "coolstuffinc_price": "5.99"
+         }
+      ]
+   },
+   {
+      "id": 18807109,
+      "name": "Spellbinding Circle",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "Activate this card by targeting 1 monster your opponent controls; it cannot attack or change its battle position. When that monster is destroyed, destroy this card.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/spellbinding-circle-1625",
+      "card_sets": [
+         {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB1-EN006",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Pack: Yugi",
+            "set_code": "DPYG-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.5"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN092",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.24"
+         },
+         {
+            "set_name": "Magic Ruler",
+            "set_code": "MRL-006",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "17.43"
+         },
+         {
+            "set_name": "Magic Ruler",
+            "set_code": "MRL-E006",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "43.82"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Match of the Millennium",
+            "set_code": "SS04-ENA28",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN005",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.16"
+         },
+         {
+            "set_name": "Spell Ruler",
+            "set_code": "SRL-006",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "8.29"
+         },
+         {
+            "set_name": "Spell Ruler",
+            "set_code": "SRL-EN006",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "107.7"
+         },
+         {
+            "set_name": "Starter Deck: Yu-Gi-Oh! 5D's",
+            "set_code": "5DS1-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Yugi Evolution",
+            "set_code": "SYE-045",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.57"
+         },
+         {
+            "set_name": "Starter Deck: Yugi Reloaded",
+            "set_code": "YSYR-EN041",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.73"
+         },
+         {
+            "set_name": "Yugi's Legendary Decks",
+            "set_code": "YGLD-ENB36",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.08"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 18807109,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18807109.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18807109.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18807109.jpg"
+         },
+         {
+            "id": 18807108,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18807108.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18807108.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18807108.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "2.11",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 73680966,
+      "name": "The Beginning of the End",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "If you have 7 or more DARK monsters in your GY: Banish 5 DARK monsters from your GY; draw 3 cards.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/the-beginning-of-the-end-6188",
+      "card_sets": [
+         {
+            "set_name": "Destiny Soldiers",
+            "set_code": "DESO-EN053",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Phantom Darkness",
+            "set_code": "PTDN-EN053",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Phantom Darkness",
+            "set_code": "PTDN-EN053",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN040",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.21"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.09"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 73680966,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73680966.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73680966.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73680966.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.29",
+            "ebay_price": "0.99",
+            "amazon_price": "1.50",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 55013285,
+      "name": "Troop Dragon",
+      "typeline": [
+         "Dragon",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is destroyed by battle and sent to the GY: Special Summon 1 \"Troop Dragon\" from your Deck.",
+      "race": "Dragon",
+      "atk": 700,
+      "def": 800,
+      "level": 2,
+      "attribute": "WIND",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/troop-dragon-4686",
+      "card_sets": [
+         {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB2-EN157",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.89"
+         },
+         {
+            "set_name": "Legacy of Darkness",
+            "set_code": "LOD-042",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.88"
+         },
+         {
+            "set_name": "Legacy of Darkness",
+            "set_code": "LOD-EN042",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.9"
+         },
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENB08",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN006",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.82"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 55013285,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55013285.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55013285.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55013285.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "1.14",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 53839837,
+      "name": "Vampire Lord",
+      "typeline": [
+         "Zombie",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card inflicts battle damage to your opponent: Declare 1 type of card (Monster, Spell, or Trap); your opponent sends 1 card of that type from their Deck to the GY. Once per turn, during your next Standby Phase after this card in your possession was destroyed and sent to your GY by an opponent's card effect: Special Summon this card from the GY.",
+      "race": "Zombie",
+      "atk": 2000,
+      "def": 1500,
+      "level": 5,
+      "attribute": "DARK",
+      "archetype": "Vampire",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/vampire-lord-4589",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN127",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN127",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB2-EN116",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Crisis",
+            "set_code": "DCR-000",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "50.18"
+         },
+         {
+            "set_name": "Dark Crisis",
+            "set_code": "DCR-EN000",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Duelist Pack: Kaiba",
+            "set_code": "DPKB-EN013",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN191",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection Kaiba Mega Pack",
+            "set_code": "LCKC-EN024",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN128",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN128",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Rise of Destiny: Special Edition",
+            "set_code": "RDS-ENSE4",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "4.59"
+         },
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENC05",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN007",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "3.78"
+         },
+         {
+            "set_name": "Structure Deck: Seto Kaiba",
+            "set_code": "SDKS-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.23"
+         },
+         {
+            "set_name": "Structure Deck: Zombie Madness",
+            "set_code": "SD2-EN003",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.74"
+         }
+      ],
+      "banlist_info": {
+         "ban_goat": "Semi-Limited"
+      },
+      "card_images": [
+         {
+            "id": 53839837,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53839837.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53839837.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53839837.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "19.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   }
+]
