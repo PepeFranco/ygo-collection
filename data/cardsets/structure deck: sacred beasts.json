@@ -1,0 +1,4143 @@
+[
+   {
+      "id": 43378048,
+      "name": "Armityle the Chaos Phantasm",
+      "typeline": [
+         "Fiend",
+         "Fusion",
+         "Effect"
+      ],
+      "type": "Fusion Monster",
+      "humanReadableCardType": "Fusion Effect Monster",
+      "frameType": "fusion",
+      "desc": "\"Uria, Lord of Searing Flames\" + \"Hamon, Lord of Striking Thunder\" + \"Raviel, Lord of Phantasms\"\r\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use \"Polymerization\".) Cannot be destroyed by battle. Gains 10,000 ATK during your turn only.",
+      "race": "Fiend",
+      "atk": 0,
+      "def": 0,
+      "level": 12,
+      "attribute": "DARK",
+      "archetype": "Chaos Phantom",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/armityle-the-chaos-phantasm-3696",
+      "card_sets": [
+         {
+            "set_name": "Ancient Prophecy",
+            "set_code": "ANPR-EN091",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Saga",
+            "set_code": "DUSA-EN099",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "3.57"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN211",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN045",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.26"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 43378048,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43378048.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43378048.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43378048.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "1.04",
+            "tcgplayer_price": "2.13",
+            "ebay_price": "2.29",
+            "amazon_price": "3.61",
+            "coolstuffinc_price": "0.99"
+         }
+      ]
+   },
+   {
+      "id": 53701259,
+      "name": "Awakening of the Sacred Beasts",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "This card gains these effects based on the number of \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", and/or \"Raviel, Lord of Phantasms\" with different names you control.\r\n● 1+: Each time your opponent Normal or Special Summons a monster(s): Gain LP equal to the ATK of that monster(s).\r\n● 2+: Negate the activated effects of monsters your opponent controls.\r\n● 3: Any monsters sent to your opponent's GY are banished instead.\r\nOnce per your turn, if you control a Level 10 monster: You can add 1 Continuous Trap from your GY to your hand.",
+      "race": "Continuous",
+      "archetype": "Sacred Beast",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/awakening-of-the-sacred-beasts-10981",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENG15",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.51"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 53701259,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53701259.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53701259.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53701259.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   },
+   {
+      "id": 54828837,
+      "name": "Cerulean Skyfire",
+      "type": "Spell Card",
+      "humanReadableCardType": "Continuous Spell",
+      "frameType": "spell",
+      "desc": "To Special Summon \"Hamon, Lord of Striking Thunder\" using its own procedure, you can also use face-down Spells you control. Once per turn, while you control an Attack Position \"Hamon, Lord of Striking Thunder\", you can negate any Spell/Trap effect activated by your opponent, then, change 1 \"Hamon, Lord of Striking Thunder\" you control to Defense Position. If a face-up \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", or \"Raviel, Lord of Phantasms\" you control leaves the field: You take no damage this turn.",
+      "race": "Continuous",
+      "archetype": "Sacred Beast",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/cerulean-skyfire-10915",
+      "card_sets": [
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENG11",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN019",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.55"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 54828837,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54828837.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54828837.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54828837.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "1.35",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 54040484,
+      "name": "Chaos Core",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When either player activates a card or effect that targets this card, or when your opponent's monster targets it for an attack (Quick Effect): You can send up to 1 each of \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", and \"Raviel, Lord of Phantasms\" from your hand and/or Deck to the GY, and if you do, place 1 Phantasm Counter on this card for each card sent to the GY, and if you place at least 1, you take no battle damage this turn. You can only use this effect of \"Chaos Core\" once per turn. If this card would be destroyed by battle or card effect, you can remove 1 Phantasm Counter from this card instead.",
+      "race": "Fiend",
+      "atk": 0,
+      "def": 0,
+      "level": 3,
+      "attribute": "DARK",
+      "archetype": "Sacred Beast",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/chaos-core-10984",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN002",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.27"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 54040484,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54040484.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54040484.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54040484.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.30",
+            "tcgplayer_price": "0.35",
+            "ebay_price": "0.99",
+            "amazon_price": "1.80",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 97940434,
+      "name": "Chaos Hunter",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When your opponent Special Summons a monster (except during the Damage Step): You can discard 1 card; Special Summon this card from your hand. Your opponent cannot banish cards.",
+      "race": "Fiend",
+      "atk": 2500,
+      "def": 1600,
+      "level": 7,
+      "attribute": "DARK",
+      "archetype": "Chaos",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/chaos-hunter-8140",
+      "card_sets": [
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN007",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN007",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN007",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN007",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN007",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN007",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN007",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN095",
+            "set_rarity": "Mosaic Rare",
+            "set_rarity_code": "(MSR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN095",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Magnificent Mavens",
+            "set_code": "MAMA-EN051",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Master of Pendulum Structure Deck",
+            "set_code": "SDMP-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.32"
+         },
+         {
+            "set_name": "Storm of Ragnarok",
+            "set_code": "STOR-EN085",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.28"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 97940434,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97940434.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97940434.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97940434.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "3.83",
+            "coolstuffinc_price": "1.49"
+         }
+      ]
+   },
+   {
+      "id": 27439792,
+      "name": "Chaos Summoning Beast",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can Tribute this card; Special Summon 1 \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", or \"Raviel, Lord of Phantasms\", from your hand, ignoring its Summoning conditions. You can banish this card from your GY; add 1 \"Fallen Paradise\" from your Deck to your hand. You can only use each effect of \"Chaos Summoning Beast\" once per turn.",
+      "race": "Fiend",
+      "atk": 0,
+      "def": 0,
+      "level": 1,
+      "attribute": "DARK",
+      "archetype": "Sacred Beast",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/chaos-summoning-beast-10983",
+      "card_sets": [
+         {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN250",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.46"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 27439792,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27439792.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27439792.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27439792.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.41",
+            "tcgplayer_price": "0.27",
+            "ebay_price": "0.99",
+            "amazon_price": "3.71",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 16209941,
+      "name": "Danger! Chupacabra!",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can reveal this card in your hand; your opponent randomly chooses 1 card from your entire hand, then you discard the chosen card. Then, if the discarded card was not \"Danger! Chupacabra!\", Special Summon 1 \"Danger! Chupacabra!\" from your hand, and if you do, draw 1 card. If this card is discarded: You can target 1 \"Danger!\" monster in your GY, except \"Danger! Chupacabra!\"; Special Summon it. You can only use this effect of \"Danger! Chupacabra!\" once per turn.",
+      "race": "Fiend",
+      "atk": 1500,
+      "def": 400,
+      "level": 4,
+      "attribute": "DARK",
+      "archetype": "Danger!",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/danger-chupacabra-9631",
+      "card_sets": [
+         {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN138",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN447",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Cybernetic Horizon",
+            "set_code": "CYHO-EN084",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.29"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 16209941,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16209941.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16209941.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16209941.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "4.80",
+            "amazon_price": "2.94",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 81034083,
+      "name": "Dark Beckoning Beast",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card is Normal Summoned: You can add 1 \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", or \"Raviel, Lord of Phantasms\", OR 1 card that specifically lists any of those cards in its text, from your Deck to your hand, except \"Dark Beckoning Beast\". You can only use this effect of \"Dark Beckoning Beast\" once per turn. During your Main Phase, you can Normal Summon 1 Fiend monster with 0 ATK/DEF in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)",
+      "race": "Fiend",
+      "atk": 0,
+      "def": 0,
+      "level": 2,
+      "attribute": "DARK",
+      "archetype": "Sacred Beast",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dark-beckoning-beast-10914",
+      "card_sets": [
+         {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN249",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN027",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN027",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN027",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN027",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN027",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN027",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN027",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN003",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.42"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 81034083,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81034083.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81034083.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81034083.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "1.55",
+            "amazon_price": "2.84",
+            "coolstuffinc_price": "0.99"
+         }
+      ]
+   },
+   {
+      "id": 9064354,
+      "name": "Dark Factory of More Production",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "You can send 1 monster from your hand or field to the GY; draw 1 card. You can only use this effect of \"Dark Factory of More Production\" once per turn.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dark-factory-of-more-production-9775",
+      "card_sets": [
+         {
+            "set_name": "2020 Tin of Lost Memories Mega Pack",
+            "set_code": "MP20-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.04"
+         },
+         {
+            "set_name": "Savage Strike",
+            "set_code": "SAST-EN078",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN040",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.1"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 9064354,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9064354.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9064354.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9064354.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "1.50",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 87917187,
+      "name": "Dark Summoning Beast",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can Tribute this card; Special Summon 1 \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", or \"Raviel, Lord of Phantasms\" from your hand or Deck, ignoring its Summoning conditions, also monsters you control cannot attack for the rest of this turn. You can only use this effect of \"Dark Summoning Beast\" once per turn. You can banish this card from your Graveyard; add 1 \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", or \"Raviel, Lord of Phantasms\" from your Deck to your hand.",
+      "race": "Fiend",
+      "atk": 0,
+      "def": 0,
+      "level": 5,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dark-summoning-beast-8302",
+      "card_sets": [
+         {
+            "set_name": "Duelist Saga",
+            "set_code": "DUSA-EN030",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.8"
+         },
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENG04",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 6",
+            "set_code": "STP6-EN010",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN005",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.43"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 87917187,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87917187.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87917187.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87917187.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "0.99",
+            "amazon_price": "2.84",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   },
+   {
+      "id": 89190953,
+      "name": "Dimension Fusion Destruction",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Banish from your hand, field, and/or GY, the Fusion Materials that are listed on a \"Phantasm\" Fusion Monster, then Special Summon that Fusion Monster from your Extra Deck, ignoring its Summoning conditions. You take no battle damage from attacks involving the monster Special Summoned by this effect. If you control \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", or \"Raviel, Lord of Phantasms\", your opponent cannot activate cards or effects in response to this card's activation.",
+      "race": "Normal",
+      "archetype": "Chaos Phantom",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dimension-fusion-destruction-10879",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN046",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.55"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 89190953,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89190953.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89190953.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89190953.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.47",
+            "tcgplayer_price": "0.50",
+            "ebay_price": "1.85",
+            "amazon_price": "32.94",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 31550470,
+      "name": "Escape from the Dark Dimension",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "Target 1 of your banished DARK monsters; Special Summon that target. When this card leaves the field, destroy that target, and if you do, banish it. When that target is destroyed, destroy this card.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/escape-from-the-dark-dimension-2679",
+      "card_sets": [
+         {
+            "set_name": "Destiny Soldiers",
+            "set_code": "DESO-EN045",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dragons Collide Structure Deck",
+            "set_code": "SDDC-EN040",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gates of the Underworld Structure Deck",
+            "set_code": "SDGU-EN038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.12"
+         },
+         {
+            "set_name": "Pendulum Domination Structure Deck",
+            "set_code": "SDPD-EN039",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Phantom Darkness",
+            "set_code": "PTDN-EN072",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.1"
+         },
+         {
+            "set_name": "Turbo Pack: Booster Five",
+            "set_code": "TU05-EN010",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 31550470,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31550470.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31550470.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31550470.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "4.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 13301895,
+      "name": "Fallen Paradise",
+      "type": "Spell Card",
+      "humanReadableCardType": "Field Spell",
+      "frameType": "spell",
+      "desc": "Your opponent cannot target \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", \"Raviel, Lord of Phantasms\", or \"Armityle the Chaos Phantom\" in your Monster Zones with card effects, also those monsters cannot be destroyed by your opponent's card effects while you control them. If you control \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", \"Raviel, Lord of Phantasms\" or \"Armityle the Chaos Phantom\" in your Monster Zone: You can draw 2 cards. You can only use this effect of \"Fallen Paradise\" once per turn.",
+      "race": "Field",
+      "archetype": "Sacred Beast",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/fallen-paradise-8303",
+      "card_sets": [
+         {
+            "set_name": "Duelist Saga",
+            "set_code": "DUSA-EN031",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "3.34"
+         },
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENG10",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.58"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 13301895,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13301895.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13301895.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13301895.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "2.84",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   },
+   {
+      "id": 36553319,
+      "name": "Farfa, Malebranche of the Burning Abyss",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If you control a monster that is not a \"Burning Abyss\" monster, destroy this card. You can only use 1 of these effects of \"Farfa, Malebranche of the Burning Abyss\" per turn, and only once that turn.\n● If you control no Spell/Trap Cards: You can Special Summon this card from your hand.\n● If this card is sent to the Graveyard: You can target 1 monster on the field; banish it until the End Phase.",
+      "race": "Fiend",
+      "atk": 1000,
+      "def": 1900,
+      "level": 3,
+      "attribute": "DARK",
+      "archetype": "Burning Abyss",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/farfa-malebranche-of-the-burning-abyss-3088",
+      "card_sets": [
+         {
+            "set_name": "Premium Gold: Infinite Gold",
+            "set_code": "PGL3-EN049",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Secrets of Eternity",
+            "set_code": "SECE-EN082",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.26"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 36553319,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36553319.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36553319.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36553319.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.23",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "1.99",
+            "amazon_price": "1.72",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 7153114,
+      "name": "Field Barrier",
+      "type": "Spell Card",
+      "humanReadableCardType": "Continuous Spell",
+      "frameType": "spell",
+      "desc": "Field Spell Cards on the field cannot be destroyed. Neither player can activate a new Field Spell Card. You can only control 1 \"Field Barrier\".",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/field-barrier-613",
+      "card_sets": [
+         {
+            "set_name": "Force of the Breaker",
+            "set_code": "FOTB-EN042",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Spellcaster's Command Structure Deck",
+            "set_code": "SDSC-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.18"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.78"
+         },
+         {
+            "set_name": "Zombie World Structure Deck",
+            "set_code": "SDZW-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 7153114,
+            "image_url": "https://images.ygoprodeck.com/images/cards/7153114.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7153114.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7153114.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "2.95",
+            "amazon_price": "1.98",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   },
+   {
+      "id": 48343627,
+      "name": "Grave Squirmer",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is destroyed by battle and sent to the Graveyard: Target 1 card on the field; destroy that target.",
+      "race": "Fiend",
+      "atk": 0,
+      "def": 0,
+      "level": 1,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/grave-squirmer-4125",
+      "card_sets": [
+         {
+            "set_name": "2-Player Starter Deck: Yuya & Declan",
+            "set_code": "YS15-END11",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "8.11"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN062",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN062",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Legion Starter Deck",
+            "set_code": "YS15-ENL13",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.23"
+         },
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN054",
+            "set_rarity": "Duel Terminal Rare Parallel Rare",
+            "set_rarity_code": "(DRPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Pack: Jesse Anderson",
+            "set_code": "DP07-EN008",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.61"
+         },
+         {
+            "set_name": "Gates of the Underworld Structure Deck",
+            "set_code": "SDGU-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.52"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN195",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.56"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.09"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 48343627,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48343627.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48343627.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48343627.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "2.95",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 32491822,
+      "name": "Hamon, Lord of Striking Thunder",
+      "typeline": [
+         "Thunder",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 3 face-up Continuous Spell Cards you control to the Graveyard, and cannot be Special Summoned by other ways. If this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict 1000 damage to your opponent. While this card is in face-up Defense Position, monsters your opponent controls cannot target monsters for attacks, except this one.",
+      "race": "Thunder",
+      "atk": 4000,
+      "def": 4000,
+      "level": 10,
+      "attribute": "LIGHT",
+      "archetype": "Sacred Beast",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/hamon-lord-of-striking-thunder-2764",
+      "card_sets": [
+         {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN253",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Collectible Tins 2006 Wave 2",
+            "set_code": "CT03-EN006",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "14.13"
+         },
+         {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN122",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "232.45"
+         },
+         {
+            "set_name": "Duelist Saga",
+            "set_code": "DUSA-EN097",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.02"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years",
+            "set_code": "LC02-EN002",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.85"
+         },
+         {
+            "set_name": "Shadow of Infinity",
+            "set_code": "SOI-EN002",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Shadow of Infinity",
+            "set_code": "SOI-EN002",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENG02",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENG02",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Legend of the Crystal Beasts",
+            "set_code": "SDCB-EN011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN043",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 32491822,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32491822.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32491822.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32491822.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "1.94",
+            "amazon_price": "1.65",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 16317140,
+      "name": "Hyper Blaze",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "To Special Summon \"Uria, Lord of Searing Flames\" using its own procedure, you can also use face-down Traps you control. Once per battle, when an attack is declared involving your \"Uria, Lord of Searing Flames\": You can send 1 Trap from your hand or Deck to the GY; its ATK/DEF become the number of face-up Traps on the field and in the GYs x 1000, for the rest of this turn. Once per turn: You can discard 1 card; add to your hand or Special Summon, 1 \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", or \"Raviel, Lord of Phantasms\" from your GY, ignoring its Summoning conditions.",
+      "race": "Continuous",
+      "archetype": "Sacred Beast",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/hyper-blaze-10916",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN034",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.48"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 16317140,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16317140.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16317140.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16317140.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.33",
+            "tcgplayer_price": "0.37",
+            "ebay_price": "1.99",
+            "amazon_price": "5.25",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 9995766,
+      "name": "Imperial Custom",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "Face-up Continuous Trap Cards cannot be destroyed, except \"Imperial Custom\". You can only control 1 \"Imperial Custom\".",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/imperial-custom-844",
+      "card_sets": [
+         {
+            "set_name": "Ancient Prophecy",
+            "set_code": "ANPR-EN067",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.18"
+         },
+         {
+            "set_name": "Valiant Smashers",
+            "set_code": "VASM-EN058",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 9995766,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9995766.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9995766.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9995766.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "1.10",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 31034919,
+      "name": "Mad Reloader",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is destroyed by battle and sent to the GY: Send 2 cards from your hand to the GY, and if you do, draw 2 cards.",
+      "race": "Fiend",
+      "atk": 0,
+      "def": 0,
+      "level": 1,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/mad-reloader-2630",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN195",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN195",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENG05",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA20",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.09"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.04"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! GX Tag Force 2 promotional cards",
+            "set_code": "GX04-EN001",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.56"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 31034919,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31034919.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31034919.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31034919.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "3.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 59305593,
+      "name": "Mistake",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "Neither player can add cards from their Deck to their hand except by drawing them.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/mistake-5041",
+      "card_sets": [
+         {
+            "set_name": "2014 Mega-Tin Mega Pack",
+            "set_code": "MP14-EN177",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Maximum Gold",
+            "set_code": "MAGO-EN077",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Premium Gold: Infinite Gold",
+            "set_code": "PGL3-EN096",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Shadow Specters",
+            "set_code": "SHSP-EN076",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN039",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.22"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 59305593,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59305593.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59305593.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59305593.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "1.49",
+            "amazon_price": "1.04",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 269012,
+      "name": "Mound of the Bound Creator",
+      "type": "Spell Card",
+      "humanReadableCardType": "Field Spell",
+      "frameType": "spell",
+      "desc": "Level 10 or higher monsters on the field cannot be targeted or destroyed by card effects. If a Level 10 or higher monster on the field destroys a monster by battle and sends it to the Graveyard: The player who controlled the destroyed monster takes 1000 damage. When this card on the field is destroyed by a card effect and sent to the Graveyard: You can add 1 DIVINE monster from your Deck to your hand.",
+      "race": "Field",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/mound-of-the-bound-creator-26",
+      "card_sets": [
+         {
+            "set_name": "Dragons of Legend",
+            "set_code": "DRLG-EN025",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "4.31"
+         },
+         {
+            "set_name": "Dragons of Legend: The Complete Series",
+            "set_code": "DLCS-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.86"
+         },
+         {
+            "set_name": "Dragons of Legend: Unleashed",
+            "set_code": "DRL3-EN053",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN053",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.16"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 269012,
+            "image_url": "https://images.ygoprodeck.com/images/cards/269012.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/269012.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/269012.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 5318639,
+      "name": "Mystical Space Typhoon",
+      "type": "Spell Card",
+      "humanReadableCardType": "Quick-Play Spell",
+      "frameType": "spell",
+      "desc": "Target 1 Spell/Trap on the field; destroy that target.",
+      "race": "Quick-Play",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/mystical-space-typhoon-470",
+      "card_sets": [
+         {
+            "set_name": "2-Player Starter Deck: Yuya & Declan",
+            "set_code": "YS15-END13",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.48"
+         },
+         {
+            "set_name": "2-Player Starter Deck: Yuya & Declan",
+            "set_code": "YS15-ENY13",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.02"
+         },
+         {
+            "set_name": "2-Player Starter Set",
+            "set_code": "STAX-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN048",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN048",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN048",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN048",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN048",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN048",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN048",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Astral Pack Eight",
+            "set_code": "AP08-EN002",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN068",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN068",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Cyber Dragon Revolution Structure Deck",
+            "set_code": "SDCR-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB1-EN031",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB13",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Legends",
+            "set_code": "DLG1-EN058",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.62"
+         },
+         {
+            "set_name": "Dark Legion Starter Deck",
+            "set_code": "YS15-ENL17",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.5"
+         },
+         {
+            "set_name": "Duel Overload",
+            "set_code": "DUOV-EN086",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.54"
+         },
+         {
+            "set_name": "Duel Terminal 1",
+            "set_code": "DT01-EN093",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist League 2010 participation cards",
+            "set_code": "DL09-EN014",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "11.65"
+         },
+         {
+            "set_name": "Duelist Pack: Zane Truesdale",
+            "set_code": "DP04-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gold Series 3",
+            "set_code": "GLD3-EN040",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gold Series: Haunted Mine",
+            "set_code": "GLD5-EN038",
+            "set_rarity": "Ghost/Gold Rare",
+            "set_rarity_code": "(GGR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN023",
+            "set_rarity": "Duel Terminal Ultra Parallel Rare",
+            "set_rarity_code": "(DUPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "High-Speed Riders",
+            "set_code": "HSRD-EN053",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hobby League 2 participation card B",
+            "set_code": "HL2-EN002",
+            "set_rarity": "Ultra Parallel Rare",
+            "set_rarity_code": "(UPR)",
+            "set_price": "25.7"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN062",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN285",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Decks II",
+            "set_code": "LDK2-ENJ32",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.39"
+         },
+         {
+            "set_name": "Legendary Hero Decks",
+            "set_code": "LEHD-ENB23",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.68"
+         },
+         {
+            "set_name": "Magic Ruler",
+            "set_code": "MRL-047",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "12.64"
+         },
+         {
+            "set_name": "Magic Ruler",
+            "set_code": "MRL-E047",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "26.15"
+         },
+         {
+            "set_name": "Master of Pendulum Structure Deck",
+            "set_code": "SDMP-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.43"
+         },
+         {
+            "set_name": "Noble Knights of the Round Table Power-Up Pack",
+            "set_code": "NKRT-EN040",
+            "set_rarity": "Platinum Rare",
+            "set_rarity_code": "(PIR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Premium Gold",
+            "set_code": "PGLD-EN079",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "4.2"
+         },
+         {
+            "set_name": "Retro Pack",
+            "set_code": "RP01-EN057",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.15"
+         },
+         {
+            "set_name": "Saber Force Starter Deck",
+            "set_code": "YS15-ENF16",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.64"
+         },
+         {
+            "set_name": "Spell Ruler",
+            "set_code": "SRL-047",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "11.89"
+         },
+         {
+            "set_name": "Spell Ruler",
+            "set_code": "SRL-EN047",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "22.17"
+         },
+         {
+            "set_name": "Starter Deck: Codebreaker",
+            "set_code": "YS18-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Dawn of the Xyz",
+            "set_code": "YS11-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Kaiba Reloaded",
+            "set_code": "YSKR-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.75"
+         },
+         {
+            "set_name": "Starter Deck: Link Strike",
+            "set_code": "YS17-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Pegasus",
+            "set_code": "SDP-032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.68"
+         },
+         {
+            "set_name": "Starter Deck: Xyz Symphony",
+            "set_code": "YS12-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.24"
+         },
+         {
+            "set_name": "Starter Deck: Yugi Evolution",
+            "set_code": "SYE-037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.79"
+         },
+         {
+            "set_name": "Starter Deck: Yugi Reloaded",
+            "set_code": "YSYR-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.85"
+         },
+         {
+            "set_name": "Starter Deck: Yuya",
+            "set_code": "YS16-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Blaze of Destruction",
+            "set_code": "SD3-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Dinosaur's Rage",
+            "set_code": "SD09-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.96"
+         },
+         {
+            "set_name": "Structure Deck: Dragon's Roar",
+            "set_code": "SD1-EN011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.31"
+         },
+         {
+            "set_name": "Structure Deck: Fury from the Deep",
+            "set_code": "SD4-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.47"
+         },
+         {
+            "set_name": "Structure Deck: Invincible Fortress",
+            "set_code": "SD7-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.5"
+         },
+         {
+            "set_name": "Structure Deck: Lord of the Storm",
+            "set_code": "SD8-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.43"
+         },
+         {
+            "set_name": "Structure Deck: Machine Re-Volt",
+            "set_code": "SD10-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.63"
+         },
+         {
+            "set_name": "Structure Deck: Marik (TCG)",
+            "set_code": "SDMA-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.47"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.28"
+         },
+         {
+            "set_name": "Structure Deck: Spellcaster's Judgment",
+            "set_code": "SD6-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.48"
+         },
+         {
+            "set_name": "Structure Deck: Warrior's Triumph",
+            "set_code": "SD5-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.57"
+         },
+         {
+            "set_name": "Structure Deck: Zombie Madness",
+            "set_code": "SD2-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.87"
+         },
+         {
+            "set_name": "Super Starter Power-Up Pack",
+            "set_code": "YS13-ENV12",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Super Starter: Space-Time Showdown",
+            "set_code": "YS14-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Dark Emperor Structure Deck",
+            "set_code": "SDDE-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.49"
+         },
+         {
+            "set_name": "Warriors' Strike Structure Deck",
+            "set_code": "SDWS-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Wing Raiders",
+            "set_code": "WIRA-EN051",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "banlist_info": {
+         "ban_goat": "Limited"
+      },
+      "card_images": [
+         {
+            "id": 5318639,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5318639.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5318639.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5318639.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "1.99",
+            "amazon_price": "1.59",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 2295440,
+      "name": "One for One",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Send 1 monster from your hand to the GY; Special Summon 1 Level 1 monster from your hand or Deck.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/one-for-one-202",
+      "card_sets": [
+         {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN040",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN040",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Pack Collection Tin 2010",
+            "set_code": "DPCT-ENY08",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "16.83"
+         },
+         {
+            "set_name": "Duelist Pack: Yusei 2",
+            "set_code": "DP09-EN018",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN045",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Pendulum Domination Structure Deck",
+            "set_code": "SDPD-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN056",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN056",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN056",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN056",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN056",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN056",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN056",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Raging Battle",
+            "set_code": "RGBT-EN045",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Saga of Blue-Eyes White Dragon Structure Deck",
+            "set_code": "SDBE-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.45"
+         },
+         {
+            "set_name": "Star Pack 2013",
+            "set_code": "SP13-EN050",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Star Pack 2013",
+            "set_code": "SP13-EN050",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Powercode Link",
+            "set_code": "SDPL-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.59"
+         },
+         {
+            "set_name": "Synchron Extreme Structure Deck",
+            "set_code": "SDSE-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.36"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! Advent Calendar (2019)",
+            "set_code": "AC19-EN018",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "11.83"
+         }
+      ],
+      "banlist_info": {
+         "ban_tcg": "Limited",
+         "ban_ocg": "Limited"
+      },
+      "card_images": [
+         {
+            "id": 2295440,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2295440.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2295440.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2295440.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "1.73",
+            "amazon_price": "2.54",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   },
+   {
+      "id": 80312545,
+      "name": "Opening of the Spirit Gates",
+      "type": "Spell Card",
+      "humanReadableCardType": "Continuous Spell",
+      "frameType": "spell",
+      "desc": "When this card is activated: Add 1 \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", or \"Raviel, Lord of Phantasms\", OR 1 monster that specifically lists any of those cards in its text, from your Deck to your hand. Once per turn: You can discard 1 card; Special Summon 1 Fiend monster with 0 ATK/DEF from your GY. Once per turn, if you control a Level 10 monster: You can add 1 Continuous Spell from your GY to your hand. You can only activate 1 \"Opening of the Spirit Gates\" per turn.",
+      "race": "Continuous",
+      "archetype": "Sacred Beast",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/opening-of-the-spirit-gates-10982",
+      "card_sets": [
+         {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN251",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN019",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.38"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 80312545,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80312545.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80312545.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80312545.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.35",
+            "ebay_price": "7.97",
+            "amazon_price": "1.72",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 9720537,
+      "name": "Owner's Seal",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Return control of all monsters on the field to their original owners.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/owner-s-seal-820",
+      "card_sets": [
+         {
+            "set_name": "Light of Destruction",
+            "set_code": "LODT-EN094",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.25"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 9720537,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9720537.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9720537.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9720537.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "2.49",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 95463814,
+      "name": "Phantasm Emperor Trilojig",
+      "typeline": [
+         "Fiend",
+         "Fusion",
+         "Effect"
+      ],
+      "type": "Fusion Monster",
+      "humanReadableCardType": "Fusion Effect Monster",
+      "frameType": "fusion",
+      "desc": "3 Level 10 monsters\r\nIf this card is Special Summoned, or if another monster is Special Summoned from the GY to your field while you control this monster: You can target 1 face-up monster your opponent controls; inflict damage to your opponent equal to half its original ATK. You can only use this effect of \"Phantasm Emperor Trilojig\" once per turn.",
+      "race": "Fiend",
+      "atk": 4000,
+      "def": 4000,
+      "level": 10,
+      "attribute": "DARK",
+      "archetype": "Chaos Phantom",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/phantasm-emperor-trilojig-9962",
+      "card_sets": [
+         {
+            "set_name": "Duel Overload",
+            "set_code": "DUOV-EN039",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.68"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN041",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.1"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 95463814,
+            "image_url": "https://images.ygoprodeck.com/images/cards/95463814.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95463814.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95463814.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 69890968,
+      "name": "Phantasm Token",
+      "type": "Token",
+      "humanReadableCardType": "Token",
+      "frameType": "token",
+      "desc": "This card can be used as a \"Phantasm Token\".\r\n\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+      "race": "Fiend",
+      "archetype": "Phantasm",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/phantasm-token-5878",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN048",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.28"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 69890968,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69890968.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69890968.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69890968.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.26",
+            "tcgplayer_price": "0.35",
+            "ebay_price": "1.00",
+            "amazon_price": "5.48",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 93224849,
+      "name": "Phantasmal Martyr Token",
+      "type": "Token",
+      "humanReadableCardType": "Token",
+      "frameType": "token",
+      "desc": "This card can be used as a \"Phantasmal Martyr Token\".\r\n\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+      "race": "Fiend",
+      "archetype": "Phantasm",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/phantasmal-martyr-token-7762",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN047",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.47"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 93224849,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93224849.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93224849.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93224849.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.24",
+            "tcgplayer_price": "0.26",
+            "ebay_price": "0.99",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 93224848,
+      "name": "Phantasmal Martyrs",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Activate only while you have 2 or more cards in your hand, and control a face-up \"Uria, Lord of Searing Flames\" or \"Hamon, Lord of Striking Thunder\". Send your entire hand to the Graveyard to Special Summon 3 \"Phantasmal Martyr Tokens\" (Fiend-Type/DARK/Level 1/ATK 0/DEF 0) in Attack Position.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/phantasmal-martyrs-7761",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN161",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.01"
+         },
+         {
+            "set_name": "Shadow of Infinity",
+            "set_code": "SOI-EN041",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Shadow of Infinity",
+            "set_code": "SOI-EN041",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.11"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 93224848,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93224848.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93224848.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93224848.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 30312361,
+      "name": "Phantom of Chaos",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Your opponent takes no battle damage from attacks involving this card. Once per turn: You can target 1 Effect Monster in your GY; banish that target, and if you do, until the End Phase, this card's name and original ATK become that monster's name and original ATK, and replace this effect with that monster's original effects. You must control this face-up card to activate and to resolve this effect.",
+      "race": "Fiend",
+      "atk": 0,
+      "def": 0,
+      "level": 4,
+      "attribute": "DARK",
+      "archetype": "Chaos",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/phantom-of-chaos-2567",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN196",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN196",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gladiator's Assault: Special Edition",
+            "set_code": "GLAS-ENSE1",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.03"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN193",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN006",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.19"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 30312361,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30312361.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30312361.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30312361.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "3.49",
+            "amazon_price": "1.62",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 12958919,
+      "name": "Phantom Skyblaster",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card is Normal or Flip Summoned: You can Special Summon any number of \"Skyblaster Tokens\" (Fiend/DARK/Level 4/ATK 500/DEF 500), up to the number of monsters you control. Once per turn, during your Standby Phase: You can inflict 300 damage to your opponent for each \"Skyblaster\" monster you control. \"Skyblaster\" monsters you control cannot declare an attack during the turn you activate this effect.",
+      "race": "Fiend",
+      "atk": 1100,
+      "def": 800,
+      "level": 4,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/phantom-skyblaster-1114",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 6b",
+            "set_code": "DT06-EN056",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Pack: Jesse Anderson",
+            "set_code": "DP07-EN007",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "3.2"
+         },
+         {
+            "set_name": "Egyptian God Deck: Slifer the Sky Dragon",
+            "set_code": "EGS1-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.37"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN194",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 6",
+            "set_code": "OP06-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Powercode Link",
+            "set_code": "SDPL-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.06"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 12958919,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12958919.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12958919.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12958919.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "2.92",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 35261759,
+      "name": "Pot of Desires",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Banish 10 cards from the top of your Deck, face-down; draw 2 cards. You can only activate 1 \"Pot of Desires\" per turn.",
+      "race": "Normal",
+      "archetype": "Greed",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/pot-of-desires-2990",
+      "card_sets": [
+         {
+            "set_name": "2017 Mega-Tins",
+            "set_code": "CT14-EN004",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "5.11"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN056",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN056",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 11",
+            "set_code": "OP11-EN003",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 11 (POR)",
+            "set_code": "OP11-PT003",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Structure Deck: Order of the Spellcasters",
+            "set_code": "SR08-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.41"
+         },
+         {
+            "set_name": "The Dark Illusion",
+            "set_code": "TDIL-EN066",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Pot Collection",
+            "set_code": "TBC1-EN009",
+            "set_rarity": "Ultra Parallel Rare",
+            "set_rarity_code": "(UPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Toon Chaos",
+            "set_code": "TOCH-EN057",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Toon Chaos",
+            "set_code": "TOCH-EN057",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         }
+      ],
+      "banlist_info": {
+         "ban_ocg": "Semi-Limited"
+      },
+      "card_images": [
+         {
+            "id": 35261759,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35261759.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35261759.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35261759.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.31",
+            "ebay_price": "2.25",
+            "amazon_price": "5.94",
+            "coolstuffinc_price": "1.99"
+         }
+      ]
+   },
+   {
+      "id": 41442341,
+      "name": "Puppet Master",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card is Tribute Summoned: You can pay 2000 LP, then target 2 Fiend monsters in your GY; Special Summon those targets, but they cannot attack this turn.",
+      "race": "Fiend",
+      "atk": 0,
+      "def": 0,
+      "level": 6,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/puppet-master-3543",
+      "card_sets": [
+         {
+            "set_name": "Crossroads of Chaos",
+            "set_code": "CSOC-EN090",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Terminal 5b",
+            "set_code": "DT05-EN054",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN122",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.78"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA12",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.08"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.08"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 41442341,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41442341.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41442341.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41442341.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "2.59",
+            "amazon_price": "1.40",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 28674152,
+      "name": "Radian, the Multidimensional Kaiju",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can Special Summon this card (from your hand) to your opponent's side of the field in Attack Position, by Tributing 1 monster they control. If your opponent controls a \"Kaiju\" monster, you can Special Summon this card (from your hand) in Attack Position. You can only control 1 \"Kaiju\" monster. Once per turn: You can remove 2 Kaiju Counters from anywhere on the field; Special Summon 1 \"Radian Token\" (Fiend-Type/DARK/Level 7/ATK 2800/DEF 0), but it cannot be used as a Synchro Material.",
+      "race": "Fiend",
+      "atk": 2800,
+      "def": 2500,
+      "level": 7,
+      "attribute": "DARK",
+      "archetype": "Kaiju",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/radian-the-multidimensional-kaiju-2443",
+      "card_sets": [
+         {
+            "set_name": "2016 Mega-Tin Mega Pack",
+            "set_code": "MP16-EN163",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Chapter 1",
+            "set_code": "BLC1-EN035",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dimension of Chaos",
+            "set_code": "DOCS-EN087",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Albaz Strike",
+            "set_code": "SDAZ-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.47"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.15"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 28674152,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28674152.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28674152.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28674152.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "3.49",
+            "amazon_price": "0.40",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 79407975,
+      "name": "Rainbow Dark Dragon",
+      "typeline": [
+         "Dragon",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "(This card is always treated as an \"Ultimate Crystal\" card.)\r\nCannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 7 DARK monsters with different names from your GY. You can banish all other DARK monsters from your field and GY; this card gains 500 ATK for each card banished this way.",
+      "race": "Dragon",
+      "atk": 4000,
+      "def": 0,
+      "level": 10,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/rainbow-dark-dragon-6659",
+      "card_sets": [
+         {
+            "set_name": "Battles of Legend: Relentless Revenge",
+            "set_code": "BLRR-EN054",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN243",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Season 1",
+            "set_code": "LDS1-EN100",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Phantom Darkness",
+            "set_code": "PTDN-EN003",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Ra Yellow Mega Pack",
+            "set_code": "RYMP-EN099",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENI09",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Legend of the Crystal Beasts",
+            "set_code": "SDCB-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.12"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 79407975,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79407975.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79407975.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79407975.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "2.99",
+            "amazon_price": "2.35",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 69890967,
+      "name": "Raviel, Lord of Phantasms",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 Fiend-Type monsters, and cannot be Special Summoned by other ways. If your opponent Normal Summons a monster(s): Special Summon 1 \"Phantasm Token\" (Fiend-Type/DARK/Level 1/ATK 1000/DEF 1000) for each monster Summoned, but it cannot declare an attack. Once per turn: You can Tribute 1 monster; this card gains ATK equal to the original ATK of the Tributed monster until the end of this turn.",
+      "race": "Fiend",
+      "atk": 4000,
+      "def": 4000,
+      "level": 10,
+      "attribute": "DARK",
+      "archetype": "Sacred Beast",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/raviel-lord-of-phantasms-5877",
+      "card_sets": [
+         {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN254",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Collectible Tins 2006 Wave 1",
+            "set_code": "CT03-EN003",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "9.3"
+         },
+         {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN123",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "133.97"
+         },
+         {
+            "set_name": "Duelist Saga",
+            "set_code": "DUSA-EN098",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.83"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years",
+            "set_code": "LC02-EN003",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "3.26"
+         },
+         {
+            "set_name": "Shadow of Infinity",
+            "set_code": "SOI-EN003",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Shadow of Infinity",
+            "set_code": "SOI-EN003",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENG03",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENG03",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN044",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 69890967,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69890967.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69890967.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69890967.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.33",
+            "tcgplayer_price": "0.31",
+            "ebay_price": "0.99",
+            "amazon_price": "1.63",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 28651380,
+      "name": "Raviel, Lord of Phantasms - Shimmering Scraper",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 monsters. You can only use each of the following effects of \"Raviel, Lord of Phantasms - Shimmering Scraper\" once per turn.\r\n● (Quick Effect): You can discard this card and target 1 \"Raviel, Lord of Phantasms\" you control; for the rest of this turn, its ATK becomes double its current ATK, also it can attack all monsters your opponent controls once each.\r\n● If this card is in your GY: You can Tribute 1 monster; add this card to your hand.",
+      "race": "Fiend",
+      "atk": 4000,
+      "def": 4000,
+      "level": 10,
+      "attribute": "DARK",
+      "archetype": "Sacred Beast",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/raviel-lord-of-phantasms-shimmering-scraper-10913",
+      "card_sets": [
+         {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN248",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.38"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 28651380,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28651380.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28651380.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28651380.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.30",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "0.99",
+            "amazon_price": "1.90",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 73468603,
+      "name": "Set Rotation",
+      "type": "Spell Card",
+      "humanReadableCardType": "Quick-Play Spell",
+      "frameType": "spell",
+      "desc": "Set 2 Field Spells with different names from your Deck on the field (1 on your field, and 1 on your opponent's field). While either of those cards remain Set on the field, neither player can activate or Set other Field Spells.",
+      "race": "Quick-Play",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/set-rotation-8558",
+      "card_sets": [
+         {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Maximum Crisis",
+            "set_code": "MACR-EN064",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Maximum Gold",
+            "set_code": "MAGO-EN153",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 6",
+            "set_code": "OP06-EN009",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN065",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN065",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN065",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN065",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN065",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN065",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN065",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.12"
+         }
+      ],
+      "banlist_info": {
+         "ban_tcg": "Limited",
+         "ban_ocg": "Limited"
+      },
+      "card_images": [
+         {
+            "id": 73468603,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73468603.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73468603.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73468603.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.29",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 92099232,
+      "name": "Shapesister",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "Special Summon this card as a Normal Monster (Fiend-Type/Tuner/EARTH/Level 2/ATK 0/DEF 0). (This card is also still a Trap Card.) You can only activate 1 \"Shapesister\" per turn.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/shapesister-7681",
+      "card_sets": [
+         {
+            "set_name": "2014 Mega-Tin Mega Pack",
+            "set_code": "MP14-EN111",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Judgment of the Light",
+            "set_code": "JOTL-EN079",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.08"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 92099232,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92099232.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92099232.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92099232.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "1.29",
+            "amazon_price": "1.49",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 74402414,
+      "name": "Spell Chronicle",
+      "type": "Spell Card",
+      "humanReadableCardType": "Continuous Spell",
+      "frameType": "spell",
+      "desc": "Activate this card by sending your entire hand to the GY; banish 5 Spells/Traps from your Deck. Each time your opponent activates a Spell Card, place 1 Chronicle Counter on this card when that Spell Card resolves. You can remove 2 Chronicle Counters from this card; your opponent chooses 1 card banished by this card's effect for you to add to your hand. If this face-up card in the Spell & Trap Zone leaves the field: You take 500 damage for each card currently banished by this card's effect.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/spell-chronicle-6254",
+      "card_sets": [
+         {
+            "set_name": "Phantom Darkness",
+            "set_code": "PTDN-EN050",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.34"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 74402414,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74402414.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74402414.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74402414.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.99",
+            "amazon_price": "2.28",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 13521194,
+      "name": "Stygian Street Patrol",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card destroys a monster by battle and sends it to the GY: Inflict damage to your opponent equal to the original Level of that monster in the GY x 100. You can banish this card from your GY; Special Summon 1 Fiend monster with 2000 or less ATK from your hand.",
+      "race": "Fiend",
+      "atk": 1600,
+      "def": 1200,
+      "level": 4,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/stygian-street-patrol-1160",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN078",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN078",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Collectible Tins 2011 Wave 1",
+            "set_code": "CT08-EN007",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.28"
+         },
+         {
+            "set_name": "Duelist Revolution",
+            "set_code": "DREV-EN099",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Pendulum Domination Structure Deck",
+            "set_code": "SDPD-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.15"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 13521194,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13521194.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13521194.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13521194.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.50",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 12923641,
+      "name": "Swords of Concealing Light",
+      "type": "Spell Card",
+      "humanReadableCardType": "Continuous Spell",
+      "frameType": "spell",
+      "desc": "Destroy this card during your 2nd Standby Phase after activation. When this card resolves, change all monsters your opponent controls to face-down Defense Position. Monsters your opponent controls cannot change their battle positions.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/swords-of-concealing-light-1109",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN147",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN147",
+            "set_rarity": "Mosaic Rare",
+            "set_rarity_code": "(MSR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN151",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN151",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Revelation Volume 3",
+            "set_code": "DR3-EN162",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dinosmasher's Fury Structure Deck",
+            "set_code": "SR04-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Flaming Eternity",
+            "set_code": "FET-EN042",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Flaming Eternity",
+            "set_code": "FET-EN042",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN281",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.15"
+         },
+         {
+            "set_name": "Structure Deck: Warrior's Triumph",
+            "set_code": "SD5-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.64"
+         },
+         {
+            "set_name": "Structure Deck: Yugi Muto",
+            "set_code": "SDMY-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 12923641,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12923641.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12923641.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12923641.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "41.00",
+            "amazon_price": "6.18",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 73628505,
+      "name": "Terraforming",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Add 1 Field Spell from your Deck to your hand.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/terraforming-6182",
+      "card_sets": [
+         {
+            "set_name": "Astral Pack One",
+            "set_code": "AP01-EN009",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN087",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN087",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Champion Pack: Game Two",
+            "set_code": "CP02-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Revelation Volume 1",
+            "set_code": "DR1-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dinosmasher's Fury Structure Deck",
+            "set_code": "SR04-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Overload",
+            "set_code": "DUOV-EN088",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "4.08"
+         },
+         {
+            "set_name": "Gates of the Underworld Structure Deck",
+            "set_code": "SDGU-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.31"
+         },
+         {
+            "set_name": "Geargia Rampage Structure Deck",
+            "set_code": "SDGR-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.31"
+         },
+         {
+            "set_name": "Legendary Collection Kaiba Mega Pack",
+            "set_code": "LCKC-EN090",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Dragon Decks",
+            "set_code": "LEDD-ENC21",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.66"
+         },
+         {
+            "set_name": "Legendary Hero Decks",
+            "set_code": "LEHD-ENA25",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.56"
+         },
+         {
+            "set_name": "Lost Sanctuary Structure Deck",
+            "set_code": "SDLS-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.41"
+         },
+         {
+            "set_name": "Machine Reactor Structure Deck",
+            "set_code": "SR03-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Master of Pendulum Structure Deck",
+            "set_code": "SDMP-EN035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.49"
+         },
+         {
+            "set_name": "Maximum Gold",
+            "set_code": "MAGO-EN141",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 5",
+            "set_code": "OP05-EN003",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Pharaonic Guardian",
+            "set_code": "PGD-088",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.22"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN084",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN084",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN084",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN084",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN084",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN084",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Realm of the Sea Emperor Structure Deck",
+            "set_code": "SDRE-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.32"
+         },
+         {
+            "set_name": "Rise of the Dragon Lords Structure Deck",
+            "set_code": "SDRL-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.6"
+         },
+         {
+            "set_name": "Rise of the True Dragons Structure Deck",
+            "set_code": "SR02-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Spellcaster's Command Structure Deck",
+            "set_code": "SDSC-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.39"
+         },
+         {
+            "set_name": "Starter Deck: Link Strike",
+            "set_code": "YS17-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Order of the Spellcasters",
+            "set_code": "SR08-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Powercode Link",
+            "set_code": "SDPL-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.36"
+         },
+         {
+            "set_name": "Structure Deck: Spirit Charmers",
+            "set_code": "SDCH-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.9"
+         },
+         {
+            "set_name": "Turbo Pack: Booster One",
+            "set_code": "TU01-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Valiant Smashers",
+            "set_code": "VASM-EN013",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Zombie World Structure Deck",
+            "set_code": "SDZW-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "banlist_info": {
+         "ban_tcg": "Limited",
+         "ban_ocg": "Limited"
+      },
+      "card_images": [
+         {
+            "id": 73628505,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73628505.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73628505.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73628505.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "6.95",
+            "amazon_price": "0.96",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 73680966,
+      "name": "The Beginning of the End",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "If you have 7 or more DARK monsters in your GY: Banish 5 DARK monsters from your GY; draw 3 cards.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/the-beginning-of-the-end-6188",
+      "card_sets": [
+         {
+            "set_name": "Destiny Soldiers",
+            "set_code": "DESO-EN053",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Phantom Darkness",
+            "set_code": "PTDN-EN053",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Phantom Darkness",
+            "set_code": "PTDN-EN053",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Scars of Battle",
+            "set_code": "SBSC-EN040",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.21"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.09"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 73680966,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73680966.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73680966.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73680966.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.29",
+            "ebay_price": "0.99",
+            "amazon_price": "1.50",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 82888408,
+      "name": "The Fabled Cerburrel",
+      "typeline": [
+         "Beast",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is discarded to the Graveyard: Special Summon it.",
+      "race": "Beast",
+      "atk": 1000,
+      "def": 400,
+      "level": 2,
+      "attribute": "LIGHT",
+      "archetype": "Fabled",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/the-fabled-cerburrel-6961",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN018",
+            "set_rarity": "Duel Terminal Super Parallel Rare",
+            "set_rarity_code": "(DSPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+            "set_code": "HA04-EN008",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN138",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN138",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.19"
+         },
+         {
+            "set_name": "Realm of Light Structure Deck",
+            "set_code": "SDLI-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.44"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.42"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 82888408,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82888408.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82888408.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82888408.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "1.49",
+            "amazon_price": "1.38",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   },
+   {
+      "id": 98777036,
+      "name": "Tragoedia",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When you take battle damage: You can Special Summon this card from your hand. Gains 600 ATK/DEF for each card in your hand. Once per turn: You can send 1 monster from your hand to the GY, then target 1 face-up monster your opponent controls with the same Level the sent monster had in the hand; take control of that face-up monster. Once per turn: You can target 1 monster in your GY; this card's Level becomes the same as that target's, until the end of this turn.",
+      "race": "Fiend",
+      "atk": -1,
+      "def": -1,
+      "level": 10,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/tragoedia-8203",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN020",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN020",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Emperor of Darkness Structure Deck",
+            "set_code": "SR01-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gates of the Underworld Structure Deck",
+            "set_code": "SDGU-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.14"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN223",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN223",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Shonen Jump Vol. 7, Issue 9 promotional card",
+            "set_code": "JUMP-EN033",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "13.42"
+         },
+         {
+            "set_name": "Structure Deck: Cyberse Link",
+            "set_code": "SDCL-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.14"
+         },
+         {
+            "set_name": "Turbo Pack: Booster Four",
+            "set_code": "TU04-EN000",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 98777036,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98777036.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98777036.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98777036.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.34",
+            "tcgplayer_price": "0.44",
+            "ebay_price": "34.00",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 6007213,
+      "name": "Uria, Lord of Searing Flames",
+      "typeline": [
+         "Pyro",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 3 face-up Trap Cards you control to the Graveyard, and cannot be Special Summoned by other ways. This card gains 1000 ATK for each Continuous Trap Card in your Graveyard. Once per turn: You can target 1 Set Spell/Trap Card your opponent controls; destroy that target. Neither player can activate Spell/Trap Cards in response to this effect's activation.",
+      "race": "Pyro",
+      "atk": 0,
+      "def": 0,
+      "level": 10,
+      "attribute": "FIRE",
+      "archetype": "Sacred Beast",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/uria-lord-of-searing-flames-527",
+      "card_sets": [
+         {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN252",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Collectible Tins 2006 Wave 2",
+            "set_code": "CT03-EN005",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "11.03"
+         },
+         {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN121",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "102.27"
+         },
+         {
+            "set_name": "Duelist Saga",
+            "set_code": "DUSA-EN096",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.62"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years",
+            "set_code": "LC02-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "4.6"
+         },
+         {
+            "set_name": "Shadow of Infinity",
+            "set_code": "SOI-EN001",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Shadow of Infinity",
+            "set_code": "SOI-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENG01",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENG01",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN042",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 6007213,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6007213.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6007213.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6007213.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.23",
+            "tcgplayer_price": "0.36",
+            "ebay_price": "2.25",
+            "amazon_price": "1.48",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   }
+]
