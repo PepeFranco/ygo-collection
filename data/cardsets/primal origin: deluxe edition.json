@@ -1,0 +1,251 @@
+[
+   {
+      "id": 47594939,
+      "name": "And the Band Played On",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "Neither player can Special Summon monsters with the same Level as those they control. Neither player can Special Summon monsters with the same Rank as those they control.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/and-the-band-played-on-4062",
+      "card_sets": [
+         {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN045",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 20",
+            "set_code": "OP20-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Primal Origin",
+            "set_code": "PRIO-EN079",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Primal Origin: Deluxe Edition",
+            "set_code": "PRIO-ENDE2",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "6.39"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 47594939,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47594939.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47594939.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47594939.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "2.95",
+            "amazon_price": "0.59",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 58695102,
+      "name": "Re-Cover",
+      "typeline": [
+         "Psychic",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is in the Graveyard and your opponent has 5 or more cards in their Extra Deck than you do: You can pay 2000 LP; Special Summon this card, but banish it when it leaves the field. You can only use this effect of \"Re-Cover\" once per turn.",
+      "race": "Psychic",
+      "atk": 700,
+      "def": 300,
+      "level": 1,
+      "attribute": "EARTH",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/re-cover-4992",
+      "card_sets": [
+         {
+            "set_name": "Duelist Alliance",
+            "set_code": "DUEA-EN044",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Ghosts From the Past",
+            "set_code": "GFTP-EN083",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1"
+         },
+         {
+            "set_name": "Master of Pendulum Structure Deck",
+            "set_code": "SDMP-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.4"
+         },
+         {
+            "set_name": "Primal Origin: Deluxe Edition",
+            "set_code": "PRIO-ENDE4",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "4.78"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 58695102,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58695102.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58695102.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58695102.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "0.83",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 47741109,
+      "name": "Sylvan Snapdrassinagon",
+      "typeline": [
+         "Plant",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is sent from the field or the hand to the Graveyard: You can excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard. Otherwise, place it on the bottom of your Deck. If this card is excavated from the Deck and sent to the Graveyard by a card effect: You can excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard. Otherwise, place it on the bottom of your Deck.",
+      "race": "Plant",
+      "atk": 900,
+      "def": 400,
+      "level": 1,
+      "attribute": "DARK",
+      "archetype": "Sylvan",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/sylvan-snapdrassinagon-4079",
+      "card_sets": [
+         {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN014",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Primal Origin",
+            "set_code": "PRIO-EN019",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Primal Origin Plus",
+            "set_code": "PRIO-ENPL1",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "6.16"
+         },
+         {
+            "set_name": "Primal Origin: Deluxe Edition",
+            "set_code": "PRIO-ENDE1",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "3.3"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 47741109,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47741109.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47741109.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47741109.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "1.34",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 97750534,
+      "name": "The Agent of Entropy - Uranus",
+      "typeline": [
+         "Fairy",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "If \"The Sanctuary in the Sky\" is on the field, you can Special Summon this card (from your hand). Once per turn: You can send 1 \"The Agent\" monster from your Deck to the Graveyard, and if you do, this card's Level becomes the Level of the monster sent to the Graveyard by this effect.",
+      "race": "Fairy",
+      "atk": 2200,
+      "def": 1200,
+      "level": 5,
+      "attribute": "DARK",
+      "archetype": "The Agent",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/the-agent-of-entropy-uranus-8127",
+      "card_sets": [
+         {
+            "set_name": "Duelist Alliance",
+            "set_code": "DUEA-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Ghosts From the Past: The 2nd Haunting",
+            "set_code": "GFP2-EN054",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.12"
+         },
+         {
+            "set_name": "Primal Origin: Deluxe Edition",
+            "set_code": "PRIO-ENDE3",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "5"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 97750534,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97750534.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97750534.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97750534.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.59",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   }
+]
