@@ -1,0 +1,231 @@
+[
+   {
+      "id": 55705473,
+      "name": "Baobaboon",
+      "typeline": [
+         "Plant",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is Normal or Special Summoned: You can draw 1 card, then place 1 card from your hand on either the top or bottom of your Deck. If this card is destroyed by battle or card effect: You can Special Summon any number of \"Baobaboon\" from your Deck.",
+      "race": "Plant",
+      "atk": 1200,
+      "def": 1000,
+      "level": 3,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/baobaboon-8424",
+      "card_sets": [
+         {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Maximum Crisis",
+            "set_code": "MACR-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Raging Tempest: Special Edition",
+            "set_code": "RATE-ENSE4",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.95"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 55705473,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55705473.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55705473.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55705473.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.75",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 89870349,
+      "name": "Masked HERO Blast",
+      "typeline": [
+         "Warrior",
+         "Fusion",
+         "Effect"
+      ],
+      "type": "Fusion Monster",
+      "humanReadableCardType": "Fusion Effect Monster",
+      "frameType": "fusion",
+      "desc": "Must be Special Summoned with \"Mask Change\". If this card is Special Summoned: You can target 1 face-up monster your opponent controls; its ATK becomes half its current ATK. Once per turn (Quick Effect): You can pay 500 LP, then target 1 Spell/Trap your opponent controls; return it to the hand.",
+      "race": "Warrior",
+      "atk": 2200,
+      "def": 1800,
+      "level": 6,
+      "attribute": "WIND",
+      "archetype": "Masked HERO",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/masked-hero-blast-7509",
+      "card_sets": [
+         {
+            "set_name": "Raging Tempest: Special Edition",
+            "set_code": "RATE-ENSE2",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "5.43"
+         },
+         {
+            "set_name": "Toon Chaos",
+            "set_code": "TOCH-EN047",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Weekly Shonen Jump October 2016 membership promotional card",
+            "set_code": "JUMP-EN078",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "74.73"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 89870349,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89870349.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89870349.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89870349.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.26",
+            "ebay_price": "0.99",
+            "amazon_price": "0.82",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 73445448,
+      "name": "Number 22: Zombiestein",
+      "typeline": [
+         "Zombie",
+         "Xyz",
+         "Effect"
+      ],
+      "type": "XYZ Monster",
+      "humanReadableCardType": "Xyz Effect Monster",
+      "frameType": "xyz",
+      "desc": "2 Level 8 DARK monsters\nMust be Xyz Summoned and cannot be Special Summoned by other ways. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card and send 1 card from your hand to the Graveyard, then target 1 face-up card your opponent controls; change this card to Defense Position, and if you do, that face-up card has its effects negated until the end of this turn.",
+      "race": "Zombie",
+      "atk": 4500,
+      "def": 1000,
+      "level": 8,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/number-22-zombiestein-6167",
+      "card_sets": [
+         {
+            "set_name": "OTS Tournament Pack 20",
+            "set_code": "OP20-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Raging Tempest: Special Edition",
+            "set_code": "RATE-ENSE1",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.66"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! ZEXAL Volume 3 promotional card",
+            "set_code": "YZ03-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "14.52"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 73445448,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73445448.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73445448.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73445448.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "1.83",
+            "amazon_price": "29.99",
+            "coolstuffinc_price": "2.99"
+         }
+      ]
+   },
+   {
+      "id": 20155904,
+      "name": "Zoodiac Kataroost",
+      "typeline": [
+         "Beast-Warrior",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is destroyed by battle or card effect: You can target 1 \"Zoodiac\" card in your Graveyard, except \"Zoodiac Kataroost\"; shuffle it into the Deck. An Xyz Monster whose original Type is Beast-Warrior and has this card as Xyz Material gains this effect.\r\n● During either player's turn, when your opponent activates a monster effect that targets this card: You can detach 1 Xyz Material from this card; negate the activation.",
+      "race": "Beast-Warrior",
+      "atk": 800,
+      "def": 1200,
+      "level": 4,
+      "attribute": "EARTH",
+      "archetype": "Zoodiac",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/zoodiac-kataroost-8352",
+      "card_sets": [
+         {
+            "set_name": "Maximum Crisis",
+            "set_code": "MACR-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Raging Tempest: Special Edition",
+            "set_code": "RATE-ENSE3",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.46"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 20155904,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20155904.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20155904.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20155904.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   }
+]
