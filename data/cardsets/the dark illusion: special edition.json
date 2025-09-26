@@ -1,0 +1,260 @@
+[
+   {
+      "id": 17377751,
+      "name": "Blackwing - Gram the Shining Star",
+      "typeline": [
+         "Winged Beast",
+         "Synchro",
+         "Effect"
+      ],
+      "type": "Synchro Monster",
+      "humanReadableCardType": "Synchro Effect Monster",
+      "frameType": "synchro",
+      "desc": "1 Tuner + 1 or more non-Tuner monsters\nMust first be Synchro Summoned. When this card is Synchro Summoned: You can Special Summon 1 Level 4 or lower non-Tuner \"Blackwing\" monster from your hand, but its effects are negated.",
+      "race": "Winged Beast",
+      "atk": 2200,
+      "def": 1500,
+      "level": 5,
+      "attribute": "DARK",
+      "archetype": "Blackwing",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/blackwing-gram-the-shining-star-1505",
+      "card_sets": [
+         {
+            "set_name": "Battles of Legend: Crystal Revenge",
+            "set_code": "BLCR-EN063",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Dark Illusion: Special Edition",
+            "set_code": "TDIL-ENSE1",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "11.82"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! 5D's Volume 4 promotional card",
+            "set_code": "YF04-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "13.6"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 17377751,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17377751.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17377751.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17377751.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "15.37",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 56832966,
+      "name": "Number S39: Utopia the Lightning",
+      "typeline": [
+         "Warrior",
+         "Xyz",
+         "Effect"
+      ],
+      "type": "XYZ Monster",
+      "humanReadableCardType": "Xyz Effect Monster",
+      "frameType": "xyz",
+      "desc": "3 Level 5 LIGHT monsters\r\nYou can also Xyz Summon this card by using a Rank 4 \"Utopia\" monster you control as material. (Transfer its materials to this card.) Cannot be used as material for an Xyz Summon. If this card battles, your opponent cannot activate cards or effects until the end of the Damage Step. Once per Chain, during damage calculation, if this card battles an opponent's monster while this card has a \"Utopia\" Xyz Monster as material (Quick Effect): You can detach 2 materials from this card; this card's ATK becomes 5000 during that damage calculation only.",
+      "race": "Warrior",
+      "atk": 2500,
+      "def": 2000,
+      "level": 5,
+      "attribute": "LIGHT",
+      "archetype": "Utopia",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/number-s39-utopia-the-lightning-4841",
+      "card_sets": [
+         {
+            "set_name": "Battles of Legend: Armageddon",
+            "set_code": "BLAR-EN070",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Chapter 1",
+            "set_code": "BLC1-EN150",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection Kaiba Mega Pack",
+            "set_code": "LCKC-EN087",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Maximum Gold",
+            "set_code": "MAGO-EN034",
+            "set_rarity": "Premium Gold Rare",
+            "set_rarity_code": "(PG)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 4",
+            "set_code": "OP04-EN001",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN251",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN251",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Dark Illusion: Special Edition",
+            "set_code": "TDIL-ENSE2",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "10.11"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! ZEXAL Volume 8 promotional card",
+            "set_code": "YZ08-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "8.63"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 56832966,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56832966.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56832966.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56832966.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.28",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "2.24",
+            "amazon_price": "7.18",
+            "coolstuffinc_price": "0.99"
+         }
+      ]
+   },
+   {
+      "id": 30979619,
+      "name": "SPYRAL GEAR - Big Red",
+      "type": "Spell Card",
+      "humanReadableCardType": "Equip Spell",
+      "frameType": "spell",
+      "desc": "Activate this card by targeting 1 \"SPYRAL\" monster in your Graveyard; Special Summon it, and if you do, equip this card to it. It cannot be destroyed by battle. You can only activate 1 \"SPYRAL GEAR - Big Red\" per turn.",
+      "race": "Equip",
+      "archetype": "SPYRAL",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/spyral-gear-big-red-2628",
+      "card_sets": [
+         {
+            "set_name": "The Dark Illusion",
+            "set_code": "TDIL-EN089",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Dark Illusion: Special Edition",
+            "set_code": "TDIL-ENSE4",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "17.15"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 30979619,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30979619.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30979619.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30979619.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.34",
+            "tcgplayer_price": "0.46",
+            "ebay_price": "1.35",
+            "amazon_price": "0.74",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 16719140,
+      "name": "Subterror Nemesis Warrior",
+      "typeline": [
+         "Warrior",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "During either player's turn: You can send 1 \"Subterror\" monster from your Deck to the Graveyard; Tribute this card and at least 1 other monster so the total original Levels Tributed equal or exceed the Level of that \"Subterror\" monster in the Graveyard, and if you do, Special Summon that monster in face-up or face-down Defense Position. If a \"Subterror Behemoth\" monster is flipped face-up while this card is in your Graveyard: You can Special Summon this card. You can only use each effect of \"Subterror Nemesis Warrior\" once per turn.",
+      "race": "Warrior",
+      "atk": 1800,
+      "def": 1200,
+      "level": 4,
+      "attribute": "EARTH",
+      "archetype": "Subterror",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/subterror-nemesis-warrior-1438",
+      "card_sets": [
+         {
+            "set_name": "The Dark Illusion",
+            "set_code": "TDIL-EN082",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Dark Illusion: Special Edition",
+            "set_code": "TDIL-ENSE3",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "23.3"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 16719140,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16719140.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16719140.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16719140.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.70",
+            "ebay_price": "9.94",
+            "amazon_price": "0.70",
+            "coolstuffinc_price": "0.99"
+         }
+      ]
+   }
+]
