@@ -1,0 +1,3085 @@
+[
+   {
+      "id": 60990740,
+      "name": "Absolute King Back Jack",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "During your opponent's turn (Quick Effect): You can banish this card from the GY; excavate the top card of your Deck, and if it is a Normal Trap, Set it to your field. Otherwise, send it to the GY. That Set card can be activated during this turn. If this card is sent to the GY: You can look at 3 cards from the top of your Deck, then place them on the top of the Deck in any order. You can only use each effect of \"Absolute King Back Jack\" once per turn.",
+      "race": "Fiend",
+      "atk": 0,
+      "def": 0,
+      "level": 1,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/absolute-king-back-jack-5173",
+      "card_sets": [
+         {
+            "set_name": "OTS Tournament Pack 26",
+            "set_code": "OP26-EN004",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Premium Gold: Return of the Bling",
+            "set_code": "PGL2-EN002",
+            "set_rarity": "Gold Secret Rare",
+            "set_rarity_code": "(GScR)",
+            "set_price": "5.53"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN244",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN244",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Dark World",
+            "set_code": "SR13-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Tactical Masters",
+            "set_code": "TAMA-EN048",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 60990740,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60990740.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60990740.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60990740.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "3.29",
+            "amazon_price": "0.26",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 86377375,
+      "name": "Ahrima, the Wicked Warden",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can discard this card; add 1 \"Lair of Darkness\" from your Deck to your hand. You can Tribute 1 DARK monster; draw 1 card, or, if you Tributed a DARK monster other than this card to activate this effect, you can add 1 DARK monster with 2000 or more DEF from your Deck to your hand, instead. You can only use this effect of \"Ahrima, the Wicked Warden\" once per turn.",
+      "race": "Fiend",
+      "atk": 1700,
+      "def": 0,
+      "level": 4,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/ahrima-the-wicked-warden-9316",
+      "card_sets": [
+         {
+            "set_name": "Egyptian God Deck: Slifer the Sky Dragon",
+            "set_code": "EGS1-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.17"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN002",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 86377375,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86377375.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86377375.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86377375.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "1.69",
+            "amazon_price": "4.98",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 1475311,
+      "name": "Allure of Darkness",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Draw 2 cards, then banish 1 DARK monster from your hand, or, if you do not have any in your hand, send your entire hand to the GY.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/allure-of-darkness-127",
+      "card_sets": [
+         {
+            "set_name": "Brothers of Legend",
+            "set_code": "BROL-EN088",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.53"
+         },
+         {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN028",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Saviors",
+            "set_code": "DASA-EN054",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "4.05"
+         },
+         {
+            "set_name": "Destiny Soldiers",
+            "set_code": "DESO-EN044",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gates of the Underworld Structure Deck",
+            "set_code": "SDGU-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.63"
+         },
+         {
+            "set_name": "OTS Tournament Pack 1",
+            "set_code": "OP01-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Pendulum Domination Structure Deck",
+            "set_code": "SDPD-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Phantom Darkness",
+            "set_code": "PTDN-EN084",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Phantom Darkness",
+            "set_code": "PTDN-EN084",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN055",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN055",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN055",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN055",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN055",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN055",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN055",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Raging Battle: Special Edition",
+            "set_code": "RGBT-ENSE2",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "7.08"
+         },
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENI30",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENI30",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA26",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "11.76"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 3",
+            "set_code": "STP3-EN005",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENF12",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Marik (TCG)",
+            "set_code": "SDMA-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.9"
+         },
+         {
+            "set_name": "Structure Deck: Shaddoll Showdown",
+            "set_code": "SDSH-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.4"
+         },
+         {
+            "set_name": "Wild Survivors",
+            "set_code": "WISU-EN054",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         }
+      ],
+      "banlist_info": {
+         "ban_ocg": "Limited"
+      },
+      "card_images": [
+         {
+            "id": 1475311,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1475311.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1475311.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1475311.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "2.49",
+            "amazon_price": "2.98",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 92039899,
+      "name": "Archfiend Cavalry",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card on the field is destroyed by card effect and sent to the GY: You can target 1 \"Archfiend\" monster in your GY, except \"Archfiend Cavalry\"; Special Summon it, but it cannot attack this turn.",
+      "race": "Fiend",
+      "atk": 1900,
+      "def": 0,
+      "level": 4,
+      "attribute": "DARK",
+      "archetype": "Archfiend",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/archfiend-cavalry-7676",
+      "card_sets": [
+         {
+            "set_name": "2014 Mega-Tin Mega Pack",
+            "set_code": "MP14-EN083",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Judgment of the Light",
+            "set_code": "JOTL-EN030",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 92039899,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92039899.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92039899.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92039899.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.99",
+            "amazon_price": "1.51",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 28423537,
+      "name": "Archfiend Emperor, the First Lord of Horror",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can Normal Summon this card without Tributing, but its original ATK/DEF become halved. If Summoned this way, this card is destroyed during the End Phase. You cannot Special Summon any monsters, except Fiend monsters. Once per turn: You can banish 1 \"Archfiend\" card from your hand or GY, then target 1 card on the field; destroy it.",
+      "race": "Fiend",
+      "atk": 3000,
+      "def": 2000,
+      "level": 8,
+      "attribute": "DARK",
+      "archetype": "Archfiend",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/archfiend-emperor-the-first-lord-of-horror-2419",
+      "card_sets": [
+         {
+            "set_name": "2014 Mega-Tin Mega Pack",
+            "set_code": "MP14-EN084",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Judgment of the Light",
+            "set_code": "JOTL-EN031",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Judgment of the Light: Deluxe Edition",
+            "set_code": "JOTL-ENDE1",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "3.4"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 28423537,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28423537.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28423537.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28423537.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "2.99",
+            "amazon_price": "2.49",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 96704974,
+      "name": "Boogie Trap",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Discard 2 cards, then target 1 Trap in your GY; Set that target. It can be activated this turn. You can only activate 1 \"Boogie Trap\" per turn.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/boogie-trap-8808",
+      "card_sets": [
+         {
+            "set_name": "Code of the Duelist",
+            "set_code": "COTD-EN064",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Maximum Crisis: Special Edition",
+            "set_code": "MACR-ENSE4",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.44"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 96704974,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96704974.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96704974.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96704974.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 87288189,
+      "name": "Caius the Mega Monarch",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. If this card is Tribute Summoned: Target 1 card on the field; banish it, and if you do, inflict 1000 damage to your opponent, then, if it is a DARK Monster Card, banish all cards with that name from the hand, Main Deck, Extra Deck, and GY of the player who controlled it. If this card was Tribute Summoned by Tributing a DARK monster, add this additional effect.\n● You can target 2 cards, instead.",
+      "race": "Fiend",
+      "atk": 2800,
+      "def": 1000,
+      "level": 8,
+      "attribute": "DARK",
+      "archetype": "Monarch",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/caius-the-mega-monarch-7302",
+      "card_sets": [
+         {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN215",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Secrets of Eternity",
+            "set_code": "SECE-EN035",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 87288189,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87288189.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87288189.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87288189.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.59",
+            "tcgplayer_price": "0.56",
+            "ebay_price": "4.55",
+            "amazon_price": "8.94",
+            "coolstuffinc_price": "0.99"
+         }
+      ]
+   },
+   {
+      "id": 57728571,
+      "name": "Crush Card Virus",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Tribute 1 DARK monster with 1000 or less ATK; your opponent takes no damage until the end of the next turn after this card resolves, also, you look at your opponent's hand and all monsters they control, and if you do, destroy the monsters among them with 1500 or more ATK, then your opponent can destroy up to 3 monsters with 1500 or more ATK in their Deck.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/crush-card-virus-4912",
+      "card_sets": [
+         {
+            "set_name": "Duelist Pack: Battle City",
+            "set_code": "DPBC-EN020",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.32"
+         },
+         {
+            "set_name": "Duelist Pack: Kaiba",
+            "set_code": "DPKB-EN039",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "53.87"
+         },
+         {
+            "set_name": "Gold Series",
+            "set_code": "GLD1-EN038",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "152.75"
+         },
+         {
+            "set_name": "Legendary Collection Kaiba Mega Pack",
+            "set_code": "LCKC-EN046",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "3.59"
+         },
+         {
+            "set_name": "Legendary Dragon Decks",
+            "set_code": "LEDD-ENA31",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.68"
+         },
+         {
+            "set_name": "Millennium Pack",
+            "set_code": "MIL1-EN047",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.44"
+         },
+         {
+            "set_name": "Premium Gold: Return of the Bling",
+            "set_code": "PGL2-EN070",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "5.24"
+         },
+         {
+            "set_name": "Shonen Jump Championship 2007 Prize Card A",
+            "set_code": "SJCS-EN004",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "115033.33"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.55"
+         },
+         {
+            "set_name": "Structure Deck: Seto Kaiba",
+            "set_code": "SDKS-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.31"
+         },
+         {
+            "set_name": "Turbo Pack: Booster One",
+            "set_code": "TU01-EN006",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "7.27"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 57728571,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57728571.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57728571.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57728571.jpg"
+         },
+         {
+            "id": 57728570,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57728570.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57728570.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57728570.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.33",
+            "ebay_price": "4.99",
+            "amazon_price": "4.86",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 84970821,
+      "name": "Curse of Darkness",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "Each time a Spell Card is activated, immediately after it resolves, the player that activated it takes 1000 damage.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/curse-of-darkness-7127",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 2",
+            "set_code": "DR2-EN107",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Invasion of Chaos",
+            "set_code": "IOC-106",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "2.03"
+         },
+         {
+            "set_name": "Invasion of Chaos",
+            "set_code": "IOC-EN106",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN039",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 84970821,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84970821.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84970821.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84970821.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "2.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 50383626,
+      "name": "Darkest Diabolos, Lord of the Lair",
+      "typeline": [
+         "Dragon",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Your opponent cannot Tribute this face-up card on the field, and cannot target it with card effects. You can only use each of these effects of \"Darkest Diabolos, Lord of the Lair\" once per turn.\n● If a DARK monster you control is Tributed (except during the Damage Step): You can Special Summon this card from your GY (if it was there when you Tributed) or hand (even if not).\n● You can Tribute 1 DARK monster; your opponent places 1 card from their hand on either the top or bottom of the Deck.",
+      "race": "Dragon",
+      "atk": 3000,
+      "def": 2000,
+      "level": 8,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/darkest-diabolos-lord-of-the-lair-9327",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 50383626,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50383626.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50383626.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50383626.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "1.33",
+            "tcgplayer_price": "1.82",
+            "ebay_price": "4.95",
+            "amazon_price": "63.88",
+            "coolstuffinc_price": "4.99"
+         }
+      ]
+   },
+   {
+      "id": 29876529,
+      "name": "Darklight",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Tribute 1 DARK monster with 1500 or more ATK; destroy all monsters that were Special Summoned this turn.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/darklight-2531",
+      "card_sets": [
+         {
+            "set_name": "Photon Shockwave",
+            "set_code": "PHSW-EN075",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Battle City Box",
+            "set_code": "SBCB-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.09"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 29876529,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29876529.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29876529.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29876529.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "0.59",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 35027493,
+      "name": "Deck Devastation Virus",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Tribute 1 DARK monster with 2000 or more ATK; look at your opponent's hand, all monsters they control, and all cards they draw until the end of their 3rd turn after this card's activation, and destroy all those monsters with 1500 or less ATK.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/deck-devastation-virus-2970",
+      "card_sets": [
+         {
+            "set_name": "Champion Pack: Game Five",
+            "set_code": "CP05-EN009",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Revelation Volume 3",
+            "set_code": "DR3-EN178",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Flaming Eternity",
+            "set_code": "FET-EN058",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Flaming Eternity",
+            "set_code": "FET-EN058",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gates of the Underworld Structure Deck",
+            "set_code": "SDGU-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.85"
+         },
+         {
+            "set_name": "Gold Series 4: Pyramids Edition",
+            "set_code": "GLD4-EN049",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection Kaiba Mega Pack",
+            "set_code": "LCKC-EN047",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 26",
+            "set_code": "OP26-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN150",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN150",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Dark World",
+            "set_code": "SR13-EN038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Wild Survivors",
+            "set_code": "WISU-EN058",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         }
+      ],
+      "banlist_info": {
+         "ban_goat": "Limited"
+      },
+      "card_images": [
+         {
+            "id": 35027493,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35027493.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35027493.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35027493.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.00",
+            "amazon_price": "3.94",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 29424328,
+      "name": "Diabolos, King of the Abyss",
+      "typeline": [
+         "Dragon",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Special Summoned. If you Tribute Summon this card, the Tributes must be DARK. Cannot be Tributed by card effects while face-up on the field. Once per turn, during your opponent's Draw Phase, before their normal draw: Look at the top card of your opponent's Deck, and if you do, place that card on either the top or bottom of their Deck.",
+      "race": "Dragon",
+      "atk": 2800,
+      "def": 1000,
+      "level": 7,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/diabolos-king-of-the-abyss-2496",
+      "card_sets": [
+         {
+            "set_name": "Force of the Breaker",
+            "set_code": "FOTB-EN061",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gold Series 4: Pyramids Edition",
+            "set_code": "GLD4-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 29424328,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29424328.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29424328.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29424328.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "0.65",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 12766474,
+      "name": "Duke Shade, the Sinister Shadow Lord",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can Tribute any number of DARK monsters; Special Summon this card from your hand, and if you do, it gains 500 ATK for each monster you Tributed. If this card is Normal or Special Summoned: You can target 1 Level 5 or higher DARK monster in your GY; add it to your hand. You can only use each effect of \"Duke Shade, the Sinister Shadow Lord\" once per turn. You cannot Special Summon monsters the turn you activate either of this card's effects, except DARK monsters.",
+      "race": "Fiend",
+      "atk": 500,
+      "def": 2000,
+      "level": 4,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/duke-shade-the-sinister-shadow-lord-9356",
+      "card_sets": [
+         {
+            "set_name": "Egyptian God Deck: Slifer the Sky Dragon",
+            "set_code": "EGS1-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.06"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN003",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 12766474,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12766474.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12766474.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12766474.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.79",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 54974237,
+      "name": "Eradicator Epidemic Virus",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Tribute 1 DARK monster with 2500 or more ATK, and declare 1 type of card (Spell or Trap); look at your opponent's hand, all Spells/Traps they control, and all cards they draw until the end of their 3rd turn after this card's activation, and destroy all cards of that declared type.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/eradicator-epidemic-virus-4680",
+      "card_sets": [
+         {
+            "set_name": "Force of the Breaker",
+            "set_code": "FOTB-EN068",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gates of the Underworld Structure Deck",
+            "set_code": "SDGU-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.05"
+         },
+         {
+            "set_name": "Legendary Collection Kaiba Mega Pack",
+            "set_code": "LCKC-EN048",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Master of Pendulum Structure Deck",
+            "set_code": "SDMP-EN040",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.8"
+         },
+         {
+            "set_name": "OTS Tournament Pack 26",
+            "set_code": "OP26-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN183",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN183",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Duelist Genesis: Special Edition",
+            "set_code": "TDGS-ENSE1",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.79"
+         },
+         {
+            "set_name": "Wild Survivors",
+            "set_code": "WISU-EN059",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 54974237,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54974237.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54974237.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54974237.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "5.50",
+            "amazon_price": "3.01",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 81035362,
+      "name": "Fiendish Rhino Warrior",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Fiend monsters you control, except \"Fiendish Rhino Warrior\", cannot be destroyed by battle or card effects. If this card is sent to the GY: You can send 1 Fiend monster from your Deck to the GY, except \"Fiendish Rhino Warrior\". You can only use this effect of \"Fiendish Rhino Warrior\" once per turn.",
+      "race": "Fiend",
+      "atk": 1400,
+      "def": 900,
+      "level": 3,
+      "attribute": "EARTH",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/fiendish-rhino-warrior-6801",
+      "card_sets": [
+         {
+            "set_name": "Breakers of Shadow",
+            "set_code": "BOSH-EN091",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 2",
+            "set_code": "OP02-EN005",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 81035362,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81035362.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81035362.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81035362.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.65",
+            "tcgplayer_price": "0.26",
+            "ebay_price": "2.39",
+            "amazon_price": "1.90",
+            "coolstuffinc_price": "1.49"
+         }
+      ]
+   },
+   {
+      "id": 46173679,
+      "name": "Fires of Doomsday",
+      "type": "Spell Card",
+      "humanReadableCardType": "Quick-Play Spell",
+      "frameType": "spell",
+      "desc": "Special Summon 2 \"Doomsday Tokens\" (Fiend/DARK/Level 1/ATK 0/DEF 0) in Defense Position. They cannot be Tributed for a Tribute Summon, unless it is for a DARK monster. You cannot Summon other monsters the turn you activate this card (but you can Normal Set).",
+      "race": "Quick-Play",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/fires-of-doomsday-3935",
+      "card_sets": [
+         {
+            "set_name": "Destiny Soldiers",
+            "set_code": "DESO-EN043",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist League 15 participation cards",
+            "set_code": "DL15-EN014",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "7.98"
+         },
+         {
+            "set_name": "Phantom Darkness",
+            "set_code": "PTDN-EN055",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Powercode Link",
+            "set_code": "SDPL-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 46173679,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46173679.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46173679.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46173679.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "1.65",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 35726888,
+      "name": "Foolish Burial Goods",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Send 1 Spell/Trap from your Deck to the GY. You can only activate 1 \"Foolish Burial Goods\" per turn.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/foolish-burial-goods-3025",
+      "card_sets": [
+         {
+            "set_name": "2017 Mega-Tin Mega Pack",
+            "set_code": "MP17-EN218",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Relentless Revenge",
+            "set_code": "BLRR-EN095",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Saviors",
+            "set_code": "DASA-EN058",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.71"
+         },
+         {
+            "set_name": "Maximum Gold",
+            "set_code": "MAGO-EN054",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Raging Tempest",
+            "set_code": "RATE-EN065",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Legend of the Crystal Beasts",
+            "set_code": "SDCB-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "banlist_info": {
+         "ban_ocg": "Semi-Limited"
+      },
+      "card_images": [
+         {
+            "id": 35726888,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35726888.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35726888.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35726888.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "1.13",
+            "tcgplayer_price": "0.47",
+            "ebay_price": "0.99",
+            "amazon_price": "4.44",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   },
+   {
+      "id": 4931121,
+      "name": "Full Force Virus",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Tribute 1 DARK monster with 2000 or more DEF; look at your opponent's hand, all monsters they control, and all cards they draw until the end of their 3rd turn after this card's activation, and destroy all those monsters with 1500 or less DEF.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/full-force-virus-440",
+      "card_sets": [
+         {
+            "set_name": "2017 Mega-Tin Mega Pack",
+            "set_code": "MP17-EN228",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection Kaiba Mega Pack",
+            "set_code": "LCKC-EN049",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 26",
+            "set_code": "OP26-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN267",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN267",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Raging Tempest",
+            "set_code": "RATE-EN078",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 4931121,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4931121.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4931121.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4931121.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "0.93",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 85555787,
+      "name": "Grinning Grave Virus",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Tribute 1 DARK monster with 3000 or less ATK; your opponent destroys 1 card (of their choice) in their hand or Deck for every 500 ATK that monster had on the field. If you Tributed a monster with 2000 or more ATK to activate this card, look at all cards your opponent draws until the end of their 3rd turn after this card's activation, and destroy all monsters among them. Cards destroyed and sent to the GY by this card's effects cannot activate their own effects that same turn.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/grinning-grave-virus-9284",
+      "card_sets": [
+         {
+            "set_name": "OTS Tournament Pack 27",
+            "set_code": "OP27-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN030",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 85555787,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85555787.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85555787.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85555787.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "3.24",
+            "amazon_price": "1.75",
+            "coolstuffinc_price": "1.99"
+         }
+      ]
+   },
+   {
+      "id": 74519184,
+      "name": "Hand Destruction",
+      "type": "Spell Card",
+      "humanReadableCardType": "Quick-Play Spell",
+      "frameType": "spell",
+      "desc": "Each player sends 2 cards from their hand to the GY, then draws 2 cards.",
+      "race": "Quick-Play",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/hand-destruction-6263",
+      "card_sets": [
+         {
+            "set_name": "Duelist Pack: Jesse Anderson",
+            "set_code": "DP07-EN018",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "2.7"
+         },
+         {
+            "set_name": "Machina Mayhem Structure Deck",
+            "set_code": "SDMM-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.22"
+         },
+         {
+            "set_name": "Onslaught of the Fire Kings Structure Deck",
+            "set_code": "SDOK-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.98"
+         },
+         {
+            "set_name": "Rise of the True Dragons Structure Deck",
+            "set_code": "SR02-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Turbo Pack: Booster One",
+            "set_code": "TU01-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 74519184,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74519184.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74519184.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74519184.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.23",
+            "tcgplayer_price": "0.66",
+            "ebay_price": "1.99",
+            "amazon_price": "3.17",
+            "coolstuffinc_price": "1.49"
+         }
+      ]
+   },
+   {
+      "id": 47754278,
+      "name": "Infernal Dragon",
+      "typeline": [
+         "Dragon",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Once per turn, during the End Phase, if this card attacked this turn: Destroy this card. When this card on the field is destroyed and sent to the GY: You can Tribute 1 monster; Special Summon this card from the GY.",
+      "race": "Dragon",
+      "atk": 2000,
+      "def": 0,
+      "level": 4,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/infernal-dragon-4080",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 2",
+            "set_code": "DT02-EN058",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "3.34"
+         },
+         {
+            "set_name": "Duelist Pack: Zane Truesdale",
+            "set_code": "DP04-EN010",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "7.33"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 47754278,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47754278.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47754278.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47754278.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.24",
+            "tcgplayer_price": "0.31",
+            "ebay_price": "0.99",
+            "amazon_price": "7.51",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 16404809,
+      "name": "Kuribandit",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "During the End Phase, if this card was Normal Summoned this turn: You can Tribute this card; excavate the top 5 cards of your Deck, you can add 1 excavated Spell/Trap to your hand, also send the remaining cards to the GY.",
+      "race": "Fiend",
+      "atk": 1000,
+      "def": 700,
+      "level": 3,
+      "attribute": "DARK",
+      "archetype": "Kuriboh",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/kuribandit-1413",
+      "card_sets": [
+         {
+            "set_name": "Dark Saviors",
+            "set_code": "DASA-EN051",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.69"
+         },
+         {
+            "set_name": "Dragons of Legend",
+            "set_code": "DRLG-EN002",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "3.22"
+         },
+         {
+            "set_name": "Dragons of Legend: The Complete Series",
+            "set_code": "DLCS-EN004",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dragons of Legend: Unleashed",
+            "set_code": "DRL3-EN042",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Pendulum Domination Structure Deck",
+            "set_code": "SDPD-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN221",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN221",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Link Strike",
+            "set_code": "YS17-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Shaddoll Showdown",
+            "set_code": "SDSH-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.09"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! Advent Calendar (2019)",
+            "set_code": "AC19-EN019",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.63"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 16404809,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16404809.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16404809.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16404809.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.99",
+            "amazon_price": "2.83",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 59160188,
+      "name": "Lair of Darkness",
+      "type": "Spell Card",
+      "humanReadableCardType": "Field Spell",
+      "frameType": "spell",
+      "desc": "All face-up monsters on the field become DARK. Once per turn, if you would Tribute a monster you control to activate a card effect, you can Tribute 1 DARK monster your opponent controls, even though you do not control it. Once per turn, during the End Phase: Special Summon as many \"Torment Tokens\" (Fiend/DARK/Level 3/ATK 1000/DEF 1000) as possible to the turn player's field in Defense Position, up to the number of monsters Tributed this turn while this card was face-up.",
+      "race": "Field",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/lair-of-darkness-9285",
+      "card_sets": [
+         {
+            "set_name": "Egyptian God Deck: Slifer the Sky Dragon",
+            "set_code": "EGS1-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.25"
+         },
+         {
+            "set_name": "Maximum Gold",
+            "set_code": "MAGO-EN157",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN022",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 59160188,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59160188.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59160188.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59160188.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "56.77",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   },
+   {
+      "id": 12338068,
+      "name": "Legendary Maju Garzett",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing all monsters you control. This card's ATK becomes the combined original ATK of the Tributed monsters. If this card attacks a Defense Position monster, inflict piercing battle damage.",
+      "race": "Fiend",
+      "atk": 0,
+      "def": 0,
+      "level": 8,
+      "attribute": "DARK",
+      "archetype": "Maju",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/legendary-maju-garzett-1066",
+      "card_sets": [
+         {
+            "set_name": "Secrets of Eternity",
+            "set_code": "SECE-EN042",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 12338068,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12338068.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12338068.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12338068.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.99",
+            "amazon_price": "1.03",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 55818463,
+      "name": "Lich Lord, King of the Underworld",
+      "typeline": [
+         "Zombie",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If you Tribute Summon this card, the Tribute must be DARK. If this card is Tributed by a card effect and sent to the GY: Add this card from your GY to your hand.",
+      "race": "Zombie",
+      "atk": 2400,
+      "def": 1200,
+      "level": 6,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/lich-lord-king-of-the-underworld-4754",
+      "card_sets": [
+         {
+            "set_name": "Force of the Breaker",
+            "set_code": "FOTB-EN062",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gold Series 4: Pyramids Edition",
+            "set_code": "GLD4-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN005",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 55818463,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55818463.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55818463.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55818463.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 23898021,
+      "name": "Lilith, Lady of Lament",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is Normal Summoned, its original ATK becomes 1000. (Quick Effect): You can Tribute 1 DARK monster; reveal 3 Normal Traps from your Deck, your opponent randomly chooses 1 for you to Set on your field, and you shuffle the rest back into your Deck. You can only use this effect of \"Lilith, Lady of Lament\" once per turn.",
+      "race": "Fiend",
+      "atk": 2000,
+      "def": 0,
+      "level": 3,
+      "attribute": "DARK",
+      "archetype": "Lady of Lament",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/lilith-lady-of-lament-9326",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Dark World",
+            "set_code": "SR13-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN000",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Tactical Masters",
+            "set_code": "TAMA-EN049",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 23898021,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23898021.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23898021.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23898021.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "4.95",
+            "amazon_price": "0.26",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 15800838,
+      "name": "Mind Crush",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Declare 1 card name; if that card is in your opponent's hand, they must discard all copies of it, otherwise you discard 1 random card.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/mind-crush-1359",
+      "card_sets": [
+         {
+            "set_name": "Champion Pack: Game Eight",
+            "set_code": "CP08-EN003",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Revelation Volume 3",
+            "set_code": "DR3-EN056",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gates of the Underworld Structure Deck",
+            "set_code": "SDGU-EN035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.65"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN295",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Soul of the Duelist",
+            "set_code": "SOD-EN056",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Soul of the Duelist",
+            "set_code": "SOD-EN056",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "1.59"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 4",
+            "set_code": "STP4-EN005",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Battle City Box",
+            "set_code": "SBCB-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.43"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENE19",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENE19",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Dark World",
+            "set_code": "SR13-EN037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 15800838,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15800838.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15800838.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15800838.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "4.44",
+            "amazon_price": "4.74",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 28601770,
+      "name": "Mist Archfiend",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can Normal Summon this card without Tributing. Once per turn, during the End Phase, if this card was Summoned this way: Destroy this card, and if you do, take 1000 damage.",
+      "race": "Fiend",
+      "atk": 2400,
+      "def": 0,
+      "level": 5,
+      "attribute": "DARK",
+      "archetype": "Archfiend",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/mist-archfiend-2436",
+      "card_sets": [
+         {
+            "set_name": "Force of the Breaker",
+            "set_code": "FOTB-EN064",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENE10",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Turbo Pack: Booster Two",
+            "set_code": "TU02-EN009",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 28601770,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28601770.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28601770.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28601770.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "1.05",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 30312361,
+      "name": "Phantom of Chaos",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Your opponent takes no battle damage from attacks involving this card. Once per turn: You can target 1 Effect Monster in your GY; banish that target, and if you do, until the End Phase, this card's name and original ATK become that monster's name and original ATK, and replace this effect with that monster's original effects. You must control this face-up card to activate and to resolve this effect.",
+      "race": "Fiend",
+      "atk": 0,
+      "def": 0,
+      "level": 4,
+      "attribute": "DARK",
+      "archetype": "Chaos",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/phantom-of-chaos-2567",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN196",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN196",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gladiator's Assault: Special Edition",
+            "set_code": "GLAS-ENSE1",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.03"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN193",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN006",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.19"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 30312361,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30312361.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30312361.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30312361.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "3.49",
+            "amazon_price": "1.62",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 55696885,
+      "name": "Plague Wolf",
+      "typeline": [
+         "Zombie",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Once per turn: You can make this card's ATK become double its original ATK until the end of this turn. Once per turn, during the End Phase, if this effect was activated: Destroy this card.",
+      "race": "Zombie",
+      "atk": 1000,
+      "def": 1000,
+      "level": 3,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/plague-wolf-4742",
+      "card_sets": [
+         {
+            "set_name": "Force of the Breaker",
+            "set_code": "FOTB-EN065",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN200",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENC11",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Zombie World Structure Deck",
+            "set_code": "SDZW-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 55696885,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55696885.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55696885.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55696885.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 82213171,
+      "name": "Prometheus, King of the Shadows",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is Normal Summoned: Banish 1 or more DARK monsters from your GY, and if you do, this card gains 400 ATK for each, until the end of this turn.",
+      "race": "Fiend",
+      "atk": 1200,
+      "def": 800,
+      "level": 4,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/prometheus-king-of-the-shadows-6909",
+      "card_sets": [
+         {
+            "set_name": "Destiny Soldiers",
+            "set_code": "DESO-EN047",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Force of the Breaker",
+            "set_code": "FOTB-EN063",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gold Series",
+            "set_code": "GLD1-EN027",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gold Series 4: Pyramids Edition",
+            "set_code": "GLD4-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA15",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.1"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN006",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 82213171,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82213171.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82213171.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82213171.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "20.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 81191584,
+      "name": "Recurring Nightmare",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Target 2 DARK monsters with 0 DEF in your GY; add those targets to your hand.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/recurring-nightmare-6815",
+      "card_sets": [
+         {
+            "set_name": "Force of the Breaker",
+            "set_code": "FOTB-EN066",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gold Series 4: Pyramids Edition",
+            "set_code": "GLD4-EN041",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 6",
+            "set_code": "OP06-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 81191584,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81191584.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81191584.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81191584.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "2.01",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 50185950,
+      "name": "Relinkuriboh",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is Tributed: Draw 1 card. If your monster would be destroyed by battle, you can banish this card from your GY instead.",
+      "race": "Fiend",
+      "atk": 300,
+      "def": 200,
+      "level": 1,
+      "attribute": "DARK",
+      "archetype": "Kuriboh",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/relinkuriboh-4276",
+      "card_sets": [
+         {
+            "set_name": "Invasion: Vengeance: Special Edition",
+            "set_code": "INOV-ENSE2",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.34"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Weekly Shonen Jump April 2016 membership promotional card",
+            "set_code": "JUMP-EN076",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "6.67"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! Advent Calendar (2019)",
+            "set_code": "AC19-EN013",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.31"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 50185950,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50185950.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50185950.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50185950.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "0.99",
+            "amazon_price": "1.27",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 19254117,
+      "name": "Rise to Full Height",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Target 1 face-up monster on the field; double its DEF, but its DEF becomes 0 at the end of this turn. You can banish this card from your GY, then target 1 monster you control; your opponent's monsters cannot attack for the rest of this turn, except to attack that monster. You can only activate 1 \"Rise to Full Height\" per turn.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/rise-to-full-height-1661",
+      "card_sets": [
+         {
+            "set_name": "2017 Mega-Tin Mega Pack",
+            "set_code": "MP17-EN043",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Shining Victories",
+            "set_code": "SHVI-EN077",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 19254117,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19254117.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19254117.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19254117.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.43",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 72497366,
+      "name": "Sinister Yorishiro",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "Each turn, 1 Level 5 or higher Fiend monster you Normal Summon can be Summoned without Tributing. If exactly 1 Normal Summoned/Set Level 5 or higher Fiend monster (and no other cards) would be destroyed, you can send this card to the GY instead.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/sinister-yorishiro-6085",
+      "card_sets": [
+         {
+            "set_name": "2014 Mega-Tin Mega Pack",
+            "set_code": "MP14-EN182",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Pendulum Domination Structure Deck",
+            "set_code": "SDPD-EN038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Shadow Specters",
+            "set_code": "SHSP-EN089",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN040",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 72497366,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72497366.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72497366.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72497366.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.79",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 13521194,
+      "name": "Stygian Street Patrol",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card destroys a monster by battle and sends it to the GY: Inflict damage to your opponent equal to the original Level of that monster in the GY x 100. You can banish this card from your GY; Special Summon 1 Fiend monster with 2000 or less ATK from your hand.",
+      "race": "Fiend",
+      "atk": 1600,
+      "def": 1200,
+      "level": 4,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/stygian-street-patrol-1160",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN078",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN078",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Collectible Tins 2011 Wave 1",
+            "set_code": "CT08-EN007",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.28"
+         },
+         {
+            "set_name": "Duelist Revolution",
+            "set_code": "DREV-EN099",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Pendulum Domination Structure Deck",
+            "set_code": "SDPD-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.15"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 13521194,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13521194.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13521194.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13521194.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "0.50",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 59160189,
+      "name": "Torment Token",
+      "type": "Token",
+      "humanReadableCardType": "Token",
+      "frameType": "token",
+      "desc": "This card can be used as a \"Torment Token\".\r\n\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+      "race": "Fiend",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/torment-token-10171",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-ENTKN",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.21"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 59160189,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59160189.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59160189.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59160189.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.46",
+            "tcgplayer_price": "1.16",
+            "ebay_price": "2.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "1.99"
+         }
+      ]
+   },
+   {
+      "id": 10802916,
+      "name": "Tour Guide From the Underworld",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card is Normal Summoned: You can Special Summon 1 Level 3 Fiend monster from your hand or Deck, but negate its effects, also it cannot be used as Synchro Material.",
+      "race": "Fiend",
+      "atk": 1000,
+      "def": 600,
+      "level": 3,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/tour-guide-from-the-underworld-932",
+      "card_sets": [
+         {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN005",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN005",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Astral Pack Six",
+            "set_code": "AP06-EN001",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN023",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN023",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Collectible Tins 2012 Wave 2",
+            "set_code": "CT09-EN013",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "5.73"
+         },
+         {
+            "set_name": "Duel Overload",
+            "set_code": "DUOV-EN057",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "5.09"
+         },
+         {
+            "set_name": "Duelist Saga",
+            "set_code": "DUSA-EN091",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "5.27"
+         },
+         {
+            "set_name": "Extreme Victory",
+            "set_code": "EXVC-EN084",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Maximum Gold",
+            "set_code": "MAGO-EN007",
+            "set_rarity": "Premium Gold Rare",
+            "set_rarity_code": "(PG)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 10802916,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10802916.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10802916.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10802916.jpg"
+         },
+         {
+            "id": 10802915,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10802915.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10802915.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10802915.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.39",
+            "ebay_price": "4.75",
+            "amazon_price": "2.97",
+            "coolstuffinc_price": "1.99"
+         }
+      ]
+   },
+   {
+      "id": 79766336,
+      "name": "Trap of Darkness",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "If your LP is 3000 or less: Pay 1000 LP, then target 1 Normal Trap in your GY, except \"Trap of Darkness\"; this card's effect becomes that target's activated effect, then banish that target.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/trap-of-darkness-6686",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Duelist Genesis",
+            "set_code": "TDGS-EN092",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 79766336,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79766336.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79766336.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79766336.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 47084486,
+      "name": "Vanity's Fiend",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Special Summoned. Neither player can Special Summon monsters.",
+      "race": "Fiend",
+      "atk": 2400,
+      "def": 1200,
+      "level": 6,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/vanity-s-fiend-4018",
+      "card_sets": [
+         {
+            "set_name": "Astral Pack Six",
+            "set_code": "AP06-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Chapter 1",
+            "set_code": "BLC1-EN063",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Light's Revenge",
+            "set_code": "BLLR-EN047",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Champion Pack: Game Seven",
+            "set_code": "CP07-EN009",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Cyberdark Impact",
+            "set_code": "CDIP-EN017",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Cyberdark Impact",
+            "set_code": "CDIP-EN017",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Devastator",
+            "set_code": "DUDE-EN034",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.49"
+         },
+         {
+            "set_name": "OTS Tournament Pack 1",
+            "set_code": "OP01-EN002",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 47084486,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47084486.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47084486.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47084486.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.45",
+            "tcgplayer_price": "0.66",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 90434926,
+      "name": "Veil of Darkness",
+      "type": "Spell Card",
+      "humanReadableCardType": "Continuous Spell",
+      "frameType": "spell",
+      "desc": "During your Draw Phase, if you draw a DARK monster(s): You can reveal any number of them; send them to the GY, then you can draw 1 more card.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/veil-of-darkness-7554",
+      "card_sets": [
+         {
+            "set_name": "Destiny Soldiers",
+            "set_code": "DESO-EN052",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gladiator's Assault",
+            "set_code": "GLAS-EN088",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gold Series 2009",
+            "set_code": "GLD2-EN043",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Premium Gold: Return of the Bling",
+            "set_code": "PGL2-EN071",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENG12",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENA25",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Arena of Lost Souls",
+            "set_code": "SBLS-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.04"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 90434926,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90434926.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90434926.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90434926.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   }
+]
