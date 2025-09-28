@@ -1,0 +1,2194 @@
+[
+   {
+      "id": 75041269,
+      "name": "Clock Tower Prison",
+      "type": "Spell Card",
+      "humanReadableCardType": "Field Spell",
+      "frameType": "spell",
+      "desc": "Once per turn, during your opponent's Standby Phase: Place 1 Clock Counter on this card. While there are 4 or more Clock Counters on this card, you do not take any battle damage. If this card with 4 or more Clock Counters is destroyed and sent to the GY: Special Summon 1 \"Destiny HERO - Dreadmaster\" from your hand or Deck.",
+      "race": "Field",
+      "archetype": "Destiny HERO",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/clock-tower-prison-6311",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN228",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "13.19"
+         },
+         {
+            "set_name": "Duelist Pack: Aster Phoenix",
+            "set_code": "DP05-EN016",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Enemy of Justice",
+            "set_code": "EOJ-EN048",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Enemy of Justice",
+            "set_code": "EOJ-EN048",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN141",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.35"
+         },
+         {
+            "set_name": "Legendary Hero Decks",
+            "set_code": "LEHD-ENA19",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.32"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 75041269,
+            "image_url": "https://images.ygoprodeck.com/images/cards/75041269.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75041269.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75041269.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 22147147,
+      "name": "Cyclone Blade",
+      "type": "Spell Card",
+      "humanReadableCardType": "Equip Spell",
+      "frameType": "spell",
+      "desc": "Equip only to a \"Destiny HERO\" monster. At the end of the Damage Step, if the equipped monster attacked: Target 1 Spell/Trap Card on the field; destroy that target.",
+      "race": "Equip",
+      "archetype": "Destiny HERO",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/cyclone-blade-1910",
+      "card_sets": [
+         {
+            "set_name": "Duelist Pack: Aster Phoenix",
+            "set_code": "DP05-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN143",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.65"
+         },
+         {
+            "set_name": "Power of the Duelist",
+            "set_code": "POTD-EN043",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Power of the Duelist",
+            "set_code": "POTD-EN043",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 22147147,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22147147.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22147147.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22147147.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 43405287,
+      "name": "D - Chain",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Target a \"Destiny HERO\" monster you control; equip this card to that target. It gains 500 ATK. When it destroys a monster your opponent controls by battle and sends it to the Graveyard: Inflict 500 damage to your opponent.",
+      "race": "Normal",
+      "archetype": "Destiny HERO",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/d-chain-3700",
+      "card_sets": [
+         {
+            "set_name": "Duelist Pack: Aster Phoenix",
+            "set_code": "DP05-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN152",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.91"
+         },
+         {
+            "set_name": "Power of the Duelist",
+            "set_code": "POTD-EN050",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Power of the Duelist",
+            "set_code": "POTD-EN050",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENB18",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 43405287,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43405287.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43405287.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43405287.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "1.09",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 8698851,
+      "name": "D - Counter",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "When a \"Destiny HERO\" monster you control is targeted for an attack: Destroy the attacking monster.",
+      "race": "Normal",
+      "archetype": "Destiny HERO",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/d-counter-737",
+      "card_sets": [
+         {
+            "set_name": "Duelist Pack: Aster Phoenix",
+            "set_code": "DP05-EN029",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.22"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN153",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.12"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENB19",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 8698851,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8698851.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8698851.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8698851.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "4.69",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   },
+   {
+      "id": 62868900,
+      "name": "D - Shield",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "When an Attack Position \"Destiny HERO\" monster you control is targeted for an attack: Target it; change it to Defense Position and equip it with this card. The equipped monster cannot be destroyed by battle.",
+      "race": "Normal",
+      "archetype": "Destiny HERO",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/d-shield-5307",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN234",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.38"
+         },
+         {
+            "set_name": "Duelist Pack: Aster Phoenix",
+            "set_code": "DP05-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Enemy of Justice",
+            "set_code": "EOJ-EN054",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN150",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.43"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 62868900,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62868900.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62868900.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62868900.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "6.99",
+            "amazon_price": "0.66",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 89899996,
+      "name": "D - Spirit",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Special Summon 1 Level 4 or lower \"Destiny HERO\" monster from your hand. You must not control any face-up \"Destiny HERO\" monsters to activate and to resolve this effect.",
+      "race": "Normal",
+      "archetype": "Destiny HERO",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/d-spirit-7513",
+      "card_sets": [
+         {
+            "set_name": "Duelist Pack: Aster Phoenix",
+            "set_code": "DP05-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN142",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.41"
+         },
+         {
+            "set_name": "Power of the Duelist",
+            "set_code": "POTD-EN041",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENB14",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 89899996,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89899996.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89899996.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89899996.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 99075257,
+      "name": "D - Time",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "When a face-up \"Elemental HERO\" monster you control leaves the field: Add 1 \"Destiny HERO\" monster from your Deck to your hand whose Level is less than or equal to that \"Elemental HERO\" monster's original Level.",
+      "race": "Normal",
+      "archetype": "Destiny HERO",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/d-time-8230",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN233",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.28"
+         },
+         {
+            "set_name": "Duelist Pack: Aster Phoenix",
+            "set_code": "DP05-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Enemy of Justice",
+            "set_code": "EOJ-EN053",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Enemy of Justice",
+            "set_code": "EOJ-EN053",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN149",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Hero Decks",
+            "set_code": "LEHD-ENA28",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.04"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 99075257,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99075257.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99075257.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99075257.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "14.75",
+            "amazon_price": "1.63",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 53527835,
+      "name": "Dark City",
+      "type": "Spell Card",
+      "humanReadableCardType": "Field Spell",
+      "frameType": "spell",
+      "desc": "When a \"Destiny HERO\" monster attacks, if its ATK is lower than the ATK of the attack target, the attacking monster gains 1000 ATK during damage calculation only.",
+      "race": "Field",
+      "archetype": "Destiny HERO",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dark-city-4558",
+      "card_sets": [
+         {
+            "set_name": "Duelist Pack: Aster Phoenix",
+            "set_code": "DP05-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN144",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.22"
+         },
+         {
+            "set_name": "Legendary Hero Decks",
+            "set_code": "LEHD-ENA20",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.31"
+         },
+         {
+            "set_name": "Power of the Duelist",
+            "set_code": "POTD-EN048",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Power of the Duelist",
+            "set_code": "POTD-EN048",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENB13",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 53527835,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53527835.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53527835.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53527835.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "69.95",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 45809008,
+      "name": "Destiny Draw",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Discard 1 \"Destiny HERO\" card; draw 2 cards.",
+      "race": "Normal",
+      "archetype": "Destiny HERO",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/destiny-draw-3901",
+      "card_sets": [
+         {
+            "set_name": "Dark Legends",
+            "set_code": "DLG1-EN109",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "8.43"
+         },
+         {
+            "set_name": "Destiny Soldiers",
+            "set_code": "DESO-EN014",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Terminal 3",
+            "set_code": "DT03-EN095",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Pack: Aster Phoenix",
+            "set_code": "DP05-EN020",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "12.26"
+         },
+         {
+            "set_name": "Gold Series 3",
+            "set_code": "GLD3-EN044",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN145",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Hero Decks",
+            "set_code": "LEHD-ENA17",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.42"
+         },
+         {
+            "set_name": "Legendary Hero Decks",
+            "set_code": "LEHD-ENA17",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.44"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN173",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN173",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Ra Yellow Mega Pack",
+            "set_code": "RYMP-EN037",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 45809008,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45809008.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45809008.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45809008.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "0.82",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 55461064,
+      "name": "Destiny HERO - Blade Master",
+      "typeline": [
+         "Warrior",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "During your opponent's Battle Phase: You can discard this card; all face-up \"Destiny HERO\" monsters you control gain 800 ATK until the End Phase.",
+      "race": "Warrior",
+      "atk": 300,
+      "def": 600,
+      "level": 3,
+      "attribute": "DARK",
+      "archetype": "Destiny HERO",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/destiny-hero-blade-master-4722",
+      "card_sets": [
+         {
+            "set_name": "Duelist Pack: Aster Phoenix",
+            "set_code": "DP05-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN129",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.71"
+         },
+         {
+            "set_name": "Power of the Duelist",
+            "set_code": "POTD-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENB04",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 55461064,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55461064.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55461064.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55461064.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 77608643,
+      "name": "Destiny HERO - Captain Tenacious",
+      "typeline": [
+         "Warrior",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Once per turn, during your Standby Phase: You can target 1 \"Destiny HERO\" monster in your Graveyard that was destroyed by battle since your last Standby Phase, if you controlled this face-up card when the target was destroyed; Special Summon that target.",
+      "race": "Warrior",
+      "atk": 800,
+      "def": 800,
+      "level": 3,
+      "attribute": "DARK",
+      "archetype": "Destiny HERO",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/destiny-hero-captain-tenacious-6532",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN182",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.86"
+         },
+         {
+            "set_name": "Duelist Pack: Aster Phoenix",
+            "set_code": "DP05-EN002",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Enemy of Justice",
+            "set_code": "EOJ-EN002",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN123",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.24"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 77608643,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77608643.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77608643.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77608643.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "3.95",
+            "amazon_price": "1.30",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 81866673,
+      "name": "Destiny HERO - Dasher",
+      "typeline": [
+         "Warrior",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Once per turn: You can Tribute 1 other monster; this card gains 1000 ATK until the End Phase. If this card attacks, change it to Defense Position at the end of the Battle Phase. One time only, when you draw a Monster Card during your Draw Phase while this card is in your Graveyard: You can reveal it; Special Summon it. This card must be in the Graveyard to activate and to resolve this effect.",
+      "race": "Warrior",
+      "atk": 2100,
+      "def": 1000,
+      "level": 6,
+      "attribute": "DARK",
+      "archetype": "Destiny HERO",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/destiny-hero-dasher-6872",
+      "card_sets": [
+         {
+            "set_name": "Duelist Pack: Aster Phoenix",
+            "set_code": "DP05-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN131",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "9.94"
+         },
+         {
+            "set_name": "OTS Tournament Pack 18",
+            "set_code": "OP18-EN004",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 18 (POR)",
+            "set_code": "OP18-PT004",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Power of the Duelist",
+            "set_code": "POTD-EN017",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Power of the Duelist",
+            "set_code": "POTD-EN017",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENB05",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENB05",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 81866673,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81866673.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81866673.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81866673.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "2.88",
+            "amazon_price": "3.66",
+            "coolstuffinc_price": "0.99"
+         }
+      ]
+   },
+   {
+      "id": 54749427,
+      "name": "Destiny HERO - Defender",
+      "typeline": [
+         "Warrior",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "During each of your opponent's Standby Phases: Your opponent draws 1 card. This card must be in face-up Defense Position to activate and to resolve this effect.",
+      "race": "Warrior",
+      "atk": 100,
+      "def": 2700,
+      "level": 4,
+      "attribute": "DARK",
+      "archetype": "Destiny HERO",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/destiny-hero-defender-4665",
+      "card_sets": [
+         {
+            "set_name": "Duelist Pack: Aster Phoenix",
+            "set_code": "DP05-EN006",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN127",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.88"
+         },
+         {
+            "set_name": "Power of the Duelist",
+            "set_code": "POTD-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "War of the Giants Reinforcements",
+            "set_code": "WGRT-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "War of the Giants: Round 2",
+            "set_code": "BPW2-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.78"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 54749427,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54749427.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54749427.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54749427.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.22",
+            "tcgplayer_price": "0.40",
+            "ebay_price": "0.99",
+            "amazon_price": "3.21",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 13093792,
+      "name": "Destiny HERO - Diamond Dude",
+      "typeline": [
+         "Warrior",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Once per turn: You can excavate the top card of your Deck, and if it is a Normal Spell, send it to the GY, otherwise place it on the bottom of your Deck. During the Main Phase of your next turn, you can activate the effect of that Spell in your GY (even if you no longer control this face-up card).",
+      "race": "Warrior",
+      "atk": 1400,
+      "def": 1600,
+      "level": 4,
+      "attribute": "DARK",
+      "archetype": "Destiny HERO",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/destiny-hero-diamond-dude-1129",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN183",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "40.81"
+         },
+         {
+            "set_name": "Destiny Soldiers",
+            "set_code": "DESO-EN009",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Pack: Aster Phoenix",
+            "set_code": "DP05-EN003",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Enemy of Justice",
+            "set_code": "EOJ-EN003",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Enemy of Justice",
+            "set_code": "EOJ-EN003",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN124",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.79"
+         },
+         {
+            "set_name": "Legendary Hero Decks",
+            "set_code": "LEHD-ENA06",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.45"
+         },
+         {
+            "set_name": "Ra Yellow Mega Pack",
+            "set_code": "RYMP-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENB03",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 5",
+            "set_code": "STP5-EN008",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Turbo Pack: Booster Three",
+            "set_code": "TU03-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 13093792,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13093792.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13093792.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13093792.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "80.90",
+            "amazon_price": "0.78",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 17132130,
+      "name": "Destiny HERO - Dogma",
+      "typeline": [
+         "Warrior",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 monsters, including at least 1 \"Destiny HERO\" monster. Once per turn, if you still control this face-up card during your opponent's next Standby Phase after you Special Summoned it this way: Halve your opponent's LP.",
+      "race": "Warrior",
+      "atk": 3400,
+      "def": 2400,
+      "level": 8,
+      "attribute": "DARK",
+      "archetype": "Destiny HERO",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/destiny-hero-dogma-1479",
+      "card_sets": [
+         {
+            "set_name": "Destiny Soldiers",
+            "set_code": "DESO-EN011",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Pack: Aster Phoenix",
+            "set_code": "DP05-EN007",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN128",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.74"
+         },
+         {
+            "set_name": "Legendary Hero Decks",
+            "set_code": "LEHD-ENA01",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.11"
+         },
+         {
+            "set_name": "Power of the Duelist",
+            "set_code": "POTD-EN014",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Power of the Duelist",
+            "set_code": "POTD-EN014",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENB07",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 17132130,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17132130.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17132130.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17132130.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 41613948,
+      "name": "Destiny HERO - Doom Lord",
+      "typeline": [
+         "Warrior",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Once per turn: You can target 1 monster your opponent controls; banish that target. You cannot declare an attack the turn you activate this effect. You must control this face-up Attack Position card to activate and to resolve this effect. The banished monster returns to the opponent's side of the field, in the same battle position, during your 2nd Standby Phase after activation.",
+      "race": "Warrior",
+      "atk": 600,
+      "def": 800,
+      "level": 3,
+      "attribute": "DARK",
+      "archetype": "Destiny HERO",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/destiny-hero-doom-lord-3558",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN181",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "155.87"
+         },
+         {
+            "set_name": "Duelist Pack: Aster Phoenix",
+            "set_code": "DP05-EN001",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Enemy of Justice",
+            "set_code": "EOJ-EN001",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN122",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.89"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENB02",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 41613948,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41613948.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41613948.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41613948.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 28355718,
+      "name": "Destiny HERO - Double Dude",
+      "typeline": [
+         "Warrior",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Special Summoned. This card can attack twice during each Battle Phase. During your Standby Phase, if this card was destroyed since your last Standby Phase: You can Special Summon 2 \"Double Dude Tokens\" (Warrior-Type/DARK/Level 4/ATK 1000/DEF 1000). This card must be in your Graveyard to activate and to resolve this effect.",
+      "race": "Warrior",
+      "atk": 1000,
+      "def": 1000,
+      "level": 6,
+      "attribute": "DARK",
+      "archetype": "Destiny HERO",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/destiny-hero-double-dude-2412",
+      "card_sets": [
+         {
+            "set_name": "Duelist Pack: Aster Phoenix",
+            "set_code": "DP05-EN005",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN126",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.64"
+         },
+         {
+            "set_name": "Power of the Duelist",
+            "set_code": "POTD-EN012",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Power of the Duelist",
+            "set_code": "POTD-EN012",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 28355718,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28355718.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28355718.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28355718.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.26",
+            "tcgplayer_price": "0.30",
+            "ebay_price": "1.99",
+            "amazon_price": "1.20",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 40591390,
+      "name": "Destiny HERO - Dreadmaster",
+      "typeline": [
+         "Warrior",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is Special Summoned by \"Clock Tower Prison\": Destroy all monsters you control, except \"Destiny HERO\" monsters, also, after that, you can Special Summon up to 2 \"Destiny HERO\" monsters from your GY. After this card is Special Summoned, for the rest of this turn, \"Destiny HERO\" monsters you control cannot be destroyed, also you take no battle damage when they battle. The ATK/DEF of this card are equal to the combined original ATK of all other \"Destiny HERO\" monsters you control.",
+      "race": "Warrior",
+      "atk": -1,
+      "def": -1,
+      "level": 8,
+      "attribute": "DARK",
+      "archetype": "Destiny HERO",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/destiny-hero-dreadmaster-3449",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN184",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "22.32"
+         },
+         {
+            "set_name": "Duelist Pack: Aster Phoenix",
+            "set_code": "DP05-EN004",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Enemy of Justice",
+            "set_code": "EOJ-EN004",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Enemy of Justice",
+            "set_code": "EOJ-EN004",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN125",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.83"
+         },
+         {
+            "set_name": "Legendary Hero Decks",
+            "set_code": "LEHD-ENA03",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.09"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 40591390,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40591390.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40591390.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40591390.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.27",
+            "ebay_price": "0.99",
+            "amazon_price": "0.50",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 80744121,
+      "name": "Destiny HERO - Fear Monger",
+      "typeline": [
+         "Warrior",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "During your Standby Phase, if this card is in your Graveyard because it was destroyed by battle and sent there since your last Standby Phase: Target 1 \"Destiny HERO\" monster in your Graveyard, except a \"Destiny HERO - Fear Monger\"; Special Summon that target.",
+      "race": "Warrior",
+      "atk": 1000,
+      "def": 1000,
+      "level": 4,
+      "attribute": "DARK",
+      "archetype": "Destiny HERO",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/destiny-hero-fear-monger-6773",
+      "card_sets": [
+         {
+            "set_name": "Champion Pack: Game Six",
+            "set_code": "CP06-EN002",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Pack: Aster Phoenix",
+            "set_code": "DP05-EN009",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN130",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.39"
+         },
+         {
+            "set_name": "Power of the Duelist",
+            "set_code": "POTD-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENB06",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 80744121,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80744121.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80744121.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80744121.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "2.00",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 9411399,
+      "name": "Destiny HERO - Malicious",
+      "typeline": [
+         "Warrior",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can banish this card from your GY; Special Summon 1 \"Destiny HERO - Malicious\" from your Deck.",
+      "race": "Warrior",
+      "atk": 800,
+      "def": 800,
+      "level": 6,
+      "attribute": "DARK",
+      "archetype": "Destiny HERO",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/destiny-hero-malicious-799",
+      "card_sets": [
+         {
+            "set_name": "Battles of Legend: Chapter 1",
+            "set_code": "BLC1-EN030",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Legends",
+            "set_code": "DLG1-EN108",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "16.33"
+         },
+         {
+            "set_name": "Destiny Soldiers",
+            "set_code": "DESO-EN010",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Terminal 3",
+            "set_code": "DT03-EN055",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Pack: Aster Phoenix",
+            "set_code": "DP05-EN011",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "25.09"
+         },
+         {
+            "set_name": "Gold Series 3",
+            "set_code": "GLD3-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN132",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.83"
+         },
+         {
+            "set_name": "Legendary Hero Decks",
+            "set_code": "LEHD-ENA04",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.34"
+         },
+         {
+            "set_name": "Legendary Hero Decks",
+            "set_code": "LEHD-ENA04",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "3.07"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN001",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN001",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN001",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN001",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN001",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN001",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Ra Yellow Mega Pack",
+            "set_code": "RYMP-EN034",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENB08",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 9411399,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9411399.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9411399.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9411399.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "3.89",
+            "amazon_price": "0.59",
+            "coolstuffinc_price": "0.99"
+         }
+      ]
+   },
+   {
+      "id": 15294090,
+      "name": "Destiny Mirage",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "When a \"Destiny HERO\" monster you control is destroyed and sent to the Graveyard by an opponent's card effect: Special Summon, to your side of the field, all \"Destiny HERO\" monsters that were destroyed and sent to either Graveyard this turn.",
+      "race": "Normal",
+      "archetype": "Destiny HERO",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/destiny-mirage-1312",
+      "card_sets": [
+         {
+            "set_name": "Duelist Pack: Aster Phoenix",
+            "set_code": "DP05-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN151",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Power of the Duelist",
+            "set_code": "POTD-EN049",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Ra Yellow Mega Pack",
+            "set_code": "RYMP-EN039",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 15294090,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15294090.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15294090.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15294090.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.01",
+            "ebay_price": "2.95",
+            "amazon_price": "1.02",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 35464895,
+      "name": "Destiny Signal",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "When a monster you control is destroyed by battle and sent to the GY: Special Summon 1 Level 4 or lower \"Destiny HERO\" monster from your hand or Deck.",
+      "race": "Normal",
+      "archetype": "Destiny HERO",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/destiny-signal-3004",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN232",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "9.35"
+         },
+         {
+            "set_name": "Destiny Soldiers",
+            "set_code": "DESO-EN059",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Pack: Aster Phoenix",
+            "set_code": "DP05-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Enemy of Justice",
+            "set_code": "EOJ-EN052",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN148",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.18"
+         },
+         {
+            "set_name": "Legendary Hero Decks",
+            "set_code": "LEHD-ENA27",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.33"
+         },
+         {
+            "set_name": "Ra Yellow Mega Pack",
+            "set_code": "RYMP-EN038",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENB17",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 35464895,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35464895.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35464895.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35464895.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "2.95",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 62980542,
+      "name": "Destruction of Destiny",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Send 3 cards from the top of your Deck to the Graveyard, and take 1000 damage for each Spell or Trap Card sent to the Graveyard this way.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/destruction-of-destiny-5318",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN231",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.54"
+         },
+         {
+            "set_name": "Duelist Pack: Aster Phoenix",
+            "set_code": "DP05-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Enemy of Justice",
+            "set_code": "EOJ-EN051",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Enemy of Justice",
+            "set_code": "EOJ-EN051",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 62980542,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62980542.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62980542.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62980542.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "9.95",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 41436536,
+      "name": "Elemental HERO Phoenix Enforcer",
+      "typeline": [
+         "Warrior",
+         "Fusion",
+         "Effect"
+      ],
+      "type": "Fusion Monster",
+      "humanReadableCardType": "Fusion Effect Monster",
+      "frameType": "fusion",
+      "desc": "\"Elemental HERO Avian\" + \"Elemental HERO Burstinatrix\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. This card cannot be destroyed by battle.",
+      "race": "Warrior",
+      "atk": 2100,
+      "def": 1200,
+      "level": 6,
+      "attribute": "FIRE",
+      "archetype": "Elemental HERO",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/elemental-hero-phoenix-enforcer-3541",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN212",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "52"
+         },
+         {
+            "set_name": "Duelist Pack: Aster Phoenix",
+            "set_code": "DP05-EN012",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Enemy of Justice",
+            "set_code": "EOJ-EN032",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Enemy of Justice",
+            "set_code": "EOJ-EN032",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN138",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "9.21"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 41436536,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41436536.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41436536.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41436536.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "1.79",
+            "tcgplayer_price": "1.06",
+            "ebay_price": "4.69",
+            "amazon_price": "17.99",
+            "coolstuffinc_price": "1.99"
+         }
+      ]
+   },
+   {
+      "id": 88820235,
+      "name": "Elemental HERO Shining Phoenix Enforcer",
+      "typeline": [
+         "Warrior",
+         "Fusion",
+         "Effect"
+      ],
+      "type": "Fusion Monster",
+      "humanReadableCardType": "Fusion Effect Monster",
+      "frameType": "fusion",
+      "desc": "\"Elemental HERO Phoenix Enforcer\" + \"Elemental HERO Sparkman\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. This card gains 300 ATK for each \"Elemental HERO\" card in your Graveyard. This card cannot be destroyed by battle.",
+      "race": "Warrior",
+      "atk": 2500,
+      "def": 2100,
+      "level": 8,
+      "attribute": "FIRE",
+      "archetype": "Elemental HERO",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/elemental-hero-shining-phoenix-enforcer-7425",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN213",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "52.35"
+         },
+         {
+            "set_name": "Duelist Pack: Aster Phoenix",
+            "set_code": "DP05-EN013",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Enemy of Justice",
+            "set_code": "EOJ-EN033",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Enemy of Justice",
+            "set_code": "EOJ-EN033",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN139",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "8.4"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 88820235,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88820235.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88820235.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88820235.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "5.37",
+            "tcgplayer_price": "2.55",
+            "ebay_price": "734.99",
+            "amazon_price": "21.44",
+            "coolstuffinc_price": "2.99"
+         }
+      ]
+   },
+   {
+      "id": 36586443,
+      "name": "Elemental Recharge",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Gain 1000 Life Points for each face-up \"Elemental HERO\" monster you control.",
+      "race": "Normal",
+      "archetype": "Elemental HERO",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/elemental-recharge-3094",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN230",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.43"
+         },
+         {
+            "set_name": "Duelist Pack: Aster Phoenix",
+            "set_code": "DP05-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Enemy of Justice",
+            "set_code": "EOJ-EN050",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN115",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.17"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 36586443,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36586443.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36586443.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36586443.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "1.75",
+            "amazon_price": "1.01",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 35787450,
+      "name": "Eternal Dread",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Place 2 Clock Counters on each \"Clock Tower Prison\".",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/eternal-dread-3029",
+      "card_sets": [
+         {
+            "set_name": "Duelist Pack: Aster Phoenix",
+            "set_code": "DP05-EN030",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.12"
+         },
+         {
+            "set_name": "Legendary Hero Decks",
+            "set_code": "LEHD-ENA29",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.03"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 35787450,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35787450.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35787450.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35787450.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 48653261,
+      "name": "Guard Penalty",
+      "type": "Spell Card",
+      "humanReadableCardType": "Quick-Play Spell",
+      "frameType": "spell",
+      "desc": "Select 1 monster on the field. If it is changed to Defense Position this turn, draw 1 card.",
+      "race": "Quick-Play",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/guard-penalty-4154",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN225",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "6.41"
+         },
+         {
+            "set_name": "Duelist Pack: Aster Phoenix",
+            "set_code": "DP05-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Enemy of Justice",
+            "set_code": "EOJ-EN045",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Enemy of Justice",
+            "set_code": "EOJ-EN045",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 48653261,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48653261.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48653261.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48653261.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "0.49",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 1036974,
+      "name": "Misfortune",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Select 1 face-up monster your opponent controls. Inflict damage to your opponent equal to half that monster's original ATK. Your monsters cannot attack this turn.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/misfortune-94",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN217",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.74"
+         },
+         {
+            "set_name": "Duelist Pack: Aster Phoenix",
+            "set_code": "DP05-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Enemy of Justice",
+            "set_code": "EOJ-EN037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 1036974,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1036974.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1036974.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1036974.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.99",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 72204747,
+      "name": "Over Destiny",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Target 1 \"Destiny HERO\" monster in your GY; Special Summon 1 \"Destiny HERO\" monster from your Deck whose Level is less than or equal to half of that target's Level, but destroy it during the End Phase of this turn.",
+      "race": "Normal",
+      "archetype": "Destiny HERO",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/over-destiny-6058",
+      "card_sets": [
+         {
+            "set_name": "Destiny Soldiers",
+            "set_code": "DESO-EN015",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Pack: Aster Phoenix",
+            "set_code": "DP05-EN021",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.26"
+         },
+         {
+            "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "set_code": "LCGX-EN146",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Hero Decks",
+            "set_code": "LEHD-ENA18",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.02"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENB15",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 72204747,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72204747.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72204747.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72204747.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "2.95",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   }
+]
