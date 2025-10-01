@@ -1,0 +1,3526 @@
+[
+   {
+      "id": 67748760,
+      "name": "Absorouter Dragon",
+      "typeline": [
+         "Dragon",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If you control a \"Rokket\" monster, you can Special Summon this card (from your hand). You can only Special Summon \"Absorouter Dragon\" once per turn this way. If this card is sent to the GY: You can add 1 \"Rokket\" monster from your Deck to your hand. You can only use this effect of \"Absorouter Dragon\" once per turn.",
+      "race": "Dragon",
+      "atk": 1200,
+      "def": 2800,
+      "level": 7,
+      "attribute": "DARK",
+      "archetype": "Rokket",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/absorouter-dragon-10387",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN005",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.61"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 67748760,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67748760.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67748760.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67748760.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "1.18",
+            "tcgplayer_price": "0.86",
+            "ebay_price": "4.50",
+            "amazon_price": "2.00",
+            "coolstuffinc_price": "1.99"
+         }
+      ]
+   },
+   {
+      "id": 53266486,
+      "name": "Anesthrokket Dragon",
+      "typeline": [
+         "Dragon",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When a Link Monster's effect is activated that targets this face-up card on the field (Quick Effect): You can destroy this card, then make 1 face-up monster on the field unable to attack, also it has its effects negated. During the End Phase, if this card is in the GY because it was destroyed on the field by battle or card effect and sent there this turn: You can Special Summon 1 \"Rokket\" monster from your Deck, except \"Anesthrokket Dragon\". You can only use each effect of \"Anesthrokket Dragon\" once per turn.",
+      "race": "Dragon",
+      "atk": 0,
+      "def": 2200,
+      "level": 1,
+      "attribute": "DARK",
+      "archetype": "Rokket",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/anesthrokket-dragon-8763",
+      "card_sets": [
+         {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN110",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Circuit Break",
+            "set_code": "CIBR-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 53266486,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53266486.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53266486.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53266486.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 80250185,
+      "name": "Autorokket Dragon",
+      "typeline": [
+         "Dragon",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When a Link Monster's effect is activated that targets this face-up card on the field (Quick Effect): You can destroy this card, then send 1 Spell/Trap on the field to the GY. During the End Phase, if this card is in the GY because it was destroyed on the field by battle or card effect and sent there this turn: You can Special Summon 1 \"Rokket\" monster from your Deck, except \"Autorokket Dragon\". You can only use each effect of \"Autorokket Dragon\" once per turn.",
+      "race": "Dragon",
+      "atk": 1600,
+      "def": 1000,
+      "level": 3,
+      "attribute": "DARK",
+      "archetype": "Rokket",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/autorokket-dragon-8764",
+      "card_sets": [
+         {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN111",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Circuit Break",
+            "set_code": "CIBR-EN010",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 80250185,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80250185.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80250185.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80250185.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 84976088,
+      "name": "Background Dragon",
+      "typeline": [
+         "Dragon",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is in the GY and you control no cards: You can Special Summon both this card, and 1 Level 4 or lower Dragon monster from your hand, in Defense Position, but banish this card when it leaves the field. You can only use this effect of \"Background Dragon\" once per turn.",
+      "race": "Dragon",
+      "atk": 1600,
+      "def": 1800,
+      "level": 5,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/background-dragon-9172",
+      "card_sets": [
+         {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Flames of Destruction",
+            "set_code": "FLOD-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 84976088,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84976088.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84976088.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84976088.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 12023931,
+      "name": "Booster Dragon",
+      "typeline": [
+         "Dragon",
+         "Link",
+         "Effect"
+      ],
+      "type": "Link Monster",
+      "humanReadableCardType": "Link Effect Monster",
+      "frameType": "link",
+      "desc": "2 \"Rokket\" monsters\nOnce per turn: You can target 1 other face-up monster on the field; it gains 500 ATK/DEF. Your opponent cannot activate cards or effects in response to this effect's activation. If this Link Summoned card is destroyed by battle or card effect and sent to the GY: You can target 1 other Dragon monster in your GY; Special Summon it. You can only use this effect of \"Booster Dragon\" once per turn.",
+      "race": "Dragon",
+      "atk": 1900,
+      "def": null,
+      "level": 0,
+      "attribute": "DARK",
+      "archetype": "Rokket",
+      "linkval": 2,
+      "linkmarkers": [
+         "Bottom-Left",
+         "Bottom-Right"
+      ],
+      "ygoprodeck_url": "https://ygoprodeck.com/card/booster-dragon-9201",
+      "card_sets": [
+         {
+            "set_name": "Duel Power",
+            "set_code": "DUPO-EN025",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.59"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN046",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 12023931,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12023931.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12023931.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12023931.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 36668118,
+      "name": "Boot Sector Launch",
+      "type": "Spell Card",
+      "humanReadableCardType": "Field Spell",
+      "frameType": "spell",
+      "desc": "All \"Rokket\" monsters on the field gain 300 ATK/DEF.\nYou can activate 1 of these effects;\n● Special Summon up to 2 \"Rokket\" monsters with different names from your hand in Defense Position.\n● If your opponent controls more monsters than you do: Special Summon \"Rokket\" monsters with different names from your GY in Defense Position, up to the difference.\nYou can only use this effect of \"Boot Sector Launch\" once per turn.",
+      "race": "Field",
+      "archetype": "Rokket",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/boot-sector-launch-9013",
+      "card_sets": [
+         {
+            "set_name": "Extreme Force",
+            "set_code": "EXFO-EN053",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 36668118,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36668118.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36668118.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36668118.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.29",
+            "tcgplayer_price": "0.51",
+            "ebay_price": "3.00",
+            "amazon_price": "0.50",
+            "coolstuffinc_price": "0.99"
+         }
+      ]
+   },
+   {
+      "id": 6556178,
+      "name": "Borrel Regenerator",
+      "type": "Spell Card",
+      "humanReadableCardType": "Equip Spell",
+      "frameType": "spell",
+      "desc": "Activate this card by targeting 1 \"Rokket\" monster in your GY; Special Summon it and equip it with this card, but banish it when this card leaves the field. If this card is sent to the GY because the equipped monster is destroyed: You can draw 1 card. You can only use each effect of \"Borrel Regenerator\" once per turn.",
+      "race": "Equip",
+      "archetype": "Rokket",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/borrel-regenerator-9414",
+      "card_sets": [
+         {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN115",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Cybernetic Horizon",
+            "set_code": "CYHO-EN053",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 6556178,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6556178.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6556178.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6556178.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 30131474,
+      "name": "Borrel Supplier",
+      "type": "Spell Card",
+      "humanReadableCardType": "Continuous Spell",
+      "frameType": "spell",
+      "desc": "During each Standby Phase, if you control a \"Borrel\" Link Monster: You can target 1 \"Rokket\" monster in your GY; Special Summon it, but destroy it during the End Phase. You can only use this effect of \"Borrel Supplier\" once per turn.",
+      "race": "Continuous",
+      "archetype": "Borrel",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/borrel-supplier-10389",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.08"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 30131474,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30131474.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30131474.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30131474.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "0.99",
+            "amazon_price": "0.78",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 31833039,
+      "name": "Borreload Dragon",
+      "typeline": [
+         "Dragon",
+         "Link",
+         "Effect"
+      ],
+      "type": "Link Monster",
+      "humanReadableCardType": "Link Effect Monster",
+      "frameType": "link",
+      "desc": "3+ Effect Monsters\r\nNeither player can target this card with monster effects. Once per turn (Quick Effect): You can target 1 face-up monster on the field; it loses 500 ATK/DEF. Your opponent cannot activate cards or effects in response to this effect's activation. At the start of the Damage Step, if this card attacks an opponent's monster: You can place that opponent's monster in a zone this card points to and take control of it, but send it to the GY during the End Phase of the next turn.",
+      "race": "Dragon",
+      "atk": 3000,
+      "def": null,
+      "level": null,
+      "attribute": "DARK",
+      "archetype": "Borrel",
+      "linkval": 4,
+      "linkmarkers": [
+         "Left",
+         "Right",
+         "Bottom-Left",
+         "Bottom-Right"
+      ],
+      "ygoprodeck_url": "https://ygoprodeck.com/card/borreload-dragon-8725",
+      "card_sets": [
+         {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN131",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Circuit Break",
+            "set_code": "CIBR-EN042",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Power",
+            "set_code": "DUPO-EN074",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "5.28"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN044",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 31833039,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31833039.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31833039.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31833039.jpg"
+         },
+         {
+            "id": 31833038,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31833038.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31833038.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31833038.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.24",
+            "tcgplayer_price": "0.46",
+            "ebay_price": "1.39",
+            "amazon_price": "2.86",
+            "coolstuffinc_price": "2.99"
+         }
+      ]
+   },
+   {
+      "id": 92892239,
+      "name": "Borreload Furious Dragon",
+      "typeline": [
+         "Dragon",
+         "Fusion",
+         "Effect"
+      ],
+      "type": "Fusion Monster",
+      "humanReadableCardType": "Fusion Effect Monster",
+      "frameType": "fusion",
+      "desc": "2 DARK Dragon monsters\r\n(Quick Effect): You can target 1 monster you control and 1 card your opponent controls; destroy them. You can banish this card from your GY, then target 1 DARK Link Monster in your GY; Special Summon it, but it cannot activate its effects this turn. You can only use each effect of \"Borreload Furious Dragon\" once per turn.",
+      "race": "Dragon",
+      "atk": 3000,
+      "def": 2500,
+      "level": 8,
+      "attribute": "DARK",
+      "archetype": "Borrel",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/borreload-furious-dragon-10321",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN042",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.49"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 92892239,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92892239.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92892239.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92892239.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "3.89",
+            "ebay_price": "3.45",
+            "amazon_price": "0.50",
+            "coolstuffinc_price": "0.99"
+         }
+      ]
+   },
+   {
+      "id": 94136469,
+      "name": "Checksum Dragon",
+      "typeline": [
+         "Dragon",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When an opponent's monster declares an attack: You can Special Summon this card from your hand, then, gain LP equal to half this card's DEF. This Attack Position card cannot be destroyed by battle.",
+      "race": "Dragon",
+      "atk": 400,
+      "def": 2400,
+      "level": 6,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/checksum-dragon-10388",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN006",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.1"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 94136469,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94136469.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94136469.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94136469.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.74",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 58582979,
+      "name": "Defrag Dragon",
+      "typeline": [
+         "Dragon",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can Special Summon this card (from your hand) by sending 1 other monster from your hand to the GY. You can only Special Summon \"Defrag Dragon\" once per turn this way. If this card is in the GY: You can banish 3 monsters from your GY with the same name, except \"Defrag Dragon\"; Special Summon this card. You can only use this effect of \"Defrag Dragon\" once per turn.",
+      "race": "Dragon",
+      "atk": 1000,
+      "def": 600,
+      "level": 3,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/defrag-dragon-9194",
+      "card_sets": [
+         {
+            "set_name": "Flames of Destruction",
+            "set_code": "FLOD-EN011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 58582979,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58582979.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58582979.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58582979.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 87835759,
+      "name": "Dragon Knight of Creation",
+      "typeline": [
+         "Dragon",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Increase this card's Level by 4 during your opponent's turn only. When this card destroys an opponent's monster by battle and sends it to the GY: You can send 1 Level 7 or 8 Dragon monster from your Deck to the GY. You can send 1 card from your hand to the GY, then target 1 Level 7 or 8 Dragon monster in your GY; send this card to the GY, and if you do, Special Summon that monster. You can only use this effect of \"Dragon Knight of Creation\" once per turn.",
+      "race": "Dragon",
+      "atk": 1800,
+      "def": 600,
+      "level": 4,
+      "attribute": "LIGHT",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dragon-knight-of-creation-7348",
+      "card_sets": [
+         {
+            "set_name": "Rise of the True Dragons Structure Deck",
+            "set_code": "SR02-EN002",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 87835759,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87835759.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87835759.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87835759.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "0.99",
+            "amazon_price": "0.83",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 41620959,
+      "name": "Dragon Shrine",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Send 1 Dragon monster from your Deck to the GY, then, if that monster in your GY is a Dragon Normal Monster, you can send 1 more Dragon monster from your Deck to the GY. You can only activate 1 \"Dragon Shrine\" per turn.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dragon-shrine-3559",
+      "card_sets": [
+         {
+            "set_name": "Duelist Pack: Rivals of the Pharaoh",
+            "set_code": "DPRP-EN029",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection Kaiba Mega Pack",
+            "set_code": "LCKC-EN075",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Season 2",
+            "set_code": "LDS2-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.19"
+         },
+         {
+            "set_name": "Legendary Duelists: White Dragon Abyss",
+            "set_code": "LED3-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 6",
+            "set_code": "OP06-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Saga of Blue-Eyes White Dragon Structure Deck",
+            "set_code": "SDBE-EN019",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.3"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 41620959,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41620959.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41620959.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41620959.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "3.95",
+            "amazon_price": "9.44",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 20419926,
+      "name": "Execute Protocols",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "During each Battle Phase: You can banish 1 DARK Link Monster from your GY, then target 1 \"Borrel\" monster you control; until the end of this turn, it gains ATK equal to the ATK of the monster banished to activate this effect. You can only use this effect of \"Execute Protocols\" once per turn.",
+      "race": "Continuous",
+      "archetype": "Borrel",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/execute-protocols-10391",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 20419926,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20419926.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20419926.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20419926.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 31353051,
+      "name": "Exploderokket Dragon",
+      "typeline": [
+         "Dragon",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When a Link Monster's effect is activated that targets this face-up card on the field (Quick Effect): You can destroy this card, then each player takes 2000 damage. During the End Phase, if this card is in the GY because it was destroyed on the field by battle or card effect and sent there this turn: You can Special Summon 1 \"Rokket\" monster from your Deck, except \"Exploderokket Dragon\". You can only use each effect of \"Exploderokket Dragon\" once per turn.",
+      "race": "Dragon",
+      "atk": 2000,
+      "def": 2000,
+      "level": 7,
+      "attribute": "DARK",
+      "archetype": "Rokket",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/exploderokket-dragon-10386",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.16"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 31353051,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31353051.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31353051.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31353051.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.25",
+            "ebay_price": "0.99",
+            "amazon_price": "0.72",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 91482773,
+      "name": "Gateway Dragon",
+      "typeline": [
+         "Dragon",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If your opponent controls a Link Monster, you can Special Summon this card (from your hand). You can only Special Summon \"Gateway Dragon\" once per turn this way. Once per turn: You can Special Summon 1 Level 4 or lower DARK Dragon monster from your hand.",
+      "race": "Dragon",
+      "atk": 1600,
+      "def": 1400,
+      "level": 4,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/gateway-dragon-8830",
+      "card_sets": [
+         {
+            "set_name": "Circuit Break",
+            "set_code": "CIBR-EN007",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Star Pack VRAINS",
+            "set_code": "SP18-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Star Pack VRAINS",
+            "set_code": "SP18-EN025",
+            "set_rarity": "Starfoil",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Star Pack VRAINS",
+            "set_code": "SP18-EN025",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "1.28"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 91482773,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91482773.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91482773.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91482773.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.50",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 61740673,
+      "name": "Imperial Order",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "Negate all Spell effects on the field. Once per turn, during the Standby Phase, you must pay 700 LP (this is not optional), or this card is destroyed.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/imperial-order-5227",
+      "card_sets": [
+         {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB1-EN086",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Saga",
+            "set_code": "DUSA-EN049",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "4.83"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN178",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 9",
+            "set_code": "OP09-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 9 (POR)",
+            "set_code": "OP09-PT023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-104",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "17.84"
+         },
+         {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-E104",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "43.17"
+         },
+         {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-EN104",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN106",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN106",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN040",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "banlist_info": {
+         "ban_tcg": "Forbidden",
+         "ban_ocg": "Forbidden",
+         "ban_goat": "Forbidden"
+      },
+      "card_images": [
+         {
+            "id": 61740673,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61740673.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61740673.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61740673.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.32",
+            "tcgplayer_price": "0.27",
+            "ebay_price": "3.75",
+            "amazon_price": "1.18",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   },
+   {
+      "id": 66752837,
+      "name": "Keeper of the Shrine",
+      "typeline": [
+         "Dragon",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "This card can be treated as 2 Tributes for the Tribute Summon of a Dragon monster. While this card is in your hand or GY, if a face-up Dragon monster on the field, except \"Keeper of the Shrine\", is sent to the GY by a card effect or because it was destroyed by battle: You can Special Summon this card, then, if that monster sent to the GY is a Normal Monster, you can add 1 Dragon Normal Monster from your GY to your hand. You can only use this effect of \"Keeper of the Shrine\" once per turn.",
+      "race": "Dragon",
+      "atk": 0,
+      "def": 2100,
+      "level": 4,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/keeper-of-the-shrine-5607",
+      "card_sets": [
+         {
+            "set_name": "2016 Mega-Tin Mega Pack",
+            "set_code": "MP16-EN064",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Clash of Rebellions",
+            "set_code": "CORE-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Decks II",
+            "set_code": "LDK2-ENJ22",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.4"
+         },
+         {
+            "set_name": "Rise of the True Dragons Structure Deck",
+            "set_code": "SR02-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Seto Kaiba",
+            "set_code": "SDKS-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.22"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 66752837,
+            "image_url": "https://images.ygoprodeck.com/images/cards/66752837.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66752837.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66752837.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "0.72",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 62514770,
+      "name": "Labradorite Dragon",
+      "typeline": [
+         "Dragon",
+         "Tuner",
+         "Normal"
+      ],
+      "type": "Normal Tuner Monster",
+      "humanReadableCardType": "Tuner Normal Monster",
+      "frameType": "normal",
+      "desc": "The ancients compared this prized creature to moonlight rippling across water. A bringer of harmony, reminder of past glories, able to soothe the hearts of even the most ambitious men.",
+      "race": "Dragon",
+      "atk": 0,
+      "def": 2400,
+      "level": 6,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/labradorite-dragon-5286",
+      "card_sets": [
+         {
+            "set_name": "Shadow Specters",
+            "set_code": "SHSP-EN001",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 62514770,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62514770.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62514770.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62514770.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.28",
+            "tcgplayer_price": "0.46",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 55034079,
+      "name": "Link Turret",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "When this card is activated: Place 4 counters on this card. Each time you take battle damage, place 1 counter on this card. During your Main Phase 2: You can remove 1 counter from this card, then target 1 \"Rokket\" monster in your GY; Special Summon it, but its effects are negated, also it is banished when it leaves the field. You cannot Special Summon monsters from your Extra Deck, except DARK Link Monsters, the turn you activate this effect (even if this card leaves the field).",
+      "race": "Continuous",
+      "archetype": "Rokket",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/link-turret-9413",
+      "card_sets": [
+         {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN127",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Cybernetic Horizon",
+            "set_code": "CYHO-EN070",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 55034079,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55034079.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55034079.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55034079.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 62279055,
+      "name": "Magic Cylinder",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "When an opponent's monster declares an attack: Target the attacking monster; negate the attack, and if you do, inflict damage to your opponent equal to its ATK.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/magic-cylinder-5267",
+      "card_sets": [
+         {
+            "set_name": "2-Player Starter Deck: Yuya & Declan",
+            "set_code": "YS15-END17",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "5.07"
+         },
+         {
+            "set_name": "2-Player Starter Set",
+            "set_code": "STAS-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN091",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN091",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Legion Starter Deck",
+            "set_code": "YS15-ENL23",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "1.84"
+         },
+         {
+            "set_name": "Duelist League 3 participation cards",
+            "set_code": "DL12-EN019",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "8.98"
+         },
+         {
+            "set_name": "Invasion of Chaos: Special Edition",
+            "set_code": "IOC-SE2",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "8.78"
+         },
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-104",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "23.56"
+         },
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-E104",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "29.49"
+         },
+         {
+            "set_name": "Labyrinth of Nightmare",
+            "set_code": "LON-EN104",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "15.5"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN099",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Decks II",
+            "set_code": "LDK2-ENY37",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.8"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN115",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN115",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Retro Pack 2",
+            "set_code": "RP02-EN050",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Saber Force Starter Deck",
+            "set_code": "YS15-ENF22",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "3.46"
+         },
+         {
+            "set_name": "Space-Time Showdown Power-Up Pack",
+            "set_code": "YS14-ENA14",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Spellcaster's Command Structure Deck",
+            "set_code": "SDSC-EN038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.56"
+         },
+         {
+            "set_name": "Starter Deck 2006",
+            "set_code": "YSD-EN040",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Jaden Yuki",
+            "set_code": "YSDJ-EN040",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2"
+         },
+         {
+            "set_name": "Starter Deck: Syrus Truesdale",
+            "set_code": "YSDS-EN038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.79"
+         },
+         {
+            "set_name": "Starter Deck: Xyz Symphony",
+            "set_code": "YS12-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.67"
+         },
+         {
+            "set_name": "Starter Deck: Yugi Reloaded",
+            "set_code": "YSYR-EN043",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.88"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN039",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Spellcaster's Judgment",
+            "set_code": "SD6-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.35"
+         },
+         {
+            "set_name": "Structure Deck: Yugi Muto",
+            "set_code": "SDMY-EN038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Super Starter Power-Up Pack",
+            "set_code": "YS13-ENV15",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Infinity Chasers",
+            "set_code": "INCH-EN060",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.67"
+         },
+         {
+            "set_name": "Yugi's Legendary Decks",
+            "set_code": "YGLD-ENB35",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.5"
+         }
+      ],
+      "banlist_info": {
+         "ban_goat": "Limited"
+      },
+      "card_images": [
+         {
+            "id": 62279055,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62279055.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62279055.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62279055.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.28",
+            "ebay_price": "2.50",
+            "amazon_price": "3.42",
+            "coolstuffinc_price": "0.99"
+         }
+      ]
+   },
+   {
+      "id": 26655293,
+      "name": "Magnarokket Dragon",
+      "typeline": [
+         "Dragon",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When a Link Monster's effect is activated that targets this face-up card on the field (Quick Effect): You can destroy this card, then send 1 monster on the field to the GY. During the End Phase, if this card is in the GY because it was destroyed on the field by battle or card effect and sent there this turn: You can Special Summon 1 \"Rokket\" monster from your Deck, except \"Magnarokket Dragon\". You can only use each effect of \"Magnarokket Dragon\" once per turn.",
+      "race": "Dragon",
+      "atk": 1800,
+      "def": 1200,
+      "level": 4,
+      "attribute": "DARK",
+      "archetype": "Rokket",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/magnarokket-dragon-8832",
+      "card_sets": [
+         {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN112",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Circuit Break",
+            "set_code": "CIBR-EN011",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 26655293,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26655293.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26655293.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26655293.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "1.38",
+            "amazon_price": "0.76",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 32472237,
+      "name": "Metalrokket Dragon",
+      "typeline": [
+         "Dragon",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When a Link Monster's effect is activated that targets this face-up card on the field (Quick Effect): You can destroy this card, then destroy all your opponent's cards in the column this card was in. During the End Phase, if this card is in the GY because it was destroyed on the field by battle or card effect and sent there this turn: You can Special Summon 1 \"Rokket\" monster from your Deck, except \"Metalrokket Dragon\". You can only use each effect of \"Metalrokket Dragon\" once per turn.",
+      "race": "Dragon",
+      "atk": 1700,
+      "def": 1400,
+      "level": 4,
+      "attribute": "DARK",
+      "archetype": "Rokket",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/metalrokket-dragon-9033",
+      "card_sets": [
+         {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN176",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Extreme Force",
+            "set_code": "EXFO-EN008",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 32472237,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32472237.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32472237.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32472237.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.50",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 44095762,
+      "name": "Mirror Force",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "When an opponent's monster declares an attack: Destroy all your opponent's Attack Position monsters.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/mirror-force-3764",
+      "card_sets": [
+         {
+            "set_name": "2-Player Starter Deck: Yuya & Declan",
+            "set_code": "YS15-END16",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "5.66"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN048",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN048",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB2-EN081",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Legion Starter Deck",
+            "set_code": "YS15-ENL22",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "2.04"
+         },
+         {
+            "set_name": "Dark Saviors",
+            "set_code": "DASA-EN059",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.92"
+         },
+         {
+            "set_name": "Demo Deck 2016",
+            "set_code": "DEM3-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Dragunity Legion Structure Deck",
+            "set_code": "SDDL-EN035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist League 15 participation cards",
+            "set_code": "DL15-EN018",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "13.9"
+         },
+         {
+            "set_name": "Duelist Pack: Yugi",
+            "set_code": "DPYG-EN027",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "12.09"
+         },
+         {
+            "set_name": "Duelist Saga",
+            "set_code": "DUSA-EN048",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.94"
+         },
+         {
+            "set_name": "Egyptian God Deck: Slifer the Sky Dragon",
+            "set_code": "EGS1-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.89"
+         },
+         {
+            "set_name": "Gold Series",
+            "set_code": "GLD1-EN039",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN091",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN130",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection Kaiba Mega Pack",
+            "set_code": "LCKC-EN053",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Decks II",
+            "set_code": "LDK2-ENY35",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.82"
+         },
+         {
+            "set_name": "Legendary Dragon Decks",
+            "set_code": "LEDD-ENA32",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.8"
+         },
+         {
+            "set_name": "Magnificent Mavens",
+            "set_code": "MAMA-EN115",
+            "set_rarity": "Ultra Rare (Pharaoh's Rare)",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-138",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "15.47"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-E138",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "19.79"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-EN138",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "32.13"
+         },
+         {
+            "set_name": "Premium Gold",
+            "set_code": "PGLD-EN059",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "3.61"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN093",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN093",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Saber Force Starter Deck",
+            "set_code": "YS15-ENF21",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "2.17"
+         },
+         {
+            "set_name": "Space-Time Showdown Power-Up Pack",
+            "set_code": "YS14-ENA12",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Codebreaker",
+            "set_code": "YS18-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Dawn of the Xyz",
+            "set_code": "YS11-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Link Strike",
+            "set_code": "YS17-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Yugi Reloaded",
+            "set_code": "YSYR-EN040",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.97"
+         },
+         {
+            "set_name": "Structure Deck: Marik (TCG)",
+            "set_code": "SDMA-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.87"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Yugi Muto",
+            "set_code": "SDMY-EN037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Super Starter Power-Up Pack",
+            "set_code": "YS13-ENV14",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Yugi's Legendary Decks",
+            "set_code": "YGLD-ENA37",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.51"
+         },
+         {
+            "set_name": "Yugi's Legendary Decks",
+            "set_code": "YGLD-ENB33",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Yugi's Legendary Decks",
+            "set_code": "YGLD-ENC36",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.61"
+         }
+      ],
+      "banlist_info": {
+         "ban_goat": "Limited"
+      },
+      "card_images": [
+         {
+            "id": 44095762,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44095762.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44095762.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44095762.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.35",
+            "ebay_price": "4.99",
+            "amazon_price": "3.07",
+            "coolstuffinc_price": "0.99"
+         }
+      ]
+   },
+   {
+      "id": 29649320,
+      "name": "Mirror Force Launcher",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "Once per turn, during your Main Phase: You can discard 1 monster; add 1 \"Mirror Force\" from your Deck or GY to your hand. If this Set card is destroyed by your opponent's card effect and sent to your GY: You can Set this card from your GY and 1 \"Mirror Force\" from your hand, Deck, or GY. They can be activated this turn.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/mirror-force-launcher-9376",
+      "card_sets": [
+         {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN126",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Cybernetic Horizon",
+            "set_code": "CYHO-EN069",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 29649320,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29649320.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29649320.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29649320.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 6075801,
+      "name": "Paladin of Felgrand",
+      "typeline": [
+         "Warrior",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is Normal or Special Summoned: You can equip 1 Level 7 or 8 Dragon monster from your hand or Deck to this card. This card is unaffected by other monsters' effects, while equipped with an Equip Card. You can Tribute 1 monster and this card, then target 1 Level 7 or 8 Dragon monster in your GY; Special Summon it.",
+      "race": "Warrior",
+      "atk": 1700,
+      "def": 300,
+      "level": 4,
+      "attribute": "LIGHT",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/paladin-of-felgrand-530",
+      "card_sets": [
+         {
+            "set_name": "OTS Tournament Pack 3",
+            "set_code": "OP03-EN007",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Rise of the True Dragons Structure Deck",
+            "set_code": "SR02-EN003",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 6075801,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6075801.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6075801.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6075801.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "0.72",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 24094653,
+      "name": "Polymerization",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/polymerization-2077",
+      "card_sets": [
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN047",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN047",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN047",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN047",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN047",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN047",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN047",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Ultimate Kaiba Set",
+            "set_code": "KC01-EN038",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Advanced Demo Deck Extra Pack",
+            "set_code": "DEM4-EN001",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB1-EN119",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Legends",
+            "set_code": "DLG1-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.35"
+         },
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN043",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Pack: Jaden Yuki",
+            "set_code": "DP1-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Pack: Kaiba",
+            "set_code": "DPKB-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Pack: Yugi",
+            "set_code": "DPYG-EN020",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Fusion Enforcers",
+            "set_code": "FUEN-EN049",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "HERO Strike Structure Deck",
+            "set_code": "SDHS-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN014",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-059",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "11.35"
+         },
+         {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-E047",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "24.78"
+         },
+         {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-EN059",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "8.38"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN056",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN059",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection Kaiba Mega Pack",
+            "set_code": "LCKC-EN026",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Decks II",
+            "set_code": "LDK2-ENJ26",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.04"
+         },
+         {
+            "set_name": "Legendary Decks II",
+            "set_code": "LDK2-ENK22",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.17"
+         },
+         {
+            "set_name": "Legendary Hero Decks",
+            "set_code": "LEHD-ENA22",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.31"
+         },
+         {
+            "set_name": "Master of Pendulum Structure Deck",
+            "set_code": "SDMP-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.97"
+         },
+         {
+            "set_name": "Maximum Gold",
+            "set_code": "MAGO-EN044",
+            "set_rarity": "Premium Gold Rare",
+            "set_rarity_code": "(PG)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN051",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN051",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN051",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN051",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN051",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN051",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN051",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Retro Pack",
+            "set_code": "RP01-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.92"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENA12",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENA12",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENB10",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENC12",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENG11",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Midterm Paradox",
+            "set_code": "SGX2-ENA12",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Duelists of Tomorrow",
+            "set_code": "SS02-ENB11",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.98"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Match of the Millennium",
+            "set_code": "SS04-ENA18",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Match of the Millennium",
+            "set_code": "SS04-ENB22",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.73"
+         },
+         {
+            "set_name": "Speed Duel: Battle City Box",
+            "set_code": "SBCB-EN011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.03"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENB13",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENH15",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Star Pack ARC-V",
+            "set_code": "SP15-EN038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Star Pack ARC-V",
+            "set_code": "SP15-EN038",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Joey",
+            "set_code": "SDJ-036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.99"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Yugi Muto",
+            "set_code": "SDMY-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Yugi's Legendary Decks",
+            "set_code": "YGLD-ENA35",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.84"
+         },
+         {
+            "set_name": "Yugi's Legendary Decks",
+            "set_code": "YGLD-ENB30",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.66"
+         },
+         {
+            "set_name": "Yugi's Legendary Decks",
+            "set_code": "YGLD-ENC28",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.69"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 24094653,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24094653.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24094653.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24094653.jpg"
+         },
+         {
+            "id": 27847700,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27847700.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27847700.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27847700.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "1.27",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 29296344,
+      "name": "Quadborrel Dragon",
+      "typeline": [
+         "Dragon",
+         "Link",
+         "Effect"
+      ],
+      "type": "Link Monster",
+      "humanReadableCardType": "Link Effect Monster",
+      "frameType": "link",
+      "desc": "2 Dragon monsters, including a \"Rokket\" monster\r\nYou can discard 1 card, then target 1 face-up monster on the field; you cannot Special Summon Link-2 or lower monsters from the Extra Deck for the rest of the turn, also destroy the targeted monster, then, if it was a Link Monster, you can Special Summon any number of \"Rokket\" monsters with different names, from your hand or GY, up to its Link Rating. You can only use this effect of \"Quadborrel Dragon\" once per turn.",
+      "race": "Dragon",
+      "atk": 1000,
+      "def": null,
+      "level": null,
+      "attribute": "DARK",
+      "archetype": "Borrel",
+      "linkval": 2,
+      "linkmarkers": [
+         "Left",
+         "Bottom"
+      ],
+      "ygoprodeck_url": "https://ygoprodeck.com/card/quadborrel-dragon-10320",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN043",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.76"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 29296344,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29296344.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29296344.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29296344.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.44",
+            "tcgplayer_price": "0.25",
+            "ebay_price": "1.84",
+            "amazon_price": "0.78",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 31443476,
+      "name": "Quick Launch",
+      "type": "Spell Card",
+      "humanReadableCardType": "Quick-Play Spell",
+      "frameType": "spell",
+      "desc": "Special Summon 1 \"Rokket\" monster from your Deck, but it cannot attack, also destroy it during the End Phase.",
+      "race": "Quick-Play",
+      "archetype": "Rokket",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/quick-launch-8842",
+      "card_sets": [
+         {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN139",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Chapter 1",
+            "set_code": "BLC1-EN042",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Circuit Break",
+            "set_code": "CIBR-EN056",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 31443476,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31443476.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31443476.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31443476.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.45",
+            "tcgplayer_price": "0.55",
+            "ebay_price": "6.79",
+            "amazon_price": "3.11",
+            "coolstuffinc_price": "2.99"
+         }
+      ]
+   },
+   {
+      "id": 77558536,
+      "name": "Raiden, Hand of the Lightsworn",
+      "typeline": [
+         "Warrior",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "During your Main Phase: You can send the top 2 cards of your Deck to the GY, then if any \"Lightsworn\" monsters were sent to the GY by this effect, this card gains 200 ATK until the end of your opponent's turn. You can only use this effect of \"Raiden, Hand of the Lightsworn\" once per turn. Once per turn, during your End Phase: Send the top 2 cards of your Deck to the GY.",
+      "race": "Warrior",
+      "atk": 1700,
+      "def": 1000,
+      "level": 4,
+      "attribute": "LIGHT",
+      "archetype": "Lightsworn",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/raiden-hand-of-the-lightsworn-6522",
+      "card_sets": [
+         {
+            "set_name": "Battles of Legend: Chapter 1",
+            "set_code": "BLC1-EN060",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Light's Revenge",
+            "set_code": "BLLR-EN042",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Realm of Light Structure Deck",
+            "set_code": "SDLI-EN003",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.47"
+         },
+         {
+            "set_name": "Rise of the True Dragons Structure Deck",
+            "set_code": "SR02-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 77558536,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77558536.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77558536.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77558536.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "1.33",
+            "amazon_price": "0.78",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 67526112,
+      "name": "Rapid Trigger",
+      "type": "Spell Card",
+      "humanReadableCardType": "Quick-Play Spell",
+      "frameType": "spell",
+      "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, by destroying Fusion Materials listed on it from your field, but it can only attack monsters Special Summoned from the Extra Deck, also it is unaffected by activated effects from any other monster Special Summoned from the Extra Deck. You can only activate 1 \"Rapid Trigger\" per turn.",
+      "race": "Quick-Play",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/rapid-trigger-10319",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.48"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 67526112,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67526112.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67526112.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67526112.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.37",
+            "ebay_price": "0.99",
+            "amazon_price": "1.03",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   },
+   {
+      "id": 23002292,
+      "name": "Red Reboot",
+      "type": "Trap Card",
+      "humanReadableCardType": "Counter Trap",
+      "frameType": "trap",
+      "desc": "When your opponent activates a Trap Card: Negate the activation, and if you do, Set that card face-down, then they can Set 1 other Trap directly from their Deck. For the rest of this turn after this card resolves, your opponent cannot activate Trap Cards. You can activate this card from your hand by paying half your LP.",
+      "race": "Counter",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/red-reboot-9171",
+      "card_sets": [
+         {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN046",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Devastator",
+            "set_code": "DUDE-EN056",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.13"
+         },
+         {
+            "set_name": "Flames of Destruction",
+            "set_code": "FLOD-EN068",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 19",
+            "set_code": "OP19-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.17"
+         },
+         {
+            "set_name": "OTS Tournament Pack 19 (POR)",
+            "set_code": "OP19-PT027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "banlist_info": {
+         "ban_tcg": "Forbidden",
+         "ban_ocg": "Limited"
+      },
+      "card_images": [
+         {
+            "id": 23002292,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23002292.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23002292.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23002292.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "1.40",
+            "amazon_price": "1.03",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 6853254,
+      "name": "Return of the Dragon Lords",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Target 1 Level 7 or 8 Dragon monster in your GY; Special Summon it. If a Dragon monster(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/return-of-the-dragon-lords-592",
+      "card_sets": [
+         {
+            "set_name": "Legendary Collection Kaiba Mega Pack",
+            "set_code": "LCKC-EN074",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN060",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN060",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN060",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN060",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN060",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN060",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN060",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Rise of the True Dragons Structure Deck",
+            "set_code": "SR02-EN025",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 6853254,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6853254.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6853254.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6853254.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.29",
+            "tcgplayer_price": "0.29",
+            "ebay_price": "3.95",
+            "amazon_price": "6.98",
+            "coolstuffinc_price": "4.99"
+         }
+      ]
+   },
+   {
+      "id": 5969957,
+      "name": "Rokket Recharger",
+      "typeline": [
+         "Dragon",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If a DARK monster(s) you control that was Special Summoned from the Extra Deck is destroyed by battle or card effect: You can send this card from your hand or field to the GY, then target 1 of those destroyed monsters; Special Summon 1 DARK monster from your GY with a different original name from that targeted monster. You can only use this effect of \"Rokket Recharger\" once per turn. While you control a DARK monster Special Summoned from the Extra Deck, your opponent's monsters cannot target this card for attacks.",
+      "race": "Dragon",
+      "atk": 0,
+      "def": 2100,
+      "level": 4,
+      "attribute": "DARK",
+      "archetype": "Rokket",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/rokket-recharger-10380",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN003",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.46"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 5969957,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5969957.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5969957.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5969957.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "1.27",
+            "tcgplayer_price": "1.35",
+            "ebay_price": "3.55",
+            "amazon_price": "2.61",
+            "coolstuffinc_price": "2.99"
+         }
+      ]
+   },
+   {
+      "id": 48355999,
+      "name": "Rokket Synchron",
+      "typeline": [
+         "Dragon",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card is Normal Summoned: You can target 1 Level 5 or higher DARK Dragon monster in your GY; Special Summon it in Defense Position, negate its effects, destroy it during the End Phase, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except DARK monsters.",
+      "race": "Dragon",
+      "atk": 0,
+      "def": 0,
+      "level": 1,
+      "attribute": "DARK",
+      "archetype": "Rokket",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/rokket-synchron-9809",
+      "card_sets": [
+         {
+            "set_name": "2020 Tin of Lost Memories Mega Pack",
+            "set_code": "MP20-EN006",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.16"
+         },
+         {
+            "set_name": "Savage Strike",
+            "set_code": "SAST-EN007",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 48355999,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48355999.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48355999.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48355999.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.78",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 68464358,
+      "name": "Rokket Tracer",
+      "typeline": [
+         "Dragon",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "(Quick Effect): You can target 1 face-up card you control; destroy it, and if you do, Special Summon 1 \"Rokket\" monster from your Deck, except \"Rokket Tracer\", also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except DARK monsters. You can only use this effect of \"Rokket Tracer\" once per turn.",
+      "race": "Dragon",
+      "atk": 1600,
+      "def": 1000,
+      "level": 4,
+      "attribute": "DARK",
+      "archetype": "Rokket",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/rokket-tracer-10372",
+      "card_sets": [
+         {
+            "set_name": "Maximum Gold: El Dorado",
+            "set_code": "MGED-EN020",
+            "set_rarity": "Premium Gold Rare",
+            "set_rarity_code": "(PG)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN002",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.76"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 68464358,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68464358.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68464358.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68464358.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.30",
+            "ebay_price": "1.10",
+            "amazon_price": "0.46",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   },
+   {
+      "id": 69868555,
+      "name": "Ruins of the Divine Dragon Lords",
+      "type": "Spell Card",
+      "humanReadableCardType": "Continuous Spell",
+      "frameType": "spell",
+      "desc": "If a monster(s) is Special Summoned, except from the GY while you control a Level 7 or 8 Dragon monster: Negate that face-up Special Summoned monster(s)'s effects until the end of this turn (even if this card leaves the field). Once per turn: You can send 1 other face-up card you control to the GY; Special Summon 1 \"Dragon Lord Token\" (Dragon/LIGHT/Level 1/ATK 0/DEF 0). If this card is in your GY: You can send 1 Level 7 or 8 Dragon monster from your hand or face-up field to the GY; add this card to your hand.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/ruins-of-the-divine-dragon-lords-5874",
+      "card_sets": [
+         {
+            "set_name": "Rise of the True Dragons Structure Deck",
+            "set_code": "SR02-EN024",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 69868555,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69868555.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69868555.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69868555.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "0.99",
+            "amazon_price": "0.78",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 5087128,
+      "name": "Shelrokket Dragon",
+      "typeline": [
+         "Dragon",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When a Link Monster's effect is activated that targets this face-up card on the field (Quick Effect): You can destroy this card, then destroy 1 monster in the column this card was in, and if you do, destroy any monsters in that card's adjacent zones. During the End Phase, if this card is in the GY because it was destroyed on the field by battle or card effect and sent there this turn: You can Special Summon 1 \"Rokket\" monster from your Deck, except \"Shelrokket Dragon\". You can only use each effect of \"Shelrokket Dragon\" once per turn.",
+      "race": "Dragon",
+      "atk": 1100,
+      "def": 2000,
+      "level": 2,
+      "attribute": "DARK",
+      "archetype": "Rokket",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/shelrokket-dragon-8967",
+      "card_sets": [
+         {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN175",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Extreme Force",
+            "set_code": "EXFO-EN007",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 5087128,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5087128.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5087128.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5087128.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.50",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 32476603,
+      "name": "Silverrokket Dragon",
+      "typeline": [
+         "Dragon",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When a Link Monster's effect is activated that targets this face-up card on the field (Quick Effect): You can destroy this card, then look at your opponent's Extra Deck and banish 1 card from it. During the End Phase, if this card is in the GY because it was destroyed on the field by battle or card effect and sent there this turn: You can Special Summon 1 \"Rokket\" monster from your Deck, except \"Silverrokket Dragon\". You can only use each effect of \"Silverrokket Dragon\" once per turn.",
+      "race": "Dragon",
+      "atk": 1900,
+      "def": 100,
+      "level": 4,
+      "attribute": "DARK",
+      "archetype": "Rokket",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/silverrokket-dragon-10355",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN001",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.69"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 32476603,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32476603.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32476603.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32476603.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.36",
+            "tcgplayer_price": "0.29",
+            "ebay_price": "1.95",
+            "amazon_price": "0.50",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   },
+   {
+      "id": 54458867,
+      "name": "Squib Draw",
+      "type": "Spell Card",
+      "humanReadableCardType": "Quick-Play Spell",
+      "frameType": "spell",
+      "desc": "Target 1 \"Rokket\" monster you control; destroy it, and if you do, draw 2 cards. You can only activate 1 \"Squib Draw\" per turn.",
+      "race": "Quick-Play",
+      "archetype": "Rokket",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/squib-draw-8840",
+      "card_sets": [
+         {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN138",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Circuit Break",
+            "set_code": "CIBR-EN055",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 54458867,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54458867.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54458867.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54458867.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "0.99",
+            "amazon_price": "0.78",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 66403530,
+      "name": "Topologic Zeroboros",
+      "typeline": [
+         "Cyberse",
+         "Link",
+         "Effect"
+      ],
+      "type": "Link Monster",
+      "humanReadableCardType": "Link Effect Monster",
+      "frameType": "link",
+      "desc": "2+ Effect Monsters\r\nYou cannot Summon/Set monsters to any Extra Monster Zone this card points to. Gains 200 ATK for each banished card. If another monster is Special Summoned to a zone a Link Monster points to, while this monster is on the field: Banish all cards on the field. Once per turn, during the Standby Phase of the next turn after this card was banished by its own effect: Special Summon this banished card.",
+      "race": "Cyberse",
+      "atk": 3000,
+      "def": null,
+      "level": null,
+      "attribute": "DARK",
+      "linkval": 4,
+      "linkmarkers": [
+         "Top-Left",
+         "Top-Right",
+         "Bottom-Left",
+         "Bottom-Right"
+      ],
+      "ygoprodeck_url": "https://ygoprodeck.com/card/topologic-zeroboros-10318",
+      "card_sets": [
+         {
+            "set_name": "Battles of Legend: Armageddon",
+            "set_code": "BLAR-EN091",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Crossover Breakers",
+            "set_code": "CRBR-EN027",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN041",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.21"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 66403530,
+            "image_url": "https://images.ygoprodeck.com/images/cards/66403530.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66403530.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66403530.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "1.59",
+            "amazon_price": "0.77",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   },
+   {
+      "id": 49725936,
+      "name": "Triple Burst Dragon",
+      "typeline": [
+         "Dragon",
+         "Link",
+         "Effect"
+      ],
+      "type": "Link Monster",
+      "humanReadableCardType": "Link Effect Monster",
+      "frameType": "link",
+      "desc": "2+ monsters, except Tokens\r\nOnce per turn, during the Damage Step, when a Spell/Trap Card, or monster effect, is activated (Quick Effect): You can negate the activation. If this card attacks a Defense Position monster, inflict piercing battle damage. During your Main Phase, except the turn this card was Special Summoned: You can Tribute this card, then target 1 Link-2 or lower monster in your GY; Special Summon it, then you can Special Summon 1 Level 4 or lower Dragon monster from your hand.",
+      "race": "Dragon",
+      "atk": 2400,
+      "def": null,
+      "level": 0,
+      "attribute": "DARK",
+      "linkval": 3,
+      "linkmarkers": [
+         "Top",
+         "Left",
+         "Bottom"
+      ],
+      "ygoprodeck_url": "https://ygoprodeck.com/card/triple-burst-dragon-8823",
+      "card_sets": [
+         {
+            "set_name": "Extreme Force",
+            "set_code": "EXFO-EN044",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN045",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 49725936,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49725936.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49725936.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49725936.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.39",
+            "tcgplayer_price": "0.50",
+            "ebay_price": "9.85",
+            "amazon_price": "5.99",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   },
+   {
+      "id": 43898403,
+      "name": "Twin Twisters",
+      "type": "Spell Card",
+      "humanReadableCardType": "Quick-Play Spell",
+      "frameType": "spell",
+      "desc": "Discard 1 card, then target up to 2 Spells/Traps on the field; destroy them.",
+      "race": "Quick-Play",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/twin-twisters-3747",
+      "card_sets": [
+         {
+            "set_name": "2016 Mega-Tin Mega Pack",
+            "set_code": "MP16-EN221",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN060",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN060",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN060",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN060",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN060",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN060",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN060",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Breakers of Shadow",
+            "set_code": "BOSH-EN067",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dinosmasher's Fury Structure Deck",
+            "set_code": "SR04-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Hero Decks",
+            "set_code": "LEHD-ENC20",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "4.17"
+         },
+         {
+            "set_name": "Maximum Gold: El Dorado",
+            "set_code": "MGED-EN043",
+            "set_rarity": "Premium Gold Rare",
+            "set_rarity_code": "(PG)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 12",
+            "set_code": "OP12-EN002",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 12 (POR)",
+            "set_code": "OP12-PT002",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Shadows in Valhalla",
+            "set_code": "SHVA-EN059",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Shaddoll Showdown",
+            "set_code": "SDSH-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.03"
+         },
+         {
+            "set_name": "Structure Deck: Spirit Charmers",
+            "set_code": "SDCH-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.28"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 43898403,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43898403.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43898403.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43898403.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "1.79",
+            "amazon_price": "1.20",
+            "coolstuffinc_price": "0.99"
+         }
+      ]
+   },
+   {
+      "id": 84899094,
+      "name": "World Chalice Guardragon",
+      "typeline": [
+         "Dragon",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When a card or effect is activated that targets your linked monster (Quick Effect): You can send this card from your hand or field to the GY; negate the activation, and if you do, destroy that card. You can banish this card from your GY, then target 1 Normal Monster in your GY; Special Summon it in Defense Position to your zone a Link Monster points to. You can only use this effect of \"World Chalice Guardragon\" once per turn.",
+      "race": "Dragon",
+      "atk": 400,
+      "def": 400,
+      "level": 1,
+      "attribute": "WIND",
+      "archetype": "World Chalice",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/world-chalice-guardragon-8809",
+      "card_sets": [
+         {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN047",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Code of the Duelist",
+            "set_code": "COTD-EN021",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 84899094,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84899094.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84899094.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84899094.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "0.99",
+            "amazon_price": "0.68",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 93014827,
+      "name": "Zero-Day Blaster",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Tribute 1 DARK Link Monster, then target cards on the field equal to its Link Rating; destroy them.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/zero-day-blaster-10390",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN033",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.73"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 93014827,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93014827.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93014827.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93014827.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "2.25",
+            "amazon_price": "0.78",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   }
+]
