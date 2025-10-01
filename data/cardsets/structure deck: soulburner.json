@@ -1,0 +1,3147 @@
+[
+   {
+      "id": 14558127,
+      "name": "Ash Blossom & Joyous Spring",
+      "typeline": [
+         "Zombie",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "When a card or effect is activated that includes any of these effects (Quick Effect): You can discard this card; negate that effect.\r\n● Add a card from the Deck to the hand.\r\n● Special Summon from the Deck.\r\n● Send a card from the Deck to the GY.\r\nYou can only use this effect of \"Ash Blossom & Joyous Spring\" once per turn.",
+      "race": "Zombie",
+      "atk": 0,
+      "def": 1800,
+      "level": 3,
+      "attribute": "FIRE",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/ash-blossom-joyous-spring-8554",
+      "card_sets": [
+         {
+            "set_name": "2022 Tin of the Pharaoh's Gods",
+            "set_code": "MP22-EN257",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN008",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN008",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Devastator",
+            "set_code": "DUDE-EN003",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "31.5"
+         },
+         {
+            "set_name": "Duel Power",
+            "set_code": "DUPO-EN077",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "29.3"
+         },
+         {
+            "set_name": "Legendary Collection Kaiba Mega Pack",
+            "set_code": "LCKC-EN080",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Maximum Crisis",
+            "set_code": "MACR-EN036",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Maximum Gold",
+            "set_code": "MAGO-EN011",
+            "set_rarity": "Premium Gold Rare",
+            "set_rarity_code": "(PG)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN025",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN025",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN025",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN025",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN025",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN025",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN025",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Shadows in Valhalla",
+            "set_code": "SHVA-EN047",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Beware of Traptrix",
+            "set_code": "SDBT-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Blue-Eyes White Destiny",
+            "set_code": "SDWD-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Legend of the Crystal Beasts",
+            "set_code": "SDCB-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 14558127,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14558127.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14558127.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14558127.jpg"
+         },
+         {
+            "id": 14558128,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14558128.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14558128.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14558128.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "1.54",
+            "tcgplayer_price": "1.80",
+            "ebay_price": "11.95",
+            "amazon_price": "28.99",
+            "coolstuffinc_price": "4.99"
+         }
+      ]
+   },
+   {
+      "id": 82705573,
+      "name": "Backfire",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "If a face-up FIRE monster(s) you control is destroyed and sent to the GY: Inflict 500 damage to your opponent.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/backfire-6951",
+      "card_sets": [
+         {
+            "set_name": "Ancient Sanctuary",
+            "set_code": "AST-046",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.17"
+         },
+         {
+            "set_name": "Dark Revelation Volume 2",
+            "set_code": "DR2-EN158",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Onslaught of the Fire Kings Structure Deck",
+            "set_code": "SDOK-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.19"
+         },
+         {
+            "set_name": "Structure Deck: Blaze of Destruction",
+            "set_code": "SD3-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.05"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 82705573,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82705573.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82705573.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82705573.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 56526564,
+      "name": "Break Off Trap Hole",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "When a Link Monster is Link Summoned: Destroy all monsters on the field that are not linked.",
+      "race": "Normal",
+      "archetype": "Hole",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/break-off-trap-hole-8438",
+      "card_sets": [
+         {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN085",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Code of the Duelist",
+            "set_code": "COTD-EN075",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 56526564,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56526564.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56526564.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56526564.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.60",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 59388357,
+      "name": "Circle of the Fire Kings",
+      "type": "Spell Card",
+      "humanReadableCardType": "Quick-Play Spell",
+      "frameType": "spell",
+      "desc": "Target 1 FIRE monster you control and 1 FIRE monster in your GY; destroy that monster you control, and if you do, Special Summon that other monster from your GY. You can only activate 1 \"Circle of the Fire Kings\" per turn.",
+      "race": "Quick-Play",
+      "archetype": "Fire King",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/circle-of-the-fire-kings-5050",
+      "card_sets": [
+         {
+            "set_name": "Hidden Summoners",
+            "set_code": "HISU-EN056",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.45"
+         },
+         {
+            "set_name": "Maximum Gold",
+            "set_code": "MAGO-EN149",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Onslaught of the Fire Kings Structure Deck",
+            "set_code": "SDOK-EN023",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.61"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN195",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN195",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Fire Kings",
+            "set_code": "SR14-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 59388357,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59388357.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59388357.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59388357.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 93332803,
+      "name": "Dogoran, the Mad Flame Kaiju",
+      "typeline": [
+         "Dinosaur",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can Special Summon this card (from your hand) to your opponent's field in Attack Position, by Tributing 1 monster they control. If your opponent controls a \"Kaiju\" monster, you can Special Summon this card (from your hand) in Attack Position. You can only control 1 \"Kaiju\" monster. Once per turn: You can remove 3 Kaiju Counters from anywhere on the field; destroy all monsters your opponent controls. This card cannot attack the turn this effect is activated.",
+      "race": "Dinosaur",
+      "atk": 3000,
+      "def": 1200,
+      "level": 8,
+      "attribute": "FIRE",
+      "archetype": "Kaiju",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dogoran-the-mad-flame-kaiju-7768",
+      "card_sets": [
+         {
+            "set_name": "2016 Mega-Tin Mega Pack",
+            "set_code": "MP16-EN098",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Chapter 1",
+            "set_code": "BLC1-EN033",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Clash of Rebellions",
+            "set_code": "CORE-EN087",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 5",
+            "set_code": "OP05-EN004",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Midterm Paradox",
+            "set_code": "SGX2-ENC08",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Midterm Paradox",
+            "set_code": "SGX2-ENC08",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Fire Kings",
+            "set_code": "SR14-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 93332803,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93332803.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93332803.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93332803.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "2.44",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   },
+   {
+      "id": 37880706,
+      "name": "Duelittle Chimera",
+      "typeline": [
+         "Beast",
+         "Link",
+         "Effect"
+      ],
+      "type": "Link Monster",
+      "humanReadableCardType": "Link Effect Monster",
+      "frameType": "link",
+      "desc": "2 FIRE monsters\r\nAll FIRE monsters on the field gain 500 ATK/DEF, also all WATER monsters on the field lose 400 ATK/DEF. If this card is destroyed by battle or card effect: You can target 1 FIRE monster in your GY; add it to your hand. You can only use this effect of \"Duelittle Chimera\" once per turn.",
+      "race": "Beast",
+      "atk": 1400,
+      "def": null,
+      "level": 0,
+      "attribute": "FIRE",
+      "linkval": 2,
+      "linkmarkers": [
+         "Bottom-Left",
+         "Bottom-Right"
+      ],
+      "ygoprodeck_url": "https://ygoprodeck.com/card/duelittle-chimera-9006",
+      "card_sets": [
+         {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN270",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Extreme Force",
+            "set_code": "EXFO-EN050",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN045",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 37880706,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37880706.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37880706.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37880706.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 97396380,
+      "name": "Fencing Fire Ferret",
+      "typeline": [
+         "Beast",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is destroyed and sent to the GY: Target 1 face-up monster your opponent controls; destroy that target, and if you do, inflict 500 damage to your opponent.",
+      "race": "Beast",
+      "atk": 1700,
+      "def": 600,
+      "level": 4,
+      "attribute": "FIRE",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/fencing-fire-ferret-8099",
+      "card_sets": [
+         {
+            "set_name": "2014 Mega-Tin Mega Pack",
+            "set_code": "MP14-EN123",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN107",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN107",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Judgment of the Light",
+            "set_code": "JOTL-EN097",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Master of Pendulum Structure Deck",
+            "set_code": "SDMP-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.15"
+         },
+         {
+            "set_name": "Structure Deck: Fire Kings",
+            "set_code": "SR14-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 97396380,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97396380.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97396380.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97396380.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "1.08",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 49847524,
+      "name": "Flame Administrator",
+      "typeline": [
+         "Cyberse",
+         "Link",
+         "Effect"
+      ],
+      "type": "Link Monster",
+      "humanReadableCardType": "Link Effect Monster",
+      "frameType": "link",
+      "desc": "2 Cyberse monsters\r\nAll Link Monsters you control gain 800 ATK. You can only control 1 \"Flame Administrator\".",
+      "race": "Cyberse",
+      "atk": 1200,
+      "def": null,
+      "level": 0,
+      "attribute": "FIRE",
+      "linkval": 2,
+      "linkmarkers": [
+         "Left",
+         "Bottom-Right"
+      ],
+      "ygoprodeck_url": "https://ygoprodeck.com/card/flame-administrator-8978",
+      "card_sets": [
+         {
+            "set_name": "2018 Mega-Tin Mega Pack",
+            "set_code": "MP18-EN197",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Extreme Force",
+            "set_code": "EXFO-EN041",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN044",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 49847524,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49847524.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49847524.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49847524.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 23297235,
+      "name": "Flamvell Firedog",
+      "typeline": [
+         "Beast",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card destroys an opponent's monster by battle and sends it to the GY: You can Special Summon 1 FIRE monster with 200 or less DEF from your Deck, except \"Flamvell Firedog\".",
+      "race": "Beast",
+      "atk": 1900,
+      "def": 200,
+      "level": 4,
+      "attribute": "FIRE",
+      "archetype": "Flamvell",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/flamvell-firedog-2008",
+      "card_sets": [
+         {
+            "set_name": "Ancient Prophecy",
+            "set_code": "ANPR-EN037",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Astral Pack One",
+            "set_code": "AP01-EN004",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Onslaught of the Fire Kings Structure Deck",
+            "set_code": "SDOK-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.45"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Turbo Pack: Booster Eight",
+            "set_code": "TU08-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 23297235,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23297235.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23297235.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23297235.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.23",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 50366775,
+      "name": "Formud Skipper",
+      "typeline": [
+         "Cyberse",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "During your Main Phase: You can reveal 1 Link Monster in your Extra Deck, and if you do, when you Link Summon this turn, you can treat this card as Link Material with the same name, Type, and Attribute as the revealed monster. If this card is sent to the GY as Link Material: You can add 1 Level 5 or higher Cyberse monster from your Deck to your hand. You can only use each effect of \"Formud Skipper\" once per turn.",
+      "race": "Cyberse",
+      "atk": 0,
+      "def": 0,
+      "level": 1,
+      "attribute": "LIGHT",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/formud-skipper-9181",
+      "card_sets": [
+         {
+            "set_name": "Battles of Legend: Armageddon",
+            "set_code": "BLAR-EN087",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 50366775,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50366775.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50366775.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50366775.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.27",
+            "ebay_price": "1.83",
+            "amazon_price": "0.79",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 53334471,
+      "name": "Gozen Match",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "Each player can only control 1 Attribute of monster. Send all other face-up monsters they control to the GY.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/gozen-match-4544",
+      "card_sets": [
+         {
+            "set_name": "Crossroads of Chaos",
+            "set_code": "CSOC-EN079",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Summoners",
+            "set_code": "HISU-EN060",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "8.32"
+         },
+         {
+            "set_name": "Magnificent Mavens",
+            "set_code": "MAMA-EN098",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN134",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN134",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN039",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Turbo Pack: Booster Eight",
+            "set_code": "TU08-EN011",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         }
+      ],
+      "banlist_info": {
+         "ban_tcg": "Limited",
+         "ban_ocg": "Limited"
+      },
+      "card_images": [
+         {
+            "id": 53334471,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53334471.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53334471.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53334471.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.42",
+            "tcgplayer_price": "0.45",
+            "ebay_price": "2.30",
+            "amazon_price": "4.99",
+            "coolstuffinc_price": "1.99"
+         }
+      ]
+   },
+   {
+      "id": 74823665,
+      "name": "Inferno",
+      "typeline": [
+         "Pyro",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 FIRE monster from your GY. If this card destroys an opponent's monster by battle and sends it to the GY: Inflict 1500 damage to your opponent.",
+      "race": "Pyro",
+      "atk": 1100,
+      "def": 1900,
+      "level": 4,
+      "attribute": "FIRE",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/inferno-6291",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 2",
+            "set_code": "DR2-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Invasion of Chaos",
+            "set_code": "IOC-019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.58"
+         },
+         {
+            "set_name": "Invasion of Chaos",
+            "set_code": "IOC-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Blaze of Destruction",
+            "set_code": "SD3-EN006",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.08"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 74823665,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74823665.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74823665.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74823665.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "3.49",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 51335426,
+      "name": "Link Bound",
+      "type": "Spell Card",
+      "humanReadableCardType": "Quick-Play Spell",
+      "frameType": "spell",
+      "desc": "Target 1 Link Monster you control or in your GY; return it to the Extra Deck, and if you do, draw cards equal to its Link Rating, then place cards from your hand on the bottom of the Deck, in any order, equal to the number of cards you drew. You can only activate 1 \"Link Bound\" per turn.",
+      "race": "Quick-Play",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/link-bound-9207",
+      "card_sets": [
+         {
+            "set_name": "Flames of Destruction",
+            "set_code": "FLOD-EN063",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 51335426,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51335426.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51335426.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51335426.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 1073952,
+      "name": "Magic Planter",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Send 1 face-up Continuous Trap you control to the GY; draw 2 cards.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/magic-planter-98",
+      "card_sets": [
+         {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN104",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Raging Battle",
+            "set_code": "RGBT-EN048",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Shadows in Valhalla",
+            "set_code": "SHVA-EN055",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Valiant Smashers",
+            "set_code": "VASM-EN028",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 1073952,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1073952.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1073952.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1073952.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "3.12",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 74848038,
+      "name": "Monster Reincarnation",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Discard 1 card, then target 1 monster in your GY; add it to your hand.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/monster-reincarnation-6296",
+      "card_sets": [
+         {
+            "set_name": "Dark Legion Starter Deck",
+            "set_code": "YS15-ENL16",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.22"
+         },
+         {
+            "set_name": "Dark Revelation Volume 3",
+            "set_code": "DR3-EN105",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dragunity Legion Structure Deck",
+            "set_code": "SDDL-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Terminal 4",
+            "set_code": "DT04-EN095",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN142",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Decks II",
+            "set_code": "LDK2-ENY32",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.67"
+         },
+         {
+            "set_name": "Legendary Duelists",
+            "set_code": "LEDU-EN048",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Realm of Light Structure Deck",
+            "set_code": "SDLI-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.19"
+         },
+         {
+            "set_name": "Rise of Destiny",
+            "set_code": "RDS-EN045",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Rise of Destiny",
+            "set_code": "RDS-EN045",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Saber Force Starter Deck",
+            "set_code": "YS15-ENF15",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.5"
+         },
+         {
+            "set_name": "Starter Deck 2006",
+            "set_code": "YSD-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Duelist Toolbox",
+            "set_code": "5DS3-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.13"
+         },
+         {
+            "set_name": "Starter Deck: Jaden Yuki",
+            "set_code": "YSDJ-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.4"
+         },
+         {
+            "set_name": "Starter Deck: Link Strike",
+            "set_code": "YS17-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Yu-Gi-Oh! 5D's",
+            "set_code": "5DS1-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Super Starter: Space-Time Showdown",
+            "set_code": "YS14-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 74848038,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74848038.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74848038.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74848038.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "1.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 40975574,
+      "name": "Red Resonator",
+      "typeline": [
+         "Fiend",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower monster from your hand. When this card is Special Summoned: You can target 1 face-up monster on the field; gain LP equal to its ATK. You can only use this effect of \"Red Resonator\" once per turn.",
+      "race": "Fiend",
+      "atk": 600,
+      "def": 200,
+      "level": 2,
+      "attribute": "FIRE",
+      "archetype": "Resonator",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/red-resonator-3489",
+      "card_sets": [
+         {
+            "set_name": "Duelist Pack: Dimensional Guardians",
+            "set_code": "DPDG-EN024",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "High-Speed Riders",
+            "set_code": "HSRD-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.82"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 40975574,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40975574.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40975574.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40975574.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "1.49",
+            "amazon_price": "2.97",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 14812471,
+      "name": "Salamangreat Balelynx",
+      "typeline": [
+         "Cyberse",
+         "Link",
+         "Effect"
+      ],
+      "type": "Link Monster",
+      "humanReadableCardType": "Link Effect Monster",
+      "frameType": "link",
+      "desc": "1 Level 4 or lower Cyberse monster\r\nIf this card is Link Summoned: You can add 1 \"Salamangreat Sanctuary\" from your Deck to your hand. If a \"Salamangreat\" card(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead. You can only use each effect of \"Salamangreat Balelynx\" once per turn.",
+      "race": "Cyberse",
+      "atk": 500,
+      "def": null,
+      "level": null,
+      "attribute": "FIRE",
+      "archetype": "Salamangreat",
+      "linkval": 1,
+      "linkmarkers": [
+         "Bottom"
+      ],
+      "ygoprodeck_url": "https://ygoprodeck.com/card/salamangreat-balelynx-9889",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Soulburning Volcano",
+            "set_code": "LD10-EN012",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN043",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 14812471,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14812471.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14812471.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14812471.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "2.50",
+            "amazon_price": "2.83",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   },
+   {
+      "id": 25166510,
+      "name": "Salamangreat Beat Bison",
+      "typeline": [
+         "Cyberse",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If you have 3 or more \"Salamangreat\" monsters in your GY: You can Special Summon this card from your hand in Defense Position. You can target FIRE Link Monsters in your GY, up to the number of face-up cards your opponent controls; return them to the Extra Deck, then, you can negate the effects of face-up cards your opponent controls until the end of this turn, up to the number of cards you returned. You can only use each effect of \"Salamangreat Beat Bison\" once per turn.",
+      "race": "Cyberse",
+      "atk": 2800,
+      "def": 1000,
+      "level": 8,
+      "attribute": "FIRE",
+      "archetype": "Salamangreat",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/salamangreat-beat-bison-9944",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN006",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 25166510,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25166510.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25166510.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25166510.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "2.00",
+            "amazon_price": "1.03",
+            "coolstuffinc_price": "0.00"
+         }
+      ]
+   },
+   {
+      "id": 52155219,
+      "name": "Salamangreat Circle",
+      "type": "Spell Card",
+      "humanReadableCardType": "Quick-Play Spell",
+      "frameType": "spell",
+      "desc": "Activate 1 of these effects.\r\n● Add 1 \"Salamangreat\" monster from your Deck to your hand.\r\n● Target 1 \"Salamangreat\" Link Monster you control that was Link Summoned using a monster with its same name as material; that Link Monster is unaffected by monster effects this turn, except its own.\r\nYou can only activate 1 \"Salamangreat Circle\" per turn.",
+      "race": "Quick-Play",
+      "archetype": "Salamangreat",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/salamangreat-circle-9933",
+      "card_sets": [
+         {
+            "set_name": "Battles of Legend: Crystal Revenge",
+            "set_code": "BLCR-EN087",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Soulburning Volcano",
+            "set_code": "LD10-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN066",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN066",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN066",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN066",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN066",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN066",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN066",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN023",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 52155219,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52155219.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52155219.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52155219.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "2.98",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 88540324,
+      "name": "Salamangreat Claw",
+      "type": "Spell Card",
+      "humanReadableCardType": "Equip Spell",
+      "frameType": "spell",
+      "desc": "Equip only to a \"Salamangreat\" monster. The equipped monster cannot be destroyed by battle or card effects, and if it attacks a Defense Position monster, inflict piercing battle damage to your opponent. If the equipped monster is a \"Salamangreat\" Link Monster you control that was Link Summoned using a monster with its same name as material, during each Battle Phase it can make attacks on monsters up to its Link Rating. You can only control 1 \"Salamangreat Claw\".",
+      "race": "Equip",
+      "archetype": "Salamangreat",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/salamangreat-claw-9917",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 88540324,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88540324.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88540324.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88540324.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 20618081,
+      "name": "Salamangreat Falco",
+      "typeline": [
+         "Cyberse",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is sent to the GY: You can target 1 \"Salamangreat\" Spell/Trap in your GY; Set that target to your field. If this card is in your GY: You can target 1 \"Salamangreat\" monster you control, except \"Salamangreat Falco\"; return that monster to the hand, and if you do, Special Summon this card. You can only use 1 \"Salamangreat Falco\" effect per turn, and only once that turn.",
+      "race": "Cyberse",
+      "atk": 1200,
+      "def": 1600,
+      "level": 4,
+      "attribute": "FIRE",
+      "archetype": "Salamangreat",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/salamangreat-falco-9625",
+      "card_sets": [
+         {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN155",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Ghosts From the Past",
+            "set_code": "GFTP-EN089",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.76"
+         },
+         {
+            "set_name": "Soul Fusion",
+            "set_code": "SOFU-EN004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 20618081,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20618081.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20618081.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20618081.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 89662401,
+      "name": "Salamangreat Fowl",
+      "typeline": [
+         "Cyberse",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If a \"Salamangreat\" monster(s), except \"Salamangreat Fowl\" is Normal or Special Summoned to your field (except during the Damage Step): You can Special Summon this card from your hand. You can only use this effect of \"Salamangreat Fowl\" once per turn. You can send 1 \"Salamangreat\" card from your hand or face-up field to the GY, then target 1 Set Spell/Trap your opponent controls; that Set card cannot be activated this turn.",
+      "race": "Cyberse",
+      "atk": 1800,
+      "def": 200,
+      "level": 4,
+      "attribute": "FIRE",
+      "archetype": "Salamangreat",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/salamangreat-fowl-9934",
+      "card_sets": [
+         {
+            "set_name": "Ghosts From the Past",
+            "set_code": "GFTP-EN092",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.35"
+         },
+         {
+            "set_name": "Legendary Duelists: Soulburning Volcano",
+            "set_code": "LD10-EN048",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 12",
+            "set_code": "OP12-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 12 (POR)",
+            "set_code": "OP12-PT018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN005",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 89662401,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89662401.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89662401.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89662401.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 86962245,
+      "name": "Salamangreat Foxer",
+      "typeline": [
+         "Cyberse",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If you have 3 or more \"Salamangreat\" monsters in your GY: You can send this card from your hand to the GY, then target 1 \"Salamangreat\" Link Monster in your GY and 1 card in your opponent's Spell & Trap Zone; return that targeted monster from your GY to the Extra Deck, and if you do, destroy the targeted card on the field. If a card(s) in your opponent's Spell & Trap Zone is destroyed and sent to the GY, while this card is in your GY (except during the Damage Step): You can Special Summon this card in Defense Position. You can only use 1 \"Salamangreat Foxer\" effect per turn, and only once that turn.",
+      "race": "Cyberse",
+      "atk": 1200,
+      "def": 1000,
+      "level": 3,
+      "attribute": "FIRE",
+      "archetype": "Salamangreat",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/salamangreat-foxer-9872",
+      "card_sets": [
+         {
+            "set_name": "2020 Tin of Lost Memories Mega Pack",
+            "set_code": "MP20-EN004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.03"
+         },
+         {
+            "set_name": "Savage Strike",
+            "set_code": "SAST-EN005",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 86962245,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86962245.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86962245.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86962245.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 94620082,
+      "name": "Salamangreat Foxy",
+      "typeline": [
+         "Cyberse",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card is Normal Summoned: You can excavate the top 3 cards of your Deck, and if you do, you can add 1 excavated \"Salamangreat\" card to your hand, also shuffle the rest into the Deck. If this card is in your GY, and a face-up Spell/Trap is on the field: You can discard 1 \"Salamangreat\" card; Special Summon this card, then you can destroy 1 face-up Spell/Trap on the field. You can only use 1 \"Salamangreat Foxy\" effect per turn, and only once that turn.",
+      "race": "Cyberse",
+      "atk": 1000,
+      "def": 1200,
+      "level": 3,
+      "attribute": "FIRE",
+      "archetype": "Salamangreat",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/salamangreat-foxy-9588",
+      "card_sets": [
+         {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN154",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Soulburning Volcano",
+            "set_code": "LD10-EN046",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Soul Fusion",
+            "set_code": "SOFU-EN003",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 94620082,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94620082.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94620082.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94620082.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "2.95",
+            "amazon_price": "2.62",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 26889158,
+      "name": "Salamangreat Gazelle",
+      "typeline": [
+         "Cyberse",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If a \"Salamangreat\" monster is sent to your GY, except \"Salamangreat Gazelle\" (except during the Damage Step): You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can send 1 \"Salamangreat\" card from your Deck to the GY, except \"Salamangreat Gazelle\". You can only use each effect of \"Salamangreat Gazelle\" once per turn.",
+      "race": "Cyberse",
+      "atk": 1500,
+      "def": 1000,
+      "level": 3,
+      "attribute": "FIRE",
+      "archetype": "Salamangreat",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/salamangreat-gazelle-9936",
+      "card_sets": [
+         {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN049",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Armageddon",
+            "set_code": "BLAR-EN090",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Soulburning Volcano",
+            "set_code": "LD10-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN003",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 26889158,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26889158.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26889158.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26889158.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "2.83",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 20788863,
+      "name": "Salamangreat Gift",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "You can discard 1 \"Salamangreat\" monster; send 1 \"Salamangreat\" monster from your Deck to the GY, then draw 1 card. If you control a \"Salamangreat\" Link Monster that was Link Summoned using a monster with its same name as material: You can discard 1 \"Salamangreat\" monster; draw 2 cards. You can only use 1 \"Salamangreat Gift\" effect per turn, and only once that turn.",
+      "race": "Continuous",
+      "archetype": "Salamangreat",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/salamangreat-gift-9640",
+      "card_sets": [
+         {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN204",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Soul Fusion",
+            "set_code": "SOFU-EN067",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 20788863,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20788863.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20788863.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20788863.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 41463182,
+      "name": "Salamangreat Heatleo",
+      "typeline": [
+         "Cyberse",
+         "Link",
+         "Effect"
+      ],
+      "type": "Link Monster",
+      "humanReadableCardType": "Link Effect Monster",
+      "frameType": "link",
+      "desc": "2+ FIRE Effect Monsters\r\nIf this card is Link Summoned: You can target 1 card in your opponent's Spell & Trap Zone; shuffle it into the Deck. Once per turn, during your Main Phase, if this card was Link Summoned using \"Salamangreat Heatleo\" as material: You can target 1 face-up monster on the field and 1 monster in your GY; the ATK of the first target becomes equal to the other target's, until the end of this turn.",
+      "race": "Cyberse",
+      "atk": 2300,
+      "def": null,
+      "level": null,
+      "attribute": "FIRE",
+      "archetype": "Salamangreat",
+      "linkval": 3,
+      "linkmarkers": [
+         "Top",
+         "Bottom-Left",
+         "Bottom-Right"
+      ],
+      "ygoprodeck_url": "https://ygoprodeck.com/card/salamangreat-heatleo-9594",
+      "card_sets": [
+         {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN186",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Soulburning Volcano",
+            "set_code": "LD10-EN011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Soul Fusion",
+            "set_code": "SOFU-EN040",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN040",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN041",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 41463182,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41463182.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41463182.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41463182.jpg"
+         },
+         {
+            "id": 41463182,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41463182.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41463182.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41463182.jpg"
+         },
+         {
+            "id": 41463181,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41463181.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41463181.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41463181.jpg"
+         },
+         {
+            "id": 41463181,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41463181.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41463181.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41463181.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 56003780,
+      "name": "Salamangreat Jack Jaguar",
+      "typeline": [
+         "Cyberse",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card attacks a Defense Position monster, inflict piercing battle damage. If you control a \"Salamangreat\" Link Monster, while this card is in your GY: You can target 1 \"Salamangreat\" monster in your GY, except \"Salamangreat Jack Jaguar\"; shuffle that target into the Deck, and if you do, Special Summon this card to your zone your \"Salamangreat\" Link Monster points to. You can only use this effect of \"Salamangreat Jack Jaguar\" once per turn.",
+      "race": "Cyberse",
+      "atk": 1800,
+      "def": 1200,
+      "level": 4,
+      "attribute": "FIRE",
+      "archetype": "Salamangreat",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/salamangreat-jack-jaguar-9626",
+      "card_sets": [
+         {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN156",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Soulburning Volcano",
+            "set_code": "LD10-EN047",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 12",
+            "set_code": "OP12-EN006",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 12 (POR)",
+            "set_code": "OP12-PT006",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Soul Fusion",
+            "set_code": "SOFU-EN005",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 56003780,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56003780.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56003780.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56003780.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "4.19",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 67225377,
+      "name": "Salamangreat Meer",
+      "typeline": [
+         "Cyberse",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is added to your hand, except by drawing it for your normal draw: You can reveal this card; Special Summon it from your hand. If this card is in your hand: You can discard 1 other \"Salamangreat\" card; Special Summon this card from your hand. You can only use each effect of \"Salamangreat Meer\" once per turn.",
+      "race": "Cyberse",
+      "atk": 800,
+      "def": 600,
+      "level": 2,
+      "attribute": "FIRE",
+      "archetype": "Salamangreat",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/salamangreat-meer-9623",
+      "card_sets": [
+         {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN153",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Soul Fusion",
+            "set_code": "SOFU-EN002",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 67225377,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67225377.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67225377.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67225377.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 87327776,
+      "name": "Salamangreat Miragestallio",
+      "typeline": [
+         "Cyberse",
+         "Xyz",
+         "Effect"
+      ],
+      "type": "XYZ Monster",
+      "humanReadableCardType": "Xyz Effect Monster",
+      "frameType": "xyz",
+      "desc": "2 Level 3 monsters\r\nYou can detach 1 material from this card; Special Summon 1 \"Salamangreat\" monster from your Deck in Defense Position, also you cannot activate monster effects for the rest of this turn, except FIRE monsters. If this Xyz Summoned card is sent to the GY as material for the Link Summon of a \"Salamangreat\" monster: You can target 1 monster on the field; return it to the hand. You can only use each effect of \"Salamangreat Miragestallio\" once per turn.",
+      "race": "Cyberse",
+      "atk": 2000,
+      "def": 900,
+      "level": 3,
+      "attribute": "FIRE",
+      "archetype": "Salamangreat",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/salamangreat-miragestallio-9932",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Soulburning Volcano",
+            "set_code": "LD10-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN042",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 87327776,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87327776.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87327776.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87327776.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "1.49",
+            "amazon_price": "0.50",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 89484053,
+      "name": "Salamangreat Mole",
+      "typeline": [
+         "Cyberse",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "During your Main Phase, if you Link Summoned this turn: You can Special Summon this card from your hand to your zone a Link Monster points to. If you control no monsters: You can banish this card from your GY, then target 5 \"Salamangreat\" cards in your GY; shuffle them into the Deck, then draw 2 cards. You can only use each effect of \"Salamangreat Mole\" once per turn.",
+      "race": "Cyberse",
+      "atk": 0,
+      "def": 0,
+      "level": 1,
+      "attribute": "FIRE",
+      "archetype": "Salamangreat",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/salamangreat-mole-9909",
+      "card_sets": [
+         {
+            "set_name": "OTS Tournament Pack 10",
+            "set_code": "OP10-EN006",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 10 (POR)",
+            "set_code": "OP10-PT006",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN002",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 89484053,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89484053.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89484053.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89484053.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "1.99",
+            "amazon_price": "1.03",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 59577547,
+      "name": "Salamangreat Parro",
+      "typeline": [
+         "Cyberse",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When an opponent's monster declares an attack: You can Special Summon this card from your hand, in Attack Position. If this card is Special Summoned: You can target 1 \"Salamangreat\" monster in your GY; this card's ATK becomes that target's. You can Tribute this card; gain 2000 LP. You can only use this effect of \"Salamangreat Parro\" once per turn.",
+      "race": "Cyberse",
+      "atk": 2000,
+      "def": 1000,
+      "level": 5,
+      "attribute": "FIRE",
+      "archetype": "Salamangreat",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/salamangreat-parro-9871",
+      "card_sets": [
+         {
+            "set_name": "2020 Tin of Lost Memories Mega Pack",
+            "set_code": "MP20-EN003",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.03"
+         },
+         {
+            "set_name": "Savage Strike",
+            "set_code": "SAST-EN004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 59577547,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59577547.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59577547.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59577547.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 53490455,
+      "name": "Salamangreat Raccoon",
+      "typeline": [
+         "Cyberse",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When your \"Salamangreat\" monster is targeted for an attack by an opponent's monster: You can send this card from your hand to the GY, then target those 2 monsters that would battle; gain LP equal to the ATK of that opponent's monster, also your targeted monster cannot be destroyed by battle this turn. When your \"Salamangreat\" monster destroys an opponent's monster by battle and sends it to the GY, while this card is in your GY: You can add this card to your hand. You can only use this effect of \"Salamangreat Raccoon\" once per turn.",
+      "race": "Cyberse",
+      "atk": 400,
+      "def": 800,
+      "level": 1,
+      "attribute": "FIRE",
+      "archetype": "Salamangreat",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/salamangreat-raccoon-9937",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN001",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 53490455,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53490455.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53490455.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53490455.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 14934922,
+      "name": "Salamangreat Rage",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Activate 1 of these effects.\r\n● Send 1 \"Salamangreat\" monster from your hand or face-up field to the GY, then target 1 card on the field; destroy it.\r\n● Target 1 \"Salamangreat\" Link Monster you control that was Link Summoned using a monster with its same name as material; destroy cards your opponent controls, up to that monster's Link Rating.\r\nYou can only activate 1 \"Salamangreat Rage\" per turn.",
+      "race": "Normal",
+      "archetype": "Salamangreat",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/salamangreat-rage-9899",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Soulburning Volcano",
+            "set_code": "LD10-EN050",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 12",
+            "set_code": "OP12-EN012",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 12 (POR)",
+            "set_code": "OP12-PT012",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 14934922,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14934922.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14934922.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14934922.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "2.29",
+            "amazon_price": "4.01",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 51339637,
+      "name": "Salamangreat Roar",
+      "type": "Trap Card",
+      "humanReadableCardType": "Counter Trap",
+      "frameType": "trap",
+      "desc": "When a Spell/Trap Card, or monster effect, is activated while you control a \"Salamangreat\" Link Monster: Negate the activation, and if you do, destroy that card. While this card is in the GY, if a \"Salamangreat\" Link Monster is Link Summoned to your field using a monster with its same name as material: You can Set this card, but banish it when it leaves the field. You can only use 1 \"Salamangreat Roar\" effect per turn, and only once that turn.",
+      "race": "Counter",
+      "archetype": "Salamangreat",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/salamangreat-roar-9945",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Soulburning Volcano",
+            "set_code": "LD10-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN033",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 51339637,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51339637.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51339637.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51339637.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "1.34",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 1295111,
+      "name": "Salamangreat Sanctuary",
+      "type": "Spell Card",
+      "humanReadableCardType": "Field Spell",
+      "frameType": "spell",
+      "desc": "If you Link Summon a \"Salamangreat\" Link Monster, you can use 1 \"Salamangreat\" Link Monster you control with its same name as the entire material. During damage calculation, if your monster battles: You can pay 1000 LP, then target 1 Link Monster you control; make its ATK 0, and if you do, gain LP equal to its original ATK. You can only use each effect of \"Salamangreat Sanctuary\" once per turn.",
+      "race": "Field",
+      "archetype": "Salamangreat",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/salamangreat-sanctuary-9621",
+      "card_sets": [
+         {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN194",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Hero's Revenge",
+            "set_code": "BLHR-EN072",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Soulburning Volcano",
+            "set_code": "LD10-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Soul Fusion",
+            "set_code": "SOFU-EN051",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 1295111,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1295111.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1295111.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1295111.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.01",
+            "ebay_price": "1.25",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 52277807,
+      "name": "Salamangreat Spinny",
+      "typeline": [
+         "Cyberse",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If you control a \"Salamangreat\" card: You can discard this card, then target 1 face-up monster on the field; it gains 500 ATK until the end of this turn. If you control a \"Salamangreat\" monster other than \"Salamangreat Spinny\" and this card is in your GY: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Salamangreat Spinny\" once per turn.",
+      "race": "Cyberse",
+      "atk": 1000,
+      "def": 1500,
+      "level": 3,
+      "attribute": "FIRE",
+      "archetype": "Salamangreat",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/salamangreat-spinny-9935",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Soulburning Volcano",
+            "set_code": "LD10-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN004",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 52277807,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52277807.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52277807.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52277807.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "2.79",
+            "amazon_price": "2.46",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 13173832,
+      "name": "Salamangreat Wolvie",
+      "typeline": [
+         "Cyberse",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "A monster that was Link Summoned using this card as material cannot be destroyed by battle or card effect for the rest of that turn. You can only use 1 of the following effects of \"Salamangreat Wolvie\" per turn, and only once that turn.\r\n● If this card is Special Summoned from the GY: You can target 1 FIRE monster in your GY; add it to your hand.\r\n● If this card is added from your GY to your hand by an effect: You can reveal this card, then target 1 FIRE monster in your GY; add it to your hand.",
+      "race": "Cyberse",
+      "atk": 1700,
+      "def": 1000,
+      "level": 4,
+      "attribute": "FIRE",
+      "archetype": "Salamangreat",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/salamangreat-wolvie-9869",
+      "card_sets": [
+         {
+            "set_name": "2020 Tin of Lost Memories Mega Pack",
+            "set_code": "MP20-EN002",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.03"
+         },
+         {
+            "set_name": "Savage Strike",
+            "set_code": "SAST-EN003",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 13173832,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13173832.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13173832.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13173832.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 46652477,
+      "name": "The Transmigration Prophecy",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Target 2 cards in the GY(s); shuffle those targets into the Deck(s).",
+      "race": "Normal",
+      "archetype": "Spellbook",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/the-transmigration-prophecy-3976",
+      "card_sets": [
+         {
+            "set_name": "Gates of the Underworld Structure Deck",
+            "set_code": "SDGU-EN037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.41"
+         },
+         {
+            "set_name": "Strike of Neos",
+            "set_code": "STON-EN054",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Strike of Neos",
+            "set_code": "STON-EN054",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 46652477,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46652477.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46652477.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46652477.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.53",
+            "ebay_price": "2.99",
+            "amazon_price": "1.13",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 36361633,
+      "name": "Threatening Roar",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Your opponent cannot declare an attack this turn.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/threatening-roar-3073",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN184",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN184",
+            "set_rarity": "Mosaic Rare",
+            "set_rarity_code": "(MSR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Champion Pack: Game One",
+            "set_code": "CP01-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Champion Pack: Game Seven",
+            "set_code": "CP07-EN003",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Revelation Volume 3",
+            "set_code": "DR3-EN172",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Demo Deck 2015",
+            "set_code": "DEM2-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.53"
+         },
+         {
+            "set_name": "Demo Pack",
+            "set_code": "DEM1-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Terminal 3",
+            "set_code": "DT03-EN047",
+            "set_rarity": "Duel Terminal Rare Parallel Rare",
+            "set_rarity_code": "(DRPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist League 2010 participation cards",
+            "set_code": "DL09-EN020",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "9.36"
+         },
+         {
+            "set_name": "Flaming Eternity",
+            "set_code": "FET-EN052",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN297",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Duelist Toolbox",
+            "set_code": "5DS3-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.49"
+         },
+         {
+            "set_name": "Starter Deck: Kaiba Reloaded",
+            "set_code": "YSKR-EN046",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.48"
+         },
+         {
+            "set_name": "Starter Deck: Syrus Truesdale",
+            "set_code": "YSDS-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.94"
+         },
+         {
+            "set_name": "Starter Deck: Yu-Gi-Oh! 5D's",
+            "set_code": "5DS1-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Yuya",
+            "set_code": "YS16-EN037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 36361633,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36361633.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36361633.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36361633.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.26",
+            "tcgplayer_price": "0.50",
+            "ebay_price": "3.85",
+            "amazon_price": "0.59",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 5288597,
+      "name": "Transmodify",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Send 1 face-up monster you control to the GY; Special Summon from your Deck, 1 monster with the same Type and Attribute as that monster in the GY, but 1 Level higher. You can only activate 1 \"Transmodify\" per turn.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/transmodify-467",
+      "card_sets": [
+         {
+            "set_name": "2014 Mega-Tin Mega Pack",
+            "set_code": "MP14-EN106",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Light's Revenge",
+            "set_code": "BLLR-EN077",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Judgment of the Light",
+            "set_code": "JOTL-EN067",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 5288597,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5288597.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5288597.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5288597.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.26",
+            "ebay_price": "4.00",
+            "amazon_price": "1.04",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 96746083,
+      "name": "True King Agnimazud, the Vanisher",
+      "typeline": [
+         "Wyrm",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is in your hand: You can destroy 2 other monsters in your hand and/or face-up field, including a FIRE monster, and if you do, Special Summon this card, and if you do that, you can banish 1 monster from your opponent's field or GY, if both the destroyed monsters were FIRE. If this card is destroyed by card effect: You can add 1 non-FIRE Wyrm monster from your GY to your hand. You can only use each effect of \"True King Agnimazud, the Vanisher\" once per turn.",
+      "race": "Wyrm",
+      "atk": 2900,
+      "def": 1900,
+      "level": 9,
+      "attribute": "FIRE",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/true-king-agnimazud-the-vanisher-8049",
+      "card_sets": [
+         {
+            "set_name": "2017 Mega-Tin Mega Pack",
+            "set_code": "MP17-EN080",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Fire Kings",
+            "set_code": "SR14-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Dark Illusion",
+            "set_code": "TDIL-EN025",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 96746083,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96746083.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96746083.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96746083.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "3.95",
+            "amazon_price": "1.54",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 33365932,
+      "name": "Volcanic Shell",
+      "typeline": [
+         "Pyro",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Once per turn: You can pay 500 LP; add 1 \"Volcanic Shell\" from your Deck to your hand. This card must be in the GY to activate and to resolve this effect.",
+      "race": "Pyro",
+      "atk": 100,
+      "def": 0,
+      "level": 1,
+      "attribute": "FIRE",
+      "archetype": "Volcanic",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/volcanic-shell-2834",
+      "card_sets": [
+         {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN053",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN053",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Terminal 6b",
+            "set_code": "DT06-EN051",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Force of the Breaker",
+            "set_code": "FOTB-EN009",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Force of the Breaker",
+            "set_code": "FOTB-EN009",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gold Series 2009",
+            "set_code": "GLD2-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Soulburning Volcano",
+            "set_code": "LD10-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel GX: Duel Academy Box",
+            "set_code": "SGX1-ENH07",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 5",
+            "set_code": "STP5-EN010",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.16"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 33365932,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33365932.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33365932.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33365932.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "1.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 64178424,
+      "name": "Will of the Salamangreat",
+      "type": "Spell Card",
+      "humanReadableCardType": "Continuous Spell",
+      "frameType": "spell",
+      "desc": "During your Main Phase: You can Special Summon 1 \"Salamangreat\" monster from your hand or GY. You can send this face-up card from the field to the GY, then target 1 \"Salamangreat\" Link Monster you control that was Link Summoned using a monster with its same name as material; Special Summon \"Salamangreat\" monster(s) from your hand and/or GY in Defense Position, up to the number of that monster's Link Rating. You can only use 1 \"Will of the Salamangreat\" effect per turn, and only once that turn.",
+      "race": "Continuous",
+      "archetype": "Salamangreat",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/will-of-the-salamangreat-9627",
+      "card_sets": [
+         {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN196",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Hero's Revenge",
+            "set_code": "BLHR-EN073",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Soulburning Volcano",
+            "set_code": "LD10-EN049",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Soul Fusion",
+            "set_code": "SOFU-EN053",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 64178424,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64178424.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64178424.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64178424.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "1.39",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   }
+]
