@@ -1,0 +1,3326 @@
+[
+   {
+      "id": 60990740,
+      "name": "Absolute King Back Jack",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "During your opponent's turn (Quick Effect): You can banish this card from the GY; excavate the top card of your Deck, and if it is a Normal Trap, Set it to your field. Otherwise, send it to the GY. That Set card can be activated during this turn. If this card is sent to the GY: You can look at 3 cards from the top of your Deck, then place them on the top of the Deck in any order. You can only use each effect of \"Absolute King Back Jack\" once per turn.",
+      "race": "Fiend",
+      "atk": 0,
+      "def": 0,
+      "level": 1,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/absolute-king-back-jack-5173",
+      "card_sets": [
+         {
+            "set_name": "OTS Tournament Pack 26",
+            "set_code": "OP26-EN004",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Premium Gold: Return of the Bling",
+            "set_code": "PGL2-EN002",
+            "set_rarity": "Gold Secret Rare",
+            "set_rarity_code": "(GScR)",
+            "set_price": "5.53"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN244",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN244",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Dark World",
+            "set_code": "SR13-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Lair of Darkness",
+            "set_code": "SR06-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Tactical Masters",
+            "set_code": "TAMA-EN048",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 60990740,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60990740.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60990740.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60990740.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "3.29",
+            "amazon_price": "0.26",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 51779204,
+      "name": "Absolute Powerforce",
+      "type": "Spell Card",
+      "humanReadableCardType": "Quick-Play Spell",
+      "frameType": "spell",
+      "desc": "Target 1 \"Red Dragon Archfiend\" you control; if it battles an opponent's monster this turn while you control it, apply these effects until the end of the Damage Step.\r\n● It gains 1000 ATK.\r\n● Your opponent cannot activate cards or effects.\r\n● If it attacks a Defense Position monster, inflict piercing battle damage to your opponent.\r\n● Any battle damage your opponent takes from that battle is doubled.",
+      "race": "Quick-Play",
+      "archetype": "Signature move",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/absolute-powerforce-14077",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 51779204,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51779204.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51779204.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51779204.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 71821687,
+      "name": "Ascator, Dawnwalker",
+      "typeline": [
+         "Spellcaster",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can discard 1 card; Special Summon this card from your hand in Defense Position, then you can Special Summon 1 \"Fire Ant Ascator\" from your hand or Deck. You cannot Special Summon monsters from the Extra Deck the turn you activate this effect, except Synchro Monsters. You can only use this effect of \"Ascator, Dawnwalker\" once per turn.",
+      "race": "Spellcaster",
+      "atk": 2300,
+      "def": 1500,
+      "level": 5,
+      "attribute": "EARTH",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/ascator-dawnwalker-10365",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Immortal Destiny",
+            "set_code": "LED5-EN024",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "11.3"
+         },
+         {
+            "set_name": "Legendary Duelists: Season 3",
+            "set_code": "LDS3-EN050",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 71821687,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71821687.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71821687.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71821687.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "1.50",
+            "amazon_price": "0.70",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 3431737,
+      "name": "Assault Beast",
+      "typeline": [
+         "Beast-Warrior",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can discard this card to the GY; add 1 \"Assault Mode Activate\" from your Deck to your hand.",
+      "race": "Beast-Warrior",
+      "atk": 1900,
+      "def": 1200,
+      "level": 4,
+      "attribute": "EARTH",
+      "archetype": "Assault Mode",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/assault-beast-307",
+      "card_sets": [
+         {
+            "set_name": "Crimson Crisis",
+            "set_code": "CRMS-EN024",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 10",
+            "set_code": "OP10-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 10 (POR)",
+            "set_code": "OP10-PT014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 3431737,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3431737.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3431737.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3431737.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "2.50",
+            "amazon_price": "4.74",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 80280737,
+      "name": "Assault Mode Activate",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Tribute 1 Synchro Monster; Special Summon 1 \"/Assault Mode\" monster, whose name includes the Tributed monster's name, from your Deck in Attack Position.",
+      "race": "Normal",
+      "archetype": "Assault Mode",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/assault-mode-activate-6734",
+      "card_sets": [
+         {
+            "set_name": "Crimson Crisis",
+            "set_code": "CRMS-EN063",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Pack: Yusei 2",
+            "set_code": "DP09-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 10",
+            "set_code": "OP10-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 10 (POR)",
+            "set_code": "OP10-PT025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN039",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 80280737,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80280737.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80280737.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80280737.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "1.71",
+            "amazon_price": "2.27",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 19665973,
+      "name": "Battle Fader",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When an opponent's monster declares a direct attack: You can Special Summon this card from your hand, then end the Battle Phase. If Summoned this way, banish it when it leaves the field.",
+      "race": "Fiend",
+      "atk": 0,
+      "def": 0,
+      "level": 1,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/battle-fader-1693",
+      "card_sets": [
+         {
+            "set_name": "Absolute Powerforce",
+            "set_code": "ABPF-EN006",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Absolute Powerforce",
+            "set_code": "ABPF-EN006",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN086",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN086",
+            "set_rarity": "Mosaic Rare",
+            "set_rarity_code": "(MSR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN211",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN211",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Collectible Tins 2010 Wave 1",
+            "set_code": "CT07-EN009",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.37"
+         },
+         {
+            "set_name": "Duel Terminal 6a",
+            "set_code": "DT06-EN015",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Saga",
+            "set_code": "DUSA-EN080",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "3.5"
+         },
+         {
+            "set_name": "Emperor of Darkness Structure Deck",
+            "set_code": "SR01-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Gates of the Underworld Structure Deck",
+            "set_code": "SDGU-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.68"
+         },
+         {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN061",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Codebreaker",
+            "set_code": "YS18-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Link Strike",
+            "set_code": "YS17-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 19665973,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19665973.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19665973.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19665973.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.33",
+            "ebay_price": "2.20",
+            "amazon_price": "1.65",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 25784595,
+      "name": "Bone Archfiend",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is in your hand or GY: You can send 1 other card from your hand or field to the GY; Special Summon this card, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except DARK Dragon Synchro Monsters. You can target 1 face-up monster you control that has a Level; send 1 Fiend Tuner from your hand or Deck to the GY, and if you do, increase or decrease that monster's Level by 1. You can only use each effect of \"Bone Archfiend\" once per turn.",
+      "race": "Fiend",
+      "atk": 1800,
+      "def": 0,
+      "level": 4,
+      "attribute": "DARK",
+      "archetype": "Archfiend",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/bone-archfiend-14017",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN003",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 25784595,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25784595.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25784595.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25784595.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.31",
+            "tcgplayer_price": "1.49",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 10723472,
+      "name": "Burning Soul",
+      "type": "Spell Card",
+      "humanReadableCardType": "Quick-Play Spell",
+      "frameType": "spell",
+      "desc": "If you control a Level 8 or higher Synchro Monster: Add 1 card from your GY to your hand, except \"Burning Soul\", then, immediately after this effect resolves, Synchro Summon using monsters you control as material. For the rest of this turn after this card resolves, your opponent cannot target Synchro Monsters on the field with card effects. You can only activate 1 \"Burning Soul\" per turn.",
+      "race": "Quick-Play",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/burning-soul-10793",
+      "card_sets": [
+         {
+            "set_name": "King's Court",
+            "set_code": "KICO-EN020",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "3.19"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 10723472,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10723472.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10723472.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10723472.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "2.25",
+            "amazon_price": "0.59",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 5780210,
+      "name": "Creation Resonator",
+      "typeline": [
+         "Fiend",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "If you control a Level 8 or higher Synchro Monster, you can Special Summon this card (from your hand).",
+      "race": "Fiend",
+      "atk": 800,
+      "def": 600,
+      "level": 3,
+      "attribute": "WIND",
+      "archetype": "Resonator",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/creation-resonator-509",
+      "card_sets": [
+         {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN065",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "10.86"
+         },
+         {
+            "set_name": "Starstrike Blast",
+            "set_code": "STBL-EN013",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN005",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 5780210,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5780210.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5780210.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5780210.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "8.95",
+            "amazon_price": "3.51",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 98173209,
+      "name": "Crimson Gaia",
+      "type": "Spell Card",
+      "humanReadableCardType": "Continuous Spell",
+      "frameType": "spell",
+      "desc": "During your Main Phase: You can add 1 \"Red Dragon Archfiend\" or 1 card that mentions it from your Deck or GY to your hand, except \"Crimson Gaia\". When your \"Red Dragon Archfiend\" declares an attack: You can change all monsters your opponent controls to face-down Defense Position. If a monster(s) on the field is destroyed by battle or card effect: You can Special Summon 1 \"Red Dragon Archfiend\" from your GY. You can only use each effect of \"Crimson Gaia\" once per turn.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/crimson-gaia-14016",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 98173209,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98173209.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98173209.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98173209.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.55",
+            "tcgplayer_price": "2.73",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 34761841,
+      "name": "Crimson Resonator",
+      "typeline": [
+         "Fiend",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "If you control no monsters: You can Special Summon this card from your hand. If the only other monster you control is exactly 1 DARK Dragon Synchro Monster: You can Special Summon up to 2 \"Resonator\" monsters from your hand or Deck, except \"Crimson Resonator\". You can only use each effect of \"Crimson Resonator\" once per turn. You cannot Special Summon monsters from the Extra Deck, except DARK Dragon Synchro Monsters, the turn you activate either of this card's effects.",
+      "race": "Fiend",
+      "atk": 800,
+      "def": 300,
+      "level": 2,
+      "attribute": "DARK",
+      "archetype": "Resonator",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/crimson-resonator-10806",
+      "card_sets": [
+         {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN053",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.94"
+         },
+         {
+            "set_name": "Eternity Code",
+            "set_code": "ETCO-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 34761841,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34761841.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34761841.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34761841.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 16209941,
+      "name": "Danger! Chupacabra!",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can reveal this card in your hand; your opponent randomly chooses 1 card from your entire hand, then you discard the chosen card. Then, if the discarded card was not \"Danger! Chupacabra!\", Special Summon 1 \"Danger! Chupacabra!\" from your hand, and if you do, draw 1 card. If this card is discarded: You can target 1 \"Danger!\" monster in your GY, except \"Danger! Chupacabra!\"; Special Summon it. You can only use this effect of \"Danger! Chupacabra!\" once per turn.",
+      "race": "Fiend",
+      "atk": 1500,
+      "def": 400,
+      "level": 4,
+      "attribute": "DARK",
+      "archetype": "Danger!",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/danger-chupacabra-9631",
+      "card_sets": [
+         {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN138",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN447",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Cybernetic Horizon",
+            "set_code": "CYHO-EN084",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.29"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 16209941,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16209941.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16209941.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16209941.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "4.80",
+            "amazon_price": "2.94",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 70711847,
+      "name": "Danger! Nessie!",
+      "typeline": [
+         "Aqua",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can reveal this card in your hand; your opponent randomly chooses 1 card from your entire hand, then you discard the chosen card. Then, if the discarded card was not \"Danger! Nessie!\", Special Summon 1 \"Danger! Nessie!\" from your hand, and if you do, draw 1 card. If this card is discarded: You can add 1 \"Danger!\" card from your Deck to your hand, except \"Danger! Nessie!\". You can only use this effect of \"Danger! Nessie!\" once per turn.",
+      "race": "Aqua",
+      "atk": 1600,
+      "def": 2800,
+      "level": 7,
+      "attribute": "DARK",
+      "archetype": "Danger!",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/danger-nessie-9629",
+      "card_sets": [
+         {
+            "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+            "set_code": "MP19-EN137",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "2025 Mega-Pack Tin",
+            "set_code": "MP25-EN141",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN059",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN059",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Cybernetic Horizon",
+            "set_code": "CYHO-EN083",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Maximum Gold: El Dorado",
+            "set_code": "MGED-EN019",
+            "set_rarity": "Premium Gold Rare",
+            "set_rarity_code": "(PG)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 70711847,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70711847.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70711847.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70711847.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "7.99",
+            "amazon_price": "7.97",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 97021916,
+      "name": "Dark Resonator",
+      "typeline": [
+         "Fiend",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "The first time this card would be destroyed by battle each turn, it is not destroyed.",
+      "race": "Fiend",
+      "atk": 1300,
+      "def": 300,
+      "level": 3,
+      "attribute": "DARK",
+      "archetype": "Resonator",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dark-resonator-8073",
+      "card_sets": [
+         {
+            "set_name": "2-Player Starter Set",
+            "set_code": "STAS-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN067",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN067",
+            "set_rarity": "Mosaic Rare",
+            "set_rarity_code": "(MSR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN203",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN203",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Terminal - Preview Wave 2",
+            "set_code": "DTP1-EN024",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Duel Terminal 1",
+            "set_code": "DT01-EN054",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Pack: Dimensional Guardians",
+            "set_code": "DPDG-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "High-Speed Riders",
+            "set_code": "HSRD-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN057",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.36"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Duelist Genesis",
+            "set_code": "TDGS-EN010",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 97021916,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97021916.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97021916.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97021916.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "2.95",
+            "amazon_price": "1.11",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 50078509,
+      "name": "Fiendish Chain",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "Activate this card by targeting 1 Effect Monster on the field; negate the effects of that face-up monster while it is on the field, also that face-up monster cannot attack. When it is destroyed, destroy this card.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/fiendish-chain-4266",
+      "card_sets": [
+         {
+            "set_name": "Absolute Powerforce",
+            "set_code": "ABPF-EN064",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Astral Pack Eight",
+            "set_code": "AP08-EN003",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN105",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN105",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN082",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection Kaiba Mega Pack",
+            "set_code": "LCKC-EN095",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Machine Reactor Structure Deck",
+            "set_code": "SR03-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Saga of Blue-Eyes White Dragon Structure Deck",
+            "set_code": "SDBE-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.56"
+         },
+         {
+            "set_name": "Samurai Warlords Structure Deck",
+            "set_code": "SDWA-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.79"
+         },
+         {
+            "set_name": "Starter Deck: Link Strike",
+            "set_code": "YS17-EN039",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Freezing Chains",
+            "set_code": "SDFC-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.26"
+         },
+         {
+            "set_name": "Structure Deck: Seto Kaiba",
+            "set_code": "SDKS-EN039",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.53"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 50078509,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50078509.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50078509.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50078509.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "2.40",
+            "amazon_price": "1.97",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 24662957,
+      "name": "Fiendish Golem",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Target 1 monster on the field with 2000 or more ATK; banish it (until the End Phase of the next turn), then if you activated this card while you controlled \"Red Dragon Archfiend\" or a Synchro Monster that mentions it, you can Set 1 \"Fiendish Chain\" directly from your Deck or GY.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/fiendish-golem-13990",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 24662957,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24662957.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24662957.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24662957.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 78275321,
+      "name": "Fire Ant Ascator",
+      "typeline": [
+         "Insect",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card is destroyed by battle and sent to the GY: You can target 1 Level 5 monster in your GY; Special Summon that target, but its effects are negated, also send it to the GY during the End Phase of this turn.",
+      "race": "Insect",
+      "atk": 700,
+      "def": 1300,
+      "level": 3,
+      "attribute": "EARTH",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/fire-ant-ascator-6578",
+      "card_sets": [
+         {
+            "set_name": "Absolute Powerforce",
+            "set_code": "ABPF-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN224",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Immortal Destiny",
+            "set_code": "LED5-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Season 3",
+            "set_code": "LDS3-EN046",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.19"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 78275321,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78275321.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78275321.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78275321.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 9753964,
+      "name": "Hot Red Dragon Archfiend Abyss",
+      "typeline": [
+         "Dragon",
+         "Synchro",
+         "Effect"
+      ],
+      "type": "Synchro Monster",
+      "humanReadableCardType": "Synchro Effect Monster",
+      "frameType": "synchro",
+      "desc": "1 Tuner + 1 non-Tuner DARK Dragon Synchro Monster\n(Quick Effect): You can target 1 face-up card your opponent controls; negate its effects until the end of this turn. When this card inflicts battle damage to your opponent: You can target 1 Tuner in your GY; Special Summon it in Defense Position. You can only use each effect of \"Hot Red Dragon Archfiend Abyss\" once per turn.",
+      "race": "Dragon",
+      "atk": 3200,
+      "def": 2500,
+      "level": 9,
+      "attribute": "DARK",
+      "archetype": "Archfiend",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/hot-red-dragon-archfiend-abyss-824",
+      "card_sets": [
+         {
+            "set_name": "Duel Power",
+            "set_code": "DUPO-EN057",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "3.35"
+         },
+         {
+            "set_name": "High-Speed Riders",
+            "set_code": "HSRD-EN041",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "11.03"
+         },
+         {
+            "set_name": "Maximum Gold: El Dorado",
+            "set_code": "MGED-EN068",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.11"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN042",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 9753964,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9753964.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9753964.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9753964.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "2.49",
+            "amazon_price": "1.63",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 36857073,
+      "name": "Hot Red Dragon Archfiend Bane",
+      "typeline": [
+         "Dragon",
+         "Synchro",
+         "Effect"
+      ],
+      "type": "Synchro Monster",
+      "humanReadableCardType": "Synchro Effect Monster",
+      "frameType": "synchro",
+      "desc": "1 Tuner + 1 non-Tuner DARK Dragon Synchro Monster\nYou can Tribute 1 monster, then target 1 \"Red Dragon Archfiend\" monster in your GY; Special Summon it. When this card inflicts battle damage to your opponent: You can Special Summon 2 Tuners with the same Level (1 from your Deck and 1 from your GY) in Defense Position. You can only use each effect of \"Hot Red Dragon Archfiend Bane\" once per turn.",
+      "race": "Dragon",
+      "atk": 3500,
+      "def": 3000,
+      "level": 10,
+      "attribute": "DARK",
+      "archetype": "Archfiend",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/hot-red-dragon-archfiend-bane-3117",
+      "card_sets": [
+         {
+            "set_name": "Duel Power",
+            "set_code": "DUPO-EN058",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.88"
+         },
+         {
+            "set_name": "High-Speed Riders",
+            "set_code": "HSRD-EN042",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "5.75"
+         },
+         {
+            "set_name": "Maximum Gold: El Dorado",
+            "set_code": "MGED-EN069",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.32"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN043",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 36857073,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36857073.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36857073.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36857073.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.57",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 62242678,
+      "name": "Hot Red Dragon Archfiend King Calamity",
+      "typeline": [
+         "Dragon",
+         "Synchro",
+         "Effect"
+      ],
+      "type": "Synchro Monster",
+      "humanReadableCardType": "Synchro Effect Monster",
+      "frameType": "synchro",
+      "desc": "2 Tuners + 1 non-Tuner DARK Dragon Synchro Monster\r\nWhen this card is Synchro Summoned: You can activate this effect; for the rest of this turn, your opponent cannot activate cards, also cards your opponent controls cannot activate their effects. Your opponent cannot activate cards or effects in response to this effect's activation. If this card destroys a monster by battle: Inflict damage to your opponent equal to that monster's original ATK. If this card in its owner's possession is destroyed by an opponent's card: You can target 1 Level 8 or lower DARK Dragon Synchro Monster in your GY; Special Summon it.",
+      "race": "Dragon",
+      "atk": 4000,
+      "def": 3500,
+      "level": 12,
+      "attribute": "DARK",
+      "archetype": "Archfiend",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/hot-red-dragon-archfiend-king-calamity-5264",
+      "card_sets": [
+         {
+            "set_name": "Duel Power",
+            "set_code": "DUPO-EN059",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.82"
+         },
+         {
+            "set_name": "Maximum Gold: El Dorado",
+            "set_code": "MGED-EN070",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.48"
+         },
+         {
+            "set_name": "Shining Victories",
+            "set_code": "SHVI-EN097",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN047",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "banlist_info": {
+         "ban_tcg": "Forbidden",
+         "ban_ocg": "Forbidden"
+      },
+      "card_images": [
+         {
+            "id": 62242678,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62242678.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62242678.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62242678.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "1.99",
+            "amazon_price": "1.97",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 27503418,
+      "name": "King's Synchro",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "When your opponent's monster declares an attack on a Synchro Monster you control: Negate the attack, then you can apply the rest of this card's effect. Banish that Synchro Monster you control and 1 Tuner from your Graveyard, and if you do, Special Summon from your Extra Deck 1 Synchro Monster whose Level equals the total Levels the banished monsters had. (This Special Summon is treated as a Synchro Summon.)",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/king-s-synchro-2346",
+      "card_sets": [
+         {
+            "set_name": "Duelist Pack: Dimensional Guardians",
+            "set_code": "DPDG-EN034",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Invasion: Vengeance",
+            "set_code": "INOV-EN067",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 27503418,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27503418.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27503418.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27503418.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "1.55",
+            "amazon_price": "0.98",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 35058857,
+      "name": "Magical King Moonstar",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be used as a Synchro Material, except for the Synchro Summon of a DARK Synchro Monster. If you control a Tuner monster, you can Special Summon this card (from your hand). If this card is Normal or Special Summoned: You can target 1 other monster you control or in your Graveyard; until the end of this turn, this card's Level becomes the same as that monster's, also you cannot Special Summon, except by Synchro Summon.",
+      "race": "Fiend",
+      "atk": 900,
+      "def": 600,
+      "level": 3,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/magical-king-moonstar-2976",
+      "card_sets": [
+         {
+            "set_name": "Premium Gold: Infinite Gold",
+            "set_code": "PGL3-EN004",
+            "set_rarity": "Gold Secret Rare",
+            "set_rarity_code": "(GScR)",
+            "set_price": "1.38"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 35058857,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35058857.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35058857.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35058857.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "1.69",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 6901008,
+      "name": "Phantom King Hydride",
+      "typeline": [
+         "Fiend",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "If you use this card you control for a Synchro Summon, you can treat it as a non-Tuner monster.",
+      "race": "Fiend",
+      "atk": 1500,
+      "def": 300,
+      "level": 3,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/phantom-king-hydride-594",
+      "card_sets": [
+         {
+            "set_name": "2-Player Starter Set",
+            "set_code": "STAS-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Primal Origin",
+            "set_code": "PRIO-EN091",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 6901008,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6901008.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6901008.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6901008.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.49",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 49238328,
+      "name": "Pot of Extravagance",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "At the start of your Main Phase 1: Banish 3 or 6 random face-down cards from your Extra Deck, face-down; draw 1 card for every 3 cards banished. For the rest of this turn after this card resolves, you cannot draw any cards by card effects.",
+      "race": "Normal",
+      "archetype": "Greed",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/pot-of-extravagance-9771",
+      "card_sets": [
+         {
+            "set_name": "2020 Tin of Lost Memories Mega Pack",
+            "set_code": "MP20-EN030",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "21.2"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN059",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN059",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Maximum Gold: El Dorado",
+            "set_code": "MGED-EN046",
+            "set_rarity": "Premium Gold Rare",
+            "set_rarity_code": "(PG)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN093",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Savage Strike",
+            "set_code": "SAST-EN067",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Albaz Strike",
+            "set_code": "SDAZ-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.28"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Pot Collection",
+            "set_code": "TBC1-EN010",
+            "set_rarity": "Ultra Parallel Rare",
+            "set_rarity_code": "(UPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Toon Chaos",
+            "set_code": "TOCH-EN059",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Toon Chaos",
+            "set_code": "TOCH-EN059",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         }
+      ],
+      "banlist_info": {
+         "ban_ocg": "Semi-Limited"
+      },
+      "card_images": [
+         {
+            "id": 49238328,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49238328.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49238328.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49238328.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.25",
+            "tcgplayer_price": "0.44",
+            "ebay_price": "12.95",
+            "amazon_price": "1.94",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 84298614,
+      "name": "Powerful Rebirth",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "Activate this card by targeting 1 Level 4 or lower monster in your GY; Special Summon that target. Increase its Level by 1 and ATK and DEF by 100. When that monster is destroyed, destroy this card.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/powerful-rebirth-7070",
+      "card_sets": [
+         {
+            "set_name": "Crossed Souls",
+            "set_code": "CROS-EN093",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Master of Pendulum Structure Deck",
+            "set_code": "SDMP-EN037",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.2"
+         },
+         {
+            "set_name": "Structure Deck: Cyberse Link",
+            "set_code": "SDCL-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 84298614,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84298614.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84298614.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84298614.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "1.23",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 74644400,
+      "name": "Psi-Reflector",
+      "typeline": [
+         "Psychic",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is Normal or Special Summoned: You can add 1 \"Assault Mode Activate\", or 1 card that specifically lists \"Assault Mode Activate\" in its text, from your Deck to your hand, except \"Psi-Reflector\". You can reveal 1 \"Assault Mode Activate\" in your hand, then target 1 monster in your GY that specifically lists \"Assault Mode Activate\" in its text, except \"Psi-Reflector\"; Special Summon it, and if you do, increase its Level by 1 to 4. You can only use each effect of \"Psi-Reflector\" once per turn.",
+      "race": "Psychic",
+      "atk": 400,
+      "def": 300,
+      "level": 1,
+      "attribute": "DARK",
+      "archetype": "Assault Mode",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/psi-reflector-10023",
+      "card_sets": [
+         {
+            "set_name": "Dark Neostorm",
+            "set_code": "DANE-EN010",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 74644400,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74644400.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74644400.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74644400.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "2.62",
+            "amazon_price": "3.27",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 70902743,
+      "name": "Red Dragon Archfiend",
+      "typeline": [
+         "Dragon",
+         "Synchro",
+         "Effect"
+      ],
+      "type": "Synchro Monster",
+      "humanReadableCardType": "Synchro Effect Monster",
+      "frameType": "synchro",
+      "desc": "1 Tuner + 1 or more non-Tuner monsters\nAfter damage calculation, if this card attacks a Defense Position monster your opponent controls: Destroy all Defense Position monsters your opponent controls. During your End Phase: Destroy all other monsters you control that did not declare an attack this turn. This card must be face-up on the field to activate and to resolve this effect.",
+      "race": "Dragon",
+      "atk": 3000,
+      "def": 2000,
+      "level": 8,
+      "attribute": "DARK",
+      "archetype": "Archfiend",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/red-dragon-archfiend-5955",
+      "card_sets": [
+         {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN025",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Collectible Tins 2008 Wave 1",
+            "set_code": "CT05-EN002",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "15.33"
+         },
+         {
+            "set_name": "Collectible Tins 2010 Wave 2",
+            "set_code": "CT07-EN025",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "6.33"
+         },
+         {
+            "set_name": "Ghosts From the Past: The 2nd Haunting",
+            "set_code": "GFP2-EN182",
+            "set_rarity": "Ghost Rare",
+            "set_rarity_code": "(GR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Ghosts From the Past: The 2nd Haunting",
+            "set_code": "GTP2-EN182",
+            "set_rarity": "Ghost Rare",
+            "set_rarity_code": "(GR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "High-Speed Riders",
+            "set_code": "HSRD-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN069",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN069",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 10 (POR)",
+            "set_code": "OP10-PT032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN045",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Duelist Genesis",
+            "set_code": "TDGS-EN041",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Duelist Genesis",
+            "set_code": "TDGS-EN041",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Turbo Pack: Booster Six",
+            "set_code": "TU06-EN008",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 70902743,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70902743.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70902743.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70902743.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.42",
+            "tcgplayer_price": "0.83",
+            "ebay_price": "0.99",
+            "amazon_price": "2.95",
+            "coolstuffinc_price": "1.99"
+         }
+      ]
+   },
+   {
+      "id": 77336644,
+      "name": "Red Dragon Archfiend/Assault Mode",
+      "typeline": [
+         "Dragon",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with \"Assault Mode Activate\". If this card attacks, destroy all other monsters after damage calculation. When this card on the field is destroyed, you can Special Summon 1 \"Red Dragon Archfiend\" from your Graveyard.",
+      "race": "Dragon",
+      "atk": 3500,
+      "def": 2500,
+      "level": 10,
+      "attribute": "DARK",
+      "archetype": "Assault Mode",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/red-dragon-archfiend-assault-mode-6503",
+      "card_sets": [
+         {
+            "set_name": "Crimson Crisis",
+            "set_code": "CRMS-EN004",
+            "set_rarity": "Ghost Rare",
+            "set_rarity_code": "(GR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Crimson Crisis",
+            "set_code": "CRMS-EN004",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Crimson Crisis",
+            "set_code": "CRMS-EN004",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 10 (POR)",
+            "set_code": "OP10-PT027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 77336644,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77336644.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77336644.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77336644.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "35.99",
+            "amazon_price": "70.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 97489701,
+      "name": "Red Nova Dragon",
+      "typeline": [
+         "Dragon",
+         "Synchro",
+         "Effect"
+      ],
+      "type": "Synchro Monster",
+      "humanReadableCardType": "Synchro Effect Monster",
+      "frameType": "synchro",
+      "desc": "2 Tuners + \"Red Dragon Archfiend\"\nThis card gains 500 ATK for each Tuner monster in your Graveyard. Cannot be destroyed by an opponent's card effects. When an opponent's monster declares an attack: You can target the attacking monster; banish this card, and if you do, negate that attack. During the next End Phase: Special Summon this card banished by this effect.",
+      "race": "Dragon",
+      "atk": 3500,
+      "def": 3000,
+      "level": 12,
+      "attribute": "DARK",
+      "archetype": "Archfiend",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/red-nova-dragon-8107",
+      "card_sets": [
+         {
+            "set_name": "Collectible Tins 2010 Wave 2",
+            "set_code": "CT07-EN005",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "9.24"
+         },
+         {
+            "set_name": "High-Speed Riders",
+            "set_code": "HSRD-EN024",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN073",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starstrike Blast",
+            "set_code": "STBL-EN042",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starstrike Blast",
+            "set_code": "STBL-EN042",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN046",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 97489701,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97489701.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97489701.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97489701.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "3.99",
+            "amazon_price": "6.90",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 5376159,
+      "name": "Red Reign",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "If you control a Level 8 or higher Synchro Monster: Banish all monsters on the field, except the monster(s) with the highest Level, also the remaining face-up monsters on the field are unaffected by other card effects, except their own, until the end of this turn. If a DARK Dragon Synchro Monster is Synchro Summoned to your field while this card is in your GY: You can add this card to your hand. You can only use this effect of \"Red Reign\" once per turn.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/red-reign-10800",
+      "card_sets": [
+         {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN084",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.05"
+         },
+         {
+            "set_name": "Eternity Code",
+            "set_code": "ETCO-EN074",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 5376159,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5376159.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5376159.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5376159.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "59.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 40975574,
+      "name": "Red Resonator",
+      "typeline": [
+         "Fiend",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower monster from your hand. When this card is Special Summoned: You can target 1 face-up monster on the field; gain LP equal to its ATK. You can only use this effect of \"Red Resonator\" once per turn.",
+      "race": "Fiend",
+      "atk": 600,
+      "def": 200,
+      "level": 2,
+      "attribute": "FIRE",
+      "archetype": "Resonator",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/red-resonator-3489",
+      "card_sets": [
+         {
+            "set_name": "Duelist Pack: Dimensional Guardians",
+            "set_code": "DPDG-EN024",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "High-Speed Riders",
+            "set_code": "HSRD-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.82"
+         },
+         {
+            "set_name": "Structure Deck: Soulburner",
+            "set_code": "SDSB-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 40975574,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40975574.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40975574.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40975574.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "1.49",
+            "amazon_price": "2.97",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 66141736,
+      "name": "Red Rising Dragon",
+      "typeline": [
+         "Dragon",
+         "Synchro",
+         "Effect"
+      ],
+      "type": "Synchro Monster",
+      "humanReadableCardType": "Synchro Effect Monster",
+      "frameType": "synchro",
+      "desc": "1 Fiend Tuner + 1+ non-Tuner monsters\nWhen this card is Synchro Summoned: You can target 1 \"Resonator\" monster in your GY; Special Summon it. You cannot Special Summon monsters from the Extra Deck the turn you activate this effect, except DARK Dragon Synchro Monsters. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 2 Level 1 \"Resonator\" monsters in your GY; Special Summon both.",
+      "race": "Dragon",
+      "atk": 2100,
+      "def": 1600,
+      "level": 6,
+      "attribute": "DARK",
+      "archetype": "Resonator",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/red-rising-dragon-5560",
+      "card_sets": [
+         {
+            "set_name": "Savage Strike",
+            "set_code": "SAST-EN099",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN048",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 66141736,
+            "image_url": "https://images.ygoprodeck.com/images/cards/66141736.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66141736.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66141736.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "4.95",
+            "amazon_price": "2.69",
+            "coolstuffinc_price": "1.99"
+         }
+      ]
+   },
+   {
+      "id": 14886469,
+      "name": "Red Sprinter",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card is Normal or Special Summoned while you control no other monsters: You can Special Summon 1 Level 3 or lower Fiend-Type Tuner from your hand or Graveyard. You can only use this effect of \"Red Sprinter\" once per turn.",
+      "race": "Fiend",
+      "atk": 1700,
+      "def": 1200,
+      "level": 4,
+      "attribute": "FIRE",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/red-sprinter-1278",
+      "card_sets": [
+         {
+            "set_name": "Duelist Pack: Dimensional Guardians",
+            "set_code": "DPDG-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "High-Speed Riders",
+            "set_code": "HSRD-EN015",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.5"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 14886469,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14886469.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14886469.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14886469.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "3.70",
+            "amazon_price": "2.27",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 99585850,
+      "name": "Red Supernova Dragon",
+      "typeline": [
+         "Dragon",
+         "Synchro",
+         "Effect"
+      ],
+      "type": "Synchro Monster",
+      "humanReadableCardType": "Synchro Effect Monster",
+      "frameType": "synchro",
+      "desc": "3 Tuners + 1+ non-Tuner Synchro Monsters\r\nMust first be Synchro Summoned. Gains 500 ATK for each Tuner in your GY. Cannot be destroyed by your opponent's card effects. Once per turn, when your opponent's monster effect is activated, or when an opponent's monster declares an attack (Quick Effect): You can activate this effect; banish this card, also banish all cards your opponent controls. Once per turn, during your next End Phase after this card was banished by its own effect: Special Summon this banished card.",
+      "race": "Dragon",
+      "atk": 4000,
+      "def": 3000,
+      "level": 12,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/red-supernova-dragon-10761",
+      "card_sets": [
+         {
+            "set_name": "Ghosts From the Past",
+            "set_code": "GFTP-EN045",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "5.89"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN044",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 99585850,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99585850.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99585850.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99585850.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.38",
+            "tcgplayer_price": "0.35",
+            "ebay_price": "4.94",
+            "amazon_price": "1.63",
+            "coolstuffinc_price": "1.99"
+         }
+      ]
+   },
+   {
+      "id": 45313993,
+      "name": "Red Warg",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When you Normal Summon a \"Resonator\" monster: You can Special Summon this card from your hand, but its ATK becomes halved.",
+      "race": "Fiend",
+      "atk": 1400,
+      "def": 2200,
+      "level": 6,
+      "attribute": "FIRE",
+      "archetype": "Resonator",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/red-warg-3864",
+      "card_sets": [
+         {
+            "set_name": "2017 Mega-Tin Mega Pack",
+            "set_code": "MP17-EN069",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Pack: Dimensional Guardians",
+            "set_code": "DPDG-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Dark Illusion",
+            "set_code": "TDIL-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 45313993,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45313993.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45313993.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45313993.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "1.00",
+            "amazon_price": "0.59",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 50056656,
+      "name": "Red Zone",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "When your opponent activates a card or effect while you control \"Red Dragon Archfiend\" or a Synchro Monster that mentions it: You can target 1 card on the field; destroy it. You can target 1 of your banished DARK Dragon Synchro Monsters; Special Summon it. You can only use each effect of \"Red Zone\" once per turn.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/red-zone-13967",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 50056656,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50056656.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50056656.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50056656.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.29",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 23008320,
+      "name": "Resonator Call",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Add 1 \"Resonator\" monster from your Deck to your hand.",
+      "race": "Normal",
+      "archetype": "Resonator",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/resonator-call-1978",
+      "card_sets": [
+         {
+            "set_name": "Duelist Pack: Dimensional Guardians",
+            "set_code": "DPDG-EN029",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Extreme Victory",
+            "set_code": "EXVC-EN047",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Ghosts From the Past",
+            "set_code": "GFTP-EN115",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.55"
+         },
+         {
+            "set_name": "High-Speed Riders",
+            "set_code": "HSRD-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN078",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.58"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 23008320,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23008320.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23008320.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23008320.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "2.09",
+            "amazon_price": "1.23",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 8559524,
+      "name": "Resonator Command",
+      "type": "Spell Card",
+      "humanReadableCardType": "Quick-Play Spell",
+      "frameType": "spell",
+      "desc": "Discard 1 \"Resonator\" monster; add 1 Level 4 or lower Fiend monster from your Deck to your hand. You can only activate 1 \"Resonator Command\" per turn.",
+      "race": "Quick-Play",
+      "archetype": "Resonator",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/resonator-command-10802",
+      "card_sets": [
+         {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN077",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.02"
+         },
+         {
+            "set_name": "Eternity Code",
+            "set_code": "ETCO-EN062",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 8559524,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8559524.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8559524.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8559524.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.99",
+            "amazon_price": "59.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 15576074,
+      "name": "Resonator Engine",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Target 2 \"Resonator\" monsters in your Graveyard; add 1 Level 4 monster from your Deck to your hand, and if you do, return those targets to the Deck.",
+      "race": "Normal",
+      "archetype": "Resonator",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/resonator-engine-1343",
+      "card_sets": [
+         {
+            "set_name": "Ghosts From the Past",
+            "set_code": "GFTP-EN114",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.15"
+         },
+         {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN075",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.3"
+         },
+         {
+            "set_name": "Storm of Ragnarok",
+            "set_code": "STOR-EN056",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 15576074,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15576074.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15576074.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15576074.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "0.99",
+            "amazon_price": "1.15",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 80666118,
+      "name": "Scarlight Red Dragon Archfiend",
+      "typeline": [
+         "Dragon",
+         "Synchro",
+         "Effect"
+      ],
+      "type": "Synchro Monster",
+      "humanReadableCardType": "Synchro Effect Monster",
+      "frameType": "synchro",
+      "desc": "1 Tuner + 1+ non-Tuner monsters\nThis card's name becomes \"Red Dragon Archfiend\" while it is on the field or in the GY. Once per turn: You can destroy as many Special Summoned Effect Monsters on the field as possible with ATK less than or equal to this card's (other than this card), then inflict 500 damage to your opponent for each monster destroyed.",
+      "race": "Dragon",
+      "atk": 3000,
+      "def": 2500,
+      "level": 8,
+      "attribute": "DARK",
+      "archetype": "Archfiend",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/scarlight-red-dragon-archfiend-6766",
+      "card_sets": [
+         {
+            "set_name": "2016 Mega-Tin Mega Pack",
+            "set_code": "MP16-EN140",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dimension of Chaos",
+            "set_code": "DOCS-EN046",
+            "set_rarity": "Ghost Rare",
+            "set_rarity_code": "(GR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dimension of Chaos",
+            "set_code": "DOCS-EN046",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dimension of Chaos",
+            "set_code": "DOCS-EN046",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Devastator",
+            "set_code": "DUDE-EN013",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.99"
+         },
+         {
+            "set_name": "Duelist Pack: Dimensional Guardians",
+            "set_code": "DPDG-EN031",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN041",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 80666118,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80666118.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80666118.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80666118.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.26",
+            "ebay_price": "2.49",
+            "amazon_price": "1.20",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 87451661,
+      "name": "Scarred Dragon Archfiend",
+      "typeline": [
+         "Dragon",
+         "Synchro",
+         "Effect"
+      ],
+      "type": "Synchro Monster",
+      "humanReadableCardType": "Synchro Effect Monster",
+      "frameType": "synchro",
+      "desc": "1 Tuner + 1+ non-Tuner DARK monsters\r\nThis card's name becomes \"Red Dragon Archfiend\" while on the field or in the GY. If this card is sent from the Monster Zone to the GY: You can Special Summon 1 \"Red Dragon Archfiend\" from your Extra Deck (this is treated as a Synchro Summon), then, if this card was sent to the GY as Synchro Material for a DARK Dragon Synchro Monster, you can destroy all Attack Position monsters your opponent controls. You can only use this effect of \"Scarred Dragon Archfiend\" once per turn.",
+      "race": "Dragon",
+      "atk": 3000,
+      "def": 2500,
+      "level": 8,
+      "attribute": "DARK",
+      "archetype": "Archfiend",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/scarred-dragon-archfiend-14018",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN049",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 87451661,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87451661.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87451661.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87451661.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.47",
+            "tcgplayer_price": "0.44",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "1.99"
+         }
+      ]
+   },
+   {
+      "id": 62991792,
+      "name": "Soul Resonator",
+      "typeline": [
+         "Fiend",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is Normal or Special Summoned: You can add 1 Level 4 or lower Fiend monster from your Deck to your hand, except \"Soul Resonator\", also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except DARK Synchro Monsters. If a card(s) you control would be destroyed by card effect, while you control \"Red Dragon Archfiend\" or a Synchro Monster that mentions it, you can banish this card from your GY instead. You can only use each effect of \"Soul Resonator\" once per turn.",
+      "race": "Fiend",
+      "atk": 500,
+      "def": 200,
+      "level": 3,
+      "attribute": "FIRE",
+      "archetype": "Resonator",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/soul-resonator-14019",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 62991792,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62991792.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62991792.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62991792.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.60",
+            "tcgplayer_price": "1.05",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "2.99"
+         }
+      ]
+   },
+   {
+      "id": 77360173,
+      "name": "Synkron Resonator",
+      "typeline": [
+         "Fiend",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "If a Synchro Monster is on the field, you can Special Summon this card (from your hand). You can only Special Summon \"Synkron Resonator\" once per turn this way. If this card is sent from the field to the Graveyard: You can target 1 \"Resonator\" monster in your Graveyard, except \"Synkron Resonator\"; add it to your hand.",
+      "race": "Fiend",
+      "atk": 100,
+      "def": 100,
+      "level": 1,
+      "attribute": "DARK",
+      "archetype": "Resonator",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/synkron-resonator-6504",
+      "card_sets": [
+         {
+            "set_name": "Duelist Pack: Dimensional Guardians",
+            "set_code": "DPDG-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "High-Speed Riders",
+            "set_code": "HSRD-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.34"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN006",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 77360173,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77360173.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77360173.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77360173.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "4.95",
+            "amazon_price": "2.33",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 63086455,
+      "name": "Terrors of the Overroot",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Target 1 card your opponent controls and 1 card in their GY; send that card on the field to the GY, and if you do, Set the other card from the GY to your opponent's field. You can only activate 1 \"Terrors of the Overroot\" per turn.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/terrors-of-the-overroot-13242",
+      "card_sets": [
+         {
+            "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "set_code": "MP23-EN146",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 24",
+            "set_code": "OP24-EN011",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Power of the Elements",
+            "set_code": "POTE-EN078",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.84"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN040",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 63086455,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63086455.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63086455.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63086455.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.04",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 68490573,
+      "name": "Time to Stand Up",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "If a Dragon Synchro Monster is on the field: Special Summon up to 2 monsters, that are \"Resonator\" monsters and/or Level 1 Dragon monsters, from your Deck. When a monster effect is activated, while you control a Level 10 or higher DARK Dragon Synchro Monster: You can banish this card from your GY; negate that effect, and if you do, 1 Synchro Monster you control gains 2000 ATK until the end of the next turn. You can only use each effect of \"Time to Stand Up\" once per turn.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/time-to-stand-up-12997",
+      "card_sets": [
+         {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN261",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Maze of Memories",
+            "set_code": "MAZE-EN017",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 68490573,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68490573.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68490573.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68490573.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.03",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 54343893,
+      "name": "Vice Dragon",
+      "typeline": [
+         "Dragon",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand), but its original ATK and DEF become halved.",
+      "race": "Dragon",
+      "atk": 2000,
+      "def": 2400,
+      "level": 5,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/vice-dragon-4623",
+      "card_sets": [
+         {
+            "set_name": "2-Player Starter Deck: Yuya & Declan",
+            "set_code": "YS15-END03",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4"
+         },
+         {
+            "set_name": "Dragons Collide Structure Deck",
+            "set_code": "SDDC-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Disk - Yusei Version",
+            "set_code": "DDY1-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "10001.09"
+         },
+         {
+            "set_name": "Gold Series 3",
+            "set_code": "GLD3-EN002",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "High-Speed Riders",
+            "set_code": "HSRD-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN059",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.25"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 54343893,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54343893.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54343893.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54343893.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "3.50",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 98396890,
+      "name": "Vision Resonator",
+      "typeline": [
+         "Fiend",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "If a Level 5 or higher DARK monster is on the field, you can Special Summon this card (from your hand). You can only Special Summon \"Vision Resonator\" once per turn this way. If this card is sent to the GY: You can add 1 Spell/Trap that mentions \"Red Dragon Archfiend\" from your Deck to your hand. You can only use this effect of \"Vision Resonator\" once per turn.",
+      "race": "Fiend",
+      "atk": 400,
+      "def": 400,
+      "level": 2,
+      "attribute": "DARK",
+      "archetype": "Resonator",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/vision-resonator-13980",
+      "card_sets": [
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN002",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 98396890,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98396890.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98396890.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98396890.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.77",
+            "tcgplayer_price": "1.22",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "2.99"
+         }
+      ]
+   },
+   {
+      "id": 52589809,
+      "name": "Wandering King Wildwind",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If you control a Fiend-Type Tuner with 1500 or less ATK, you can Special Summon this card (from your hand). If you attempt this, you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Synchro Monsters. During your Main Phase, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard; add 1 Fiend-Type Tuner with 1500 or less ATK from your Deck to your hand.",
+      "race": "Fiend",
+      "atk": 1700,
+      "def": 1300,
+      "level": 4,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/wandering-king-wildwind-9040",
+      "card_sets": [
+         {
+            "set_name": "Duelist Saga",
+            "set_code": "DUSA-EN016",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "6.28"
+         },
+         {
+            "set_name": "Ghosts From the Past: The 2nd Haunting",
+            "set_code": "GFP2-EN110",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.5"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 52589809,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52589809.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52589809.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52589809.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "0.67",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 78010363,
+      "name": "Witch of the Black Forest",
+      "typeline": [
+         "Spellcaster",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is sent from the field to the GY: Add 1 monster with 1500 or less DEF from your Deck to your hand, but you cannot activate cards, or the effects of cards, with that name for the rest of this turn. You can only use this effect of \"Witch of the Black Forest\" once per turn.",
+      "race": "Spellcaster",
+      "atk": 1100,
+      "def": 1200,
+      "level": 4,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/witch-of-the-black-forest-6561",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN001",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN001",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Light's Revenge",
+            "set_code": "BLLR-EN046",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.69"
+         },
+         {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB2-EN066",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-116",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "2.09"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-E116",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "13.55"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-EN116",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN091",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN091",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Kaiba Evolution",
+            "set_code": "SKE-020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.4"
+         },
+         {
+            "set_name": "Starter Deck: Pegasus",
+            "set_code": "SDP-014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.56"
+         },
+         {
+            "set_name": "Structure Deck: Spirit Charmers",
+            "set_code": "SDCH-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.66"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Toon Chaos",
+            "set_code": "TOCH-EN027",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         }
+      ],
+      "banlist_info": {
+         "ban_goat": "Forbidden"
+      },
+      "card_images": [
+         {
+            "id": 78010363,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78010363.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78010363.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78010363.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "0.91",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   }
+]
