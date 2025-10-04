@@ -10,6 +10,7 @@
     "collection:fill": "tsx collection/fillCollectionWithData.ts",
     "collection:upload": "node collection/gdrive/uploadCollection.js",
     "collection:update": "yarn collection:download && yarn collection:fill && yarn collection:upload",
+    "collection:change-last-card-language": "node modifyLastCardCode.js",
     "data:download-banlists": "node ./banlists/downloadBanlists.js",
     "structure:download-lists": "tsx structureDecks/downloadStructureDeckSets.js",
     "structure:get-missing": "tsx structureDecks/cardsMissingForStructureDecks.ts",
