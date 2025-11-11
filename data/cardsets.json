@@ -13,12 +13,6 @@
     "tcg_date": "2024-01-26"
   },
   {
-    "set_name": "2-Player Starter Set",
-    "set_code": "STAS",
-    "num_of_cards": 88,
-    "tcg_date": "2024-01-26"
-  },
-  {
     "set_name": "2013 Collectible Tins Wave 1",
     "set_code": "CT10",
     "num_of_cards": 9,
@@ -143,6 +137,13 @@
     "num_of_cards": 275,
     "tcg_date": "2022-09-14",
     "set_image": "https://images.ygoprodeck.com/images/sets/MP22.jpg"
+  },
+  {
+    "set_name": "2025 Mega-Pack Tin",
+    "set_code": "MP25",
+    "num_of_cards": 450,
+    "tcg_date": "2025-09-04",
+    "set_image": "https://images.ygoprodeck.com/images/sets/MP25.jpg"
   },
   {
     "set_name": "25th Anniversary Rarity Collection",
@@ -431,7 +432,7 @@
   {
     "set_name": "Battles of Legend: Monster Mayhem",
     "set_code": "BLMM",
-    "num_of_cards": 172,
+    "num_of_cards": 176,
     "tcg_date": "2025-08-28",
     "set_image": "https://images.ygoprodeck.com/images/sets/BLMM.jpg"
   },
@@ -961,7 +962,8 @@
     "set_name": "Dark Beginning 2",
     "set_code": "DB2",
     "num_of_cards": 264,
-    "tcg_date": "2005-07-27"
+    "tcg_date": "2005-07-27",
+    "set_image": "https://images.ygoprodeck.com/images/sets/DB2.jpg"
   },
   {
     "set_name": "Dark Crisis",
@@ -1127,7 +1129,7 @@
   {
     "set_name": "Doom of Dimensions",
     "set_code": "DOOD",
-    "num_of_cards": 9,
+    "num_of_cards": 98,
     "tcg_date": "2025-09-25",
     "set_image": "https://images.ygoprodeck.com/images/sets/DOOD.jpg"
   },
@@ -1495,9 +1497,10 @@
   },
   {
     "set_name": "Duelist Pack Collection Tin 2011",
-    "set_code": "DPC5",
+    "set_code": "DPCT",
     "num_of_cards": 4,
-    "tcg_date": "2011-03-31"
+    "tcg_date": "2011-03-31",
+    "set_image": "https://images.ygoprodeck.com/images/sets/DPCT.jpg"
   },
   {
     "set_name": "Duelist Pack Collection Tin: Jaden Yuki",
@@ -1658,6 +1661,12 @@
     "num_of_cards": 48,
     "tcg_date": "2025-07-03",
     "set_image": "https://images.ygoprodeck.com/images/sets/DUAD.jpg"
+  },
+  {
+    "set_name": "EFootball collaboration cards",
+    "set_code": "EFC1",
+    "num_of_cards": 1,
+    "set_image": "https://images.ygoprodeck.com/images/sets/EFC1.jpg"
   },
   {
     "set_name": "Egyptian God Deck: Obelisk the Tormentor",
@@ -3208,6 +3217,13 @@
     "set_image": "https://images.ygoprodeck.com/images/sets/OP28.jpg"
   },
   {
+    "set_name": "OTS Tournament Pack 29",
+    "set_code": "OP29",
+    "num_of_cards": 27,
+    "tcg_date": "2025-10-15",
+    "set_image": "https://images.ygoprodeck.com/images/sets/OP29.jpg"
+  },
+  {
     "set_name": "OTS Tournament Pack 3",
     "set_code": "OP03",
     "num_of_cards": 27,
@@ -4738,10 +4754,10 @@
   },
   {
     "set_name": "Structure Deck: Deluxe Edition",
-    "set_code": "SD2",
+    "set_code": "SD1",
     "num_of_cards": 2,
     "tcg_date": "2005-01-01",
-    "set_image": "https://images.ygoprodeck.com/images/sets/SD2.jpg"
+    "set_image": "https://images.ygoprodeck.com/images/sets/SD1.jpg"
   },
   {
     "set_name": "Structure Deck: Dinosaur's Rage",
@@ -5413,6 +5429,20 @@
     "set_code": "LART",
     "num_of_cards": 1,
     "tcg_date": "2025-08-20",
+    "set_image": "https://images.ygoprodeck.com/images/sets/LART.jpg"
+  },
+  {
+    "set_name": "The Lost Art Promotion 2025 C",
+    "set_code": "LART",
+    "num_of_cards": 1,
+    "tcg_date": "2025-09-17",
+    "set_image": "https://images.ygoprodeck.com/images/sets/LART.jpg"
+  },
+  {
+    "set_name": "The Lost Art Promotion 2025 D",
+    "set_code": "LART",
+    "num_of_cards": 1,
+    "tcg_date": "2025-10-15",
     "set_image": "https://images.ygoprodeck.com/images/sets/LART.jpg"
   },
   {
@@ -6110,7 +6140,7 @@
     "tcg_date": "2009-11-17"
   },
   {
-    "set_name": "Yu-Gi-Oh! 5D's Tag Force 5 promotional cards",
+    "set_name": "Yu-Gi-Oh! 5D's Tag Force 5 Promotional Cards",
     "set_code": "TF05",
     "num_of_cards": 3,
     "tcg_date": "2010-10-26"
