@@ -1,0 +1,440 @@
+[
+   {
+      "id": 59368956,
+      "name": "Deskbot 002",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is Special Summoned: You can add 1 \"Deskbot\" card from your Deck to your hand. All Machine-Type monsters you control gain 500 ATK and DEF, except this card.",
+      "race": "Machine",
+      "atk": 500,
+      "def": 500,
+      "level": 2,
+      "attribute": "EARTH",
+      "archetype": "Deskbot",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/deskbot-002-5045",
+      "card_sets": [
+         {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN156",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Alliance: Deluxe Edition",
+            "set_code": "DUEA-ENDE5",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.19"
+         },
+         {
+            "set_name": "The New Challengers",
+            "set_code": "NECH-EN042",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 59368956,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59368956.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59368956.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59368956.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "1.89",
+            "amazon_price": "0.97",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 70422863,
+      "name": "Hexatellarknight",
+      "type": "Spell Card",
+      "humanReadableCardType": "Field Spell",
+      "frameType": "spell",
+      "desc": "Each \"tellarknight\" Xyz Monster gains 200 ATK and DEF for each Xyz Material attached to it. When a \"tellarknight\" Xyz Monster you control is targeted for an attack: You can send 1 \"tellarknight\" card from your hand to the Graveyard; negate that attack.",
+      "race": "Field",
+      "archetype": "Tellarknight",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/hexatellarknight-5925",
+      "card_sets": [
+         {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN173",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Alliance: Deluxe Edition",
+            "set_code": "DUEA-ENDE7",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.63"
+         },
+         {
+            "set_name": "The New Challengers",
+            "set_code": "NECH-EN063",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 70422863,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70422863.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70422863.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70422863.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "1.10",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 41440148,
+      "name": "Performapal Hip Hippo",
+      "typeline": [
+         "Beast",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "After you Normal Summon this card, you can Tribute Summon 1 Level 7 or higher monster in face-up Attack Position during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)",
+      "race": "Beast",
+      "atk": 800,
+      "def": 800,
+      "level": 3,
+      "attribute": "EARTH",
+      "archetype": "Performapal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/performapal-hip-hippo-3542",
+      "card_sets": [
+         {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN064",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Alliance",
+            "set_code": "DUEA-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Alliance: Deluxe Edition",
+            "set_code": "DUEA-ENDE1",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.22"
+         },
+         {
+            "set_name": "Star Pack ARC-V",
+            "set_code": "SP15-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Star Pack ARC-V",
+            "set_code": "SP15-EN015",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Yuya",
+            "set_code": "YS16-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 41440148,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41440148.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41440148.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41440148.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 52551211,
+      "name": "Shaddoll Hound",
+      "typeline": [
+         "Spellcaster",
+         "Flip",
+         "Effect"
+      ],
+      "type": "Flip Effect Monster",
+      "humanReadableCardType": "Flip Effect Monster",
+      "frameType": "effect",
+      "desc": "FLIP: You can target 1 \"Shaddoll\" card in your GY; add it to your hand.\r\nIf this card is sent to the GY by a card effect: You can target 1 monster on the field; change its battle position. (Flip monsters' effects are not activated at this time, except \"Shaddoll\" monsters'.) You can only use 1 \"Shaddoll Hound\" effect per turn, and only once that turn.",
+      "race": "Spellcaster",
+      "atk": 1600,
+      "def": 900,
+      "level": 4,
+      "attribute": "DARK",
+      "archetype": "Shaddoll",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/shaddoll-hound-4474",
+      "card_sets": [
+         {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN149",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Alliance: Deluxe Edition",
+            "set_code": "DUEA-ENDE4",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "5.35"
+         },
+         {
+            "set_name": "Structure Deck: Shaddoll Showdown",
+            "set_code": "SDSH-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.13"
+         },
+         {
+            "set_name": "The New Challengers",
+            "set_code": "NECH-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 52551211,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52551211.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52551211.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52551211.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.03",
+            "ebay_price": "0.99",
+            "amazon_price": "1.98",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 4786063,
+      "name": "Superheavy Samurai Soulfire Suit",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can target 1 \"Superheavy Samurai\" monster you control; equip this monster from your hand or your side of the field to that target. Its Level becomes 5. During either player's turn: You can discard this card, then target 1 Defense Position \"Superheavy Samurai\" monster you control; until the end of this turn, it loses 800 DEF, but cannot be destroyed by battle or by card effects.",
+      "race": "Machine",
+      "atk": 800,
+      "def": 800,
+      "level": 2,
+      "attribute": "FIRE",
+      "archetype": "Superheavy",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/superheavy-samurai-soulfire-suit-424",
+      "card_sets": [
+         {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN134",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Alliance: Deluxe Edition",
+            "set_code": "DUEA-ENDE3",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.51"
+         },
+         {
+            "set_name": "The New Challengers",
+            "set_code": "NECH-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 4786063,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4786063.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4786063.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4786063.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 78574395,
+      "name": "Wonder Balloons",
+      "type": "Spell Card",
+      "humanReadableCardType": "Continuous Spell",
+      "frameType": "spell",
+      "desc": "Once per turn: You can send any number of cards from your hand to the GY; place 1 Balloon Counter on this card for each card sent to the GY. All monsters your opponent controls lose 300 ATK for each Balloon Counter on this card.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/wonder-balloons-6599",
+      "card_sets": [
+         {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN166",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Alliance: Deluxe Edition",
+            "set_code": "DUEA-ENDE6",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.68"
+         },
+         {
+            "set_name": "Legendary Duelists",
+            "set_code": "LEDU-EN049",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Star Pack ARC-V",
+            "set_code": "SP15-EN042",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Star Pack ARC-V",
+            "set_code": "SP15-EN042",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The New Challengers",
+            "set_code": "NECH-EN055",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 78574395,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78574395.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78574395.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78574395.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 77783947,
+      "name": "Yang Zing Unleashed",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "All monsters your opponent controls must attack, if able. During either player's Main Phase or Battle Phase: You can send this face-up card from your Spell & Trap Zone to the Graveyard; immediately after this effect resolves, Synchro Summon 1 Synchro Monster, using 1 or more \"Yang Zing\" monsters you control as Synchro Materials.",
+      "race": "Continuous",
+      "archetype": "Yang Zing",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/yang-zing-unleashed-6544",
+      "card_sets": [
+         {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN117",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Alliance",
+            "set_code": "DUEA-EN075",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Alliance: Deluxe Edition",
+            "set_code": "DUEA-ENDE2",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.46"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 77783947,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77783947.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77783947.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77783947.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   }
+]
