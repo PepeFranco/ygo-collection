@@ -17,6 +17,7 @@
     "structure:update": "yarn collection:download && yarn collection:download-banlists && yarn structure:download-lists && yarn structure:get-missing && yarn structure:move-cards && yarn collection:upload",
     "structure:move-cards": "yarn tsx ./structureDecks/moveCardsInCollectionToDeck.ts",
     "cube:generate": "tsx cube/generateCube.ts",
+    "speed-duel:suggest": "tsx speedDuel/suggestSpeedDuelDecks.ts",
     "update-all": "yarn collection:download && yarn collection:fill &&  yarn data:download-banlists && yarn structure:download-lists && yarn structure:get-missing && yarn collection:upload"
   },
   "dependencies": {
