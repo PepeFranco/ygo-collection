@@ -1,0 +1,2680 @@
+[
+   {
+      "id": 18318842,
+      "name": "Abyss Soldier",
+      "typeline": [
+         "Aqua",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Once per turn: You can discard 1 WATER monster to the Graveyard to target 1 card on the field; return it to the hand.",
+      "race": "Aqua",
+      "atk": 1800,
+      "def": 1300,
+      "level": 4,
+      "attribute": "WATER",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/abyss-soldier-1589",
+      "card_sets": [
+         {
+            "set_name": "Champion Pack: Game Two",
+            "set_code": "CP02-EN007",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Terminal 6b",
+            "set_code": "DT06-EN065",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Realm of the Sea Emperor Structure Deck",
+            "set_code": "SDRE-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "5"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! Capsule Monster Coliseum promotional cards",
+            "set_code": "CMC-EN001",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "15.24"
+         }
+      ],
+      "banlist_info": {
+         "ban_goat": "Semi-Limited"
+      },
+      "card_images": [
+         {
+            "id": 18318842,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18318842.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18318842.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18318842.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "2.00",
+            "tcgplayer_price": "7.16",
+            "ebay_price": "12.14",
+            "amazon_price": "2.35",
+            "coolstuffinc_price": "3.99"
+         }
+      ]
+   },
+   {
+      "id": 61127349,
+      "name": "Big Bang Shot",
+      "type": "Spell Card",
+      "humanReadableCardType": "Equip Spell",
+      "frameType": "spell",
+      "desc": "The equipped monster gains 400 ATK. If the equipped monster attacks a Defense Position monster, inflict piercing battle damage to your opponent. When this card leaves the field, banish the equipped monster.",
+      "race": "Equip",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/big-bang-shot-5183",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN141",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN141",
+            "set_rarity": "Mosaic Rare",
+            "set_rarity_code": "(MSR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN075",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN075",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Champion Pack: Game Two",
+            "set_code": "CP02-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Revelation Volume 1",
+            "set_code": "DR1-EN141",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Magician's Force",
+            "set_code": "MFC-086",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "2.3"
+         },
+         {
+            "set_name": "Rise of the Dragon Lords Structure Deck",
+            "set_code": "SDRL-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.24"
+         },
+         {
+            "set_name": "The Dark Emperor Structure Deck",
+            "set_code": "SDDE-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.25"
+         },
+         {
+            "set_name": "Warriors' Strike Structure Deck",
+            "set_code": "SDWS-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 61127349,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61127349.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61127349.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61127349.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.29",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 38699854,
+      "name": "Book of Taiyou",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Flip 1 face-down monster on the field into face-up Attack Position.",
+      "race": "Normal",
+      "archetype": "Book of",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/book-of-taiyou-3281",
+      "card_sets": [
+         {
+            "set_name": "Champion Pack: Game Two",
+            "set_code": "CP02-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB2-EN231",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.35"
+         },
+         {
+            "set_name": "Phantom Revenge",
+            "set_code": "PHRE-EN052",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Phantom Revenge",
+            "set_code": "PHRE-EN052",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Pharaonic Guardian",
+            "set_code": "PGD-034",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "4.36"
+         },
+         {
+            "set_name": "Retro Pack 2",
+            "set_code": "RP02-EN069",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENI15",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 38699854,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38699854.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38699854.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38699854.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "3.20",
+            "amazon_price": "6.18",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 36468556,
+      "name": "Ceasefire",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "If a face-down Defense Position monster or an Effect Monster is on the field: Change all face-down Defense Position monsters on the field to face-up Defense Position (Flip monsters' effects are not activated at this time), also inflict 500 damage to your opponent for each Effect Monster on the field.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/ceasefire-3082",
+      "card_sets": [
+         {
+            "set_name": "Astral Pack Six",
+            "set_code": "AP06-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Champion Pack: Game Two",
+            "set_code": "CP02-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB1-EN083",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB46",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Machina Mayhem Structure Deck",
+            "set_code": "SDMM-EN035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.27"
+         },
+         {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-030",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "6.15"
+         },
+         {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-E030",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "10.69"
+         },
+         {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-EN030",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Premium Gold: Return of the Bling",
+            "set_code": "PGL2-EN062",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN105",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN105",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Retro Pack 2",
+            "set_code": "RP02-EN009",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Yuya",
+            "set_code": "YS16-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Dragon's Roar",
+            "set_code": "SD1-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.29"
+         }
+      ],
+      "banlist_info": {
+         "ban_goat": "Limited"
+      },
+      "card_images": [
+         {
+            "id": 36468556,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36468556.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36468556.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36468556.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.25",
+            "ebay_price": "5.00",
+            "amazon_price": "0.79",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 97642679,
+      "name": "Dark Master - Zorc",
+      "typeline": [
+         "Fiend",
+         "Ritual",
+         "Effect"
+      ],
+      "type": "Ritual Effect Monster",
+      "humanReadableCardType": "Ritual Effect Monster",
+      "frameType": "ritual",
+      "desc": "You can Ritual Summon this card with \"Contract with the Dark Master\". Once per turn: You can roll a six-sided die, then destroy all monsters your opponent controls if you roll 1 or 2, destroy 1 monster your opponent controls if you roll 3, 4 or 5, or destroy all monsters you control if you roll 6.",
+      "race": "Fiend",
+      "atk": 2700,
+      "def": 1500,
+      "level": 8,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dark-master-zorc-8120",
+      "card_sets": [
+         {
+            "set_name": "Champion Pack: Game Two",
+            "set_code": "CP02-EN010",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Crisis",
+            "set_code": "DCR-082",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "6.08"
+         },
+         {
+            "set_name": "Dark Crisis",
+            "set_code": "DCR-EN082",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Dark Revelation Volume 1",
+            "set_code": "DR1-EN244",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN123",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.53"
+         },
+         {
+            "set_name": "Millennium Pack",
+            "set_code": "MIL1-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.03"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 97642679,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97642679.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97642679.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97642679.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.40",
+            "ebay_price": "2.50",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 99030164,
+      "name": "Happy Lover",
+      "typeline": [
+         "Fairy",
+         "Normal"
+      ],
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "desc": "Enemies become overjoyed when struck by the Heart Ray emitted from the forehead of this tiny cherub.",
+      "race": "Fairy",
+      "atk": 800,
+      "def": 500,
+      "level": 2,
+      "attribute": "LIGHT",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/happy-lover-8226",
+      "card_sets": [
+         {
+            "set_name": "Champion Pack: Game Two",
+            "set_code": "CP02-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "25.71"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 99030164,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99030164.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99030164.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99030164.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "14.47",
+            "tcgplayer_price": "36.05",
+            "ebay_price": "84.95",
+            "amazon_price": "6.21",
+            "coolstuffinc_price": "23.99"
+         }
+      ]
+   },
+   {
+      "id": 40640057,
+      "name": "Kuriboh",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "During damage calculation, if your opponent's monster attacks (Quick Effect): You can discard this card; you take no battle damage from that battle.",
+      "race": "Fiend",
+      "atk": 300,
+      "def": 200,
+      "level": 1,
+      "attribute": "DARK",
+      "archetype": "Kuriboh",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/kuriboh-3456",
+      "card_sets": [
+         {
+            "set_name": "Brothers of Legend",
+            "set_code": "BROL-EN062",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.37"
+         },
+         {
+            "set_name": "Champion Pack: Game Two",
+            "set_code": "CP02-EN006",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB2-EN044",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Legends",
+            "set_code": "DLG1-EN038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.25"
+         },
+         {
+            "set_name": "Duel Terminal - Preview Wave 1",
+            "set_code": "DTP1-EN007",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Terminal 1",
+            "set_code": "DT01-EN007",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist League 2010 participation cards",
+            "set_code": "DL09-EN003",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "12.05"
+         },
+         {
+            "set_name": "Duelist Pack: Battle City",
+            "set_code": "DPBC-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Pack: Yugi",
+            "set_code": "DPYG-EN005",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.24"
+         },
+         {
+            "set_name": "Forbidden Legacy",
+            "set_code": "FL1-EN003",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "12.67"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN005",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN005",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "2.58"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN018",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-071",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "6.04"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-E071",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "17.99"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-EN071",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Millennium Pack",
+            "set_code": "MIL1-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1"
+         },
+         {
+            "set_name": "Retro Pack",
+            "set_code": "RP01-EN037",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "13.5"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Match of the Millennium",
+            "set_code": "SS04-ENA13",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.36"
+         },
+         {
+            "set_name": "Starter Deck 2006",
+            "set_code": "YSD-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Yugi Evolution",
+            "set_code": "SYE-019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.89"
+         },
+         {
+            "set_name": "Starter Deck: Yugi Reloaded",
+            "set_code": "YSYR-EN008",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.76"
+         },
+         {
+            "set_name": "Structure Deck: Yugi Muto",
+            "set_code": "SDMY-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! Advent Calendar (2019)",
+            "set_code": "AC19-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "3.79"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! Power of Chaos: Yugi the Destiny promotional cards",
+            "set_code": "PCY-005",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "66.85"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! Power of Chaos: Yugi the Destiny promotional cards",
+            "set_code": "PCY-E005",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Yugi's Legendary Decks",
+            "set_code": "YGLD-ENA22",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.46"
+         },
+         {
+            "set_name": "Yugi's Legendary Decks",
+            "set_code": "YGLD-ENB15",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.39"
+         },
+         {
+            "set_name": "Yugi's Legendary Decks",
+            "set_code": "YGLD-ENC23",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.32"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 40640057,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40640057.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40640057.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40640057.jpg"
+         },
+         {
+            "id": 40640058,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40640058.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40640058.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40640058.jpg"
+         },
+         {
+            "id": 40640059,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40640059.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40640059.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40640059.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "49.99",
+            "amazon_price": "1.45",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 28553439,
+      "name": "Magical Dimension",
+      "type": "Spell Card",
+      "humanReadableCardType": "Quick-Play Spell",
+      "frameType": "spell",
+      "desc": "If you control a Spellcaster monster: Target 1 monster you control; Tribute that target, then Special Summon 1 Spellcaster monster from your hand, then you can destroy 1 monster on the field.",
+      "race": "Quick-Play",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/magical-dimension-2428",
+      "card_sets": [
+         {
+            "set_name": "Champion Pack: Game Two",
+            "set_code": "CP02-EN011",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN075",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.44"
+         },
+         {
+            "set_name": "Legendary Decks II",
+            "set_code": "LDK2-ENY24",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.6"
+         },
+         {
+            "set_name": "Maximum Gold: El Dorado",
+            "set_code": "MGED-EN040",
+            "set_rarity": "Premium Gold Rare",
+            "set_rarity_code": "(PG)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Spellcaster's Command Structure Deck",
+            "set_code": "SDSC-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.33"
+         },
+         {
+            "set_name": "Starter Deck: Yugi Reloaded",
+            "set_code": "YSYR-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.63"
+         },
+         {
+            "set_name": "Structure Deck: Order of the Spellcasters",
+            "set_code": "SR08-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Spellcaster's Judgment",
+            "set_code": "SD6-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.23"
+         },
+         {
+            "set_name": "Turbo Pack: Booster Six",
+            "set_code": "TU06-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Turbo Pack: Booster Two",
+            "set_code": "TU02-EN003",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Yugi's Legendary Decks",
+            "set_code": "YGLD-ENB21",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.17"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 28553439,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28553439.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28553439.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28553439.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "1.15",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 98494543,
+      "name": "Magical Stone Excavation",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Discard 2 cards, then target 1 Spell in your GY; add it to your hand.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/magical-stone-excavation-8184",
+      "card_sets": [
+         {
+            "set_name": "Champion Pack: Game Two",
+            "set_code": "CP02-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "134.83"
+         },
+         {
+            "set_name": "Dragons Collide Structure Deck",
+            "set_code": "SDDC-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Pack: Battle City",
+            "set_code": "DPBC-EN035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN127",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Hero Decks",
+            "set_code": "LEHD-ENA24",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.4"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENV02",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.4"
+         },
+         {
+            "set_name": "Structure Deck: Marik (TCG)",
+            "set_code": "SDMA-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.45"
+         },
+         {
+            "set_name": "Turbo Pack: Booster Two",
+            "set_code": "TU02-EN008",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Zombie World Structure Deck",
+            "set_code": "SDZW-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 98494543,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98494543.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98494543.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98494543.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.31",
+            "ebay_price": "0.99",
+            "amazon_price": "0.84",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 31560081,
+      "name": "Magician of Faith",
+      "typeline": [
+         "Spellcaster",
+         "Flip",
+         "Effect"
+      ],
+      "type": "Flip Effect Monster",
+      "humanReadableCardType": "Flip Effect Monster",
+      "frameType": "effect",
+      "desc": "FLIP: Target 1 Spell in your GY; add that target to your hand.",
+      "race": "Spellcaster",
+      "atk": 300,
+      "def": 400,
+      "level": 1,
+      "attribute": "LIGHT",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/magician-of-faith-2683",
+      "card_sets": [
+         {
+            "set_name": "2-Player Starter Set",
+            "set_code": "STAX-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN005",
+            "set_rarity": "Mosaic Rare",
+            "set_rarity_code": "(MSR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN005",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Champion Pack: Game Two",
+            "set_code": "CP02-EN003",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB1-EN163",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB48",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Legends",
+            "set_code": "DLG1-EN034",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "4.64"
+         },
+         {
+            "set_name": "Duelist Saga",
+            "set_code": "DUSA-EN044",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "10.35"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-036",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "4.18"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-E036",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "8.17"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-EN036",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "8.59"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN090",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN090",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Retro Pack",
+            "set_code": "RP01-EN033",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "47.45"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Match of the Millennium",
+            "set_code": "SS04-ENA14",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Attack from the Deep",
+            "set_code": "SBAD-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "14.97"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENA10",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENF08",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck 2006",
+            "set_code": "YSD-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Joey",
+            "set_code": "SDJ-017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.92"
+         },
+         {
+            "set_name": "Structure Deck: Cyberse Link",
+            "set_code": "SDCL-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Order of the Spellcasters",
+            "set_code": "SR08-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Spellcaster's Judgment",
+            "set_code": "SD6-EN005",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.86"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 31560081,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31560081.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31560081.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31560081.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "5.25",
+            "amazon_price": "1.95",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 33508719,
+      "name": "Morphing Jar",
+      "typeline": [
+         "Rock",
+         "Flip",
+         "Effect"
+      ],
+      "type": "Flip Effect Monster",
+      "humanReadableCardType": "Flip Effect Monster",
+      "frameType": "effect",
+      "desc": "FLIP: Both players discard as many cards as possible from their hands, then each player draws 5 cards.",
+      "race": "Rock",
+      "atk": 700,
+      "def": 600,
+      "level": 2,
+      "attribute": "EARTH",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/morphing-jar-2843",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN173",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN173",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Champion Pack: Game Two",
+            "set_code": "CP02-EN009",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB2-EN104",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist League 2 participation cards",
+            "set_code": "DL11-EN007",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "8.36"
+         },
+         {
+            "set_name": "Gold Series 4: Pyramids Edition",
+            "set_code": "GLD4-EN007",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN121",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 9",
+            "set_code": "OP09-EN004",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 9 (POR)",
+            "set_code": "OP09-PT004",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Premium Gold",
+            "set_code": "PGLD-EN081",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "5.64"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN098",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN098",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Retro Pack 2",
+            "set_code": "RP02-EN083",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Rise of the Dragon Lords Structure Deck",
+            "set_code": "SDRL-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.03"
+         },
+         {
+            "set_name": "Tournament Pack 4",
+            "set_code": "TP4-002",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "302.91"
+         },
+         {
+            "set_name": "Tournament Pack: 2nd Season",
+            "set_code": "TP2-001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "4907.39"
+         }
+      ],
+      "banlist_info": {
+         "ban_goat": "Limited"
+      },
+      "card_images": [
+         {
+            "id": 33508719,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33508719.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33508719.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33508719.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "2.92",
+            "ebay_price": "3.65",
+            "amazon_price": "8.95",
+            "coolstuffinc_price": "3.99"
+         }
+      ]
+   },
+   {
+      "id": 22567609,
+      "name": "Nimble Momonga",
+      "typeline": [
+         "Beast",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card is destroyed by battle and sent to the Graveyard: Gain 1000 Life Points, then you can Special Summon any number of \"Nimble Momongas\" from your Deck in face-down Defense Position.",
+      "race": "Beast",
+      "atk": 1000,
+      "def": 100,
+      "level": 2,
+      "attribute": "EARTH",
+      "archetype": "Nimble",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/nimble-momonga-1940",
+      "card_sets": [
+         {
+            "set_name": "Champion Pack: Game Two",
+            "set_code": "CP02-EN002",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB1-EN051",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB40",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Legends",
+            "set_code": "DLG1-EN072",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.64"
+         },
+         {
+            "set_name": "Duel Terminal 5a",
+            "set_code": "DT05-EN008",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist League Demo 2010",
+            "set_code": "DLDI-EN002",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "26.67"
+         },
+         {
+            "set_name": "Egyptian God Deck: Obelisk the Tormentor",
+            "set_code": "EGO1-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.41"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN235",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.47"
+         },
+         {
+            "set_name": "Magic Ruler",
+            "set_code": "MRL-086",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "2.84"
+         },
+         {
+            "set_name": "Magic Ruler",
+            "set_code": "MRL-E086",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "6.47"
+         },
+         {
+            "set_name": "Retro Pack",
+            "set_code": "RP01-EN071",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "5.12"
+         },
+         {
+            "set_name": "Spell Ruler",
+            "set_code": "SRL-086",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "2.4"
+         },
+         {
+            "set_name": "Spell Ruler",
+            "set_code": "SRL-EN086",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "4.71"
+         },
+         {
+            "set_name": "Tournament Pack 4",
+            "set_code": "TP4-014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.45"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 22567609,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22567609.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22567609.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22567609.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "2.22",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 77044671,
+      "name": "Pyramid Turtle",
+      "typeline": [
+         "Zombie",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card is destroyed by battle and sent to the GY: You can Special Summon 1 Zombie monster with 2000 or less DEF from your Deck.",
+      "race": "Zombie",
+      "atk": 1200,
+      "def": 1400,
+      "level": 4,
+      "attribute": "EARTH",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/pyramid-turtle-6484",
+      "card_sets": [
+         {
+            "set_name": "Champion Pack: Game Two",
+            "set_code": "CP02-EN004",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB2-EN225",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.56"
+         },
+         {
+            "set_name": "Duelist League 2 participation cards",
+            "set_code": "DL11-EN008",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "8.35"
+         },
+         {
+            "set_name": "Gold Series: Haunted Mine",
+            "set_code": "GLD5-EN003",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN245",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN189",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Pharaonic Guardian",
+            "set_code": "PGD-026",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "3.38"
+         },
+         {
+            "set_name": "Structure Deck: Zombie Horde",
+            "set_code": "SR07-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Zombie Madness",
+            "set_code": "SD2-EN005",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.66"
+         },
+         {
+            "set_name": "Tournament Pack 5",
+            "set_code": "TP5-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Zombie World Structure Deck",
+            "set_code": "SDZW-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 77044671,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77044671.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77044671.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77044671.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.38",
+            "tcgplayer_price": "0.50",
+            "ebay_price": "5.49",
+            "amazon_price": "1.25",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 83555666,
+      "name": "Ring of Destruction",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "During your opponent's turn: Target 1 face-up monster your opponent controls whose ATK is less than or equal to their LP; destroy that face-up monster, and if you do, take damage equal to its original ATK, then inflict damage to your opponent, equal to the damage you took. You can only activate 1 \"Ring of Destruction\" per turn.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/ring-of-destruction-7013",
+      "card_sets": [
+         {
+            "set_name": "25th Anniversary Ultimate Kaiba Set",
+            "set_code": "KC01-EN055",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN050",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN050",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Champion Pack: Game Two",
+            "set_code": "CP02-EN008",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Pack: Kaiba",
+            "set_code": "DPKB-EN036",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Invasion of Chaos: Special Edition",
+            "set_code": "IOC-SE3",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "5.36"
+         },
+         {
+            "set_name": "Legendary Collection Kaiba Mega Pack",
+            "set_code": "LCKC-EN050",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Millennium Pack",
+            "set_code": "MIL1-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.03"
+         },
+         {
+            "set_name": "Pharaonic Guardian",
+            "set_code": "PGD-000",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "58.32"
+         },
+         {
+            "set_name": "Premium Gold: Return of the Bling",
+            "set_code": "PGL2-EN063",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "2.38"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN119",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN119",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Retro Pack 2",
+            "set_code": "RP02-EN066",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Link Strike",
+            "set_code": "YS17-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Seto Kaiba",
+            "set_code": "SDKS-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.96"
+         },
+         {
+            "set_name": "The Lost Art Promotion (series)",
+            "set_code": "LART-EN007",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Lost Art Promotion G",
+            "set_code": "LART-EN007",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         }
+      ],
+      "banlist_info": {
+         "ban_goat": "Limited"
+      },
+      "card_images": [
+         {
+            "id": 83555666,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83555666.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83555666.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83555666.jpg"
+         },
+         {
+            "id": 83555667,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83555667.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83555667.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83555667.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.57",
+            "tcgplayer_price": "0.97",
+            "ebay_price": "2.40",
+            "amazon_price": "1.85",
+            "coolstuffinc_price": "0.99"
+         }
+      ]
+   },
+   {
+      "id": 70046172,
+      "name": "Rush Recklessly",
+      "type": "Spell Card",
+      "humanReadableCardType": "Quick-Play Spell",
+      "frameType": "spell",
+      "desc": "Target 1 face-up monster on the field; it gains 700 ATK until the end of this turn.",
+      "race": "Quick-Play",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/rush-recklessly-5890",
+      "card_sets": [
+         {
+            "set_name": "2-Player Starter Deck: Yuya & Declan",
+            "set_code": "YS15-ENY14",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.2"
+         },
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN133",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN133",
+            "set_rarity": "Mosaic Rare",
+            "set_rarity_code": "(MSR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN134",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN134",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Champion Pack: Game Two",
+            "set_code": "CP02-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB1-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Legion Starter Deck",
+            "set_code": "YS15-ENL18",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.11"
+         },
+         {
+            "set_name": "Duel Terminal 3",
+            "set_code": "DT03-EN041",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Magic Ruler",
+            "set_code": "MRL-043",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.63"
+         },
+         {
+            "set_name": "Magic Ruler",
+            "set_code": "MRL-E043",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "4.85"
+         },
+         {
+            "set_name": "Saber Force Starter Deck",
+            "set_code": "YS15-ENF17",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.3"
+         },
+         {
+            "set_name": "Spell Ruler",
+            "set_code": "SRL-043",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.15"
+         },
+         {
+            "set_name": "Spell Ruler",
+            "set_code": "SRL-EN043",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "2.24"
+         },
+         {
+            "set_name": "Starter Deck: Jaden Yuki",
+            "set_code": "YSDJ-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.24"
+         },
+         {
+            "set_name": "Starter Deck: Kaiba Evolution",
+            "set_code": "SKE-036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.67"
+         },
+         {
+            "set_name": "Starter Deck: Kaiba Reloaded",
+            "set_code": "YSKR-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.22"
+         },
+         {
+            "set_name": "Starter Deck: Pegasus",
+            "set_code": "SDP-033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.48"
+         },
+         {
+            "set_name": "Starter Deck: Syrus Truesdale",
+            "set_code": "YSDS-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.24"
+         },
+         {
+            "set_name": "Starter Deck: Yu-Gi-Oh! 5D's",
+            "set_code": "5DS1-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Yu-Gi-Oh! 5D's 2009",
+            "set_code": "5DS2-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Tournament Pack 4",
+            "set_code": "TP4-010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.35"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 70046172,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70046172.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70046172.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70046172.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "1.50",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 97169186,
+      "name": "Smashing Ground",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Destroy the 1 face-up monster your opponent controls that has the highest DEF (your choice, if tied).",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/smashing-ground-8084",
+      "card_sets": [
+         {
+            "set_name": "2-Player Starter Deck: Yuya & Declan",
+            "set_code": "YS15-END12",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "9.74"
+         },
+         {
+            "set_name": "Champion Pack: Game Two",
+            "set_code": "CP02-EN005",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Legion Starter Deck",
+            "set_code": "YS15-ENL15",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "2.06"
+         },
+         {
+            "set_name": "Dark Revelation Volume 2",
+            "set_code": "DR2-EN094",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Terminal 3",
+            "set_code": "DT03-EN043",
+            "set_rarity": "Duel Terminal Rare Parallel Rare",
+            "set_rarity_code": "(DRPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Geargia Rampage Structure Deck",
+            "set_code": "SDGR-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.77"
+         },
+         {
+            "set_name": "Gold Series 3",
+            "set_code": "GLD3-EN042",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Invasion of Chaos",
+            "set_code": "IOC-093",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "4.44"
+         },
+         {
+            "set_name": "Invasion of Chaos",
+            "set_code": "IOC-EN093",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Invasion of Chaos",
+            "set_code": "IOC-EN093",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN275",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Lost Sanctuary Structure Deck",
+            "set_code": "SDLS-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.5"
+         },
+         {
+            "set_name": "Premium Gold: Return of the Bling",
+            "set_code": "PGL2-EN075",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN135",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN135",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Saber Force Starter Deck",
+            "set_code": "YS15-ENF14",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "2.54"
+         },
+         {
+            "set_name": "Starter Deck: Jaden Yuki",
+            "set_code": "YSDJ-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.07"
+         },
+         {
+            "set_name": "Starter Deck: Syrus Truesdale",
+            "set_code": "YSDS-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.4"
+         },
+         {
+            "set_name": "Starter Deck: Yu-Gi-Oh! 5D's",
+            "set_code": "5DS1-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 97169186,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97169186.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97169186.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97169186.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.29",
+            "tcgplayer_price": "0.50",
+            "ebay_price": "4.49",
+            "amazon_price": "3.93",
+            "coolstuffinc_price": "0.99"
+         }
+      ]
+   },
+   {
+      "id": 60764581,
+      "name": "Stray Lambs",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Special Summon 2 \"Lamb Tokens\" (Beast/EARTH/Level 1/ATK 0/DEF 0) in Defense Position. You cannot Summon other monsters the turn you activate this card (but you can Set).",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/stray-lambs-5157",
+      "card_sets": [
+         {
+            "set_name": "Champion Pack: Game Two",
+            "set_code": "CP02-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Revelation Volume 2",
+            "set_code": "DR2-EN093",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Invasion of Chaos",
+            "set_code": "IOC-092",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "2.71"
+         },
+         {
+            "set_name": "Invasion of Chaos",
+            "set_code": "IOC-EN092",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN274",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.24"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN289",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Duelists of Tomorrow",
+            "set_code": "SS02-ENB12",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.19"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 60764581,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60764581.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60764581.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60764581.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "1.95",
+            "amazon_price": "0.59",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 73628505,
+      "name": "Terraforming",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Add 1 Field Spell from your Deck to your hand.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/terraforming-6182",
+      "card_sets": [
+         {
+            "set_name": "Astral Pack One",
+            "set_code": "AP01-EN009",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN087",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battles of Legend: Monstrous Revenge",
+            "set_code": "BLMR-EN087",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Champion Pack: Game Two",
+            "set_code": "CP02-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Revelation Volume 1",
+            "set_code": "DR1-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dinosmasher's Fury Structure Deck",
+            "set_code": "SR04-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Overload",
+            "set_code": "DUOV-EN088",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "4.08"
+         },
+         {
+            "set_name": "Gates of the Underworld Structure Deck",
+            "set_code": "SDGU-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.31"
+         },
+         {
+            "set_name": "Geargia Rampage Structure Deck",
+            "set_code": "SDGR-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.31"
+         },
+         {
+            "set_name": "Legendary Collection Kaiba Mega Pack",
+            "set_code": "LCKC-EN090",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Dragon Decks",
+            "set_code": "LEDD-ENC21",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.66"
+         },
+         {
+            "set_name": "Legendary Hero Decks",
+            "set_code": "LEHD-ENA25",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.56"
+         },
+         {
+            "set_name": "Lost Sanctuary Structure Deck",
+            "set_code": "SDLS-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.41"
+         },
+         {
+            "set_name": "Machine Reactor Structure Deck",
+            "set_code": "SR03-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Master of Pendulum Structure Deck",
+            "set_code": "SDMP-EN035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.49"
+         },
+         {
+            "set_name": "Maximum Gold",
+            "set_code": "MAGO-EN141",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 5",
+            "set_code": "OP05-EN003",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Pharaonic Guardian",
+            "set_code": "PGD-088",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.22"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN084",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN084",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN084",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN084",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN084",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN084",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Realm of the Sea Emperor Structure Deck",
+            "set_code": "SDRE-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.32"
+         },
+         {
+            "set_name": "Rise of the Dragon Lords Structure Deck",
+            "set_code": "SDRL-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.6"
+         },
+         {
+            "set_name": "Rise of the True Dragons Structure Deck",
+            "set_code": "SR02-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Spellcaster's Command Structure Deck",
+            "set_code": "SDSC-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.39"
+         },
+         {
+            "set_name": "Starter Deck: Link Strike",
+            "set_code": "YS17-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Order of the Spellcasters",
+            "set_code": "SR08-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Powercode Link",
+            "set_code": "SDPL-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.36"
+         },
+         {
+            "set_name": "Structure Deck: Spirit Charmers",
+            "set_code": "SDCH-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.9"
+         },
+         {
+            "set_name": "Turbo Pack: Booster One",
+            "set_code": "TU01-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Valiant Smashers",
+            "set_code": "VASM-EN013",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Zombie World Structure Deck",
+            "set_code": "SDZW-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "banlist_info": {
+         "ban_tcg": "Limited",
+         "ban_ocg": "Limited"
+      },
+      "card_images": [
+         {
+            "id": 73628505,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73628505.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73628505.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73628505.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "6.95",
+            "amazon_price": "0.96",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 31786629,
+      "name": "Thunder Dragon",
+      "typeline": [
+         "Thunder",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can discard this card; add up to 2 \"Thunder Dragon\" from your Deck to your hand.",
+      "race": "Thunder",
+      "atk": 1600,
+      "def": 1500,
+      "level": 5,
+      "attribute": "LIGHT",
+      "archetype": "Thunder Dragon",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/thunder-dragon-2698",
+      "card_sets": [
+         {
+            "set_name": "Champion Pack: Game Two",
+            "set_code": "CP02-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB-EN84",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB2-EN058",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Legends",
+            "set_code": "DLG1-EN041",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.93"
+         },
+         {
+            "set_name": "Hidden Summoners",
+            "set_code": "HISU-EN046",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "4.42"
+         },
+         {
+            "set_name": "Legendary Collection Kaiba Mega Pack",
+            "set_code": "LCKC-EN067",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-097",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "3.67"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-E097",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "11.02"
+         },
+         {
+            "set_name": "Metal Raiders",
+            "set_code": "MRD-EN097",
+            "set_rarity": "Short Print",
+            "set_rarity_code": "(SP)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Retro Pack",
+            "set_code": "RP01-EN040",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "7.74"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 31786629,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31786629.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31786629.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31786629.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "2.50",
+            "tcgplayer_price": "2.15",
+            "ebay_price": "6.95",
+            "amazon_price": "5.95",
+            "coolstuffinc_price": "3.99"
+         }
+      ]
+   },
+   {
+      "id": 43586926,
+      "name": "Twin-Headed Behemoth",
+      "typeline": [
+         "Dragon",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "During the End Phase, if this card is in the GY because it was destroyed on the field and sent there this turn: You can Special Summon this card, but its ATK/DEF become 1000. You can only use this effect of \"Twin-Headed Behemoth\" once per Duel.",
+      "race": "Dragon",
+      "atk": 1500,
+      "def": 1200,
+      "level": 3,
+      "attribute": "WIND",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/twin-headed-behemoth-3719",
+      "card_sets": [
+         {
+            "set_name": "Astral Pack Eight",
+            "set_code": "AP08-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.18"
+         },
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN017",
+            "set_rarity": "Mosaic Rare",
+            "set_rarity_code": "(MSR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN179",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN179",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Champion Pack: Game Two",
+            "set_code": "CP02-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Beginning 2",
+            "set_code": "DB2-EN174",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.23"
+         },
+         {
+            "set_name": "Dragunity Legion Structure Deck",
+            "set_code": "SDDL-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legacy of Darkness",
+            "set_code": "LOD-063",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "4.01"
+         },
+         {
+            "set_name": "Legacy of Darkness",
+            "set_code": "LOD-EN063",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Rise of the Dragon Lords Structure Deck",
+            "set_code": "SDRL-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.19"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Duelists of Tomorrow",
+            "set_code": "SS02-ENA06",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.1"
+         },
+         {
+            "set_name": "Speed Duel Tournament Pack 5",
+            "set_code": "STP5-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Kaiba Reloaded",
+            "set_code": "YSKR-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.32"
+         },
+         {
+            "set_name": "Structure Deck: Dragon's Roar",
+            "set_code": "SD1-EN004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.21"
+         },
+         {
+            "set_name": "Structure Deck: Yugi Muto",
+            "set_code": "SDMY-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "banlist_info": {
+         "ban_goat": "Limited"
+      },
+      "card_images": [
+         {
+            "id": 43586926,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43586926.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43586926.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43586926.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   }
+]
