@@ -139,14 +139,23 @@ const removeCardsFromCollection = (
       const exactSameSetName = deck.deck
         .toLowerCase()
         .trim()
-        .includes(String(collectionCard["Set"] || "").toLowerCase().trim());
+        .includes(
+          String(collectionCard["Set"] || "")
+            .toLowerCase()
+            .trim()
+        );
       const setMatchesLegendaryHeroDecks =
         deck.deck.toLocaleLowerCase().trim().includes("legendary hero") &&
-        String(collectionCard.Set || "").toLowerCase().trim().includes("legendary hero");
+        String(collectionCard.Set || "")
+          .toLowerCase()
+          .trim()
+          .includes("legendary hero");
       const sameSet = exactSameSetName || setMatchesLegendaryHeroDecks;
       const sameDeck =
         deck.deck.toLowerCase().trim() ===
-        String(collectionCard["In Deck"] || "").toLowerCase().trim();
+        String(collectionCard["In Deck"] || "")
+          .toLowerCase()
+          .trim();
 
       if (onlyRemoveIfSameDeck) {
         return sameName && sameDeck;
@@ -299,7 +308,10 @@ const getCardsMissingForStructureDecks = async ({
           deck,
           set
         );
-        const filteredDeck = getDeckFilteredByBanlist(deckWithCardsMultiplied, banlist);
+        const filteredDeck = getDeckFilteredByBanlist(
+          deckWithCardsMultiplied,
+          banlist
+        );
         return {
           ...filteredDeck,
           cardsMissing: [],
