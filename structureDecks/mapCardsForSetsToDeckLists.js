@@ -27,7 +27,7 @@ structureDeckSet.map((structureDeck) => {
 
   // TODO: Replace fs.writeFile with fs.writeFileSync for consistency
   fs.writeFile(
-    `./formats/structure/${structureDeck.deck}`,
+    `./formats/structure/${structureDeck.deck}.txt`,
     structureDeck.cards.join("\n"),
     function (err) {
       // console.error(err);
