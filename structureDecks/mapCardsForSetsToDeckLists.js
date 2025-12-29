@@ -7,9 +7,10 @@ const {
 const fs = require("fs");
 
 const structureDeckSet = cardsInStructureDecks.map((deck) => {
-  const banlist = getClosestMatchingBanList(new Date(deck.date));
+  // const banlist = getClosestMatchingBanList(new Date(deck.date));
   const deckWithCardsMultiplied = getSetsOfCardsInStructureDeck(deck, 3);
-  return getDeckFilteredByBanlist(deckWithCardsMultiplied, banlist);
+  return deckWithCardsMultiplied;
+  // return getDeckFilteredByBanlist(deckWithCardsMultiplied, banlist);
 });
 
 // TODO: Replace fs.writeFile with fs.writeFileSync for consistency
