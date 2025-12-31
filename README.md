@@ -91,3 +91,84 @@ They can then be used by `buildDeck` to generate built files
 ```
 node ./structureDecks/mapCardsForSetsToDeckLists.js
 ```
+
+# Formats
+
+## Goat
+
+16-08-2005
+
+1,448 rare and common cards in collection and not in decks
+
+3,936 total cards in collection
+
+## Edison
+
+25-04-2010
+
+2,602 rare and common cards in collection and not in decks
+1,154 more cards than Goat
+
+7,638 total cards in collection
+5,036 more cards than Goat
+
+## HAT
+
+08-07-2014
+
+3,593 rare and common cards in collection and not in decks
+991 more cards than Edison
+
+9,947 total cards in collection
+2,309 more cards than Edison
+
+
+# By date
+
+## 2003
+
+1,345
+
+## 2004
+
+1,371
+
+## 2005
+
+920
+
+## 2006
+
+708
+
+## 2007
+
+595
+
+## 2008
+
+1,058
+
+## 2009
+
+964
+
+## 2010
+
+539
+
+## 2011
+
+812
+
+## 2012
+
+610
+
+## 2013
+
+353
+
+## 2014
+
+309
