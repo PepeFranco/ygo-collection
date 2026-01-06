@@ -6,6 +6,7 @@
     "test": "jest",
     "generate:types": "npx tsx scripts/generateTypes.ts",
     "collection:add-card": "tsx collection/addCardCli.ts",
+    "collection:delete-card": "tsx collection/deleteCardCli.ts",
     "collection:download": "npx tsx collection/gdrive/downloadCollectionFromGDrive.ts",
     "collection:fill": "tsx collection/fillCollectionWithData.ts",
     "collection:upload": "node collection/gdrive/uploadCollection.js",

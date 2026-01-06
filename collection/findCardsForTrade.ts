@@ -4,6 +4,8 @@ import fs from "node:fs";
 import path from "node:path";
 import _ from "lodash";
 
+const setsToKeep = [];
+
 const sdFiles = fs
   .readdirSync(path.join(__dirname, "../formats/structure"))
   .filter((fileName) => fileName.includes(".txt"));
@@ -50,9 +52,9 @@ console.log("-> After removing cards from HAT, Edison & Goat");
 console.log(`There are ${collectionCopy.length} cards in collection`);
 
 // Remove commons & rares
-collectionCopy = collectionCopy.filter(
-  (card) => card["Rarity"] !== "Common" && card["Rarity"] !== "Rare"
-);
+// collectionCopy = collectionCopy.filter(
+//   (card) => card["Rarity"] !== "Common" && card["Rarity"] !== "Rare"
+// );
 
 console.log("-> After removing commons and rares");
 console.log(`There are ${collectionCopy.length} cards in collection`);
