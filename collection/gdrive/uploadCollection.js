@@ -38,36 +38,6 @@ const mainFunction = async () => {
     "# of cards missing",
   ]);
 
-  // const missingRows1 = cardsFor1Sets.reduce(
-  //   (accumulator, currentValue) => [
-  //     ...accumulator,
-  //     ...currentValue.cardsMissing.map((cardName) => ({
-  //       Card: cardName,
-  //       Deck: currentValue.deck,
-  //       Date: currentValue.date,
-  //       "Set of": 1,
-  //       "# of cards missing": currentValue.cardsMissing.length,
-  //     })),
-  //   ],
-  //   []
-  // );
-  // await missingCardsSheet.addRows(missingRows1);
-
-  // const missingRows2 = cardsFor2Sets.reduce(
-  //   (accumulator, currentValue) => [
-  //     ...accumulator,
-  //     ...currentValue.cardsMissing.map((cardName) => ({
-  //       Card: cardName,
-  //       Deck: currentValue.deck,
-  //       Date: currentValue.date,
-  //       "Set of": 2,
-  //       "# of cards missing": currentValue.cardsMissing.length,
-  //     })),
-  //   ],
-  //   []
-  // );
-  // await missingCardsSheet.addRows(missingRows2);
-
   const missingRows3 = cardsFor3Sets.reduce(
     (accumulator, currentValue) => [
       ...accumulator,

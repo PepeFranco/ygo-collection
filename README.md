@@ -31,22 +31,17 @@ Manually copy the file under `data/cardsets.json`
 
 # Structure decks
 
-There are 2 approaches to get which cards are missing to complete 3 sets of each structure decks
+The scripts will output which cards are required to complete 3 sets of each Structure Deck, plus Chronicles deck and some Legendary Decks.
 
-## For both approaches
+## Generate lists of sets
 
-### Download structure deck lists
-
-Generates `cardsInStructureDecks.json`
-List of each individual card in each deck
-
-YGO Pro API may not have complete lists on all decks
-This means missing lists may be incomplete
-And cards may incorrectly be marked as not to keep
+The following script will look through `data/cardsets.json` and find all the sets that are structure decks. 
 
 ```
-yarn structure:download-lists
+yarn tsx structureDecks/getStructureSets.tsx
 ```
+
+It will output `data/structureDecks/cardsets.json`. After that the data has to be manually maintained cause YGO Pro API does not have Chronicles deck on its data yet.
 
 ## Approach 1 
 

@@ -1,0 +1,461 @@
+[
+  {
+    "set_name": "Cyber Dragon Revolution Structure Deck",
+    "set_code": "SDCR",
+    "num_of_cards": 38,
+    "tcg_date": "2014-02-06",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDCR.jpg"
+  },
+  {
+    "set_name": "Dinosmasher's Fury Structure Deck",
+    "set_code": "SR04",
+    "num_of_cards": 39,
+    "tcg_date": "2017-04-13",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SR04.jpg"
+  },
+  {
+    "set_name": "Dragons Collide Structure Deck",
+    "set_code": "SDDC",
+    "num_of_cards": 40,
+    "tcg_date": "2012-02-03",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDDC.jpg"
+  },
+  {
+    "set_name": "Dragunity Legion Structure Deck",
+    "set_code": "SDDL",
+    "num_of_cards": 39,
+    "tcg_date": "2011-03-04",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDDL.jpg"
+  },
+  {
+    "set_name": "Emperor of Darkness Structure Deck",
+    "set_code": "SR01",
+    "num_of_cards": 41,
+    "tcg_date": "2016-01-28",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SR01.jpg"
+  },
+  {
+    "set_name": "Gates of the Underworld Structure Deck",
+    "set_code": "SDGU",
+    "num_of_cards": 39,
+    "tcg_date": "2011-10-13",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDGU.jpg"
+  },
+  {
+    "set_name": "Geargia Rampage Structure Deck",
+    "set_code": "SDGR",
+    "num_of_cards": 35,
+    "tcg_date": "2014-10-16",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDGR.jpg"
+  },
+  {
+    "set_name": "HERO Strike Structure Deck",
+    "set_code": "SDHS",
+    "num_of_cards": 45,
+    "tcg_date": "2015-01-29",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDHS.jpg"
+  },
+  {
+    "set_name": "Lost Sanctuary Structure Deck",
+    "set_code": "SDLS",
+    "num_of_cards": 38,
+    "tcg_date": "2011-06-10",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDLS.jpg"
+  },
+  {
+    "set_name": "Machina Mayhem Structure Deck",
+    "set_code": "SDMM",
+    "num_of_cards": 37,
+    "tcg_date": "2010-02-19",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDMM.jpg"
+  },
+  {
+    "set_name": "Machine Reactor Structure Deck",
+    "set_code": "SR03",
+    "num_of_cards": 40,
+    "tcg_date": "2017-04-13",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SR03.jpg"
+  },
+  {
+    "set_name": "Master of Pendulum Structure Deck",
+    "set_code": "SDMP",
+    "num_of_cards": 43,
+    "tcg_date": "2015-12-03",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDMP.jpg"
+  },
+  {
+    "set_name": "Onslaught of the Fire Kings Structure Deck",
+    "set_code": "SDOK",
+    "num_of_cards": 39,
+    "tcg_date": "2013-02-08",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDOK.jpg"
+  },
+  {
+    "set_name": "Pendulum Domination Structure Deck",
+    "set_code": "SDPD",
+    "num_of_cards": 43,
+    "tcg_date": "2017-01-19",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDPD.jpg"
+  },
+  {
+    "set_name": "Realm of Light Structure Deck",
+    "set_code": "SDLI",
+    "num_of_cards": 36,
+    "tcg_date": "2014-06-27",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDLI.jpg"
+  },
+  {
+    "set_name": "Realm of the Sea Emperor Structure Deck",
+    "set_code": "SDRE",
+    "num_of_cards": 39,
+    "tcg_date": "2012-10-11",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDRE.jpg"
+  },
+  {
+    "set_name": "Rise of the Dragon Lords Structure Deck",
+    "set_code": "SDRL",
+    "num_of_cards": 37,
+    "tcg_date": "2007-10-24",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDRL.jpg"
+  },
+  {
+    "set_name": "Rise of the True Dragons Structure Deck",
+    "set_code": "SR02",
+    "num_of_cards": 41,
+    "tcg_date": "2016-07-07",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SR02.jpg"
+  },
+  {
+    "set_name": "Saga of Blue-Eyes White Dragon Structure Deck",
+    "set_code": "SDBE",
+    "num_of_cards": 40,
+    "tcg_date": "2013-09-12",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDBE.jpg"
+  },
+  {
+    "set_name": "Samurai Warlords Structure Deck",
+    "set_code": "SDWA",
+    "num_of_cards": 41,
+    "tcg_date": "2012-06-21",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDWA.jpg"
+  },
+  {
+    "set_name": "Spellcaster's Command Structure Deck",
+    "set_code": "SDSC",
+    "num_of_cards": 38,
+    "tcg_date": "2009-03-31",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDSC.jpg"
+  },
+  {
+    "set_name": "Structure Deck: Albaz Strike",
+    "set_code": "SDAZ",
+    "num_of_cards": 46,
+    "tcg_date": "2022-04-14",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDAZ.jpg"
+  },
+  {
+    "set_name": "Structure Deck: Beware of Traptrix",
+    "set_code": "SDBT",
+    "num_of_cards": 46,
+    "tcg_date": "2023-02-23",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDBT.jpg"
+  },
+  {
+    "set_name": "Structure Deck: Blaze of Destruction",
+    "set_code": "SD3",
+    "num_of_cards": 31,
+    "tcg_date": "2005-05-09",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SD3.jpg"
+  },
+  {
+    "set_name": "Structure Deck: Blue-Eyes White Destiny",
+    "set_code": "SDWD",
+    "num_of_cards": 43,
+    "tcg_date": "2025-02-13",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDWD.jpg"
+  },
+  {
+    "set_name": "Structure Deck: Cyber Strike",
+    "set_code": "SDCS",
+    "num_of_cards": 48,
+    "tcg_date": "2021-10-14",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDCS.jpg"
+  },
+  {
+    "set_name": "Structure Deck: Cyberse Link",
+    "set_code": "SDCL",
+    "num_of_cards": 43,
+    "tcg_date": "2017-11-02",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDCL.jpg"
+  },
+  {
+    "set_name": "Structure Deck: Dark World",
+    "set_code": "SR13",
+    "num_of_cards": 45,
+    "tcg_date": "2022-12-01",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SR13.jpg"
+  },
+  {
+    "set_name": "Structure Deck: Dinosaur's Rage",
+    "set_code": "SD09",
+    "num_of_cards": 36,
+    "tcg_date": "2006-10-20",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SD09.jpg"
+  },
+  {
+    "set_name": "Structure Deck: Dragon's Roar",
+    "set_code": "SD1",
+    "num_of_cards": 28,
+    "tcg_date": "2005-01-01",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SD1.jpg"
+  },
+  {
+    "set_name": "Structure Deck: Fire Kings",
+    "set_code": "SR14",
+    "num_of_cards": 48,
+    "tcg_date": "2023-12-07",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SR14.jpg"
+  },
+  {
+    "set_name": "Structure Deck: Freezing Chains",
+    "set_code": "SDFC",
+    "num_of_cards": 46,
+    "tcg_date": "2021-02-18",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDFC.jpg"
+  },
+  {
+    "set_name": "Structure Deck: Fury from the Deep",
+    "set_code": "SD4",
+    "num_of_cards": 32,
+    "tcg_date": "2005-05-09",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SD4.jpg"
+  },
+  {
+    "set_name": "Structure Deck: Invincible Fortress",
+    "set_code": "SD7",
+    "num_of_cards": 32,
+    "tcg_date": "2006-05-15",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SD7.jpg"
+  },
+  {
+    "set_name": "Structure Deck: Lair of Darkness",
+    "set_code": "SR06",
+    "num_of_cards": 42,
+    "tcg_date": "2018-04-19",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SR06.jpg"
+  },
+  {
+    "set_name": "Structure Deck: Legend of the Crystal Beasts",
+    "set_code": "SDCB",
+    "num_of_cards": 46,
+    "tcg_date": "2022-09-29",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDCB.jpg"
+  },
+  {
+    "set_name": "Structure Deck: Lord of the Storm",
+    "set_code": "SD8",
+    "num_of_cards": 36,
+    "tcg_date": "2006-07-12",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SD8.jpg"
+  },
+  {
+    "set_name": "Structure Deck: Machine Re-Volt",
+    "set_code": "SD10",
+    "num_of_cards": 37,
+    "tcg_date": "2007-01-17",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SD10.jpg"
+  },
+  {
+    "set_name": "Structure Deck: Marik (TCG)",
+    "set_code": "SDMA",
+    "num_of_cards": 38,
+    "tcg_date": "2010-10-15",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDMA.jpg"
+  },
+  {
+    "set_name": "Structure Deck: Mechanized Madness",
+    "set_code": "SR10",
+    "num_of_cards": 41,
+    "tcg_date": "2020-04-16",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SR10.jpg"
+  },
+  {
+    "set_name": "Structure Deck: Order of the Spellcasters",
+    "set_code": "SR08",
+    "num_of_cards": 41,
+    "tcg_date": "2019-04-19",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SR08.jpg"
+  },
+  {
+    "set_name": "Structure Deck: Powercode Link",
+    "set_code": "SDPL",
+    "num_of_cards": 42,
+    "tcg_date": "2018-08-09",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDPL.jpg"
+  },
+  {
+    "set_name": "Structure Deck: Rokket Revolt",
+    "set_code": "SDRR",
+    "num_of_cards": 46,
+    "tcg_date": "2019-08-15",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDRR.jpg"
+  },
+  {
+    "set_name": "Structure Deck: Sacred Beasts",
+    "set_code": "SDSA",
+    "num_of_cards": 48,
+    "tcg_date": "2020-07-09",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDSA.jpg"
+  },
+  {
+    "set_name": "Structure Deck: Seto Kaiba",
+    "set_code": "SDKS",
+    "num_of_cards": 44,
+    "tcg_date": "2016-10-20",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDKS.jpg"
+  },
+  {
+    "set_name": "Structure Deck: Shaddoll Showdown",
+    "set_code": "SDSH",
+    "num_of_cards": 49,
+    "tcg_date": "2020-02-13",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDSH.jpg"
+  },
+  {
+    "set_name": "Structure Deck: Soulburner",
+    "set_code": "SDSB",
+    "num_of_cards": 45,
+    "tcg_date": "2019-02-14",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDSB.jpg"
+  },
+  {
+    "set_name": "Structure Deck: Spellcaster's Judgment",
+    "set_code": "SD6",
+    "num_of_cards": 36,
+    "tcg_date": "2006-01-18",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SD6.jpg"
+  },
+  {
+    "set_name": "Structure Deck: Spirit Charmers",
+    "set_code": "SDCH",
+    "num_of_cards": 41,
+    "tcg_date": "2020-10-22",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDCH.jpg"
+  },
+  {
+    "set_name": "Structure Deck: The Crimson King",
+    "set_code": "SDCK",
+    "num_of_cards": 49,
+    "tcg_date": "2023-09-21",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDCK.jpg"
+  },
+  {
+    "set_name": "Structure Deck: Warrior's Triumph",
+    "set_code": "SD5",
+    "num_of_cards": 36,
+    "tcg_date": "2005-10-28",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SD5.jpg"
+  },
+  {
+    "set_name": "Structure Deck: Wave of Light",
+    "set_code": "SR05",
+    "num_of_cards": 42,
+    "tcg_date": "2018-01-18",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SR05.jpg"
+  },
+  {
+    "set_name": "Structure Deck: Yugi Muto",
+    "set_code": "SDMY",
+    "num_of_cards": 45,
+    "tcg_date": "2016-10-20",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDMY.jpg"
+  },
+  {
+    "set_name": "Structure Deck: Zombie Horde",
+    "set_code": "SR07",
+    "num_of_cards": 42,
+    "tcg_date": "2018-11-01",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SR07.jpg"
+  },
+  {
+    "set_name": "Structure Deck: Zombie Madness",
+    "set_code": "SD2",
+    "num_of_cards": 28,
+    "tcg_date": "2005-01-01",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SD2.jpg"
+  },
+  {
+    "set_name": "Synchron Extreme Structure Deck",
+    "set_code": "SDSE",
+    "num_of_cards": 43,
+    "tcg_date": "2015-08-27",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDSE.jpg"
+  },
+  {
+    "set_name": "The Dark Emperor Structure Deck",
+    "set_code": "SDDE",
+    "num_of_cards": 36,
+    "tcg_date": "2008-04-02",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDDE.jpg"
+  },
+  {
+    "set_name": "Warriors' Strike Structure Deck",
+    "set_code": "SDWS",
+    "num_of_cards": 38,
+    "tcg_date": "2009-10-23",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDWS.jpg"
+  },
+  {
+    "set_name": "Zombie World Structure Deck",
+    "set_code": "SDZW",
+    "num_of_cards": 37,
+    "tcg_date": "2008-10-21",
+    "set_image": "https://images.ygoprodeck.com/images/sets/SDZW.jpg"
+  },
+  {
+    "set_name": "Legendary Hero Decks - Destiny HERO",
+    "set_code": "LEHD",
+    "num_of_cards": 117,
+    "tcg_date": "2018-10-04",
+    "set_image": "https://images.ygoprodeck.com/images/sets/LEHD.jpg"
+  },
+  {
+    "set_name": "Legendary Hero Decks - Aesir",
+    "set_code": "LEHD",
+    "num_of_cards": 117,
+    "tcg_date": "2018-10-04",
+    "set_image": "https://images.ygoprodeck.com/images/sets/LEHD.jpg"
+  },
+  {
+    "set_name": "Legendary Hero Decks - Phantom Knights",
+    "set_code": "LEHD",
+    "num_of_cards": 117,
+    "tcg_date": "2018-10-04",
+    "set_image": "https://images.ygoprodeck.com/images/sets/LEHD.jpg"
+  },
+  {
+    "set_name": "Legendary 5D's Decks - Akiza",
+    "set_code": "L5DD",
+    "tcg_date": "2025-11-06"
+  },
+  {
+    "set_name": "Legendary 5D's Decks - Crow",
+    "set_code": "L5DD",
+    "tcg_date": "2025-11-06"
+  },
+  {
+    "set_name": "Legendary 5D's Decks - Yusei",
+    "set_code": "L5DD",
+    "tcg_date": "2025-11-06"
+  },
+  {
+    "set_name": "THE CHRONICLES DECK: The Fallen & The Virtuous",
+    "set_code": "CH01",
+    "tcg_date": "2025-10-24"
+  },
+  {
+    "set_name": "THE CHRONICLES DECK: Spirit Charmers",
+    "set_code": "CH02",
+    "tcg_date": "2026-01-24"
+  }
+]
