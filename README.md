@@ -78,8 +78,9 @@ It will generate `data/structureDecks/missingCards.json`
 yarn tsx structureDecks/getMissingCards.ts
 
 ```
+
 > [!NOTE]
-> Legendary Hero & 5Ds deck have to be manually added cause a single cardset contains 3 decks
+> It is recommended to upload the collection at this point
 
 ## Approach 1 
 
