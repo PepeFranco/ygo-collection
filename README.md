@@ -36,6 +36,8 @@ Manually copy the file under `data/cardsets.json`
 
 The scripts will output which cards are required to complete 3 sets of each Structure Deck, plus Chronicles deck and some Legendary Decks.
 
+It is recommended to follow each step in order. As each step assumes the output of the previous step is in place.
+
 ## Generate lists of sets
 
 The following script will look through `data/cardsets.json` and find all the sets that are structure decks. 
@@ -66,6 +68,18 @@ yarn tsx structureDecks/getCardLists.ts
 > [!NOTE]
 > Legendary Hero & 5Ds deck have to be manually added cause a single cardset contains 3 decks
 
+## Generate missing cards
+
+The following script will sort through each structure deck and find the best matching cards in the collection.
+Cards in collection will have their `Keep` property changed to their structure deck.
+It will generate `data/structureDecks/missingCards.json`
+
+```
+yarn tsx structureDecks/getMissingCards.ts
+
+```
+> [!NOTE]
+> Legendary Hero & 5Ds deck have to be manually added cause a single cardset contains 3 decks
 
 ## Approach 1 
 
