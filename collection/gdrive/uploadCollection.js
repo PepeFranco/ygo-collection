@@ -6,8 +6,8 @@ const { api_key } = require("../../secret/google-api-key.json");
 const localCollection = require("../../data/collection.json");
 const { headers: headerValues } = require("../../data/headers.json");
 
-const cardsFor1Sets = require("../../structureDecks/cardsFor1Sets.json");
-const cardsFor2Sets = require("../../structureDecks/cardsFor2Sets.json");
+// const cardsFor1Sets = require("../../structureDecks/cardsFor1Sets.json");
+// const cardsFor2Sets = require("../../structureDecks/cardsFor2Sets.json");
 const cardsFor3Sets = require("../../structureDecks/cardsFor3Sets.json");
 
 const mainFunction = async () => {
@@ -38,35 +38,35 @@ const mainFunction = async () => {
     "# of cards missing",
   ]);
 
-  const missingRows1 = cardsFor1Sets.reduce(
-    (accumulator, currentValue) => [
-      ...accumulator,
-      ...currentValue.cardsMissing.map((cardName) => ({
-        Card: cardName,
-        Deck: currentValue.deck,
-        Date: currentValue.date,
-        "Set of": 1,
-        "# of cards missing": currentValue.cardsMissing.length,
-      })),
-    ],
-    []
-  );
-  await missingCardsSheet.addRows(missingRows1);
+  // const missingRows1 = cardsFor1Sets.reduce(
+  //   (accumulator, currentValue) => [
+  //     ...accumulator,
+  //     ...currentValue.cardsMissing.map((cardName) => ({
+  //       Card: cardName,
+  //       Deck: currentValue.deck,
+  //       Date: currentValue.date,
+  //       "Set of": 1,
+  //       "# of cards missing": currentValue.cardsMissing.length,
+  //     })),
+  //   ],
+  //   []
+  // );
+  // await missingCardsSheet.addRows(missingRows1);
 
-  const missingRows2 = cardsFor2Sets.reduce(
-    (accumulator, currentValue) => [
-      ...accumulator,
-      ...currentValue.cardsMissing.map((cardName) => ({
-        Card: cardName,
-        Deck: currentValue.deck,
-        Date: currentValue.date,
-        "Set of": 2,
-        "# of cards missing": currentValue.cardsMissing.length,
-      })),
-    ],
-    []
-  );
-  await missingCardsSheet.addRows(missingRows2);
+  // const missingRows2 = cardsFor2Sets.reduce(
+  //   (accumulator, currentValue) => [
+  //     ...accumulator,
+  //     ...currentValue.cardsMissing.map((cardName) => ({
+  //       Card: cardName,
+  //       Deck: currentValue.deck,
+  //       Date: currentValue.date,
+  //       "Set of": 2,
+  //       "# of cards missing": currentValue.cardsMissing.length,
+  //     })),
+  //   ],
+  //   []
+  // );
+  // await missingCardsSheet.addRows(missingRows2);
 
   const missingRows3 = cardsFor3Sets.reduce(
     (accumulator, currentValue) => [

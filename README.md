@@ -1,25 +1,32 @@
 # General collection
 
-### Download collection
+## Download collection
 Download collection from google spreadsheet to json
 ```
 yarn collection:download
 ```
 
-### Fill data
+## Fill data
 Fill collection with missing data
 
 ```
 yarn collection:fill
 ```
 
-### Upload collection
+## Upload collection
 Upload collection back to google spreadsheet
 
 Also uploads cards missing for structure decks
 ```
 yarn collection:upload
 ```
+
+# General data
+
+All card sets can be manually obtained from
+https://db.ygoprodeck.com/api/v7/cardsets.php
+But it tends to be out of date
+Manually copy the file under `data/cardsets.json`
 
 
 # Structure decks
@@ -39,16 +46,6 @@ And cards may incorrectly be marked as not to keep
 
 ```
 yarn structure:download-lists
-```
-
-### Download banlists
-Banlists are manually udpated in spreadsheet
-
-Format was copied from wikia
-
-The script transforms it to json
-```
-yarn collection:download-banlists
 ```
 
 ## Approach 1 
@@ -122,53 +119,3 @@ node ./structureDecks/mapCardsForSetsToDeckLists.js
 9,947 total cards in collection
 2,309 more cards than Edison
 
-
-# By date
-
-## 2003
-
-1,345
-
-## 2004
-
-1,371
-
-## 2005
-
-920
-
-## 2006
-
-708
-
-## 2007
-
-595
-
-## 2008
-
-1,058
-
-## 2009
-
-964
-
-## 2010
-
-539
-
-## 2011
-
-812
-
-## 2012
-
-610
-
-## 2013
-
-353
-
-## 2014
-
-309
