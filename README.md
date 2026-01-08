@@ -31,6 +31,9 @@ Manually copy the file under `data/cardsets.json`
 
 # Structure decks
 
+> [!NOTE]
+> `export DEBUG=true` is required for debugging messages
+
 The scripts will output which cards are required to complete 3 sets of each Structure Deck, plus Chronicles deck and some Legendary Decks.
 
 ## Generate lists of sets
@@ -38,7 +41,7 @@ The scripts will output which cards are required to complete 3 sets of each Stru
 The following script will look through `data/cardsets.json` and find all the sets that are structure decks. 
 
 ```
-yarn tsx structureDecks/getStructureSets.tsx
+yarn tsx structureDecks/getStructureSets.ts
 ```
 
 It will output `data/structureDecks/cardsets.json`. 
@@ -54,7 +57,7 @@ It will output `data/structureDecks/cardsets.json`.
 The following script will look through `data/structureDecks/cardsets.json` structure decks and create a matching `data/structureDecks/*.json` file with a list of unique cards.
 
 ```
-yarn tsx structureDecks/getCardLists.tsx
+yarn tsx structureDecks/getCardLists.ts
 ```
 
 > [!NOTE]
