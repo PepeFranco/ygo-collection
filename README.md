@@ -105,3 +105,15 @@ The following script will look through `data/speedDuel/cardsets.json` and find a
 ```
 yarn tsx speedDuel/getCardLists.ts
 ```
+
+## Mark cards to keep
+
+The following script will mark all speed duel legal cards as Keep.
+It will respect whatever is in place already.
+
+```
+yarn tsx speedDuel/markCardsToKeep.ts
+```
+
+> [!NOTE]
+> It is recommended to upload the collection at this point
