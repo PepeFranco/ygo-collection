@@ -5,6 +5,7 @@ import path from "path";
 import { execSync } from "node:child_process";
 
 import collectionSecret from "../../secret/collectionread.json";
+import { generateTypes } from "./generateTypes";
 
 export const downloadCollectionFromGDrive = async () => {
   try {
@@ -23,7 +24,7 @@ export const downloadCollectionFromGDrive = async () => {
       // Auto-regenerate TypeScript types from updated headers
       try {
         console.log("🔄 Regenerating TypeScript types from updated headers...");
-        execSync("yarn generate:types", { cwd: path.join(__dirname, "../.."), stdio: "inherit" });
+        generateTypes();
       } catch (error) {
         console.warn("⚠️ Warning: Failed to regenerate types:", error);
       }
