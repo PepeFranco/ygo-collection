@@ -41,12 +41,11 @@ It is recommended to follow each step in order. As each step assumes the output 
 ## Generate lists of sets
 
 The following script will look through `data/cardsets.json` and find all the sets that are structure decks. 
+It will output `data/structureDecks/cardsets.json`. 
 
 ```
 yarn tsx structureDecks/getStructureSets.ts
 ```
-
-It will output `data/structureDecks/cardsets.json`. 
 
 > [!NOTE]
 > Chronicles deck have to be manually added to cardsets.json cause they do not exist on YGOPro API
@@ -93,7 +92,16 @@ And which to keep based on that.
 ## Generate lists of sets
 
 The following script will look through `data/cardsets.json` and find all the sets that are speed duel. 
+It will output `data/speedDuel/cardsets.json`.
 
 ```
 yarn tsx speedDuel/getStructureSets.ts
+```
+
+## Generate lists of legal cards 
+
+The following script will look through `data/speedDuel/cardsets.json` and find all legal cards in speed duel.
+
+```
+yarn tsx speedDuel/getCardLists.ts
 ```
