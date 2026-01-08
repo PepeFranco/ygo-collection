@@ -81,3 +81,19 @@ yarn tsx structureDecks/getMissingCards.ts
 
 > [!NOTE]
 > It is recommended to upload the collection at this point
+
+
+# Speed duel
+> [!NOTE]
+> `export DEBUG=true` is required for debugging messages
+
+The scripts will modify the collection to mark which cards are speed duel legal.
+And which to keep based on that.
+
+## Generate lists of sets
+
+The following script will look through `data/cardsets.json` and find all the sets that are speed duel. 
+
+```
+yarn tsx speedDuel/getStructureSets.ts
+```
