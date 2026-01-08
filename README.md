@@ -41,7 +41,28 @@ The following script will look through `data/cardsets.json` and find all the set
 yarn tsx structureDecks/getStructureSets.tsx
 ```
 
-It will output `data/structureDecks/cardsets.json`. After that the data has to be manually maintained cause YGO Pro API does not have Chronicles deck on its data yet.
+It will output `data/structureDecks/cardsets.json`. 
+
+> [!NOTE]
+> Chronicles deck have to be manually added to cardsets.json cause they do not exist on YGOPro API
+
+> [!NOTE]
+> Legendary Hero & 5Ds deck have to be manually added cause a single cardset contains 3 decks
+
+## Generate lists of cards
+
+The following script will look through `data/structureDecks/cardsets.json` structure decks and create a matching `data/structureDecks/*.json` file with a list of unique cards.
+
+```
+yarn tsx structureDecks/getCardLists.tsx
+```
+
+> [!NOTE]
+> Chronicles deck have to have their json files manully added cause they do not exist on YGOPro API
+
+> [!NOTE]
+> Legendary Hero & 5Ds deck have to be manually added cause a single cardset contains 3 decks
+
 
 ## Approach 1 
 
