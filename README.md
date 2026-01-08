@@ -81,8 +81,28 @@ yarn tsx structureDecks/getMissingCards.ts
 > [!NOTE]
 > It is recommended to upload the collection at this point
 
+# Retro formats
+
+> [!NOTE]
+> `export DEBUG=true` is required for debugging messages
+
+The scripts will modify the collection to mark which cards to keep for retro formats.
+It will respect existing Keep values.
+
+## Mark cards to keep
+
+The following script will modify the collection and mark them to keep for which format.
+
+```
+yarn tsx retroFormats/markCardsToKeep.ts
+```
+
+> [!NOTE]
+> It is recommended to upload the collection at this point
+
 
 # Speed duel
+
 > [!NOTE]
 > `export DEBUG=true` is required for debugging messages
 
