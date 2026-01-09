@@ -69,6 +69,10 @@ yarn tsx structureDecks/getCardLists.ts
 
 ## Generate missing cards
 
+> [!NOTE]
+> It is recommended to reset the Keep value of all cards in the collection
+> before running this script
+
 The following script will sort through each structure deck and find the best matching cards in the collection.
 Cards in collection will have their `Keep` property changed to their structure deck.
 It will generate `data/structureDecks/missingCards.json`
@@ -115,7 +119,7 @@ The following script will look through `data/cardsets.json` and find all the set
 It will output `data/speedDuel/cardsets.json`.
 
 ```
-yarn tsx speedDuel/getStructureSets.ts
+yarn tsx speedDuel/getSpeedDuelSets.ts
 ```
 
 ## Generate lists of legal cards 

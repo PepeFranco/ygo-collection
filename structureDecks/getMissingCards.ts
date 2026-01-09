@@ -49,6 +49,7 @@ const sortByRarity = (collectionList: CollectionRow[]) => {
 
 const sortedCollectionCopy = sortByRarity(collectionCopy);
 
+// Find exact cards
 const result = [];
 orderedCardSets.map((cardSet) => {
   debug("===================");
@@ -70,16 +71,41 @@ orderedCardSets.map((cardSet) => {
       (collectionCard: CollectionRow) => {
         return (
           normalisedCardName === collectionCard.Name.trim().toLowerCase() &&
-          collectionCard.Set?.includes(cardSet.set_code) &&
+          collectionCard.Code?.includes(cardSet.set_code) &&
           !collectionCard.Keep
         );
       }
     );
     if (exactCardIndex > -1) {
       sortedCollectionCopy[exactCardIndex].Keep = cardSet.set_name;
+      if (cardName === "Albion the Branded Dragon") {
+        console.log(sortedCollectionCopy[exactCardIndex]);
+      }
       return;
     }
+    setResult.cardsMissing.push(cardName);
+  });
 
+  debug("After trying to find exact matches");
+  debug(
+    `There are ${setResult.cardsMissing.length} cards missing for ${cardSet.set_name}`
+  );
+  setResult.cardsMissing = _.orderBy(setResult.cardsMissing);
+  result.push(setResult);
+});
+
+orderedCardSets.map((cardSet) => {
+  debug("===================");
+
+  const setResult = result.find(
+    (setResult) => setResult.deck === cardSet.set_name
+  );
+
+  const cardList = setResult.cardsMissing;
+
+  const newMissingCards = [];
+  cardList.map((cardName) => {
+    const normalisedCardName = cardName.trim().toLowerCase();
     const nextBestCardIndex = sortedCollectionCopy.findIndex(
       (collectionCard: CollectionRow) => {
         return (
@@ -93,14 +119,13 @@ orderedCardSets.map((cardSet) => {
       return;
     }
 
-    setResult.cardsMissing.push(cardName);
+    newMissingCards.push(cardName);
   });
 
   debug(
-    `There are ${setResult.cardsMissing.length} cards missing for ${cardSet.set_name}`
+    `There are ${newMissingCards.length} cards missing for ${cardSet.set_name}`
   );
-  setResult.cardsMissing = _.orderBy(setResult.cardsMissing);
-  result.push(setResult);
+  setResult.cardsMissing = _.orderBy(newMissingCards);
 });
 
 fs.writeFileSync(
