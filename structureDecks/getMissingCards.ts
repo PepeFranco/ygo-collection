@@ -78,9 +78,6 @@ orderedCardSets.map((cardSet) => {
     );
     if (exactCardIndex > -1) {
       sortedCollectionCopy[exactCardIndex].Keep = cardSet.set_name;
-      if (cardName === "Albion the Branded Dragon") {
-        console.log(sortedCollectionCopy[exactCardIndex]);
-      }
       return;
     }
     setResult.cardsMissing.push(cardName);
