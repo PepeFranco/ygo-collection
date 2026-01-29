@@ -10,7 +10,7 @@ const goatDate = new Date(2005, 7, 16);
 const edisonDate = new Date(2010, 3, 25);
 const hatDate = new Date(2014, 6, 8);
 
-const collectionCopy = [...collection];
+const collectionCopy = _.sortBy([...collection], ["Code", "Rarity", "Edition"]);
 
 collectionCopy.map((collectionCard: CollectionRow) => {
   const [date, month, year] = collectionCard["Earliest Date"].split("/");

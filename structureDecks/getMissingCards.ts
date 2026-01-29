@@ -13,10 +13,13 @@ const orderedCardSets = _.sortBy(
   (cardSet) => new Date(cardSet.tcg_date)
 );
 
-const collectionCopy = [...collection].map((collectionCard: CollectionRow) => {
-  const { Keep, ...restFields } = collectionCard;
-  return { ...restFields };
-});
+const collectionCopy = _.sortBy(
+  [...collection].map((collectionCard: CollectionRow) => {
+    const { Keep, ...restFields } = collectionCard;
+    return { ...restFields };
+  }),
+  ["Code", "Rarity", "Edition"]
+);
 
 const sortByRarity = (collectionList: CollectionRow[]) => {
   return _.sortBy(collectionList, (collectionCard: CollectionRow) => {

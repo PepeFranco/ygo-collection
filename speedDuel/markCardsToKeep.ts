@@ -6,7 +6,7 @@ import _ from "lodash";
 import { CollectionRow } from "../data/data.types";
 import { debug } from "../debug";
 
-const collectionCopy = [...collection];
+const collectionCopy = _.sortBy([...collection], ["Code", "Rarity", "Edition"]);
 
 collectionCopy.map((collectionCard: CollectionRow) => {
   const normalisedCardName = collectionCard.Name.trim().toLowerCase();
