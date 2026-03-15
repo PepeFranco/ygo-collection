@@ -28,3 +28,7 @@ export const getMinimumMissingCards = () => {
   );
   fs.writeFileSync(path.join(__dirname, "../data/collection.json"), JSON.stringify(collectionCopy, null, 3));
 };
+
+if (require.main === module) {
+  getMinimumMissingCards();
+}

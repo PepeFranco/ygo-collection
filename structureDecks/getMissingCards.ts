@@ -175,3 +175,7 @@ export const getMissingCards = () => {
     JSON.stringify(sortedCollectionCopy, null, 3)
   );
 };
+
+if (require.main === module) {
+  getMissingCards();
+}
