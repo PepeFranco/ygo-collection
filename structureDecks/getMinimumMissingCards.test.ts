@@ -9,10 +9,16 @@ const mockCardSets = [
     tcg_date: "2014-02-06",
   },
   {
-    set_name: "Dinosmasher's Fury Structure Deck",
-    set_code: "SR04",
-    num_of_cards: 39,
-    tcg_date: "2017-04-13",
+    set_name: "Machina Mayhem Structure Deck",
+    set_code: "SDMM",
+    num_of_cards: 37,
+    tcg_date: "2010-02-19",
+  },
+  {
+    set_name: "Structure Deck: Cyber Strike",
+    set_code: "SDCS",
+    num_of_cards: 48,
+    tcg_date: "2021-10-14",
   },
 ];
 
@@ -23,8 +29,12 @@ jest.mock(
   () => ["Cyber Dragon", "Cyber Dragon Core"]
 );
 jest.mock(
-  "../data/structureDecks/dinosmasher's fury structure deck.json",
-  () => ["Babycerasaurus", "Fossil Dig"]
+  "../data/structureDecks/machina mayhem structure deck.json",
+  () => ["Cyber Dragon", "Machina Gearframe"]
+);
+jest.mock(
+  "../data/structureDecks/structure deck: cyber strike.json",
+  () => ["Cyber Dragon", "Cyber Dragon Herz"]
 );
 
 beforeEach(() => {
@@ -34,9 +44,18 @@ beforeEach(() => {
 describe("getMinimumMissingCards", () => {
   it("writes missing cards per deck to missingCards.json", () => {
     jest.doMock("../data/collection.json", () => [
-      { Name: "Babycerasaurus", Code: "SR04-EN007", Set: "Dinosmasher's Fury Structure Deck", Rarity: "Common" },
-      { Name: "Babycerasaurus", Code: "SR04-EN007", Set: "Dinosmasher's Fury Structure Deck", Rarity: "Common" },
-      { Name: "Babycerasaurus", Code: "SR04-EN007", Set: "Dinosmasher's Fury Structure Deck", Rarity: "Common" },
+      // 3x Cyber Dragon Core from SDCR — covers the non-Cyber Dragon SDCR card
+      { Name: "Cyber Dragon Core", Code: "SDCR-EN016", Set: "Cyber Dragon Revolution Structure Deck", Rarity: "Super Rare" },
+      { Name: "Cyber Dragon Core", Code: "SDCR-EN016", Set: "Cyber Dragon Revolution Structure Deck", Rarity: "Super Rare" },
+      { Name: "Cyber Dragon Core", Code: "SDCR-EN016", Set: "Cyber Dragon Revolution Structure Deck", Rarity: "Super Rare" },
+      // 3x Machina Gearframe from SDMM — covers the non-Cyber Dragon SDMM card
+      { Name: "Machina Gearframe", Code: "SDMM-EN006", Set: "Machina Mayhem Structure Deck", Rarity: "Super Rare" },
+      { Name: "Machina Gearframe", Code: "SDMM-EN006", Set: "Machina Mayhem Structure Deck", Rarity: "Super Rare" },
+      { Name: "Machina Gearframe", Code: "SDMM-EN006", Set: "Machina Mayhem Structure Deck", Rarity: "Super Rare" },
+      // 3x Cyber Dragon Herz from SDCS — covers the non-Cyber Dragon SDCS card
+      { Name: "Cyber Dragon Herz", Code: "SDCS-EN005", Set: "Structure Deck: Cyber Strike", Rarity: "Ultra Rare" },
+      { Name: "Cyber Dragon Herz", Code: "SDCS-EN005", Set: "Structure Deck: Cyber Strike", Rarity: "Ultra Rare" },
+      { Name: "Cyber Dragon Herz", Code: "SDCS-EN005", Set: "Structure Deck: Cyber Strike", Rarity: "Ultra Rare" },
     ]);
     const { getMinimumMissingCards } = require("./getMinimumMissingCards");
     const mockFs = require("fs");
@@ -46,18 +65,15 @@ describe("getMinimumMissingCards", () => {
     const expectedMissingCards = [
       {
         deck: "Cyber Dragon Revolution Structure Deck",
-        cardsMissing: [
-          "Cyber Dragon",
-          "Cyber Dragon",
-          "Cyber Dragon",
-          "Cyber Dragon Core",
-          "Cyber Dragon Core",
-          "Cyber Dragon Core",
-        ],
+        cardsMissing: ["Cyber Dragon", "Cyber Dragon", "Cyber Dragon"],
       },
       {
-        deck: "Dinosmasher's Fury Structure Deck",
-        cardsMissing: ["Fossil Dig", "Fossil Dig", "Fossil Dig"],
+        deck: "Machina Mayhem Structure Deck",
+        cardsMissing: ["Cyber Dragon", "Cyber Dragon", "Cyber Dragon"],
+      },
+      {
+        deck: "Structure Deck: Cyber Strike",
+        cardsMissing: ["Cyber Dragon", "Cyber Dragon", "Cyber Dragon"],
       },
     ];
 
@@ -69,9 +85,10 @@ describe("getMinimumMissingCards", () => {
 
   it("writes updated collection to collection.json", () => {
     jest.doMock("../data/collection.json", () => [
-      { Name: "Babycerasaurus", Code: "SR04-EN007", Set: "Dinosmasher's Fury Structure Deck", Rarity: "Common" },
-      { Name: "Babycerasaurus", Code: "SR04-EN007", Set: "Dinosmasher's Fury Structure Deck", Rarity: "Common" },
-      { Name: "Babycerasaurus", Code: "SR04-EN007", Set: "Dinosmasher's Fury Structure Deck", Rarity: "Common" },
+      { Name: "Cyber Dragon", Code: "SDCR-EN014", Set: "Cyber Dragon Revolution Structure Deck", Rarity: "Ultra Rare" },
+      { Name: "Cyber Dragon", Code: "SDCR-EN014", Set: "Cyber Dragon Revolution Structure Deck", Rarity: "Ultra Rare" },
+      { Name: "Cyber Dragon", Code: "SDCR-EN014", Set: "Cyber Dragon Revolution Structure Deck", Rarity: "Ultra Rare" },
+      { Name: "Cyber Dragon", Code: "SDMM-EN009", Set: "Machina Mayhem Structure Deck", Rarity: "Common" },
     ]);
     const { getMinimumMissingCards } = require("./getMinimumMissingCards");
     const mockFs = require("fs");
@@ -79,27 +96,10 @@ describe("getMinimumMissingCards", () => {
     getMinimumMissingCards();
 
     const expectedCollection: CollectionRow[] = [
-      {
-        Name: "Babycerasaurus",
-        Code: "SR04-EN007",
-        Set: "Dinosmasher's Fury Structure Deck",
-        Rarity: "Common",
-        Keep: "Dinosmasher's Fury Structure Deck",
-      },
-      {
-        Name: "Babycerasaurus",
-        Code: "SR04-EN007",
-        Set: "Dinosmasher's Fury Structure Deck",
-        Rarity: "Common",
-        Keep: "Dinosmasher's Fury Structure Deck",
-      },
-      {
-        Name: "Babycerasaurus",
-        Code: "SR04-EN007",
-        Set: "Dinosmasher's Fury Structure Deck",
-        Rarity: "Common",
-        Keep: "Dinosmasher's Fury Structure Deck",
-      },
+      { Name: "Cyber Dragon", Code: "SDCR-EN014", Set: "Cyber Dragon Revolution Structure Deck", Rarity: "Ultra Rare", Keep: "Cyber Dragon Revolution Structure Deck" },
+      { Name: "Cyber Dragon", Code: "SDCR-EN014", Set: "Cyber Dragon Revolution Structure Deck", Rarity: "Ultra Rare", Keep: "Cyber Dragon Revolution Structure Deck" },
+      { Name: "Cyber Dragon", Code: "SDCR-EN014", Set: "Cyber Dragon Revolution Structure Deck", Rarity: "Ultra Rare", Keep: "Cyber Dragon Revolution Structure Deck" },
+      { Name: "Cyber Dragon", Code: "SDMM-EN009", Set: "Machina Mayhem Structure Deck", Rarity: "Common", Keep: "Machina Mayhem Structure Deck" },
     ];
 
     expect(mockFs.writeFileSync).toHaveBeenCalledWith(
