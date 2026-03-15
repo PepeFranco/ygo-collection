@@ -64,11 +64,11 @@ describe("getMinimumMissingCards", () => {
 
     const expectedMissingCards = [
       {
-        deck: "Cyber Dragon Revolution Structure Deck",
+        deck: "Machina Mayhem Structure Deck",
         cardsMissing: ["Cyber Dragon", "Cyber Dragon", "Cyber Dragon"],
       },
       {
-        deck: "Machina Mayhem Structure Deck",
+        deck: "Cyber Dragon Revolution Structure Deck",
         cardsMissing: ["Cyber Dragon", "Cyber Dragon", "Cyber Dragon"],
       },
       {

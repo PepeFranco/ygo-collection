@@ -7,7 +7,7 @@ import { CollectionRow } from "../data/data.types";
 export const getMinimumMissingCards = () => {
   const collectionCopy: CollectionRow[] = [...collection].map((card) => ({ ...card }));
 
-  const result = cardSets.map((cardSet) => {
+  const result = [...cardSets].sort((a, b) => a.tcg_date.localeCompare(b.tcg_date)).map((cardSet) => {
     const cardList: string[] = require(`../data/structureDecks/${cardSet.set_name.toLowerCase()}.json`);
     const tripled = [...cardList, ...cardList, ...cardList];
 
