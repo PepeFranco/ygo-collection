@@ -1,0 +1,110 @@
+import path from "path";
+import { CollectionRow } from "../data/data.types";
+
+const mockCardSets = [
+  {
+    set_name: "Cyber Dragon Revolution Structure Deck",
+    set_code: "SDCR",
+    num_of_cards: 38,
+    tcg_date: "2014-02-06",
+  },
+  {
+    set_name: "Machina Mayhem Structure Deck",
+    set_code: "SDMM",
+    num_of_cards: 37,
+    tcg_date: "2010-02-19",
+  },
+  {
+    set_name: "Structure Deck: Cyber Strike",
+    set_code: "SDCS",
+    num_of_cards: 48,
+    tcg_date: "2021-10-14",
+  },
+];
+
+jest.mock("fs");
+jest.mock("../data/structureDecks/cardsets.json", () => mockCardSets);
+jest.mock(
+  "../data/structureDecks/cyber dragon revolution structure deck.json",
+  () => ["Cyber Dragon", "Cyber Dragon Core"]
+);
+jest.mock(
+  "../data/structureDecks/machina mayhem structure deck.json",
+  () => ["Cyber Dragon", "Machina Gearframe"]
+);
+jest.mock(
+  "../data/structureDecks/structure deck: cyber strike.json",
+  () => ["Cyber Dragon", "Cyber Dragon Herz"]
+);
+
+beforeEach(() => {
+  jest.resetModules();
+});
+
+describe("getMissingCards", () => {
+  it("writes missing cards per deck to missingCards.json", () => {
+    jest.doMock("../data/collection.json", () => [
+      // 3x Cyber Dragon Core from SDCR — covers the non-Cyber Dragon SDCR card
+      { Name: "Cyber Dragon Core", Code: "SDCR-EN016", Set: "Cyber Dragon Revolution Structure Deck", Rarity: "Super Rare" },
+      { Name: "Cyber Dragon Core", Code: "SDCR-EN016", Set: "Cyber Dragon Revolution Structure Deck", Rarity: "Super Rare" },
+      { Name: "Cyber Dragon Core", Code: "SDCR-EN016", Set: "Cyber Dragon Revolution Structure Deck", Rarity: "Super Rare" },
+      // 3x Machina Gearframe from SDMM — covers the non-Cyber Dragon SDMM card
+      { Name: "Machina Gearframe", Code: "SDMM-EN006", Set: "Machina Mayhem Structure Deck", Rarity: "Super Rare" },
+      { Name: "Machina Gearframe", Code: "SDMM-EN006", Set: "Machina Mayhem Structure Deck", Rarity: "Super Rare" },
+      { Name: "Machina Gearframe", Code: "SDMM-EN006", Set: "Machina Mayhem Structure Deck", Rarity: "Super Rare" },
+      // 3x Cyber Dragon Herz from SDCS — covers the non-Cyber Dragon SDCS card
+      { Name: "Cyber Dragon Herz", Code: "SDCS-EN005", Set: "Structure Deck: Cyber Strike", Rarity: "Ultra Rare" },
+      { Name: "Cyber Dragon Herz", Code: "SDCS-EN005", Set: "Structure Deck: Cyber Strike", Rarity: "Ultra Rare" },
+      { Name: "Cyber Dragon Herz", Code: "SDCS-EN005", Set: "Structure Deck: Cyber Strike", Rarity: "Ultra Rare" },
+    ]);
+    const { getMissingCards } = require("./getMissingCards");
+    const mockFs = require("fs");
+
+    getMissingCards();
+
+    const expectedMissingCards = [
+      {
+        deck: "Machina Mayhem Structure Deck",
+        cardsMissing: ["Cyber Dragon", "Cyber Dragon", "Cyber Dragon"],
+      },
+      {
+        deck: "Cyber Dragon Revolution Structure Deck",
+        cardsMissing: ["Cyber Dragon", "Cyber Dragon", "Cyber Dragon"],
+      },
+      {
+        deck: "Structure Deck: Cyber Strike",
+        cardsMissing: ["Cyber Dragon", "Cyber Dragon", "Cyber Dragon"],
+      },
+    ];
+
+    expect(mockFs.writeFileSync).toHaveBeenCalledWith(
+      path.join(__dirname, "../data/structureDecks/missingCards.json"),
+      JSON.stringify(expectedMissingCards, null, 3)
+    );
+  });
+
+  it("writes updated collection to collection.json", () => {
+    jest.doMock("../data/collection.json", () => [
+      { Name: "Cyber Dragon", Code: "SDCR-EN014", Set: "Cyber Dragon Revolution Structure Deck", Rarity: "Ultra Rare" },
+      { Name: "Cyber Dragon", Code: "SDCR-EN014", Set: "Cyber Dragon Revolution Structure Deck", Rarity: "Ultra Rare" },
+      { Name: "Cyber Dragon", Code: "SDCR-EN014", Set: "Cyber Dragon Revolution Structure Deck", Rarity: "Ultra Rare" },
+      { Name: "Cyber Dragon", Code: "SDMM-EN009", Set: "Machina Mayhem Structure Deck", Rarity: "Common" },
+    ]);
+    const { getMissingCards } = require("./getMissingCards");
+    const mockFs = require("fs");
+
+    getMissingCards();
+
+    const expectedCollection: CollectionRow[] = [
+      { Name: "Cyber Dragon", Code: "SDCR-EN014", Set: "Cyber Dragon Revolution Structure Deck", Rarity: "Ultra Rare", Keep: "Cyber Dragon Revolution Structure Deck" },
+      { Name: "Cyber Dragon", Code: "SDCR-EN014", Set: "Cyber Dragon Revolution Structure Deck", Rarity: "Ultra Rare", Keep: "Cyber Dragon Revolution Structure Deck" },
+      { Name: "Cyber Dragon", Code: "SDCR-EN014", Set: "Cyber Dragon Revolution Structure Deck", Rarity: "Ultra Rare", Keep: "Cyber Dragon Revolution Structure Deck" },
+      { Name: "Cyber Dragon", Code: "SDMM-EN009", Set: "Machina Mayhem Structure Deck", Rarity: "Common", Keep: "Machina Mayhem Structure Deck" },
+    ];
+
+    expect(mockFs.writeFileSync).toHaveBeenCalledWith(
+      path.join(__dirname, "../data/collection.json"),
+      JSON.stringify(expectedCollection, null, 3)
+    );
+  });
+});
