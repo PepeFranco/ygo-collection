@@ -12,7 +12,11 @@ export const getMinimumMissingCards = () => {
     const tripled = [...cardList, ...cardList, ...cardList];
 
     const cardsMissing = tripled.filter((cardName) => {
-      if (collectionCopy.filter(c => c.Name === cardName).length >= 6) return false;
+      if (collectionCopy.filter(c => c.Name === cardName).length >= 6) {
+        const idx = collectionCopy.findIndex(c => c.Name === cardName && !c.Keep);
+        if (idx > -1) collectionCopy[idx].Keep = "Structure Deck";
+        return false;
+      }
       const idx = collectionCopy.findIndex(
         (card) => card.Name === cardName && card.Code?.includes(cardSet.set_code) && !card.Keep
       );

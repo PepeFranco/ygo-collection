@@ -144,5 +144,19 @@ describe("getMinimumMissingCards — 6-copy cap", () => {
       path.join(__dirname, "../data/structureDecks/missingCards.json"),
       JSON.stringify(expectedMissingCards, null, 3)
     );
+
+    const expectedCollection: CollectionRow[] = [
+      { Name: "Cyber Dragon", Code: "SDMM-EN009", Set: "Machina Mayhem Structure Deck", Rarity: "Common", Keep: "Structure Deck" },
+      { Name: "Cyber Dragon", Code: "SDMM-EN009", Set: "Machina Mayhem Structure Deck", Rarity: "Common", Keep: "Structure Deck" },
+      { Name: "Cyber Dragon", Code: "SDCR-EN014", Set: "Cyber Dragon Revolution Structure Deck", Rarity: "Ultra Rare", Keep: "Structure Deck" },
+      { Name: "Cyber Dragon", Code: "SDCR-EN014", Set: "Cyber Dragon Revolution Structure Deck", Rarity: "Ultra Rare", Keep: "Structure Deck" },
+      { Name: "Cyber Dragon", Code: "SDCS-EN003", Set: "Structure Deck: Cyber Strike", Rarity: "Ultra Rare", Keep: "Structure Deck" },
+      { Name: "Cyber Dragon", Code: "SDCS-EN003", Set: "Structure Deck: Cyber Strike", Rarity: "Ultra Rare", Keep: "Structure Deck" },
+    ];
+
+    expect(mockFs.writeFileSync).toHaveBeenCalledWith(
+      path.join(__dirname, "../data/collection.json"),
+      JSON.stringify(expectedCollection, null, 3)
+    );
   });
 });
