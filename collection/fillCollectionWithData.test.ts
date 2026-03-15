@@ -123,8 +123,10 @@ describe("fillCollectionWithData", () => {
           },
         ],
       })
+      .mockRejectedValueOnce(new Error("Card not found"))
+      // 2. /api/v7/cardinfo.php?name= - getCardInfo("") returns no result
       .mockResolvedValueOnce({
-        // 2. /api/v7/cardinfo.php?cardset=legend%20of%20blue-eyes%20white%20dragon
+        // 3. /api/v7/cardinfo.php?cardset=legend%20of%20blue-eyes%20white%20dragon
         data: {
           data: [
             {
