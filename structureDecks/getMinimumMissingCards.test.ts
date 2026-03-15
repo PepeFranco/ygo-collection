@@ -73,7 +73,7 @@ describe("getMinimumMissingCards", () => {
       },
       {
         deck: "Structure Deck: Cyber Strike",
-        cardsMissing: ["Cyber Dragon", "Cyber Dragon", "Cyber Dragon"],
+        cardsMissing: [],
       },
     ];
 
@@ -157,6 +157,42 @@ describe("getMinimumMissingCards — 6-copy cap", () => {
     expect(mockFs.writeFileSync).toHaveBeenCalledWith(
       path.join(__dirname, "../data/collection.json"),
       JSON.stringify(expectedCollection, null, 3)
+    );
+  });
+
+  it("reports only 1 missing copy when 5 copies exist across the collection", () => {
+    jest.doMock("../data/collection.json", () => [
+      // 5x Cyber Dragon total — one short of the cap
+      { Name: "Cyber Dragon", Code: "SDMM-EN009", Set: "Machina Mayhem Structure Deck", Rarity: "Common" },
+      { Name: "Cyber Dragon", Code: "SDMM-EN009", Set: "Machina Mayhem Structure Deck", Rarity: "Common" },
+      { Name: "Cyber Dragon", Code: "SDCR-EN014", Set: "Cyber Dragon Revolution Structure Deck", Rarity: "Ultra Rare" },
+      { Name: "Cyber Dragon", Code: "SDCR-EN014", Set: "Cyber Dragon Revolution Structure Deck", Rarity: "Ultra Rare" },
+      { Name: "Cyber Dragon", Code: "SDCS-EN003", Set: "Structure Deck: Cyber Strike", Rarity: "Ultra Rare" },
+    ]);
+    const { getMinimumMissingCards } = require("./getMinimumMissingCards");
+    const mockFs = require("fs");
+
+    getMinimumMissingCards();
+
+    // Only 1 Cyber Dragon missing total across all decks (5 owned + 1 = 6 cap)
+    const expectedMissingCards = [
+      {
+        deck: "Machina Mayhem Structure Deck",
+        cardsMissing: ["Cyber Dragon", "Machina Gearframe", "Machina Gearframe", "Machina Gearframe"],
+      },
+      {
+        deck: "Cyber Dragon Revolution Structure Deck",
+        cardsMissing: ["Cyber Dragon Core", "Cyber Dragon Core", "Cyber Dragon Core"],
+      },
+      {
+        deck: "Structure Deck: Cyber Strike",
+        cardsMissing: ["Cyber Dragon Herz", "Cyber Dragon Herz", "Cyber Dragon Herz"],
+      },
+    ];
+
+    expect(mockFs.writeFileSync).toHaveBeenCalledWith(
+      path.join(__dirname, "../data/structureDecks/missingCards.json"),
+      JSON.stringify(expectedMissingCards, null, 3)
     );
   });
 });
