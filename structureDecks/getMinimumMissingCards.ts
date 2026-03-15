@@ -4,10 +4,36 @@ import cardSets from "../data/structureDecks/cardsets.json";
 import collection from "../data/collection.json";
 import { CollectionRow } from "../data/data.types";
 
+const rarityOrder = [
+  "Duel Terminal Ultra Parallel Rare",
+  "Collector's Rare",
+  "Quarter Century Secret Rare",
+  "Prismatic Secret Rare",
+  "Platinum Secret Rare",
+  "Platinum Rare",
+  "Ultimate Rare",
+  "Ghost/Gold Rare",
+  "Ghost Rare",
+  "Gold Secret Rare",
+  "Secret Rare",
+  "Gold Rare",
+  "Ultra Rare",
+  "Super Rare",
+  "Starfoil Rare",
+  "Mosaic Rare",
+  "Rare",
+  "Short Print",
+  "Common",
+];
+
 export const getMinimumMissingCards = () => {
-  const collectionCopy: CollectionRow[] = [...collection].map((card) => ({
-    ...card,
-  }));
+  const collectionCopy: CollectionRow[] = [...collection]
+    .map((card) => ({ ...card }))
+    .sort((a, b) => {
+      const ai = rarityOrder.indexOf(a.Rarity ?? "");
+      const bi = rarityOrder.indexOf(b.Rarity ?? "");
+      return ai - bi;
+    });
 
   const missingCountByName: Record<string, number> = {};
   const result = [...cardSets]
