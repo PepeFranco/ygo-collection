@@ -1,4 +1,5 @@
 import fs from "fs";
+import path from "path";
 import { CollectionRow } from "../data/data.types";
 
 const mockCollection: CollectionRow[] = [
@@ -55,18 +56,60 @@ describe("getMinimumMissingCards", () => {
   it("writes missing cards per deck to missingCards.json", () => {
     getMinimumMissingCards();
 
+    const expectedMissingCards = [
+      {
+        deck: "Cyber Dragon Revolution Structure Deck",
+        cardsMissing: [
+          "Cyber Dragon",
+          "Cyber Dragon",
+          "Cyber Dragon",
+          "Cyber Dragon Core",
+          "Cyber Dragon Core",
+          "Cyber Dragon Core",
+        ],
+      },
+      {
+        deck: "Dinosmasher's Fury Structure Deck",
+        cardsMissing: ["Fossil Dig", "Fossil Dig", "Fossil Dig"],
+      },
+    ];
+
     expect(fs.writeFileSync).toHaveBeenCalledWith(
-      expect.stringContaining("missingCards.json"),
-      expect.any(String)
+      path.join(__dirname, "../data/structureDecks/missingCards.json"),
+      JSON.stringify(expectedMissingCards, null, 3)
     );
   });
 
   it("writes updated collection to collection.json", () => {
     getMinimumMissingCards();
 
+    const expectedCollection: CollectionRow[] = [
+      {
+        Name: "Babycerasaurus",
+        Code: "SR04-EN007",
+        Set: "Dinosmasher's Fury Structure Deck",
+        Rarity: "Common",
+        Keep: "Dinosmasher's Fury Structure Deck",
+      },
+      {
+        Name: "Babycerasaurus",
+        Code: "SR04-EN007",
+        Set: "Dinosmasher's Fury Structure Deck",
+        Rarity: "Common",
+        Keep: "Dinosmasher's Fury Structure Deck",
+      },
+      {
+        Name: "Babycerasaurus",
+        Code: "SR04-EN007",
+        Set: "Dinosmasher's Fury Structure Deck",
+        Rarity: "Common",
+        Keep: "Dinosmasher's Fury Structure Deck",
+      },
+    ];
+
     expect(fs.writeFileSync).toHaveBeenCalledWith(
-      expect.stringContaining("collection.json"),
-      expect.any(String)
+      path.join(__dirname, "../data/collection.json"),
+      JSON.stringify(expectedCollection, null, 3)
     );
   });
 });

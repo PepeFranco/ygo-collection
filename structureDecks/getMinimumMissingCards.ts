@@ -1,8 +1,30 @@
 import fs from "fs";
 import path from "path";
+import cardSets from "../data/structureDecks/cardsets.json";
 import collection from "../data/collection.json";
+import { CollectionRow } from "../data/data.types";
 
 export const getMinimumMissingCards = () => {
-  fs.writeFileSync(path.join(__dirname, "../data/structureDecks/missingCards.json"), "");
-  fs.writeFileSync(path.join(__dirname, "../data/collection.json"), "");
+  const collectionCopy: CollectionRow[] = [...collection].map((card) => ({ ...card }));
+
+  const result = cardSets.map((cardSet) => {
+    const cardList: string[] = require(`../data/structureDecks/${cardSet.set_name.toLowerCase()}.json`);
+    const tripled = [...cardList, ...cardList, ...cardList];
+
+    const cardsMissing = tripled.filter((cardName) => {
+      const idx = collectionCopy.findIndex(
+        (card) => card.Name === cardName && card.Code?.includes(cardSet.set_code) && !card.Keep
+      );
+      if (idx > -1) { collectionCopy[idx].Keep = cardSet.set_name; return false; }
+      return true;
+    });
+
+    return { deck: cardSet.set_name, cardsMissing: cardsMissing.sort() };
+  });
+
+  fs.writeFileSync(
+    path.join(__dirname, "../data/structureDecks/missingCards.json"),
+    JSON.stringify(result, null, 3)
+  );
+  fs.writeFileSync(path.join(__dirname, "../data/collection.json"), JSON.stringify(collectionCopy, null, 3));
 };
