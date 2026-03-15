@@ -1,27 +1,5 @@
-import fs from "fs";
 import path from "path";
 import { CollectionRow } from "../data/data.types";
-
-const mockCollection: CollectionRow[] = [
-  {
-    Name: "Babycerasaurus",
-    Code: "SR04-EN007",
-    Set: "Dinosmasher's Fury Structure Deck",
-    Rarity: "Common",
-  },
-  {
-    Name: "Babycerasaurus",
-    Code: "SR04-EN007",
-    Set: "Dinosmasher's Fury Structure Deck",
-    Rarity: "Common",
-  },
-  {
-    Name: "Babycerasaurus",
-    Code: "SR04-EN007",
-    Set: "Dinosmasher's Fury Structure Deck",
-    Rarity: "Common",
-  },
-];
 
 const mockCardSets = [
   {
@@ -39,7 +17,6 @@ const mockCardSets = [
 ];
 
 jest.mock("fs");
-jest.mock("../data/collection.json", () => mockCollection);
 jest.mock("../data/structureDecks/cardsets.json", () => mockCardSets);
 jest.mock(
   "../data/structureDecks/cyber dragon revolution structure deck.json",
@@ -50,10 +27,20 @@ jest.mock(
   () => ["Babycerasaurus", "Fossil Dig"]
 );
 
-import { getMinimumMissingCards } from "./getMinimumMissingCards";
+beforeEach(() => {
+  jest.resetModules();
+});
 
 describe("getMinimumMissingCards", () => {
   it("writes missing cards per deck to missingCards.json", () => {
+    jest.doMock("../data/collection.json", () => [
+      { Name: "Babycerasaurus", Code: "SR04-EN007", Set: "Dinosmasher's Fury Structure Deck", Rarity: "Common" },
+      { Name: "Babycerasaurus", Code: "SR04-EN007", Set: "Dinosmasher's Fury Structure Deck", Rarity: "Common" },
+      { Name: "Babycerasaurus", Code: "SR04-EN007", Set: "Dinosmasher's Fury Structure Deck", Rarity: "Common" },
+    ]);
+    const { getMinimumMissingCards } = require("./getMinimumMissingCards");
+    const mockFs = require("fs");
+
     getMinimumMissingCards();
 
     const expectedMissingCards = [
@@ -74,13 +61,21 @@ describe("getMinimumMissingCards", () => {
       },
     ];
 
-    expect(fs.writeFileSync).toHaveBeenCalledWith(
+    expect(mockFs.writeFileSync).toHaveBeenCalledWith(
       path.join(__dirname, "../data/structureDecks/missingCards.json"),
       JSON.stringify(expectedMissingCards, null, 3)
     );
   });
 
   it("writes updated collection to collection.json", () => {
+    jest.doMock("../data/collection.json", () => [
+      { Name: "Babycerasaurus", Code: "SR04-EN007", Set: "Dinosmasher's Fury Structure Deck", Rarity: "Common" },
+      { Name: "Babycerasaurus", Code: "SR04-EN007", Set: "Dinosmasher's Fury Structure Deck", Rarity: "Common" },
+      { Name: "Babycerasaurus", Code: "SR04-EN007", Set: "Dinosmasher's Fury Structure Deck", Rarity: "Common" },
+    ]);
+    const { getMinimumMissingCards } = require("./getMinimumMissingCards");
+    const mockFs = require("fs");
+
     getMinimumMissingCards();
 
     const expectedCollection: CollectionRow[] = [
@@ -107,7 +102,7 @@ describe("getMinimumMissingCards", () => {
       },
     ];
 
-    expect(fs.writeFileSync).toHaveBeenCalledWith(
+    expect(mockFs.writeFileSync).toHaveBeenCalledWith(
       path.join(__dirname, "../data/collection.json"),
       JSON.stringify(expectedCollection, null, 3)
     );
