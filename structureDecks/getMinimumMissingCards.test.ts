@@ -108,3 +108,41 @@ describe("getMinimumMissingCards", () => {
     );
   });
 });
+
+describe("getMinimumMissingCards — 6-copy cap", () => {
+  it("does not report a card as missing if 6 copies exist across the collection", () => {
+    jest.doMock("../data/collection.json", () => [
+      // 2x Cyber Dragon from each deck — 6 total, none are deck-specific 3x
+      { Name: "Cyber Dragon", Code: "SDMM-EN009", Set: "Machina Mayhem Structure Deck", Rarity: "Common" },
+      { Name: "Cyber Dragon", Code: "SDMM-EN009", Set: "Machina Mayhem Structure Deck", Rarity: "Common" },
+      { Name: "Cyber Dragon", Code: "SDCR-EN014", Set: "Cyber Dragon Revolution Structure Deck", Rarity: "Ultra Rare" },
+      { Name: "Cyber Dragon", Code: "SDCR-EN014", Set: "Cyber Dragon Revolution Structure Deck", Rarity: "Ultra Rare" },
+      { Name: "Cyber Dragon", Code: "SDCS-EN003", Set: "Structure Deck: Cyber Strike", Rarity: "Ultra Rare" },
+      { Name: "Cyber Dragon", Code: "SDCS-EN003", Set: "Structure Deck: Cyber Strike", Rarity: "Ultra Rare" },
+    ]);
+    const { getMinimumMissingCards } = require("./getMinimumMissingCards");
+    const mockFs = require("fs");
+
+    getMinimumMissingCards();
+
+    const expectedMissingCards = [
+      {
+        deck: "Machina Mayhem Structure Deck",
+        cardsMissing: ["Machina Gearframe", "Machina Gearframe", "Machina Gearframe"],
+      },
+      {
+        deck: "Cyber Dragon Revolution Structure Deck",
+        cardsMissing: ["Cyber Dragon Core", "Cyber Dragon Core", "Cyber Dragon Core"],
+      },
+      {
+        deck: "Structure Deck: Cyber Strike",
+        cardsMissing: ["Cyber Dragon Herz", "Cyber Dragon Herz", "Cyber Dragon Herz"],
+      },
+    ];
+
+    expect(mockFs.writeFileSync).toHaveBeenCalledWith(
+      path.join(__dirname, "../data/structureDecks/missingCards.json"),
+      JSON.stringify(expectedMissingCards, null, 3)
+    );
+  });
+});

@@ -12,6 +12,7 @@ export const getMinimumMissingCards = () => {
     const tripled = [...cardList, ...cardList, ...cardList];
 
     const cardsMissing = tripled.filter((cardName) => {
+      if (collectionCopy.filter(c => c.Name === cardName).length >= 6) return false;
       const idx = collectionCopy.findIndex(
         (card) => card.Name === cardName && card.Code?.includes(cardSet.set_code) && !card.Keep
       );
