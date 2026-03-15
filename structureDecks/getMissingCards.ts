@@ -1,3 +1,43 @@
+/**
+ * getMissingCards.ts
+ *
+ * Determines which cards are missing from the collection to complete 3 copies
+ * of every card in each structure deck, then writes the results to disk.
+ *
+ * INPUTS:
+ * - data/structureDecks/cardsets.json      — structure deck metadata (name, set code, release date)
+ * - data/collection.json                   — current card collection
+ * - data/structureDecks/<deck-name>.json   — card list for each structure deck
+ *
+ * ALGORITHM (two-pass):
+ *
+ * Setup:
+ * - Sorts decks chronologically by tcg_date
+ * - Makes a mutable working copy of the collection sorted by rarity (highest first),
+ *   so rarer copies are preferentially assigned
+ * - Strips Keep field from all cards so each starts unassigned
+ *
+ * Pass 1 — Exact matches (set-code specific):
+ *   For each deck, triples the card list (3 copies needed), then for each card:
+ *   1. Looks for a collection card matching both the card name AND the deck's set code
+ *   2. If found, marks it Keep=<deck name> (claims it) and moves on
+ *   3. If not found, adds it to cardsMissing for that deck
+ *
+ * Pass 2 — Any copy (fallback):
+ *   For each card still missing after Pass 1:
+ *   1. Looks for any collection card matching the card name, regardless of set code
+ *   2. If found, marks it Keep=<deck name> and removes it from cardsMissing
+ *   3. If still not found, it is truly missing
+ *
+ * Cards are claimed greedily in rarity order, and decks are processed oldest-to-newest,
+ * so earlier/rarer cards are preferentially allocated. Once claimed, a card cannot be
+ * assigned to another deck.
+ *
+ * OUTPUTS:
+ * - data/structureDecks/missingCards.json  — array of { deck, cardsMissing[] } per deck
+ * - data/collection.json                   — updated collection with Keep fields set
+ */
+
 import cardSets from "../data/structureDecks/cardsets.json";
 import collection from "../data/collection.json";
 import path from "path";
