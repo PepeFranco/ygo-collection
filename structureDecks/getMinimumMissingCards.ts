@@ -3,6 +3,7 @@ import path from "path";
 import cardSets from "../data/structureDecks/cardsets.json";
 import collection from "../data/collection.json";
 import { CollectionRow } from "../data/data.types";
+import _ from "lodash";
 
 const rarityOrder = [
   "Duel Terminal Ultra Parallel Rare",
@@ -27,59 +28,54 @@ const rarityOrder = [
 ];
 
 export const getMinimumMissingCards = () => {
-  const collectionCopy: CollectionRow[] = [...collection]
-    .map((card) => ({ ...card }))
-    .sort((a, b) => {
-      const ai = rarityOrder.indexOf(a.Rarity ?? "");
-      const bi = rarityOrder.indexOf(b.Rarity ?? "");
-      return ai - bi;
-    });
+  const collectionCopy: CollectionRow[] = [...collection].sort((a, b) => {
+    const ai = rarityOrder.indexOf(a.Rarity ?? "");
+    const bi = rarityOrder.indexOf(b.Rarity ?? "");
+    return ai - bi;
+  });
 
-  const missingCountByName: Record<string, number> = {};
-  const result = [...cardSets]
+  const recordOfCardsPerSets: Record<string, number> = {};
+
+  const setsWithAllCardsMissing = [...cardSets]
     .sort((a, b) => a.tcg_date.localeCompare(b.tcg_date))
     .map((cardSet) => {
       const cardList: string[] = require(`../data/structureDecks/${cardSet.set_name.toLowerCase()}.json`);
-      const tripled = [...cardList, ...cardList, ...cardList];
-
-      const cardsMissing = tripled.filter((cardName) => {
-        const inCollection = collectionCopy.filter(
-          (c) => c.Name === cardName,
-        ).length;
-
-        if (inCollection >= 6) {
-          const marked = collectionCopy.filter(
-            (c) => c.Name === cardName && c.Keep === "Structure Deck",
-          ).length;
-          if (marked < 6) {
-            const idx = collectionCopy.findIndex(
-              (c) => c.Name === cardName && !c.Keep,
-            );
-            if (idx > -1) collectionCopy[idx].Keep = "Structure Deck";
-          }
-          return false;
+      const missingCardList: string[] = [];
+      cardList.map((card) => {
+        if (recordOfCardsPerSets[card] === undefined) {
+          recordOfCardsPerSets[card] = 1;
+          missingCardList.push(card);
+          return;
         }
-
-        const idx = collectionCopy.findIndex(
-          (card) =>
-            card.Name === cardName &&
-            card.Code?.includes(cardSet.set_code) &&
-            !card.Keep,
-        );
-        if (idx > -1) {
-          collectionCopy[idx].Keep = cardSet.set_name;
-          return false;
+        if (recordOfCardsPerSets[card] === 1) {
+          recordOfCardsPerSets[card] = 2;
+          missingCardList.push(card);
+          return;
         }
-
-        const missing = missingCountByName[cardName] ?? 0;
-        if (inCollection + missing >= 6) return false;
-
-        missingCountByName[cardName] = missing + 1;
-        return true;
       });
-
-      return { deck: cardSet.set_name, cardsMissing: cardsMissing.sort() };
+      const tripledCardList = [
+        ...missingCardList,
+        ...missingCardList,
+        ...missingCardList,
+      ].sort();
+      return { deck: cardSet.set_name, cardsMissing: tripledCardList };
     });
+
+  const result = setsWithAllCardsMissing.map((cardSet) => {
+    const cardsMissing: string[] = [];
+    cardSet.cardsMissing.map((card) => {
+      const indexInCollection = collectionCopy.findIndex(
+        (collectionCard) =>
+          collectionCard.Name === card && !collectionCard.Keep,
+      );
+      if (indexInCollection > -1) {
+        collectionCopy[indexInCollection].Keep = "Structure Deck";
+        return;
+      }
+      cardsMissing.push(card);
+    });
+    return { deck: cardSet.deck, cardsMissing: cardsMissing };
+  });
 
   fs.writeFileSync(
     path.join(__dirname, "../data/structureDecks/missingCards.json"),
