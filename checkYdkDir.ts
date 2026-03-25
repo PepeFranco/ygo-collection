@@ -139,7 +139,7 @@ async function main() {
     outputLines.push(`  ${name} — ${copies} needed across ${decks.size} deck(s): ${deckList}`);
   }
 
-  const outputPath = path.join(process.cwd(), "missing-cards-report.txt");
+  const outputPath = path.join(absoluteDir, "missing-cards-report.txt");
   fs.writeFileSync(outputPath, outputLines.join("\n"), "utf-8");
   console.log(`\nReport written to: ${outputPath}`);
 }
