@@ -50,11 +50,12 @@ export function buildCollectionById(
   const map = new Map<string, { count: number; name: string }>();
   for (const card of collection) {
     if (!card.ID) continue;
-    const existing = map.get(card.ID);
+    const id = String(card.ID);
+    const existing = map.get(id);
     if (existing) {
       existing.count++;
     } else {
-      map.set(card.ID, { count: 1, name: card.Name });
+      map.set(id, { count: 1, name: card.Name });
     }
   }
   return map;
