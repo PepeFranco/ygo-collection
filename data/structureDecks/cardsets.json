@@ -457,5 +457,20 @@
     "set_name": "THE CHRONICLES DECK: Spirit Charmers",
     "set_code": "CH02",
     "tcg_date": "2026-01-24"
+  },
+  {
+    "set_name": "Legendary Modern Decks 2026 - Mitsurugi",
+    "set_code": "L26D",
+    "tcg_date": "2026-04-23"
+  },
+  {
+    "set_name": "Legendary Modern Decks 2026 - Sky Striker",
+    "set_code": "L26D",
+    "tcg_date": "2026-04-23"
+  },
+  {
+    "set_name": "Legendary Modern Decks 2026 - X Saber",
+    "set_code": "L26D",
+    "tcg_date": "2026-04-23"
   }
 ]
