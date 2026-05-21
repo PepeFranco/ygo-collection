@@ -47,15 +47,20 @@ export function parseYdk(filePath: string): DeckEntry[] {
 export function buildCollectionById(
   collection: CollectionRow[]
 ): Map<string, { count: number; name: string }> {
+  // Count total copies per card name (same card can appear with different IDs across printings)
+  const byName = new Map<string, number>();
+  for (const card of collection) {
+    if (!card.ID || !card.Name) continue;
+    byName.set(card.Name, (byName.get(card.Name) ?? 0) + 1);
+  }
+
+  // Map each ID to the name's total count so any printing covers the deck requirement
   const map = new Map<string, { count: number; name: string }>();
   for (const card of collection) {
     if (!card.ID) continue;
     const id = String(card.ID);
-    const existing = map.get(id);
-    if (existing) {
-      existing.count++;
-    } else {
-      map.set(id, { count: 1, name: card.Name });
+    if (!map.has(id)) {
+      map.set(id, { count: byName.get(card.Name) ?? 1, name: card.Name });
     }
   }
   return map;
