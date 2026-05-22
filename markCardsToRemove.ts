@@ -1,11 +1,12 @@
 import collection from "./data/collection.json";
 import path from "path";
 import fs from "fs";
-import _, { add } from "lodash";
-import { CollectionRow } from "./data/data.types";
-import { debug } from "./debug";
+import _ from "lodash";
+
+const cardsToRemove = [];
 
 const hatDate = new Date(2014, 6, 8);
+const edisonDate = new Date(2010, 3, 25);
 
 const collectionCopy = _.sortBy([...collection], ["Name"]);
 
@@ -22,18 +23,35 @@ const uniqueCards = collectionCopy.reduce(function (accumulator, current) {
   return accumulator;
 }, {});
 
-const hatCards = _.filter(uniqueCards, function (collectionCard) {
+const edisonCards = _.filter(uniqueCards, function (collectionCard) {
   const [date, month, year] = collectionCard["Earliest Date"].split("/");
   const collectionCardDate = new Date(year, month - 1, date);
-  return collectionCardDate < hatDate;
+  return collectionCardDate < edisonDate;
 });
 
-const cardsToRemove = hatCards.reduce(function (accumulator, current) {
+const edisonCardsToRemove = edisonCards.reduce(function (accumulator, current) {
   if (current.copies > 6) {
     accumulator[current["Name"]] = current.copies - 6;
   }
   return accumulator;
 }, {});
+
+cardsToRemove.push(edisonCardsToRemove);
+
+const hatCards = _.filter(uniqueCards, function (collectionCard) {
+  const [date, month, year] = collectionCard["Earliest Date"].split("/");
+  const collectionCardDate = new Date(year, month - 1, date);
+  return collectionCardDate < hatDate && collectionCardDate >= edisonDate;
+});
+
+const hatCardsToRemove = hatCards.reduce(function (accumulator, current) {
+  if (current.copies > 6) {
+    accumulator[current["Name"]] = current.copies - 6;
+  }
+  return accumulator;
+}, {});
+
+cardsToRemove.push(hatCardsToRemove);
 
 const postHatCards = _.filter(uniqueCards, function (collectionCard) {
   const [date, month, year] = collectionCard["Earliest Date"].split("/");
@@ -61,7 +79,7 @@ for (const file of files) {
 }
 
 const cardsMissing = {};
-const postHatCardsToRemove = postHatCards.reduce(function (
+const extraSDCardsToRemove = postHatCards.reduce(function (
   accumulator,
   current,
 ) {
@@ -74,16 +92,30 @@ const postHatCardsToRemove = postHatCards.reduce(function (
     if (current.copies < maxCopies) {
       cardsMissing[cardName] = maxCopies - current.copies;
     }
-  } else {
+  }
+  return accumulator;
+},
+{});
+
+cardsToRemove.push(extraSDCardsToRemove);
+
+const postHatAndNotInSDardsToRemove = postHatCards.reduce(function (
+  accumulator,
+  current,
+) {
+  const cardName = current["Name"];
+  if (!cardsInSD[cardName]) {
     accumulator[cardName] = current.copies;
   }
   return accumulator;
 },
 {});
 
+cardsToRemove.push(postHatAndNotInSDardsToRemove);
+
 fs.writeFileSync(
   path.join(__dirname, "./cardsToRemove.json"),
-  JSON.stringify([cardsToRemove, postHatCardsToRemove], null, 3),
+  JSON.stringify(cardsToRemove, null, 3),
 );
 
 fs.writeFileSync(
