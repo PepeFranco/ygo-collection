@@ -1,0 +1,1896 @@
+[
+   {
+      "id": 66540884,
+      "name": "Archfiend Heiress",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is sent to the GY by card effect, or by being destroyed by battle: You can add 1 \"Archfiend\" card from your Deck to your hand, except \"Archfiend Heiress\". You can only use this effect of \"Archfiend Heiress\" once per turn.",
+      "race": "Fiend",
+      "atk": 1000,
+      "def": 0,
+      "level": 3,
+      "attribute": "DARK",
+      "archetype": "Archfiend",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/archfiend-heiress-5588",
+      "card_sets": [
+         {
+            "set_name": "2014 Mega-Tin Mega Pack",
+            "set_code": "MP14-EN082",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Judgment of the Light",
+            "set_code": "JOTL-EN029",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Maze of Muertos",
+            "set_code": "MZMU-EN066",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 30",
+            "set_code": "OP30-EN004",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 66540884,
+            "image_url": "https://images.ygoprodeck.com/images/cards/66540884.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66540884.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66540884.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.35",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "3.50",
+            "amazon_price": "1.00",
+            "coolstuffinc_price": "1.99"
+         }
+      ]
+   },
+   {
+      "id": 23829452,
+      "name": "Artmage Power Patron",
+      "typeline": [
+         "Illusion",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You cannot Special Summon from the Extra Deck, except Fusion Monsters. You can only use each of the following effects of \"Artmage Power Patron\" once per turn. During the Main Phase (Quick Effect): You can Fusion Summon 1 \"Artmage\" Fusion Monster or 1 \"Nerva the Power Patron of Creation\" from your Extra Deck, using this card you control and monsters from your hand or field. If this card is sent from the hand or field to the GY: You can add 1 \"Artmage\" Spell/Trap from your Deck to your hand, with a different name from the cards in your GY.",
+      "race": "Illusion",
+      "atk": 300,
+      "def": 200,
+      "level": 1,
+      "attribute": "EARTH",
+      "archetype": "Artmage",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/artmage-power-patron-15055",
+      "card_sets": [
+         {
+            "set_name": "Duelist's Advance",
+            "set_code": "DUAD-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 30",
+            "set_code": "OP30-EN006",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 23829452,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23829452.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23829452.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23829452.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+         }
+      ]
+   },
+   {
+      "id": 76407432,
+      "name": "Assault Counter",
+      "type": "Trap Card",
+      "humanReadableCardType": "Counter Trap",
+      "frameType": "trap",
+      "desc": "Activate only while you control an \"/Assault Mode\" monster. Negate the activation of a Spell Card, Trap Card, or Effect Monster's effect and destroy it.",
+      "race": "Counter",
+      "archetype": "Assault Mode",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/assault-counter-6428",
+      "card_sets": [
+         {
+            "set_name": "Crimson Crisis",
+            "set_code": "CRMS-EN075",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 10 (POR)",
+            "set_code": "OP10-PT036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "OTS Tournament Pack 30",
+            "set_code": "OP30-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 76407432,
+            "image_url": "https://images.ygoprodeck.com/images/cards/76407432.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76407432.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76407432.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "1.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 80280737,
+      "name": "Assault Mode Activate",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Tribute 1 Synchro Monster; Special Summon 1 \"/Assault Mode\" monster, whose name includes the Tributed monster's name, from your Deck in Attack Position.",
+      "race": "Normal",
+      "archetype": "Assault Mode",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/assault-mode-activate-6734",
+      "card_sets": [
+         {
+            "set_name": "Crimson Crisis",
+            "set_code": "CRMS-EN063",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Pack: Yusei 2",
+            "set_code": "DP09-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 10",
+            "set_code": "OP10-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 10 (POR)",
+            "set_code": "OP10-PT025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "OTS Tournament Pack 30",
+            "set_code": "OP30-EN021",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: The Crimson King",
+            "set_code": "SDCK-EN039",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 80280737,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80280737.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80280737.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80280737.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "1.71",
+            "amazon_price": "2.27",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 66947414,
+      "name": "Boss Rush",
+      "type": "Spell Card",
+      "humanReadableCardType": "Continuous Spell",
+      "frameType": "spell",
+      "desc": "You cannot Normal Summon or Set. During the End Phase of the turn that a \"B.E.S.\" monster or a \"Big Core\" is destroyed and sent to the Graveyard, you can Special Summon 1 \"B.E.S.\" monster or 1 \"Big Core\" from your Deck.",
+      "race": "Continuous",
+      "archetype": "B.E.S.",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/boss-rush-5622",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN107",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.31"
+         },
+         {
+            "set_name": "Elemental Energy",
+            "set_code": "EEN-EN047",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 30",
+            "set_code": "OP30-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 66947414,
+            "image_url": "https://images.ygoprodeck.com/images/cards/66947414.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66947414.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66947414.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "1.09",
+            "amazon_price": "0.44",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 78474168,
+      "name": "Breakthrough Skill",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Target 1 face-up Effect Monster your opponent controls; that face-up monster your opponent controls has its effects negated until the end of this turn. During your turn, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 face-up Effect Monster your opponent controls; that target has its effects negated until the end of this turn.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/breakthrough-skill-6591",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN215",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN215",
+            "set_rarity": "Mosaic Rare",
+            "set_rarity_code": "(MSR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN227",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN227",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Cosmo Blazer",
+            "set_code": "CBLZ-EN078",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Cosmo Blazer",
+            "set_code": "CBLZ-EN078",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 30",
+            "set_code": "OP30-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Premium Gold: Infinite Gold",
+            "set_code": "PGL3-EN095",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN202",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN202",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Realm of Light Structure Deck",
+            "set_code": "SDLI-EN035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.99"
+         },
+         {
+            "set_name": "Rise of the True Dragons Structure Deck",
+            "set_code": "SR02-EN038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 78474168,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78474168.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78474168.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78474168.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.51",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "12.00",
+            "amazon_price": "1.60",
+            "coolstuffinc_price": "1.49"
+         }
+      ]
+   },
+   {
+      "id": 92221402,
+      "name": "Chaotic Elements",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Add 1 Level 5 or higher monster (LIGHT or DARK, Pyro or Aqua) from your Deck or GY to your hand, then if you have 3 or more Pyro and/or Aqua monsters in your GY, you can destroy 1 card on the field. If your opponent controls a monster (LIGHT or DARK, Pyro or Aqua): You can banish this card from your GY, then target 1 monster your opponent controls; take control of it until the End Phase. You can only use each effect of \"Chaotic Elements\" once per turn.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/chaotic-elements-14917",
+      "card_sets": [
+         {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN067",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 30",
+            "set_code": "OP30-EN011",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 92221402,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92221402.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92221402.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92221402.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+         }
+      ]
+   },
+   {
+      "id": 47736165,
+      "name": "Crystron Eleskeletus",
+      "typeline": [
+         "Machine",
+         "Synchro",
+         "Effect"
+      ],
+      "type": "Synchro Monster",
+      "humanReadableCardType": "Synchro Effect Monster",
+      "frameType": "synchro",
+      "desc": "1 Tuner + 1+ non-Tuner monsters\r\nAll monsters your opponent controls lose 500 ATK/DEF. You can only use each of the following effects of \"Crystron Eleskeletus\" once per turn. If this card is Synchro Summoned: You can add 1 \"Crystron\" card from your GY or banishment to your hand. If this Synchro Summoned card is destroyed by battle or card effect: You can Special Summon 1 \"Crystron\" monster from your GY or banishment.",
+      "race": "Machine",
+      "atk": 2600,
+      "def": 2100,
+      "level": 7,
+      "attribute": "WATER",
+      "archetype": "Crystron",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/crystron-eleskeletus-14719",
+      "card_sets": [
+         {
+            "set_name": "OTS Tournament Pack 30",
+            "set_code": "OP30-EN008",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN041",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 47736165,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47736165.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47736165.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47736165.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+         }
+      ]
+   },
+   {
+      "id": 25865565,
+      "name": "Crystron Sulfador",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is in your hand or GY: You can target 1 \"Crystron\" card you control; destroy it, and if you do, Special Summon this card, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Machine monsters. If this card is Normal or Special Summoned: You can send up to 2 \"Crystron\" cards with different names from your Deck to the GY, except \"Crystron Sulfador\". You can only use each effect of \"Crystron Sulfador\" once per turn.",
+      "race": "Machine",
+      "atk": 1900,
+      "def": 2250,
+      "level": 5,
+      "attribute": "WATER",
+      "archetype": "Crystron",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/crystron-sulfador-14721",
+      "card_sets": [
+         {
+            "set_name": "OTS Tournament Pack 30",
+            "set_code": "OP30-EN005",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Supreme Darkness",
+            "set_code": "SUDA-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 25865565,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25865565.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25865565.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25865565.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+         }
+      ]
+   },
+   {
+      "id": 87890143,
+      "name": "Generation Force",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "If you control an Xyz Monster: Add 1 \"Xyz\" card from your Deck to your hand.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/generation-force-7351",
+      "card_sets": [
+         {
+            "set_name": "OTS Tournament Pack 30",
+            "set_code": "OP30-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Return of the Duelist",
+            "set_code": "REDU-EN063",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.71"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 87890143,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87890143.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87890143.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87890143.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "3.11",
+            "amazon_price": "20.99",
+            "coolstuffinc_price": "1.99"
+         }
+      ]
+   },
+   {
+      "id": 20899496,
+      "name": "Ice Dragon's Prison",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Target 1 monster in your opponent's GY; Special Summon it to your field, but its effects are negated, then, you can banish 1 monster from both players' fields that have the same Type as each other. You can only activate 1 \"Ice Dragon's Prison\" per turn.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/ice-dragon-s-prison-11056",
+      "card_sets": [
+         {
+            "set_name": "2021 Tin of Ancient Battles",
+            "set_code": "MP21-EN155",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN078",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN078",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Magnificent Mavens",
+            "set_code": "MAMA-EN101",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 30",
+            "set_code": "OP30-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Rise of the Duelist",
+            "set_code": "ROTD-EN079",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 20899496,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20899496.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20899496.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20899496.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "2.78",
+            "amazon_price": "6.94",
+            "coolstuffinc_price": "1.99"
+         }
+      ]
+   },
+   {
+      "id": 40703223,
+      "name": "Kuriboh Token",
+      "type": "Token",
+      "humanReadableCardType": "Token",
+      "frameType": "token",
+      "desc": "This card can be used as a \"Kuriboh Token\".\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+      "race": "Fiend",
+      "archetype": "Kuriboh",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/kuriboh-token-3464",
+      "card_sets": [
+         {
+            "set_name": "OTS Tournament Pack 30",
+            "set_code": "OP30-EN027",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! Advent Calendar (2019)",
+            "set_code": "AC19-EN003",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.86"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 40703223,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40703223.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40703223.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40703223.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.83",
+            "tcgplayer_price": "0.80",
+            "ebay_price": "2.79",
+            "amazon_price": "2.85",
+            "coolstuffinc_price": "2.99"
+         }
+      ]
+   },
+   {
+      "id": 69162969,
+      "name": "Lightning Vortex",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Discard 1 card; destroy all face-up monsters your opponent controls.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/lightning-vortex-5814",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 3",
+            "set_code": "DR3-EN160",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist League Demo 2010",
+            "set_code": "DLDI-EN005",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "7.7"
+         },
+         {
+            "set_name": "Flaming Eternity",
+            "set_code": "FET-EN040",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Flaming Eternity",
+            "set_code": "FET-EN040",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 30",
+            "set_code": "OP30-EN016",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN148",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN148",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Rise of the Dragon Lords Structure Deck",
+            "set_code": "SDRL-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.87"
+         },
+         {
+            "set_name": "Starter Deck: Jaden Yuki",
+            "set_code": "YSDJ-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.41"
+         },
+         {
+            "set_name": "Starter Deck: Syrus Truesdale",
+            "set_code": "YSDS-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.76"
+         },
+         {
+            "set_name": "Starter Deck: Yu-Gi-Oh! 5D's",
+            "set_code": "5DS1-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Yuya",
+            "set_code": "YS16-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Dinosaur's Rage",
+            "set_code": "SD09-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.77"
+         },
+         {
+            "set_name": "Structure Deck: Lord of the Storm",
+            "set_code": "SD8-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.59"
+         },
+         {
+            "set_name": "Structure Deck: Spellcaster's Judgment",
+            "set_code": "SD6-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.88"
+         },
+         {
+            "set_name": "Structure Deck: Warrior's Triumph",
+            "set_code": "SD5-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.98"
+         },
+         {
+            "set_name": "Super Starter: Space-Time Showdown",
+            "set_code": "YS14-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Dark Emperor Structure Deck",
+            "set_code": "SDDE-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.95"
+         }
+      ],
+      "banlist_info": {
+         "ban_goat": "Limited"
+      },
+      "card_images": [
+         {
+            "id": 69162969,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69162969.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69162969.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69162969.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.39",
+            "ebay_price": "0.99",
+            "amazon_price": "1.99",
+            "coolstuffinc_price": "0.99"
+         }
+      ]
+   },
+   {
+      "id": 94940436,
+      "name": "Magnet Circle LV2",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Special Summon 1 Level 2 or lower Machine-Type monster from your hand.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/magnet-circle-lv2-7902",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 4",
+            "set_code": "DR04-EN158",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "4.17"
+         },
+         {
+            "set_name": "OTS Tournament Pack 30",
+            "set_code": "OP30-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Shadow of Infinity",
+            "set_code": "SOI-EN038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 94940436,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94940436.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94940436.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94940436.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "1.50",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.99"
+         }
+      ]
+   },
+   {
+      "id": 58205203,
+      "name": "Mariamne Paradox, the True Dracophoenix Knight",
+      "typeline": [
+         "Wyrm",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "To Tribute Summon this card face-up, you can Tribute Continuous Spells/Traps you control, as well as monsters. You can only use each of the following effects of \"Mariamne Paradox, the True Dracophoenix Knight\" once per turn. If this card is in your hand: You can destroy 1 other \"True Draco\" or \"True King\" card in your hand or face-up field, and if you do, Special Summon this card to either field. If this card is Normal or Special Summoned from the hand: Banish the top 4 cards from your Deck.",
+      "race": "Wyrm",
+      "atk": 1800,
+      "def": 1400,
+      "level": 6,
+      "attribute": "WIND",
+      "archetype": "True Draco",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/mariamne-paradox-the-true-dracophoenix-knight-15187",
+      "card_sets": [
+         {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 30",
+            "set_code": "OP30-EN007",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 58205203,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58205203.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58205203.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58205203.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+         }
+      ]
+   },
+   {
+      "id": 34876719,
+      "name": "N.As.H. Knight",
+      "typeline": [
+         "Aqua",
+         "Xyz",
+         "Effect"
+      ],
+      "type": "XYZ Monster",
+      "humanReadableCardType": "Xyz Effect Monster",
+      "frameType": "xyz",
+      "desc": "2 Level 5 monsters\r\nCannot be destroyed by battle while a \"Number\" monster is on the field. During the Main Phase (Quick Effect): You can detach 2 materials from this card; attach 1 \"Number\" Xyz Monster from your Extra Deck to this card as material that has a number between \"101\" and \"107\" in its name, then you can attach 1 other face-up monster on the field to this card as material. You can only use this effect of \"N.As.H. Knight\" once per turn.",
+      "race": "Aqua",
+      "atk": 1700,
+      "def": 2700,
+      "level": 5,
+      "attribute": "WATER",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/n-as-h-knight-12846",
+      "card_sets": [
+         {
+            "set_name": "Justice Hunters",
+            "set_code": "JUSH-EN059",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Duels From the Deep",
+            "set_code": "LED9-EN003",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.09"
+         },
+         {
+            "set_name": "OTS Tournament Pack 30",
+            "set_code": "OP30-EN002",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 34876719,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34876719.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34876719.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34876719.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.75",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 16693934,
+      "name": "Quadogmatika Beast",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Target 1 monster in your GY or banishment; send to the GY, 1 monster from your Extra Deck or 1 \"Dogmatika\" monster from your Deck, with ATK higher than or equal to that target, and if you do, Special Summon that target. Until the end of your next turn after this card resolves, you cannot Special Summon from the Extra Deck. You can only activate 1 \"Quadogmatika Beast\" per turn.",
+      "race": "Normal",
+      "archetype": "Dogmatika",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/quadogmatika-beast-15208",
+      "card_sets": [
+         {
+            "set_name": "Doom of Dimensions",
+            "set_code": "DOOD-EN078",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 30",
+            "set_code": "OP30-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 16693934,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16693934.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16693934.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16693934.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+         }
+      ]
+   },
+   {
+      "id": 40838625,
+      "name": "Quaking Mirror Force",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "When an opponent's monster declares an attack: Change all your opponent's Attack Position monsters to face-down Defense Position. Monsters changed to face-down Defense Position by this effect cannot change their battle positions.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/quaking-mirror-force-3472",
+      "card_sets": [
+         {
+            "set_name": "Breakers of Shadow",
+            "set_code": "BOSH-EN076",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dinosmasher's Fury Structure Deck",
+            "set_code": "SR04-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Dragon Decks",
+            "set_code": "LEDD-ENB23",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "3.06"
+         },
+         {
+            "set_name": "OTS Tournament Pack 30",
+            "set_code": "OP30-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 40838625,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40838625.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40838625.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40838625.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "2.95",
+            "amazon_price": "6.84",
+            "coolstuffinc_price": "1.99"
+         }
+      ]
+   },
+   {
+      "id": 64612053,
+      "name": "Rescue-ACE Fire Attacker",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If a \"Rescue-ACE\" monster(s) is Normal or Special Summoned to your field, except \"Rescue-ACE Fire Attacker\" (except during the Damage Step): You can Special Summon this card from your hand. If a card(s) is added to your opponent's hand, except by drawing it (except during the Damage Step): You can draw 2 cards, then discard 1 card. You can only use each effect of \"Rescue-ACE Fire Attacker\" once per turn.",
+      "race": "Machine",
+      "atk": 2200,
+      "def": 2200,
+      "level": 6,
+      "attribute": "FIRE",
+      "archetype": "Rescue-ACE",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/rescue-ace-fire-attacker-13389",
+      "card_sets": [
+         {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN280",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Amazing Defenders",
+            "set_code": "AMDE-EN005",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 30",
+            "set_code": "OP30-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 64612053,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64612053.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64612053.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64612053.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.17",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 68464358,
+      "name": "Rokket Tracer",
+      "typeline": [
+         "Dragon",
+         "Tuner",
+         "Effect"
+      ],
+      "type": "Tuner Monster",
+      "humanReadableCardType": "Tuner Effect Monster",
+      "frameType": "effect",
+      "desc": "(Quick Effect): You can target 1 face-up card you control; destroy it, and if you do, Special Summon 1 \"Rokket\" monster from your Deck, except \"Rokket Tracer\", also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except DARK monsters. You can only use this effect of \"Rokket Tracer\" once per turn.",
+      "race": "Dragon",
+      "atk": 1600,
+      "def": 1000,
+      "level": 4,
+      "attribute": "DARK",
+      "archetype": "Rokket",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/rokket-tracer-10372",
+      "card_sets": [
+         {
+            "set_name": "Maximum Gold: El Dorado",
+            "set_code": "MGED-EN020",
+            "set_rarity": "Premium Gold Rare",
+            "set_rarity_code": "(PG)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 30",
+            "set_code": "OP30-EN001",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Rarity Collection 5",
+            "set_code": "RA05-EN015",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Rarity Collection 5",
+            "set_code": "RA05-EN015",
+            "set_rarity": "PLatinum Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Rarity Collection 5",
+            "set_code": "RA05-EN015",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Rarity Collection 5",
+            "set_code": "RA05-EN015",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Rarity Collection 5",
+            "set_code": "RA05-EN015",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Rarity Collection 5",
+            "set_code": "RA05-EN015",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Rarity Collection 5",
+            "set_code": "RA05-EN015",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN002",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.76"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 68464358,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68464358.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68464358.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68464358.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "1.10",
+            "amazon_price": "0.46",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   },
+   {
+      "id": 67750322,
+      "name": "Skull Meister",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When a card effect is activated in your opponent's GY (Quick Effect): You can send this card from your hand to the GY; negate that effect.",
+      "race": "Fiend",
+      "atk": 1700,
+      "def": 400,
+      "level": 4,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/skull-meister-5691",
+      "card_sets": [
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN005",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN005",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN005",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN005",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN005",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN005",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN005",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Ancient Guardians",
+            "set_code": "ANGU-EN043",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "1.53"
+         },
+         {
+            "set_name": "Ancient Guardians",
+            "set_code": "ANGU-EN043",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Code of the Duelist Special Edition",
+            "set_code": "COTD-ENSE1",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.88"
+         },
+         {
+            "set_name": "OTS Tournament Pack 30",
+            "set_code": "OP30-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starstrike Blast",
+            "set_code": "STBL-EN081",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Powercode Link",
+            "set_code": "SDPL-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 67750322,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67750322.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67750322.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67750322.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.96",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   },
+   {
+      "id": 93039339,
+      "name": "Super Starslayer TY-PHON - Sky Crisis",
+      "typeline": [
+         "Fiend",
+         "Xyz",
+         "Effect"
+      ],
+      "type": "XYZ Monster",
+      "humanReadableCardType": "Xyz Effect Monster",
+      "frameType": "xyz",
+      "desc": "2 Level 12 monsters\r\nDuring the turn, or turn after, your opponent Special Summoned 2 or more monsters from the Extra Deck, you can also Xyz Summon this card by using 1 monster you control with the highest ATK (your choice, if tied). (Transfer its materials to this card.) If you do, you cannot Normal or Special Summon monsters for the rest of this turn. While this Xyz Summoned monster is on the field, neither player can activate the effects of monsters with 3000 or more ATK. Once per turn: You can detach 1 material from this card; return 1 monster from the field to the hand.",
+      "race": "Fiend",
+      "atk": 2900,
+      "def": 2900,
+      "level": 12,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/super-starslayer-ty-phon-sky-crisis-14084",
+      "card_sets": [
+         {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN119",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN042",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Age of Overlord",
+            "set_code": "AGOV-EN042",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Modern Decks 2026",
+            "set_code": "L26D-ENM28",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 30",
+            "set_code": "OP30-EN003",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN072",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN072",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN072",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN072",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN072",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN072",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 93039339,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93039339.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93039339.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93039339.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.32",
+            "tcgplayer_price": "0.25",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "17.99"
+         }
+      ]
+   },
+   {
+      "id": 15123983,
+      "name": "THE Star Ham",
+      "typeline": [
+         "Beast",
+         "Synchro",
+         "Effect"
+      ],
+      "type": "Synchro Monster",
+      "humanReadableCardType": "Synchro Effect Monster",
+      "frameType": "synchro",
+      "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can discard 1 card; Special Summon 1 monster from your GY that was used as material for this card's Synchro Summon, and if you do, it is treated as a Tuner. If this card is in your GY: You can discard 2 cards; Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"THE Star Ham\" once per turn.",
+      "race": "Beast",
+      "atk": 1000,
+      "def": 1200,
+      "level": 3,
+      "attribute": "LIGHT",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/the-star-ham-15011",
+      "card_sets": [
+         {
+            "set_name": "Duelist's Advance",
+            "set_code": "DUAD-EN041",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 30",
+            "set_code": "OP30-EN009",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 15123983,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15123983.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15123983.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15123983.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+         }
+      ]
+   },
+   {
+      "id": 43898403,
+      "name": "Twin Twisters",
+      "type": "Spell Card",
+      "humanReadableCardType": "Quick-Play Spell",
+      "frameType": "spell",
+      "desc": "Discard 1 card, then target up to 2 Spells/Traps on the field; destroy them.",
+      "race": "Quick-Play",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/twin-twisters-3747",
+      "card_sets": [
+         {
+            "set_name": "2016 Mega-Tin Mega Pack",
+            "set_code": "MP16-EN221",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN060",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN060",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN060",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN060",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN060",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN060",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN060",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Breakers of Shadow",
+            "set_code": "BOSH-EN067",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dinosmasher's Fury Structure Deck",
+            "set_code": "SR04-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Hero Decks",
+            "set_code": "LEHD-ENC20",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "4.17"
+         },
+         {
+            "set_name": "Maximum Gold: El Dorado",
+            "set_code": "MGED-EN043",
+            "set_rarity": "Premium Gold Rare",
+            "set_rarity_code": "(PG)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 12",
+            "set_code": "OP12-EN002",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 12 (POR)",
+            "set_code": "OP12-PT002",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "OTS Tournament Pack 30",
+            "set_code": "OP30-EN020",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Shadows in Valhalla",
+            "set_code": "SHVA-EN059",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Rokket Revolt",
+            "set_code": "SDRR-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Shaddoll Showdown",
+            "set_code": "SDSH-EN032",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.03"
+         },
+         {
+            "set_name": "Structure Deck: Spirit Charmers",
+            "set_code": "SDCH-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.28"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 43898403,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43898403.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43898403.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43898403.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "1.79",
+            "amazon_price": "1.20",
+            "coolstuffinc_price": "0.99"
+         }
+      ]
+   },
+   {
+      "id": 49451215,
+      "name": "Ukanomitsune-no-Onari",
+      "typeline": [
+         "Beast",
+         "Link",
+         "Effect"
+      ],
+      "type": "Link Monster",
+      "humanReadableCardType": "Link Effect Monster",
+      "frameType": "link",
+      "desc": "2 LIGHT monsters, including a Beast monster\r\nYour opponent cannot target cards in the Field Zones with card effects. You can only use each of the following effects of \"Ukanomitsune-no-Onari\" once per turn. If this card is Link Summoned: You can target 1 Quick-Play Spell in your GY; Set it. If this card is destroyed: For each card in a Field Zone, you can apply 1 of these effects. (If both, apply them in sequence.)\r\n● Destroy 1 card your opponent controls.\r\n● Inflict 1500 damage to your opponent.",
+      "race": "Beast",
+      "atk": 1500,
+      "def": null,
+      "level": null,
+      "attribute": "LIGHT",
+      "linkval": 2,
+      "linkmarkers": [
+         "Right",
+         "Bottom"
+      ],
+      "ygoprodeck_url": "https://ygoprodeck.com/card/ukanomitsune-no-onari-15061",
+      "card_sets": [
+         {
+            "set_name": "OTS Tournament Pack 30",
+            "set_code": "OP30-EN010",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 49451215,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49451215.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49451215.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49451215.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+         }
+      ]
+   },
+   {
+      "id": 35550352,
+      "name": "Vanquish Soul, Start!",
+      "type": "Spell Card",
+      "humanReadableCardType": "Field Spell",
+      "frameType": "spell",
+      "desc": "You can target 1 \"Vanquish Soul\" monster you control; add 1 \"Vanquish Soul\" monster with a different Attribute from your Deck to your hand. If a \"Vanquish Soul\" monster(s) you control would be destroyed by battle or card effect, you can reveal 1 \"Vanquish Soul\" monster in your hand instead. During your End Phase, if you control 2 or more \"Vanquish Soul\" monsters: You can Set 1 \"Vanquish Soul\" Trap from your Deck. You can only use each effect of \"Vanquish Soul, Start!\" once per turn.",
+      "race": "Field",
+      "archetype": "Vanquish Soul",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/vanquish-soul-start-15035",
+      "card_sets": [
+         {
+            "set_name": "OTS Tournament Pack 30",
+            "set_code": "OP30-EN012",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 35550352,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35550352.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35550352.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35550352.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
+         }
+      ]
+   },
+   {
+      "id": 10642488,
+      "name": "Vic Viper T301",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When an attack is declared involving your face-up monster and an opponent's monster: You can Special Summon this card from your hand or GY, but banish it when it leaves the field. You can only use this effect of \"Vic Viper T301\" once per turn. Other LIGHT Machine monsters you control gain 1200 ATK.",
+      "race": "Machine",
+      "atk": 1200,
+      "def": 800,
+      "level": 4,
+      "attribute": "LIGHT",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/vic-viper-t301-10244",
+      "card_sets": [
+         {
+            "set_name": "OTS Tournament Pack 30",
+            "set_code": "OP30-EN014",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Rising Rampage",
+            "set_code": "RIRA-EN024",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 10642488,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10642488.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10642488.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10642488.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   }
+]
