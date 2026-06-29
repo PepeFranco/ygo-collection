@@ -345286,5 +345286,29 @@
       "Is Speed Duel Legal": "",
       "Keep": "",
       "Price": 0
+   },
+   {
+      "Name": "Tempest Magician",
+      "Code": "SOVR-ENSE1",
+      "Set": "Stardust Overdrive: Special Edition",
+      "Rarity": "Super Rare",
+      "Edition": "LIMITED",
+      "In Deck": "",
+      "ID": 63101919,
+      "Type": "Synchro Monster",
+      "ATK": 2200,
+      "DEF": 1400,
+      "Level": 6,
+      "Card Type": "Spellcaster",
+      "Attribute": "DARK",
+      "Archetype": "",
+      "Scale": "",
+      "Link Scale": "",
+      "Earliest Set": "Crossroads of Chaos",
+      "Earliest Date": "2008-11-18",
+      "Is Speed Duel": "No",
+      "Is Speed Duel Legal": "",
+      "Keep": "",
+      "Price": 4.85
    }
 ]
