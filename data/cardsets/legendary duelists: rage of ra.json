@@ -1,0 +1,3957 @@
+[
+   {
+      "id": 23587624,
+      "name": "A Wild Monster Appears!",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "If your opponent controls a monster and you control no monsters: Special Summon from your hand, 1 monster with an original Level of 10 or lower that cannot be Normal Summoned/Set, ignoring its Summoning conditions. It is unaffected by the effects of your cards, except for its own effects and this card's, also shuffle it into the Deck during your opponent's next End Phase. For the rest of this turn, you cannot Normal Summon/Set or Special Summon monsters, and your opponent takes no damage.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/a-wild-monster-appears-2034",
+      "card_sets": [
+         {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN234",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN052",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Secrets of Eternity",
+            "set_code": "SECE-EN064",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 23587624,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23587624.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23587624.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23587624.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 303660,
+      "name": "Amplifier",
+      "type": "Spell Card",
+      "humanReadableCardType": "Equip Spell",
+      "frameType": "spell",
+      "desc": "Equip only to \"Jinzo\". While this card is equipped, the equipped monster's effect does not negate the effects of its controller's Trap Cards. When this card is removed from the field, destroy the equipped monster. This card's activation and effect cannot be negated.",
+      "race": "Equip",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/amplifier-33",
+      "card_sets": [
+         {
+            "set_name": "Ancient Sanctuary",
+            "set_code": "AST-040",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "7.38"
+         },
+         {
+            "set_name": "Champion Pack: Game Six",
+            "set_code": "CP06-EN017",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Revelation Volume 2",
+            "set_code": "DR2-EN152",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN043",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Battle City Box",
+            "set_code": "SBCB-EN157",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.33"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENE14",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 303660,
+            "image_url": "https://images.ygoprodeck.com/images/cards/303660.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/303660.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/303660.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "1.88",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 78665705,
+      "name": "Ancient Chant",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Add 1 \"The Winged Dragon of Ra\" from your Deck or GY to your hand, and if you do, you can Tribute Summon 1 monster during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) You can banish this card from your GY: If you Tribute Summon \"The Winged Dragon of Ra\" this turn, its original ATK/DEF become the combined original ATK/DEF of the monsters Tributed for its Summon. You can only activate 1 \"Ancient Chant\" per turn.",
+      "race": "Normal",
+      "archetype": "Egyptian God",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/ancient-chant-11076",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN004",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "34.84"
+         },
+         {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN069",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN069",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 78665705,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78665705.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78665705.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78665705.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "8.87",
+            "tcgplayer_price": "9.61",
+            "ebay_price": "6.97",
+            "amazon_price": "49.96",
+            "coolstuffinc_price": "33.99"
+         }
+      ]
+   },
+   {
+      "id": 4059313,
+      "name": "Blaze Cannon",
+      "type": "Spell Card",
+      "humanReadableCardType": "Quick-Play Spell",
+      "frameType": "spell",
+      "desc": "(This card is also always treated as a \"Blaze Accelerator\" card.)\r\nOne \"The Winged Dragon of Ra\" you control gains the following effects until the end of this turn. This card's activation and effect cannot be negated.\r\n● This card is unaffected by your opponent's card effects.\r\n● When an attack is declared involving this card: You can Tribute any number of other monsters that did not declare an attack this turn; this card gains ATK equal to the Tributed monsters' combined original ATK, until the end of this turn.\r\n● After damage calculation, if this card attacked: You can send all monsters your opponent controls to the GY.",
+      "race": "Quick-Play",
+      "archetype": "Blaze Accelerator",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/blaze-cannon-11209",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN005",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "4.34"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 4059313,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4059313.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4059313.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4059313.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "6.30",
+            "tcgplayer_price": "2.64",
+            "ebay_price": "7.49",
+            "amazon_price": "3.30",
+            "coolstuffinc_price": "1.49"
+         }
+      ]
+   },
+   {
+      "id": 12986778,
+      "name": "Boon of the Meklord Emperor",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "If the only face-up monsters on the field are 2 \"Meklord\" monsters: Draw 2 cards. You cannot conduct your Battle Phase the turn you activate this card.",
+      "race": "Normal",
+      "archetype": "Meklord",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/boon-of-the-meklord-emperor-1119",
+      "card_sets": [
+         {
+            "set_name": "Extreme Victory",
+            "set_code": "EXVC-EN050",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.05"
+         },
+         {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN170",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.12"
+         },
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN049",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 12986778,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12986778.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12986778.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12986778.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 87910978,
+      "name": "Brain Control",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Pay 800 LP, then target 1 face-up monster your opponent controls that can be Normal Summoned/Set; take control of that target until the End Phase.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/brain-control-7353",
+      "card_sets": [
+         {
+            "set_name": "Dark Revelation Volume 3",
+            "set_code": "DR3-EN218",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Terminal 3",
+            "set_code": "DT03-EN094",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Pack: Yugi",
+            "set_code": "DPYG-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.41"
+         },
+         {
+            "set_name": "Duelist Saga",
+            "set_code": "DUSA-EN046",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "3.53"
+         },
+         {
+            "set_name": "Egyptian God Deck: Obelisk the Tormentor",
+            "set_code": "EGO1-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.33"
+         },
+         {
+            "set_name": "Gold Series",
+            "set_code": "GLD1-EN033",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN074",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN042",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 28",
+            "set_code": "OP28-EN022",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN154",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN154",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Rise of the Dragon Lords Structure Deck",
+            "set_code": "SDRL-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.31"
+         },
+         {
+            "set_name": "Starter Deck 2006",
+            "set_code": "YSD-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Starter Deck: Jaden Yuki",
+            "set_code": "YSDJ-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.7"
+         },
+         {
+            "set_name": "Starter Deck: Syrus Truesdale",
+            "set_code": "YSDS-EN031",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.49"
+         },
+         {
+            "set_name": "Structure Deck: Invincible Fortress",
+            "set_code": "SD7-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.32"
+         },
+         {
+            "set_name": "The Dark Emperor Structure Deck",
+            "set_code": "SDDE-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.25"
+         },
+         {
+            "set_name": "The Lost Millennium",
+            "set_code": "TLM-EN038",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Lost Millennium",
+            "set_code": "TLM-EN038",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Yugi's Legendary Decks",
+            "set_code": "YGLD-ENA26",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.65"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 87910978,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87910978.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87910978.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87910978.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.14",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 4081825,
+      "name": "Chaos Infinity",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Change as many Defense Position monsters on the field as possible to face-up Attack Position, then Special Summon 1 \"Meklord\" monster from your Deck or Graveyard, but its effects are negated, also it is destroyed during the End Phase.",
+      "race": "Normal",
+      "archetype": "Chaos",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/chaos-infinity-368",
+      "card_sets": [
+         {
+            "set_name": "Extreme Victory",
+            "set_code": "EXVC-EN065",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN174",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 4081825,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4081825.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4081825.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4081825.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "5.98",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 91654806,
+      "name": "Cosmos Channelling",
+      "type": "Spell Card",
+      "humanReadableCardType": "Continuous Spell",
+      "frameType": "spell",
+      "desc": "You can send 1 monster you control that is owned by your opponent to the GY; Special Summon 1 Machine monster from your hand or GY. When your opponent draws for their normal draw in their Draw Phase while you control \"Jinzo\": You can declare 1 card type (Monster, Spell, or Trap); your opponent reveals the card they drew, and if it is the declared card type, send this card to the GY, and if you do, draw 1 card. You can only use each effect of \"Cosmos Channelling\" once per turn.",
+      "race": "Continuous",
+      "archetype": "Jinzo",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/cosmos-channelling-11069",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN036",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.21"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENE12",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 91654806,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91654806.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91654806.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91654806.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "1.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 38265153,
+      "name": "Cyber Energy Shock",
+      "type": "Spell Card",
+      "humanReadableCardType": "Quick-Play Spell",
+      "frameType": "spell",
+      "desc": "If you control \"Jinzo\": Target 1 card on the field; destroy it, then, if it was a Trap, you can apply 1 of these effects.\r\n● Negate the effects of 1 face-up card on the field until the end of this turn.\r\n● All \"Jinzo\" you control gain 800 ATK.\r\nYou can only activate 1 \"Cyber Energy Shock\" per turn.",
+      "race": "Quick-Play",
+      "archetype": "Jinzo",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/cyber-energy-shock-11006",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN034",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.11"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENE11",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 38265153,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38265153.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38265153.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38265153.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.16",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 42166000,
+      "name": "Egyptian God Slime",
+      "typeline": [
+         "Aqua",
+         "Fusion",
+         "Effect"
+      ],
+      "type": "Fusion Monster",
+      "humanReadableCardType": "Fusion Effect Monster",
+      "frameType": "fusion",
+      "desc": "1 Aqua monster + 1 Level 10 WATER monster\r\nMust first be either Fusion Summoned, or Special Summoned from your Extra Deck by Tributing 1 Level 10 Aqua monster with 0 ATK. This card can be treated as 1 or 3 Tributes for the Tribute Summon of a monster. Cannot be destroyed by battle. Your opponent's monsters cannot target for attacks, and your opponent cannot target with card effects, any monsters you control, except \"Egyptian God Slime\".",
+      "race": "Aqua",
+      "atk": 3000,
+      "def": 3000,
+      "level": 10,
+      "attribute": "WATER",
+      "archetype": "Egyptian God",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/egyptian-god-slime-11008",
+      "card_sets": [
+         {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN029",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN029",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN029",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN029",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN029",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN029",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection",
+            "set_code": "RA01-EN029",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "59.14"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 42166000,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42166000.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42166000.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42166000.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.46",
+            "tcgplayer_price": "0.34",
+            "ebay_price": "2.99",
+            "amazon_price": "49.99",
+            "coolstuffinc_price": "69.99"
+         }
+      ]
+   },
+   {
+      "id": 37042505,
+      "name": "Everlasting Alloy",
+      "type": "Spell Card",
+      "humanReadableCardType": "Quick-Play Spell",
+      "frameType": "spell",
+      "desc": "If you control \"Jinzo\": Activate 1 of these effects;\r\n● All Machine monsters you currently control cannot be destroyed by your opponent's card effects, until the end of this turn.\r\n● When a card or effect is activated that targets a Machine monster(s) you control: Negate that effect.",
+      "race": "Quick-Play",
+      "archetype": "Jinzo",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/everlasting-alloy-11210",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN037",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.14"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 37042505,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37042505.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37042505.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37042505.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 15771991,
+      "name": "Guardian Slime",
+      "typeline": [
+         "Aqua",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If you take battle or effect damage: You can Special Summon this card from your hand. During damage calculation, if this card battles an opponent's monster (Quick Effect): You can make this card gain DEF equal to that opponent's monster's ATK during that damage calculation only. If this card is sent from the hand or field to the GY: You can add 1 Spell/Trap from your Deck to your hand that specifically lists the card \"The Winged Dragon of Ra\" in its text. You can only use each effect of \"Guardian Slime\" once per turn.",
+      "race": "Aqua",
+      "atk": 0,
+      "def": 0,
+      "level": 10,
+      "attribute": "WATER",
+      "archetype": "Egyptian God",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/guardian-slime-11077",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN003",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "7.32"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 15771991,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15771991.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15771991.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15771991.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "17.38",
+            "tcgplayer_price": "16.81",
+            "ebay_price": "15.00",
+            "amazon_price": "4.48",
+            "coolstuffinc_price": "5.99"
+         }
+      ]
+   },
+   {
+      "id": 43730887,
+      "name": "Holding Arms",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is Normal or Special Summoned: Target 1 face-up monster your opponent controls; while this card is face-up on the field, that face-up monster cannot attack, also its effects are negated. While that face-up monster is on the field, this card cannot be destroyed by battle or card effects.",
+      "race": "Fiend",
+      "atk": 500,
+      "def": 1200,
+      "level": 4,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/holding-arms-3735",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Millennium Pack",
+            "set_code": "MIL1-EN003",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "4.62"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 43730887,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43730887.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43730887.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43730887.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "2.25",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 70124586,
+      "name": "Holding Legs",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is Summoned: Return all Set Spell and Trap Cards on the field to the hand. You can banish this card from your Graveyard, then target 1 Set Spell/Trap Card your opponent controls; that Set card cannot be activated until the end of your opponent's next turn.",
+      "race": "Fiend",
+      "atk": 800,
+      "def": 600,
+      "level": 4,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/holding-legs-5902",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN011",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Millennium Pack",
+            "set_code": "MIL1-EN004",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.41"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 70124586,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70124586.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70124586.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70124586.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "2.25",
+            "amazon_price": "1.89",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 77585514,
+      "name": "Jinzo",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Trap Cards, and their effects on the field, cannot be activated. Negate all Trap effects on the field.",
+      "race": "Machine",
+      "atk": 2400,
+      "def": 1500,
+      "level": 6,
+      "attribute": "DARK",
+      "archetype": "Jinzo",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/jinzo-6528",
+      "card_sets": [
+         {
+            "set_name": "Anniversary Pack",
+            "set_code": "YAP1-EN007",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "74.32"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN003",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "2.77"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN003",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "4.58"
+         },
+         {
+            "set_name": "Collectible Tins 2003",
+            "set_code": "BPT-011",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "25.91"
+         },
+         {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB1-EN067",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "31.79"
+         },
+         {
+            "set_name": "Duelist League 3 participation cards",
+            "set_code": "DL12-EN005",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "25.99"
+         },
+         {
+            "set_name": "Duelist Pack: Battle City",
+            "set_code": "DPBC-EN027",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "3.11"
+         },
+         {
+            "set_name": "Duelist Saga",
+            "set_code": "DUSA-EN045",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "6.19"
+         },
+         {
+            "set_name": "Gold Series",
+            "set_code": "GLD1-EN003",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "14.72"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN023",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.85"
+         },
+         {
+            "set_name": "Legendary Decks II",
+            "set_code": "LDK2-ENJ10",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.63"
+         },
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN038",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.7"
+         },
+         {
+            "set_name": "Mystic Fighters",
+            "set_code": "MYFI-EN041",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.16"
+         },
+         {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-000",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "79.03"
+         },
+         {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-E000",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "269.66"
+         },
+         {
+            "set_name": "Pharaoh's Servant",
+            "set_code": "PSV-EN000",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0.00"
+         },
+         {
+            "set_name": "Premium Gold",
+            "set_code": "PGLD-EN051",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "7.57"
+         },
+         {
+            "set_name": "Retro Pack 2",
+            "set_code": "RP02-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "53.53"
+         },
+         {
+            "set_name": "Speed Duel: Battle City Box",
+            "set_code": "SBCB-EN147",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.41"
+         },
+         {
+            "set_name": "Speed Duel: Battle City Box",
+            "set_code": "SBCB-EN147",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "13.7"
+         },
+         {
+            "set_name": "Trials of the Pharaoh - Match of the Millennium & Twisted Nightmares promotional card",
+            "set_code": "OPTP-EN002",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "219.41"
+         }
+      ],
+      "banlist_info": {
+         "ban_goat": "Limited"
+      },
+      "card_images": [
+         {
+            "id": 77585514,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77585514.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77585514.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77585514.jpg"
+         },
+         {
+            "id": 77585513,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77585513.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77585513.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77585513.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.12",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "300.00",
+            "amazon_price": "0.79",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 51916032,
+      "name": "Jinzo - Jector",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "This card's name becomes \"Jinzo\" while on the field or in the Graveyard. You can Tribute this card; add 1 \"Jinzo\" monster from your Deck to your hand, except \"Jinzo - Jector\", then reveal all Set cards in your opponent's Spell & Trap Zones, and if there are Trap Cards among them, you can Special Summon \"Jinzo\" monsters from your hand, up to the number of Trap Cards revealed. You can only use this effect of \"Jinzo - Jector\" once per turn.",
+      "race": "Machine",
+      "atk": 800,
+      "def": 2000,
+      "level": 4,
+      "attribute": "DARK",
+      "archetype": "Jinzo",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/jinzo-jector-4418",
+      "card_sets": [
+         {
+            "set_name": "2015 Mega-Tin Mega Pack",
+            "set_code": "MP15-EN214",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN041",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Secrets of Eternity",
+            "set_code": "SECE-EN031",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Secrets of Eternity: Super Edition",
+            "set_code": "SECE-ENS06",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.43"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 51916032,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51916032.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51916032.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51916032.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "4.95",
+            "amazon_price": "2.00",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 35803249,
+      "name": "Jinzo - Lord",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by sending 1 face-up \"Jinzo\" you control to the Graveyard. Trap Cards cannot be activated and the effects of all Trap Cards on the field are negated. Once per turn, you can destroy all face-up Trap Cards. Inflict 300 damage to your opponent for each card destroyed by this effect.",
+      "race": "Machine",
+      "atk": 2600,
+      "def": 1600,
+      "level": 8,
+      "attribute": "DARK",
+      "archetype": "Jinzo",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/jinzo-lord-3032",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN040",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Light of Destruction",
+            "set_code": "LODT-EN007",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENE02",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 35803249,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35803249.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35803249.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35803249.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "4.95",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 9418534,
+      "name": "Jinzo - Returner",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "This card can attack your opponent directly. When this card is sent to the Graveyard, you can Special Summon 1 \"Jinzo\" from your Graveyard. Destroy it during your End Phase.",
+      "race": "Machine",
+      "atk": 600,
+      "def": 1400,
+      "level": 3,
+      "attribute": "DARK",
+      "archetype": "Jinzo",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/jinzo-returner-801",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN039",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Light of Destruction",
+            "set_code": "LODT-EN006",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENE03",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 9418534,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9418534.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9418534.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9418534.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.24",
+            "ebay_price": "3.95",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 39987731,
+      "name": "Jinzo the Machine Menace",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If a Trap is face-up on the field or in either GY: You can Special Summon this card from your hand, and if you do, it becomes Level 6 until the end of this turn. During the Main Phase (Quick Effect): You can Tribute this card; Special Summon 1 \"Jinzo\" from your hand or GY, then you can destroy all Traps your opponent controls (if a card is Set, reveal it). You can only use each effect of \"Jinzo the Machine Menace\" once per turn.",
+      "race": "Machine",
+      "atk": 2400,
+      "def": 1500,
+      "level": 7,
+      "attribute": "DARK",
+      "archetype": "Jinzo",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/jinzo-the-machine-menace-11073",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN031",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "4.21"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 39987731,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39987731.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39987731.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39987731.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "1.29",
+            "tcgplayer_price": "1.26",
+            "ebay_price": "4.70",
+            "amazon_price": "1.99",
+            "coolstuffinc_price": "1.49"
+         }
+      ]
+   },
+   {
+      "id": 59546797,
+      "name": "Juragedo",
+      "typeline": [
+         "Fiend",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "During the Battle Step (Quick Effect): You can Special Summon this card from your hand, and if you do, gain 1000 LP. You can only use this effect of \"Juragedo\" once per turn. (Quick Effect): You can Tribute this card, then target 1 face-up monster you control; it gains 1000 ATK until the end of the next turn.",
+      "race": "Fiend",
+      "atk": 1700,
+      "def": 1300,
+      "level": 4,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/juragedo-5059",
+      "card_sets": [
+         {
+            "set_name": "Duelist Pack: Battle City",
+            "set_code": "DPBC-EN002",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.61"
+         },
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN009",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Powercode Link",
+            "set_code": "SDPL-EN010",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "The Infinity Chasers",
+            "set_code": "INCH-EN041",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.63"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 59546797,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59546797.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59546797.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59546797.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 64659851,
+      "name": "Law of the Cosmos",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Your opponent can Set 1 Trap directly from their hand or Deck. Then, if they did, Special Summon 1 \"Jinzo\" from your Deck. If they did not, add 1 \"Jinzo\", or 1 monster that specifically lists that card in its text, from your Deck to your hand. You can only activate 1 \"Law of the Cosmos\" per turn.",
+      "race": "Normal",
+      "archetype": "Jinzo",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/law-of-the-cosmos-11070",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN035",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.57"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 64659851,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64659851.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64659851.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64659851.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.24",
+            "tcgplayer_price": "0.25",
+            "ebay_price": "1.45",
+            "amazon_price": "1.21",
+            "coolstuffinc_price": "1.99"
+         }
+      ]
+   },
+   {
+      "id": 86541496,
+      "name": "Left Arm Offering",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "If you have 2 or more other cards in your hand: Banish your entire hand; add 1 Spell from your Deck to your hand. You cannot Set Spells/Traps during the turn you activate this card.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/left-arm-offering-7249",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Millennium Pack",
+            "set_code": "MIL1-EN015",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "4.56"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN086",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN086",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN086",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN086",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN086",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN086",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN086",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Order of the Spellcasters",
+            "set_code": "SR08-EN033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 86541496,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86541496.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86541496.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86541496.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 21593977,
+      "name": "Makyura the Destructor",
+      "typeline": [
+         "Warrior",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is sent from the Monster Zone to the GY: You can activate 1 Trap Card from your hand this turn. You can only use this effect of \"Makyura the Destructor\" once per turn.",
+      "race": "Warrior",
+      "atk": 1600,
+      "def": 1200,
+      "level": 4,
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/makyura-the-destructor-1859",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN180",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN180",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB1-EN169",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "14.1"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN121",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN008",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.13"
+         }
+      ],
+      "banlist_info": {
+         "ban_goat": "Forbidden"
+      },
+      "card_images": [
+         {
+            "id": 21593977,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21593977.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21593977.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21593977.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 3715284,
+      "name": "Meklord Army Deployer Obbligato",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "During your Main Phase: You can activate this effect; destroy this card, and if you do, Special Summon 2 \"Meklord Army\" monsters from your Deck in Defense Position, except \"Meklord Army Deployer Obbligato\", also you cannot Special Summon monsters for the rest of this turn, except Machine monsters. If this card is sent to the GY: You can activate this effect; during the End Phase of this turn, you can inflict 100 damage to your opponent for each \"Meklord\" monster you control. You can only use each effect of \"Meklord Army Deployer Obbligato\" once per turn.",
+      "race": "Machine",
+      "atk": 1200,
+      "def": 1800,
+      "level": 4,
+      "attribute": "LIGHT",
+      "archetype": "Meklord",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/meklord-army-deployer-obbligato-11167",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN019",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.4"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 3715284,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3715284.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3715284.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3715284.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.20",
+            "tcgplayer_price": "0.16",
+            "ebay_price": "1.14",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 2137678,
+      "name": "Meklord Army of Granel",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "This card gains 100 ATK for each \"Meklord\" monster on the field, except this card. When this card is Normal Summoned: You can target 1 face-up monster your opponent controls; halve that target's ATK, until the end of this turn.",
+      "race": "Machine",
+      "atk": 1600,
+      "def": 1200,
+      "level": 4,
+      "attribute": "EARTH",
+      "archetype": "Meklord",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/meklord-army-of-granel-193",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN083",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN083",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Extreme Victory",
+            "set_code": "EXVC-EN014",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN165",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.22"
+         },
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN048",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "War of the Giants Reinforcements",
+            "set_code": "WGRT-EN040",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "4.29"
+         },
+         {
+            "set_name": "War of the Giants: Round 2",
+            "set_code": "BPW2-EN040",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.58"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 2137678,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2137678.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2137678.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2137678.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 75733063,
+      "name": "Meklord Army of Skiel",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "This card gains 200 ATK for each \"Meklord\" monster on the field, except this card. When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 \"Meklord Army\" monster from your Deck.",
+      "race": "Machine",
+      "atk": 1200,
+      "def": 1000,
+      "level": 4,
+      "attribute": "WIND",
+      "archetype": "Meklord",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/meklord-army-of-skiel-6375",
+      "card_sets": [
+         {
+            "set_name": "Extreme Victory",
+            "set_code": "EXVC-EN013",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.09"
+         },
+         {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN164",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN047",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 75733063,
+            "image_url": "https://images.ygoprodeck.com/images/cards/75733063.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75733063.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75733063.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 39648965,
+      "name": "Meklord Army of Wisel",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "This card gains 100 ATK for each \"Meklord\" monster on the field, except this card. Once per turn, when another \"Meklord\" monster you control declares an attack on a Defense Position monster your opponent controls: You can activate this effect; during that battle, if it attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+      "race": "Machine",
+      "atk": 1800,
+      "def": 0,
+      "level": 4,
+      "attribute": "DARK",
+      "archetype": "Meklord",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/meklord-army-of-wisel-3358",
+      "card_sets": [
+         {
+            "set_name": "Extreme Victory",
+            "set_code": "EXVC-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.38"
+         },
+         {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN163",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 39648965,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39648965.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39648965.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39648965.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.02",
+            "ebay_price": "1.49",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 39109382,
+      "name": "Meklord Assembly",
+      "type": "Spell Card",
+      "humanReadableCardType": "Continuous Spell",
+      "frameType": "spell",
+      "desc": "When this card is activated: You can add 1 \"Meklord\" monster from your Deck to your hand. You can only activate 1 \"Meklord Assembly\" per turn. You can only use each of the following effects of \"Meklord Assembly\" once per turn.\r\n● You can discard 1 card, then target 1 monster you control; destroy it.\r\n● If a face-up \"Meklord\" monster(s) you control is destroyed by battle or card effect: You can target 1 other face-up Spell/Trap on the field; destroy it.",
+      "race": "Continuous",
+      "archetype": "Meklord",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/meklord-assembly-11170",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN020",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.34"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 39109382,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39109382.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39109382.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39109382.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.28",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 38522377,
+      "name": "Meklord Astro Dragon Asterisk",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by controlling 3 or more \"Meklord\" monsters. When this card is Special Summoned: You can target any number of \"Meklord\" monsters you control, except this card; send those targets to the Graveyard, and if you do, this card's ATK becomes the combined original ATK of the monsters sent to the Graveyard by this effect. Each time a Synchro Monster(s) is Special Summoned: Inflict 1000 damage to the Summoning player.",
+      "race": "Machine",
+      "atk": 0,
+      "def": 0,
+      "level": 10,
+      "attribute": "DARK",
+      "archetype": "Meklord",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/meklord-astro-dragon-asterisk-3265",
+      "card_sets": [
+         {
+            "set_name": "Extreme Victory",
+            "set_code": "EXVC-EN015",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN166",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 38522377,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38522377.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38522377.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38522377.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "2.59",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 4837861,
+      "name": "Meklord Astro Dragon Triskelion",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 3 \"Meklord\" monsters with different names from your GY. Once per turn, when this card declares an attack: You can look at your opponent's Extra Deck and equip 1 monster from it to this card. This card gains ATK equal to the combined ATK of those equipped monsters. While equipped with a Synchro Monster, this card can make up to 3 attacks on monsters during each Battle Phase.",
+      "race": "Machine",
+      "atk": 3000,
+      "def": 0,
+      "level": 10,
+      "attribute": "DARK",
+      "archetype": "Meklord",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/meklord-astro-dragon-triskelion-11172",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN016",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "1.49"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 4837861,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4837861.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4837861.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4837861.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.25",
+            "tcgplayer_price": "0.26",
+            "ebay_price": "1.49",
+            "amazon_price": "0.39",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 63468625,
+      "name": "Meklord Astro Mekanikle",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 3 \"Meklord\" monsters from your hand to the Graveyard, and cannot be Special Summoned by other ways. Once per turn: You can target 1 Synchro Monster your opponent controls; equip that target to this card. This card gains ATK equal to the combined ATK of the monsters equipped to it by this effect. Once per turn, during your Standby Phase: You can send 1 of these equipped monsters you control to the Graveyard; inflict damage to your opponent equal to that monster's original ATK. You cannot conduct your Battle Phase the turn you activate this effect.",
+      "race": "Machine",
+      "atk": 4000,
+      "def": 4000,
+      "level": 12,
+      "attribute": "LIGHT",
+      "archetype": "Meklord",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/meklord-astro-mekanikle-5360",
+      "card_sets": [
+         {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN161",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Shonen Jump June/July 2011 subscription bonus",
+            "set_code": "JUMP-EN050",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "7.14"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! World Championship Qualifier National Championships 2011 prize cards",
+            "set_code": "WQ11-EN001",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "4056.75"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 63468625,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63468625.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63468625.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63468625.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.11",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 2992036,
+      "name": "Meklord Astro the Eradicator",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Target 3 \"Meklord\" monsters with different names in your GY; add them to your hand, OR Special Summon them, ignoring their Summoning conditions. Until the end of your next turn after this card is activated, you cannot Special Summon monsters, except Machine monsters. If you control a \"Meklord Astro\" monster: You can banish this card from your GY; destroy 1 Synchro Monster your opponent controls, and if you do, inflict damage to your opponent equal to its original ATK. You can only use each effect of \"Meklord Astro the Eradicator\" once per turn.",
+      "race": "Normal",
+      "archetype": "Meklord",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/meklord-astro-the-eradicator-11168",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN022",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.28"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 2992036,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2992036.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2992036.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2992036.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.15",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 66594927,
+      "name": "Meklord Deflection",
+      "type": "Spell Card",
+      "humanReadableCardType": "Quick-Play Spell",
+      "frameType": "spell",
+      "desc": "Target 1 \"Meklord\" monster you control; your opponent takes no battle damage from attacks involving that face-up monster until the end of this turn, also its ATK becomes (permanently) the combined original ATK of all \"Meklord\" monsters you currently control. If a \"Meklord\" monster(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead. You can only activate 1 \"Meklord Deflection\" per turn.",
+      "race": "Quick-Play",
+      "archetype": "Meklord",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/meklord-deflection-11169",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN021",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.05"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 66594927,
+            "image_url": "https://images.ygoprodeck.com/images/cards/66594927.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66594927.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66594927.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 4545683,
+      "name": "Meklord Emperor Granel",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect, and cannot be Special Summoned by other ways. When a face-up monster you control is destroyed by a card effect and sent to the Graveyard (except during the Damage Step): You can Special Summon this card from your hand. This card gains ATK and DEF equal to half your LP. Once per turn: You can target 1 Synchro Monster your opponent controls; equip that target to this card. This card gains ATK equal to the combined ATK of the monsters equipped to it by this effect. You can target 1 of these equipped monsters; Special Summon that target to your side of the field in Defense Position.",
+      "race": "Machine",
+      "atk": 0,
+      "def": 0,
+      "level": 1,
+      "attribute": "EARTH",
+      "archetype": "Meklord",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/meklord-emperor-granel-408",
+      "card_sets": [
+         {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN162",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Shonen Jump Vol. 9, Issue 6 promotional card",
+            "set_code": "JUMP-EN052",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "4.08"
+         },
+         {
+            "set_name": "Valiant Smashers",
+            "set_code": "VASM-EN050",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! World Championship Qualifier National Championships 2011 prize cards",
+            "set_code": "WQ11-EN003",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0.00"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 4545683,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4545683.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4545683.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4545683.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.06",
+            "ebay_price": "1.38",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 31930787,
+      "name": "Meklord Emperor Skiel",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect, and cannot be Special Summoned by other ways. When a face-up monster you control is destroyed by a card effect and sent to the Graveyard (except during the Damage Step): You can Special Summon this card from your hand. Other monsters you control cannot declare an attack. Once per turn: You can target 1 Synchro Monster your opponent controls; equip that target to this card. This card gains ATK equal to the combined ATK of the monsters equipped to it by this effect. You can send 1 monster you control that is equipped to this card to the Graveyard; this card can attack your opponent directly this turn.",
+      "race": "Machine",
+      "atk": 2200,
+      "def": 2200,
+      "level": 1,
+      "attribute": "WIND",
+      "archetype": "Meklord",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/meklord-emperor-skiel-2712",
+      "card_sets": [
+         {
+            "set_name": "Extreme Victory",
+            "set_code": "EXVC-EN094",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN167",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 31930787,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31930787.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31930787.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31930787.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 68140974,
+      "name": "Meklord Emperor Wisel",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect, and cannot be Special Summoned by other ways. When a face-up monster you control is destroyed by a card effect and sent to the Graveyard (except during the Damage Step): You can Special Summon this card from your hand. Other monsters you control cannot declare an attack. Once per turn: You can target 1 Synchro Monster your opponent controls; equip that target to this card. This card gains ATK equal to the combined ATK of the monsters equipped to it by this effect. Once per turn, during either player's turn, when your opponent activates a Spell Card: You can negate the activation, and if you do, destroy it.",
+      "race": "Machine",
+      "atk": 2500,
+      "def": 2500,
+      "level": 1,
+      "attribute": "DARK",
+      "archetype": "Meklord",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/meklord-emperor-wisel-5727",
+      "card_sets": [
+         {
+            "set_name": "Duel Terminal 7a",
+            "set_code": "DT07-EN008",
+            "set_rarity": "Duel Terminal Rare Parallel Rare",
+            "set_rarity_code": "(DRPR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN168",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Shonen Jump Vol. 9, Issue 8 promotional card",
+            "set_code": "JUMP-EN053",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.49"
+         },
+         {
+            "set_name": "Star Pack 2013",
+            "set_code": "SP13-EN047",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Star Pack 2013",
+            "set_code": "SP13-EN047",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Valiant Smashers",
+            "set_code": "VASM-EN049",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 68140974,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68140974.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68140974.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68140974.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.01",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 30221870,
+      "name": "Meklord Emperor Wisel - Synchro Absorption",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect. During your opponent's turn (Quick Effect): You can send 1 face-up \"Meklord\" monster you control to the GY; Special Summon this card from your hand. You can only use this effect of \"Meklord Emperor Wisel - Synchro Absorption\" once per turn. If this card is Special Summoned: You can target 1 monster your opponent controls; it cannot attack for the rest of this turn. When a card or effect is activated that would destroy a card(s) on the field (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy that card.",
+      "race": "Machine",
+      "atk": 2500,
+      "def": 2500,
+      "level": 1,
+      "attribute": "DARK",
+      "archetype": "Meklord",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/meklord-emperor-wisel-synchro-absorption-11007",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN017",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.31"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 30221870,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30221870.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30221870.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30221870.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.19",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "0.99",
+            "amazon_price": "0.45",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 67328336,
+      "name": "Meklord Fortress",
+      "type": "Spell Card",
+      "humanReadableCardType": "Field Spell",
+      "frameType": "spell",
+      "desc": "\"Meklord Emperor\" monsters you control cannot be targeted by the effects of Synchro Monsters. When this card on the field is destroyed and sent to the Graveyard: You can add 1 \"Meklord Emperor\" monster from your Deck to your hand.",
+      "race": "Field",
+      "archetype": "Meklord",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/meklord-fortress-5663",
+      "card_sets": [
+         {
+            "set_name": "Extreme Victory",
+            "set_code": "EXVC-EN095",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN173",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 67328336,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67328336.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67328336.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67328336.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.20",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 77710579,
+      "name": "Meklord Nucleus Infinity Core",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "The first time this card would be destroyed by battle each turn, it is not destroyed. You can only use each of the following effects of \"Meklord Nucleus Infinity Core\" once per turn. If this card is Normal or Special Summoned: You can add 1 \"Meklord\" Spell/Trap from your Deck to your hand. If this card is destroyed by card effect: You can Special Summon 1 \"Meklord Emperor\" monster from your hand or Deck with a different Attribute from the monsters you control, ignoring its Summoning conditions, also for the rest of this turn, you can only declare an attack with 1 monster.",
+      "race": "Machine",
+      "atk": 0,
+      "def": 0,
+      "level": 1,
+      "attribute": "DARK",
+      "archetype": "Meklord",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/meklord-nucleus-infinity-core-11171",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN018",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.46"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 77710579,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77710579.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77710579.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77710579.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.26",
+            "tcgplayer_price": "0.25",
+            "ebay_price": "1.44",
+            "amazon_price": "0.60",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 26905245,
+      "name": "Metal Reflect Slime",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "Special Summon this card in Defense Position as an Effect Monster (Aqua/WATER/Level 10/ATK 0/DEF 3000). (This card is also still a Trap.) This card cannot attack.",
+      "race": "Continuous",
+      "archetype": "Slime",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/metal-reflect-slime-2303",
+      "card_sets": [
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN193",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN193",
+            "set_rarity": "Mosaic Rare",
+            "set_rarity_code": "(MSR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN052",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Battle Pack: Epic Dawn",
+            "set_code": "BP01-EN052",
+            "set_rarity": "Starfoil Rare",
+            "set_rarity_code": "(SFR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duelist Pack: Rivals of the Pharaoh",
+            "set_code": "DPRP-EN033",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Egyptian God Deck: Slifer the Sky Dragon",
+            "set_code": "EGS1-EN036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.6"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN138",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Magnificent Mavens",
+            "set_code": "MAMA-EN093",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Phantom Darkness",
+            "set_code": "PTDN-EN094",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Phantom Darkness",
+            "set_code": "PTDN-EN094",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+            "set_code": "SS05-ENB29",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.51"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENI32",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Marik (TCG)",
+            "set_code": "SDMA-EN034",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.37"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 26905245,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26905245.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26905245.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26905245.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.13",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 41044418,
+      "name": "Millennium Revelation",
+      "type": "Spell Card",
+      "humanReadableCardType": "Continuous Spell",
+      "frameType": "spell",
+      "desc": "You can send 1 Divine-Beast monster from your hand to the GY; add 1 \"Monster Reborn\" from your Deck or GY to your hand. You can send this face-up card to the GY; this turn, you can Special Summon \"The Winged Dragon of Ra\" from your GY with \"Monster Reborn\", ignoring its Summoning conditions. During the End Phase of the turn this effect was activated, you must send \"The Winged Dragon of Ra\" you control that was Special Summoned with \"Monster Reborn\" to the GY. You can only use each effect of \"Millennium Revelation\" once per turn.",
+      "race": "Continuous",
+      "archetype": "Egyptian God",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/millennium-revelation-11075",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN006",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "3.84"
+         },
+         {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN070",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 41044418,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41044418.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41044418.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41044418.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.19",
+            "ebay_price": "1.98",
+            "amazon_price": "1.99",
+            "coolstuffinc_price": "2.99"
+         }
+      ]
+   },
+   {
+      "id": 37520316,
+      "name": "Mind Control",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Target 1 monster your opponent controls; until the End Phase, take control of that target, but it cannot declare an attack or be Tributed.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/mind-control-3177",
+      "card_sets": [
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN046",
+            "set_rarity": "Collector's Rare",
+            "set_rarity_code": "(CR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN046",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN046",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN046",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN046",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN046",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "25th Anniversary Rarity Collection II",
+            "set_code": "RA02-EN046",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Duel Devastator",
+            "set_code": "DUDE-EN038",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.02"
+         },
+         {
+            "set_name": "Gold Series 2009",
+            "set_code": "GLD2-EN037",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN176",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN044",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Maximum Gold",
+            "set_code": "MAGO-EN138",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Premium Gold",
+            "set_code": "PGLD-EN067",
+            "set_rarity": "Gold Rare",
+            "set_rarity_code": "(GUR)",
+            "set_price": "3.23"
+         },
+         {
+            "set_name": "Structure Deck: Cyberse Link",
+            "set_code": "SDCL-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Warriors' Strike Structure Deck",
+            "set_code": "SDWS-EN018",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005 promotional cards",
+            "set_code": "WC5-EN003",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "15.46"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 37520316,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37520316.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37520316.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37520316.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.21",
+            "tcgplayer_price": "0.18",
+            "ebay_price": "1.99",
+            "amazon_price": "0.49",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 83764718,
+      "name": "Monster Reborn",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Target 1 monster in either GY; Special Summon it.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/monster-reborn-7027",
+      "card_sets": [
+         {
+            "set_name": "2019 Gold Sarcophagus Tin",
+            "set_code": "TN19-EN011",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "4.44"
+         },
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN128",
+            "set_rarity": "Mosaic Rare",
+            "set_rarity_code": "(MSR)",
+            "set_price": "2.1"
+         },
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN128",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "2.2"
+         },
+         {
+            "set_name": "Battles of Legend: Relentless Revenge",
+            "set_code": "BLRR-EN046",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "5.49"
+         },
+         {
+            "set_name": "Dark Beginning 1",
+            "set_code": "DB1-EN133",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "23.1"
+         },
+         {
+            "set_name": "Dark Legends",
+            "set_code": "DLG1-EN017",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "14.92"
+         },
+         {
+            "set_name": "Duelist Pack: Yugi",
+            "set_code": "DPYG-EN019",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.91"
+         },
+         {
+            "set_name": "Egyptian God Deck: Obelisk the Tormentor",
+            "set_code": "EGO1-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.44"
+         },
+         {
+            "set_name": "Egyptian God Deck: Slifer the Sky Dragon",
+            "set_code": "EGS1-EN023",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.51"
+         },
+         {
+            "set_name": "Hobby League 7 participation card A",
+            "set_code": "HL07-EN001",
+            "set_rarity": "Ultra Parallel Rare",
+            "set_rarity_code": "(UPR)",
+            "set_price": "43.71"
+         },
+         {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-118",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "27.29"
+         },
+         {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-E096",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "27.53"
+         },
+         {
+            "set_name": "Legend of Blue Eyes White Dragon",
+            "set_code": "LOB-EN118",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "49.86"
+         },
+         {
+            "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+            "set_code": "LCYW-EN058",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "6.68"
+         },
+         {
+            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+            "set_code": "LCJW-EN060",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "4.63"
+         },
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN012",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.57"
+         },
+         {
+            "set_name": "Legendary Hero Decks",
+            "set_code": "LEHD-ENA23",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.58"
+         },
+         {
+            "set_name": "Legendary Hero Decks",
+            "set_code": "LEHD-ENB19",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.4"
+         },
+         {
+            "set_name": "Legendary Hero Decks",
+            "set_code": "LEHD-ENC16",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.42"
+         },
+         {
+            "set_name": "Maximum Gold",
+            "set_code": "MAGO-EN045",
+            "set_rarity": "Premium Gold Rare",
+            "set_rarity_code": "(PG)",
+            "set_price": "2.97"
+         },
+         {
+            "set_name": "Retro Pack",
+            "set_code": "RP01-EN016",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "50.61"
+         },
+         {
+            "set_name": "Saga of Blue-Eyes White Dragon Structure Deck",
+            "set_code": "SDBE-EN028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.81"
+         },
+         {
+            "set_name": "Starter Deck: Codebreaker",
+            "set_code": "YS18-EN024",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.77"
+         },
+         {
+            "set_name": "Starter Deck: Joey",
+            "set_code": "SDJ-035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.19"
+         },
+         {
+            "set_name": "Starter Deck: Kaiba",
+            "set_code": "SDK-036",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.77"
+         },
+         {
+            "set_name": "Starter Deck: Kaiba",
+            "set_code": "SDK-E033",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "16.52"
+         },
+         {
+            "set_name": "Starter Deck: Kaiba Evolution",
+            "set_code": "SKE-029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.28"
+         },
+         {
+            "set_name": "Starter Deck: Pegasus",
+            "set_code": "SDP-035",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.07"
+         },
+         {
+            "set_name": "Starter Deck: Yugi",
+            "set_code": "SDY-030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.68"
+         },
+         {
+            "set_name": "Starter Deck: Yugi",
+            "set_code": "SDY-E028",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "10.09"
+         },
+         {
+            "set_name": "Starter Deck: Yugi Evolution",
+            "set_code": "SYE-029",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "2.02"
+         },
+         {
+            "set_name": "The Lost Art Promotion A",
+            "set_code": "LART-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "62.69"
+         }
+      ],
+      "banlist_info": {
+         "ban_tcg": "Limited",
+         "ban_ocg": "Limited",
+         "ban_goat": "Forbidden"
+      },
+      "card_images": [
+         {
+            "id": 83764718,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83764718.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83764718.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83764718.jpg"
+         },
+         {
+            "id": 83764719,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83764719.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83764719.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83764719.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.03",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "3.95",
+            "amazon_price": "0.79",
+            "coolstuffinc_price": "0.79"
+         }
+      ]
+   },
+   {
+      "id": 269012,
+      "name": "Mound of the Bound Creator",
+      "type": "Spell Card",
+      "humanReadableCardType": "Field Spell",
+      "frameType": "spell",
+      "desc": "Level 10 or higher monsters on the field cannot be targeted or destroyed by card effects. If a Level 10 or higher monster on the field destroys a monster by battle and sends it to the Graveyard: The player who controlled the destroyed monster takes 1000 damage. When this card on the field is destroyed by a card effect and sent to the Graveyard: You can add 1 DIVINE monster from your Deck to your hand.",
+      "race": "Field",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/mound-of-the-bound-creator-26",
+      "card_sets": [
+         {
+            "set_name": "Dragons of Legend",
+            "set_code": "DRLG-EN025",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "4.31"
+         },
+         {
+            "set_name": "Dragons of Legend: The Complete Series",
+            "set_code": "DLCS-EN027",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.86"
+         },
+         {
+            "set_name": "Dragons of Legend: Unleashed",
+            "set_code": "DRL3-EN053",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN053",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN026",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.16"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 269012,
+            "image_url": "https://images.ygoprodeck.com/images/cards/269012.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/269012.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/269012.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.18",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 65471349,
+      "name": "Psychic Bounder",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is Normal or Special Summoned: You can add 1 \"Jinzo\" or 1 Spell/Trap that specifically lists that card in its text, from your Deck to your hand. When another monster you control is attacked by an opponent's monster, before damage calculation: You can destroy both the attacking monster and this card. You can only use each effect of \"Psychic Bounder\" once per turn.",
+      "race": "Machine",
+      "atk": 1700,
+      "def": 1000,
+      "level": 4,
+      "attribute": "LIGHT",
+      "archetype": "Jinzo",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/psychic-bounder-11072",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN032",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.66"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 65471349,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65471349.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65471349.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65471349.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.37",
+            "tcgplayer_price": "0.83",
+            "ebay_price": "2.23",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.99"
+         }
+      ]
+   },
+   {
+      "id": 91870448,
+      "name": "Psychic Megacyber",
+      "typeline": [
+         "Machine",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If your opponent controls more Spells/Traps than you do, you can Special Summon this card (from your hand). You can only Special Summon \"Psychic Megacyber\" once per turn this way. When this card declares an attack on an opponent's Effect Monster while you control \"Jinzo\": You can Tribute this card; place that opponent's monster face-up in their Spell & Trap Zone as a Continuous Trap. You can only use this effect of \"Psychic Megacyber\" once per turn.",
+      "race": "Machine",
+      "atk": 2200,
+      "def": 1200,
+      "level": 6,
+      "attribute": "DARK",
+      "archetype": "Jinzo",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/psychic-megacyber-11071",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN033",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "1.2"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 91870448,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91870448.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91870448.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91870448.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 72563071,
+      "name": "Psychic Shockwave",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "desc": "Activate only when your opponent activates a Trap Card. Discard 1 Spell/Trap Card to Special Summon 1 Level 6 DARK Machine-Type monster from your Deck.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/psychic-shockwave-6090",
+      "card_sets": [
+         {
+            "set_name": "Extreme Victory",
+            "set_code": "EXVC-EN089",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN045",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Battle City Box",
+            "set_code": "SBCB-EN165",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.15"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENE18",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 72563071,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72563071.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72563071.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72563071.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.14",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 74875003,
+      "name": "Ra's Disciple",
+      "typeline": [
+         "Fairy",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "When this card is Summoned: You can Special Summon up to 2 \"Ra's Disciple\" from your hand and/or Deck. Cannot be Tributed, except for the Tribute Summon of \"Slifer the Sky Dragon\", \"Obelisk the Tormentor\", or \"The Winged Dragon of Ra\". You cannot Special Summon monsters, except by the effect of \"Ra's Disciple\".",
+      "race": "Fairy",
+      "atk": 1100,
+      "def": 600,
+      "level": 4,
+      "attribute": "LIGHT",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/ra-s-disciple-6301",
+      "card_sets": [
+         {
+            "set_name": "Battles of Legend: Armageddon",
+            "set_code": "BLAR-EN076",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dragons of Legend",
+            "set_code": "DRLG-EN024",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "5.08"
+         },
+         {
+            "set_name": "Dragons of Legend: The Complete Series",
+            "set_code": "DLCS-EN026",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Dragons of Legend: Unleashed",
+            "set_code": "DRL3-EN052",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Egyptian God Deck: Obelisk the Tormentor",
+            "set_code": "EGO1-EN015",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.04"
+         },
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN046",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 74875003,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74875003.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74875003.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74875003.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.09",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 79387392,
+      "name": "Reactor Slime",
+      "typeline": [
+         "Aqua",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "During your Main Phase: You can activate this effect; Special Summon 2 \"Slime Tokens\" (Aqua/WATER/Level 1/ATK 500/DEF 500), also you cannot Normal or Special Summon monsters for the rest of this turn, except Divine-Beast monsters. During the Battle Phase (Quick Effect): You can Tribute this card; Set 1 \"Metal Reflect Slime\" from your hand, Deck, or GY. It can be activated this turn. You can only use each effect of \"Reactor Slime\" once per turn.",
+      "race": "Aqua",
+      "atk": 500,
+      "def": 500,
+      "level": 4,
+      "attribute": "WATER",
+      "archetype": "Egyptian God",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/reactor-slime-11078",
+      "card_sets": [
+         {
+            "set_name": "Egyptian God Deck: Slifer the Sky Dragon",
+            "set_code": "EGS1-EN020",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.41"
+         },
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN002",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "2.18"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENH05",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 79387392,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79387392.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79387392.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79387392.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.17",
+            "tcgplayer_price": "0.20",
+            "ebay_price": "1.25",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 85775486,
+      "name": "Reboot",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Shuffle 1 \"Meklord\" monster from your hand into the Deck, then target 1 \"Meklord\" card in your Graveyard; add that target to your hand.",
+      "race": "Normal",
+      "archetype": "Meklord",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/reboot-7190",
+      "card_sets": [
+         {
+            "set_name": "Extreme Victory",
+            "set_code": "EXVC-EN052",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.03"
+         },
+         {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN172",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.21"
+         },
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN051",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 85775486,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85775486.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85775486.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85775486.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.08",
+            "ebay_price": "3.26",
+            "amazon_price": "0.79",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 77432167,
+      "name": "Sun God Unification",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "If you control a monster whose original name is \"The Winged Dragon of Ra\", you can activate this card the turn it was Set. During the Main Phase: You can pay LP so that you only have 100 left; 1 Special Summoned \"The Winged Dragon of Ra\" you control gains ATK/DEF equal to the amount of LP paid (even if this card leaves the field). Once per turn: You can Tribute 1 \"The Winged Dragon of Ra\"; gain LP equal to its ATK on the field. You cannot activate both of this card's effects in the same Chain.",
+      "race": "Continuous",
+      "archetype": "Egyptian God",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/sun-god-unification-11074",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN007",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "1.69"
+         },
+         {
+            "set_name": "Maze of Millennia",
+            "set_code": "MZMI-EN071",
+            "set_rarity": "Rare",
+            "set_rarity_code": "(R)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 77432167,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77432167.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77432167.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77432167.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.15",
+            "tcgplayer_price": "0.21",
+            "ebay_price": "1.84",
+            "amazon_price": "1.69",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 59371387,
+      "name": "The Resolute Meklord Army",
+      "type": "Spell Card",
+      "humanReadableCardType": "Continuous Spell",
+      "frameType": "spell",
+      "desc": "All Attack Position \"Meklord Army\" monsters you control cannot be destroyed by battle, also their effects are negated.",
+      "race": "Continuous",
+      "archetype": "Meklord",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/the-resolute-meklord-army-5046",
+      "card_sets": [
+         {
+            "set_name": "Extreme Victory",
+            "set_code": "EXVC-EN051",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.04"
+         },
+         {
+            "set_name": "Legendary Collection 5D's Mega Pack",
+            "set_code": "LC5D-EN171",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.26"
+         },
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN050",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 59371387,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59371387.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59371387.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59371387.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.02",
+            "tcgplayer_price": "0.11",
+            "ebay_price": "1.49",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 39913299,
+      "name": "The True Name",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Declare 1 card name; excavate the top card of your Deck, and if it is the declared card, add it to your hand, then you can add to your hand, or Special Summon, 1 DIVINE monster from your Deck. Otherwise, send it to the Graveyard. You can only activate 1 \"The True Name\" per turn.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/the-true-name-3386",
+      "card_sets": [
+         {
+            "set_name": "Egyptian God Deck: Slifer the Sky Dragon",
+            "set_code": "EGS1-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.34"
+         },
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN014",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Magnificent Mavens",
+            "set_code": "MAMA-EN113",
+            "set_rarity": "Ultra Rare (Pharaoh's Rare)",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Millennium Pack",
+            "set_code": "MIL1-EN016",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "2.76"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 39913299,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39913299.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39913299.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39913299.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.23",
+            "tcgplayer_price": "0.26",
+            "ebay_price": "1.30",
+            "amazon_price": "1.90",
+            "coolstuffinc_price": "0.49"
+         }
+      ]
+   },
+   {
+      "id": 10000010,
+      "name": "The Winged Dragon of Ra",
+      "typeline": [
+         "Divine-Beast",
+         "Effect"
+      ],
+      "type": "Effect Monster",
+      "humanReadableCardType": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Special Summoned. Requires 3 Tributes to Normal Summon (cannot be Normal Set). This card's Normal Summon cannot be negated. When Normal Summoned, other cards and effects cannot be activated. When this card is Normal Summoned: You can pay LP so that you only have 100 left; this card gains ATK/DEF equal to the amount of LP paid. You can pay 1000 LP, then target 1 monster on the field; destroy that target.",
+      "race": "Divine-Beast",
+      "atk": -1,
+      "def": -1,
+      "level": 10,
+      "attribute": "DIVINE",
+      "archetype": "Egyptian God",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/the-winged-dragon-of-ra-850",
+      "card_sets": [
+         {
+            "set_name": "2019 Gold Sarcophagus Tin",
+            "set_code": "TN19-EN009",
+            "set_rarity": "Prismatic Secret Rare",
+            "set_rarity_code": "(PScR)",
+            "set_price": "6.19"
+         },
+         {
+            "set_name": "Battle Pack 2: War of the Giants",
+            "set_code": "BP02-EN126",
+            "set_rarity": "Mosaic Rare",
+            "set_rarity_code": "(MSR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "King's Court",
+            "set_code": "KICO-EN065",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "87.83"
+         },
+         {
+            "set_name": "King's Court",
+            "set_code": "KICO-EN065",
+            "set_rarity": "Ultra Rare (Pharaoh's Rare)",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Decks II",
+            "set_code": "LDK2-ENS03",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "19.58"
+         },
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN000",
+            "set_rarity": "Ghost Rare",
+            "set_rarity_code": "(GR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN000",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Order of Chaos: Special Edition",
+            "set_code": "ORCS-ENSE2",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "5.1"
+         },
+         {
+            "set_name": "Premium Gold",
+            "set_code": "PGLD-EN031",
+            "set_rarity": "Gold Secret Rare",
+            "set_rarity_code": "(GScR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN137",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Bonanza",
+            "set_code": "RA03-EN137",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN118",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN118",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Rarity Collection 5",
+            "set_code": "RA05-EN130",
+            "set_rarity": "Starlight Rare",
+            "set_rarity_code": "(StR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Rarity Collection 5",
+            "set_code": "RA05-EN130",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Shonen Jump Vol. 9, Issue 1 promotional card",
+            "set_code": "JUMP-EN045",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "10.45"
+         },
+         {
+            "set_name": "Speed Duel: Battle City Box",
+            "set_code": "SBCB-EN203",
+            "set_rarity": "Secret Rare",
+            "set_rarity_code": "(ScR)",
+            "set_price": "7.98"
+         },
+         {
+            "set_name": "WSJ Jump Pack Spring 2018 promotional card",
+            "set_code": "JMPS-EN006",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "78.83"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 10000010,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10000010.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10000010.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10000010.jpg"
+         },
+         {
+            "id": 10000011,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10000011.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10000011.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10000011.jpg"
+         },
+         {
+            "id": 10000011,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10000011.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10000011.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10000011.jpg"
+         },
+         {
+            "id": 10000012,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10000012.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10000012.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10000012.jpg"
+         },
+         {
+            "id": 10000012,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10000012.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10000012.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10000012.jpg"
+         },
+         {
+            "id": 10000010,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10000010.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10000010.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10000010.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.74",
+            "tcgplayer_price": "0.89",
+            "ebay_price": "1.33",
+            "amazon_price": "3.59",
+            "coolstuffinc_price": "1.99"
+         }
+      ]
+   },
+   {
+      "id": 14342283,
+      "name": "Token Stampede",
+      "type": "Trap Card",
+      "humanReadableCardType": "Continuous Trap",
+      "frameType": "trap",
+      "desc": "All Tokens in Attack Position gain 1000 ATK, also they cannot be destroyed by battle.",
+      "race": "Continuous",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/token-stampede-1229",
+      "card_sets": [
+         {
+            "set_name": "Astral Pack Two",
+            "set_code": "AP02-EN025",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN055",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 16",
+            "set_code": "OP16-EN007",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "OTS Tournament Pack 16 (POR)",
+            "set_code": "OP16-PT007",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN149",
+            "set_rarity": "Platinum Secret Rare",
+            "set_rarity_code": "(PS)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Quarter Century Stampede",
+            "set_code": "RA04-EN149",
+            "set_rarity": "Quarter Century Secret Rare",
+            "set_rarity_code": "",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENH18",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Storm of Ragnarok",
+            "set_code": "STOR-EN076",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 14342283,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14342283.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14342283.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14342283.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.12",
+            "ebay_price": "1.78",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+         }
+      ]
+   },
+   {
+      "id": 52971673,
+      "name": "Token Sundae",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "desc": "Destroy all Tokens you control, then destroy cards on the field up to the number of Tokens destroyed by this effect.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/token-sundae-4511",
+      "card_sets": [
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN054",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Speed Duel: Streets of Battle City",
+            "set_code": "SBC1-ENH14",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Storm of Ragnarok",
+            "set_code": "STOR-EN057",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 52971673,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52971673.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52971673.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52971673.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.39"
+         }
+      ]
+   },
+   {
+      "id": 89907227,
+      "name": "White Aura Bihamut",
+      "typeline": [
+         "Fish",
+         "Synchro",
+         "Effect"
+      ],
+      "type": "Synchro Monster",
+      "humanReadableCardType": "Synchro Effect Monster",
+      "frameType": "synchro",
+      "desc": "1 Tuner Synchro Monster + 1+ non-Tuner monsters\r\nDuring your turn, when this card is Synchro Summoned: You can Special Summon 1 \"Divine Dragon Token\" (Fish/WATER/Level 10/ATK 3300/DEF 3000) in Defense Position. Once per opponent's turn, while you control no Tokens (Quick Effect): You can Special Summon 1 \"Divine Dragon Token\". If this card you control is destroyed by an opponent's card effect and sent to your GY, while you control a \"Divine Dragon Token\": You can Special Summon this card in Defense position.",
+      "race": "Fish",
+      "atk": 3300,
+      "def": 3000,
+      "level": 10,
+      "attribute": "WATER",
+      "archetype": "White",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/white-aura-bihamut-8976",
+      "card_sets": [
+         {
+            "set_name": "Battles of Legend: Chapter 1",
+            "set_code": "BLC1-EN162",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Legendary Duelists: Rage of Ra",
+            "set_code": "LED7-EN056",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
+         },
+         {
+            "set_name": "Yu-Gi-Oh! ARC-V Volume 4 promotional card",
+            "set_code": "YA04-EN001",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "10.6"
+         }
+      ],
+      "card_images": [
+         {
+            "id": 89907227,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89907227.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89907227.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89907227.jpg"
+         }
+      ],
+      "card_prices": [
+         {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "1.99",
+            "amazon_price": "1.98",
+            "coolstuffinc_price": "1.99"
+         }
+      ]
+   }
+]
