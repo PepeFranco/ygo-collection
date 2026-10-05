@@ -351826,5 +351826,29 @@
       "Is Speed Duel Legal": "",
       "Keep": "",
       "Price": 0
+   },
+   {
+      "Name": "Explosive Magician",
+      "Code": "SOVR-EN044",
+      "Set": "Stardust Overdrive",
+      "Rarity": "Ultra Rare",
+      "Edition": "",
+      "In Deck": "",
+      "ID": 33413279,
+      "Type": "Synchro Monster",
+      "ATK": 2500,
+      "DEF": 1800,
+      "Level": 6,
+      "Card Type": "Spellcaster",
+      "Attribute": "LIGHT",
+      "Archetype": "",
+      "Scale": "",
+      "Link Scale": "",
+      "Earliest Set": "Stardust Overdrive",
+      "Earliest Date": "2009-11-17",
+      "Is Speed Duel": "No",
+      "Is Speed Duel Legal": "",
+      "Keep": "",
+      "Price": 0
    }
 ]
